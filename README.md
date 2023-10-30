@@ -3,13 +3,12 @@
 # Essential (many mods need these)
 
   - [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147?tab=files)
-  - [Baka Framework.](
 
 # Body
   - [CBBE]
 
 # Collectibles
-  -
+  - [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568)
 
 # Immersion
   - [Cough.](https://www.nexusmods.com/fallout4/mods/49235)
