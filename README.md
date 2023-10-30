@@ -8,7 +8,8 @@
   - [CBBE]
 
 # Collectibles
-  - [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568)
+  - [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) (This treasure hunt adds 40 classic works of western philosophy.ESP marked as ESL.)
+    <img src="screens/philosophy_books/1.jpg"/>
 
 # Immersion
   - [Cough.](https://www.nexusmods.com/fallout4/mods/49235)
