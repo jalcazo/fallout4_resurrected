@@ -1,14 +1,6 @@
 # fallout4_resurrected
 
-My mod selection for Fallout 4.
-
-Requires all DLC's and a Steam up-to-date fresh installation:
-  - Automatron.
-  - Wasteland Workshop.
-  - Far Harbor.
-  - Contraptions Workshop.
-  - Vault-Tec Workshop.
-  - Nuka World.
+My personal mod selection for Fallout 4. Requires all DLC's and ideally a Steam up-to-date fresh installation.
 
 # Essential (many mods need these)
 
