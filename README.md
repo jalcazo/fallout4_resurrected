@@ -16,20 +16,20 @@ Requires all DLC's and a Steam up-to-date fresh installation:
 
 # Collectibles
   - [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) (This treasure hunt adds 40 classic works of western philosophy.ESP marked as ESL.)
-<img src="collectibles/philosophy_books.jpg"/>
+  - <img src="collectibles/philosophy_books.jpg"/>
   - [Teddies 76](https://www.nexusmods.com/fallout4/mods/57424)
-<img src="collectibles/teddies.jpg"/>
+  - <img src="collectibles/teddies.jpg"/>
 
 # Ketaros Collectibles
   - [Ketaros Framework.](https://www.nexusmods.com/fallout4/mods/68236) (needed for all his add-ons).
   - [ADD-ON - Pin-Up Card Series.](https://www.nexusmods.com/fallout4/mods/68239)
-<img src="collectibles/ketaros/pin_up_cards.jpg"/>
+  - <img src="collectibles/ketaros/pin_up_cards.jpg"/>
   - [ADD-ON - Board Games Collection Series.](https://www.nexusmods.com/fallout4/mods/68268)
-<img src="collectibles/ketaros/board_games.jpg"/>
+  - <img src="collectibles/ketaros/board_games.jpg"/>
   - [ADD-ON - Western Card Series.](https://www.nexusmods.com/fallout4/mods/68241)
-<img src="collectibles/ketaros/western.jpg"/>
+  - <img src="collectibles/ketaros/western.jpg"/>
   - [ADD-ON - Terror Card Series.](https://www.nexusmods.com/fallout4/mods/68244)
-<img src="screens/ketaros/terror.jpg"/>
+  - <img src="screens/ketaros/terror.jpg"/>
 
 # Immersion
 
@@ -37,14 +37,14 @@ Requires all DLC's and a Steam up-to-date fresh installation:
   - [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) (Adds 12 new case files to Nick Valentine's).
 
 # Audio
-  - [Aggressive synth voice overhaul.](
+  - [Aggressive synth voice overhaul.](https://www.nexusmods.com/fallout4/mods/2105)
   - [Cough.](https://www.nexusmods.com/fallout4/mods/49235)
 
 # Body
   - [CBBE.](https://www.nexusmods.com/fallout4/mods/15)
 
 # Gore and blood
-  - [Enhanced Blood Textures](
+  - [Enhanced Blood Textures.](https://www.nexusmods.com/fallout4/mods/212/)
 
 # Bobbleheads
   - [New Vault-Girl Bobbleheads AIO.](https://www.nexusmods.com/fallout4/mods/60833) ( [NSFW version here.](https://www.nexusmods.com/fallout4/mods/63047) )
