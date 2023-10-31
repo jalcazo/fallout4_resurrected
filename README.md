@@ -14,13 +14,13 @@ My personal mod selection for Fallout 4. Requires all DLC's and ideally a Steam 
 # Ketaros Collectibles
   - [Ketaros Framework.](https://www.nexusmods.com/fallout4/mods/68236) (needed for all his add-ons).
   - [ADD-ON - Pin-Up Card Series.](https://www.nexusmods.com/fallout4/mods/68239)
-  - <img src="collectibles/ketaros/pin_up_cards.jpg"/>
+    <img src="collectibles/ketaros/pin_up_cards.jpg"/>
   - [ADD-ON - Board Games Collection Series.](https://www.nexusmods.com/fallout4/mods/68268)
-  - <img src="collectibles/ketaros/board_games.jpg"/>
+    <img src="collectibles/ketaros/board_games.jpg"/>
   - [ADD-ON - Western Card Series.](https://www.nexusmods.com/fallout4/mods/68241)
-  - <img src="collectibles/ketaros/western.jpg"/>
-  - [ADD-ON - Terror Card Series.](https://www.nexusmods.com/fallout4/mods/68244)
-  - <img src="collectibles/ketaros/terror.jpg"/>
+    <img src="collectibles/ketaros/western.jpg"/>
+  - [ADD-ON - Terror Card Series.](https://www.nexusmods.com/fallout4/mods/68244) (100 collectible cards).
+    <img src="collectibles/ketaros/terror.jpg"/>
 
 # Immersion
 
