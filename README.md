@@ -27,10 +27,17 @@ My personal mod selection for Fallout 4. Requires all DLC's and ideally a Steam 
   - [ADD-ON - Terror Card Series.](https://www.nexusmods.com/fallout4/mods/68244) (100 collectible cards).
     <img src="collectibles/ketaros/terror.jpg"/>
 
+# Quality of life
+  - [HoloGlow - A glowing holotape mod.](https://www.nexusmods.com/fallout4/mods/59901?tab=files)
+    <img src="quality/hologlow.jpg"/>
+
 # Immersion
 
 # Quests
   - [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) (Adds 12 new case files to Nick Valentine's).
+
+# Buildings / expansions
+  - [Phase 4 An Institute Expansion.](https://www.nexusmods.com/fallout4/mods/42647?tab=files)
 
 # Audio
   - [Aggressive synth voice overhaul.](https://www.nexusmods.com/fallout4/mods/2105)
