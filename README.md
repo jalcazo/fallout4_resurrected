@@ -16,20 +16,20 @@ Requires all DLC's and a Steam up-to-date fresh installation:
 
 # Collectibles
   - [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) (This treasure hunt adds 40 classic works of western philosophy.ESP marked as ESL.)
-    <img src="collectibles/philosophy_books.jpg"/>
-  - [Teddies 76 - A Mr. Fuzzy mod.](https://www.nexusmods.com/fallout4/mods/57424)
-  <img src="screens/collectibles/teddies.jpg"/>
+<img src="collectibles/philosophy_books.jpg"/>
+  - [Teddies 76](https://www.nexusmods.com/fallout4/mods/57424)
+<img src="collectibles/teddies.jpg"/>
 
 # Ketaros Collectibles
-    - [Ketaros Framework.](https://www.nexusmods.com/fallout4/mods/68236) (needed for all his add-ons).
-    - [ADD-ON - Pin-Up Card Series.](https://www.nexusmods.com/fallout4/mods/68239)
-    <img src="screens/ketaros/pin_up_cards.jpg"/>
-    - [ADD-ON - Board Games Collection Series.](
-    <img src="screens/ketaros/board_games.jpg"/>
-    - [ADD-ON - Western Card Series.](https://www.nexusmods.com/fallout4/mods/68241)
-    <img src="screens/ketaros/western.jpg"/>
-    - [ADD-ON - Terror Card Series.](https://www.nexusmods.com/fallout4/mods/68244)
-    <img src="screens/ketaros/terror.jpg"/>
+  - [Ketaros Framework.](https://www.nexusmods.com/fallout4/mods/68236) (needed for all his add-ons).
+  - [ADD-ON - Pin-Up Card Series.](https://www.nexusmods.com/fallout4/mods/68239)
+<img src="collectibles/ketaros/pin_up_cards.jpg"/>
+  - [ADD-ON - Board Games Collection Series.](https://www.nexusmods.com/fallout4/mods/68268)
+<img src="collectibles/ketaros/board_games.jpg"/>
+  - [ADD-ON - Western Card Series.](https://www.nexusmods.com/fallout4/mods/68241)
+<img src="collectibles/ketaros/western.jpg"/>
+  - [ADD-ON - Terror Card Series.](https://www.nexusmods.com/fallout4/mods/68244)
+<img src="screens/ketaros/terror.jpg"/>
 
 # Immersion
 
