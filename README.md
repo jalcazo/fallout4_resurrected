@@ -29,7 +29,7 @@ Requires all DLC's and a Steam up-to-date fresh installation:
   - [ADD-ON - Western Card Series.](https://www.nexusmods.com/fallout4/mods/68241)
   - <img src="collectibles/ketaros/western.jpg"/>
   - [ADD-ON - Terror Card Series.](https://www.nexusmods.com/fallout4/mods/68244)
-  - <img src="screens/ketaros/terror.jpg"/>
+  - <img src="collectibles/ketaros/terror.jpg"/>
 
 # Immersion
 
@@ -39,9 +39,6 @@ Requires all DLC's and a Steam up-to-date fresh installation:
 # Audio
   - [Aggressive synth voice overhaul.](https://www.nexusmods.com/fallout4/mods/2105)
   - [Cough.](https://www.nexusmods.com/fallout4/mods/49235)
-
-# Body
-  - [CBBE.](https://www.nexusmods.com/fallout4/mods/15)
 
 # Gore and blood
   - [Enhanced Blood Textures.](https://www.nexusmods.com/fallout4/mods/212/)
