@@ -45,11 +45,14 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 # Quests
   - [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) (Adds 12 new case files to Nick Valentine's).
 
-# Buildings / expansions
+# Buildings / area expansions
   - [Phase 4 An Institute Expansion.](https://www.nexusmods.com/fallout4/mods/42647?tab=files)
+  - [South of The Sea. (Massive GS and more Expansion) (Final Update July 2020).](https://www.nexusmods.com/fallout4/mods/27870) (WARNING: "Youll still need the AWKCR patch if you still use that old mod.").
 
 # Homes
   - [Army Bunker player home and settlement. (Elianora)](https://www.nexusmods.com/fallout4/mods/62209)
+    
+    <img src="homes/elianora_army_bunker.jpg"/>
 
 # Audio
   - [Aggressive synth voice overhaul.](https://www.nexusmods.com/fallout4/mods/2105)
