@@ -36,5 +36,5 @@ My personal mod selection for Fallout 4. Requires all DLC's and ideally a Steam 
 
 # Bobbleheads
   - [New Vault-Girl Bobbleheads AIO.](https://www.nexusmods.com/fallout4/mods/60833) ( [NSFW version here.](https://www.nexusmods.com/fallout4/mods/63047) )
-    <img src="screens/bobbleheads/1.jpg"/>
+    <img src="collectibles/bobbleheads/1.jpg"/>
 
