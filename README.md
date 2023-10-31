@@ -1,6 +1,8 @@
 # fallout4_resurrected
 
-My personal mod selection for Fallout 4. Requires all DLC's and ideally a Steam up-to-date fresh installation.
+<img src="banner.jpg"/>
+
+My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
 # Essential (many mods need these)
 
