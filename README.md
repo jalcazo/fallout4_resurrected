@@ -8,9 +8,8 @@ My personal mod selection for Fallout 4. Requires all DLC's and ideally a Steam 
 
 # Collectibles
   - [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) (This treasure hunt adds 40 classic works of western philosophy.ESP marked as ESL.)
-  - <img src="collectibles/philosophy_books.jpg"/>
+    <img src="collectibles/philosophy_books.jpg"/>
   - [Teddies 76](https://www.nexusmods.com/fallout4/mods/57424)
-  - <img src="collectibles/teddies.jpg"/>
 
 # Ketaros Collectibles
   - [Ketaros Framework.](https://www.nexusmods.com/fallout4/mods/68236) (needed for all his add-ons).
