@@ -8,7 +8,7 @@ My personal mod selection for Fallout 4. Requires all DLC's and ideally a Steam 
 
 # Companions
   - [Buttons.](https://www.nexusmods.com/fallout4/mods/31710)
-    <img src="companions/buttons.jpg"/>
+<img src="companions/buttons.jpg"/>
   - [Other companion]()
 
 # Collectibles
