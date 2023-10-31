@@ -17,7 +17,7 @@ Requires all DLC's and a Steam up-to-date fresh installation:
 # Collectibles
   - [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) (This treasure hunt adds 40 classic works of western philosophy.ESP marked as ESL.)
 <img src="collectibles/philosophy_books.jpg"/>
-  - [Teddies 76.](https://www.nexusmods.com/fallout4/mods/57424)
+  - [Teddies 76](https://www.nexusmods.com/fallout4/mods/57424)
 <img src="collectibles/teddies.jpg"/>
 
 # Ketaros Collectibles
