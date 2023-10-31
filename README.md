@@ -46,6 +46,9 @@ My personal mod selection for Fallout 4. Requires all DLC's and ideally a Steam 
 # Buildings / expansions
   - [Phase 4 An Institute Expansion.](https://www.nexusmods.com/fallout4/mods/42647?tab=files)
 
+# Homes
+  - [Army Bunker player home and settlement. (Elianora)](https://www.nexusmods.com/fallout4/mods/62209)
+
 # Audio
   - [Aggressive synth voice overhaul.](https://www.nexusmods.com/fallout4/mods/2105)
   - [Cough.](https://www.nexusmods.com/fallout4/mods/49235)
