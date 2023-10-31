@@ -6,6 +6,10 @@ My personal mod selection for Fallout 4. Requires all DLC's and ideally a Steam 
 
   - [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147?tab=files)
 
+# Companions
+  - [Buttons.](https://www.nexusmods.com/fallout4/mods/31710)
+    <img src="companions/buttons.jpg"/>
+
 # Collectibles
   - [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) (This treasure hunt adds 40 classic works of western philosophy.ESP marked as ESL.)
     <img src="collectibles/philosophy_books.jpg"/>
