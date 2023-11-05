@@ -6,11 +6,19 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Essential (many mods need these)
 
-  - [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147?tab=files)
+  - [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147?tab=files) (Fallout Faces & HiPoly Faces REDUX require it).
+  - [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497) (Fallout Faces & HiPoly Faces REDUX require it).
+  - [LooksMenu](https://www.nexusmods.com/fallout4/mods/12631) (Fallout Faces & HiPoly Faces REDUX require it).
 
 # NPC's
 
-  - [Fallout Faces (Male All-in-One and Female All-in-One](https://www.nexusmods.com/fallout4/mods/59064?tab=files) requires [Lots More Facial Hair](https://www.nexusmods.com/fallout4/mods/10746/?tab=files)
+  - [Fallout Faces (Male All-in-One and Female All-in-One](https://www.nexusmods.com/fallout4/mods/59064?tab=files) requires:
+    - [CBBE](https://www.nexusmods.com/fallout4/mods/15?tab=files)
+    - [HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB)](https://www.nexusmods.com/fallout4/mods/58950?tab=files)
+    - [Lots More Facial Hair](https://www.nexusmods.com/fallout4/mods/10746/?tab=files)
+    - [Commonwealth Cuts - KS Hairdos - ApachiiSkyHair](https://www.nexusmods.com/fallout4/mods/11402)
+    - [Femshepping and radbeetle's KS Hairdos Conversions](https://www.nexusmods.com/fallout4/mods/45373?tab=files)
+    
 
 <img src="npcs/fallout_faces1.jpg"/><img src="npcs/fallout_faces2.jpg"/><img src="npcs/fallout_faces3.jpg"/><img src="npcs/fallout_faces4.jpg"/><img src="npcs/fallout_faces5.jpg"/><img src="npcs/fallout_faces6.jpg"/><img src="npcs/fallout_faces7.jpg"/><img src="npcs/fallout_faces8.jpg"/><img src="npcs/fallout_faces9.jpg"/>
 
