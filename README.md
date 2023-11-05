@@ -43,6 +43,8 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Other companion](https://www.nexusmods.com/fallout4/mods/31710)
 
 # Weather and landscape
+  - [Misty Pines Overhaul](https://www.nexusmods.com/fallout4/mods/28990?tab=files)
+  - [True Storms](https://www.nexusmods.com/fallout4/mods/4472?tab=files)
   - [Vivid Weathers](https://www.nexusmods.com/fallout4/mods/15466?tab=files)
   - [Better LOD](https://www.nexusmods.com/fallout4/mods/40417?tab=files)
   - [Better Rubble](https://www.nexusmods.com/fallout4/mods/36301?tab=files)
@@ -75,9 +77,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     
     <img src="quality/hologlow.jpg"/>
 
-# Lighting
-  - [NAC X - NATURAL AND ATMOSPHERIC COMMONWEALTH 10 - Legacy Edition](https://www.nexusmods.com/fallout4/mods/46722?tab=description)
-  - [Godrays for NAC X.](https://www.nexusmods.com/fallout4/mods/53457) ("Add way more visible and intense godrays to every weather of NAC X. The mod is ESL flag, put it below NAC X.)
+# Lighting  
   - [Ultra Interior Lighting.](https://www.nexusmods.com/fallout4/mods/22101)
 
 # Immersion
@@ -135,6 +135,9 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 # Expansions
   - [Caves Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/75647)
   - 
+
+# Creatures
+  - [Fog Crawlers Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/55698?tab=files)
 
 # Bobbleheads
   - [New Vault-Girl Bobbleheads AIO.](https://www.nexusmods.com/fallout4/mods/60833) ( [NSFW version here.](https://www.nexusmods.com/fallout4/mods/63047) )
