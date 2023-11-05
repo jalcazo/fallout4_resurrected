@@ -42,6 +42,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     - [Lots More Female Hairstyles](https://www.nexusmods.com/fallout4/mods/10543?tab=files)
 - [Ponytail Hairstyles by Azar v2.5a](https://www.nexusmods.com/fallout4/mods/8126?tab=files)
 - [Immersive Wastelanders](https://www.nexusmods.com/fallout4/mods/19544?tab=files) (just Piper, Magnolia, Cait, Tina deLuca & Glory)
+- [True Reporter - Piper Outfit Redone - CBBE - Vanilla - Bodyslide](https://www.nexusmods.com/fallout4/mods/11611?tab=files)
 - [FCO - HD Eyes](https://www.nexusmods.com/fallout4/mods/169/?)
 - [deLuxe Makeup](https://www.nexusmods.com/fallout4/mods/4398/?tab=files)
 - [Appealing Moles](https://www.nexusmods.com/fallout4/mods/3802/?)
@@ -119,6 +120,17 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293?tab=files)
   - [Phase 4 An Institute Expansion.](https://www.nexusmods.com/fallout4/mods/42647?tab=files)
   - [South of The Sea. (Massive GS and more Expansion) (Final Update July 2020).](https://www.nexusmods.com/fallout4/mods/27870) (WARNING: "Youll still need the AWKCR patch if you still use that old mod).
+  - [Immersive and Extended Nahant](https://www.nexusmods.com/fallout4/mods/36636/)
+  - [Immersive Hub City Auto Wreckers](https://www.nexusmods.com/fallout4/mods/35882?tab=files)
+  - [Immersive Vault 95](https://www.nexusmods.com/fallout4/mods/31674)
+  - [Immersive Beantown Brewery](https://www.nexusmods.com/fallout4/mods/31598?tab=files)
+  - [The Waste Landfill](https://www.nexusmods.com/fallout4/mods/35344?tab=files)
+  - [Commonwealth Underground and Forgotten Spaces](https://www.nexusmods.com/fallout4/mods/27584?tab=files)
+  - [The Sewers](https://www.nexusmods.com/fallout4/mods/45663?tab=files)
+  - [Wildwood Cemetery Tombs ESL Flagged ESP](https://www.nexusmods.com/fallout4/mods/51802?tab=files)
+  - [Williams Plaza](https://www.nexusmods.com/fallout4/mods/59566/?tab=files)
+  - [Better Skylanes Flight 1981 Crash-site](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
+  - 
 
 # Homes
   - [Army Bunker player home and settlement. (Elianora)](https://www.nexusmods.com/fallout4/mods/62209)
@@ -147,6 +159,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Fixed Alpha Maps](https://www.nexusmods.com/fallout4/mods/28974?tab=files)
   - [High Res DLC Black Face Fix](https://www.nexusmods.com/fallout4/mods/21907)
   - [High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798)
+  - [Diamond City Auto Close Gate](https://www.nexusmods.com/fallout4/mods/12928)
 
 # Textures
   - [Vivid Fallout - All in One](https://www.nexusmods.com/fallout4/mods/25714/?tab=files)
@@ -172,6 +185,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [FallUI - HUD](https://www.nexusmods.com/fallout4/mods/51813)
   - [FallUI - Icon Library](https://www.nexusmods.com/fallout4/mods/60579?tab=files)
   - [Nameplates - Floating Healthbars](https://www.nexusmods.com/fallout4/mods/21636?tab=files)
+  - [Floating Damage](https://www.nexusmods.com/fallout4/mods/28684?tab=files)
 
 # Creatures
   - [Fog Crawlers Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/55698?tab=files)
