@@ -38,7 +38,15 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     - [Lots More Male Hairstyles](https://www.nexusmods.com/fallout4/mods/10695?tab=files)
     - [Lots More Female Hairstyles](https://www.nexusmods.com/fallout4/mods/10543?tab=files)
 - [Ponytail Hairstyles by Azar v2.5a](https://www.nexusmods.com/fallout4/mods/8126?tab=files)
-- [True Reporter - Piper Outfit Redone - CBBE - Vanilla - Bodyslide](https://www.nexusmods.com/fallout4/mods/11611?tab=files)
+- [Immersive Wastelanders](https://www.nexusmods.com/fallout4/mods/19544?tab=files) (just Piper, Magnolia, Cait, Tina deLuca & Glory)
+- [FCO - HD Eyes](https://www.nexusmods.com/fallout4/mods/169/?)
+- [deLuxe Makeup](https://www.nexusmods.com/fallout4/mods/4398/?tab=files)
+- [Appealing Moles](https://www.nexusmods.com/fallout4/mods/3802/?)
+- [Eye Normal Map Fix Fallout 4 Edition](https://www.nexusmods.com/fallout4/mods/819/?tab=files)
+- [HN66s and XAZOMNs Distinctive Teeth for FO4](https://www.nexusmods.com/fallout4/mods/20946/?tab=files)
+- [Sexy Hancock](https://www.nexusmods.com/fallout4/mods/12029/?tab=files)
+- [Ghastly - Ghoul Eyes Texture](https://www.nexusmods.com/fallout4/mods/5013?tab=files)
+- [Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton](https://www.nexusmods.com/fallout4/mods/9568/?tab=files)
 
 # Companions
   - [Buttons.](https://www.nexusmods.com/fallout4/mods/31710)
@@ -93,9 +101,21 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) (Adds 12 new case files to Nick Valentine's).
 
 # Buildings / area expansions
-  - [The Beantown Interiors Project](https://www.nexusmods.com/fallout4/mods/4612?tab=files)
+  - [Atomic World](https://www.nexusmods.com/fallout4/mods/28713)
+  - [Minuteman Watchtowers](https://www.nexusmods.com/fallout4/mods/67115?tab=files) (pick the ESL).
+  - [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320?tab=files)
+  - [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539)
+  - [Lexington Interiors](https://www.nexusmods.com/fallout4/mods/19120)
+  - [moreXplore](https://www.nexusmods.com/fallout4/mods/28733?tab=files)
+  - [Rsiyo's Location Pack](https://www.nexusmods.com/fallout4/mods/38501)
+  - [Salem Expanded](https://www.nexusmods.com/fallout4/mods/27420?tab=files)
+  - [Concord EXPANDED](https://www.nexusmods.com/fallout4/mods/27333?tab=files)
+  - [Fort Hagen EXPANDED (More Loot Buildings and Enemies)](https://www.nexusmods.com/fallout4/mods/27607?tab=files)
+  - [Better The Third Rail](https://www.nexusmods.com/fallout4/mods/15388?tab=files)
+  - [Welcome to Goodneighbor](https://www.nexusmods.com/fallout4/mods/15702?tab=files) ("expands and adds tons of new content to Goodneighbor. At over 500 lines of dialogue, this mod will take between 2-3 hours to complete.")
+  - [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293?tab=files)
   - [Phase 4 An Institute Expansion.](https://www.nexusmods.com/fallout4/mods/42647?tab=files)
-  - [South of The Sea. (Massive GS and more Expansion) (Final Update July 2020).](https://www.nexusmods.com/fallout4/mods/27870) (WARNING: "Youll still need the AWKCR patch if you still use that old mod.").
+  - [South of The Sea. (Massive GS and more Expansion) (Final Update July 2020).](https://www.nexusmods.com/fallout4/mods/27870) (WARNING: "Youll still need the AWKCR patch if you still use that old mod).
 
 # Homes
   - [Army Bunker player home and settlement. (Elianora)](https://www.nexusmods.com/fallout4/mods/62209)
@@ -119,7 +139,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Mesh Bounds Fix](https://www.nexusmods.com/fallout4/mods/70817?tab=files)
   - [Interior NavCut Fix](https://www.nexusmods.com/fallout4/mods/72904?tab=files)
   - [Water LOD Fix](https://www.nexusmods.com/fallout4/mods/33815)
-  
   - [Elevator Buttons Fix (Contraptions)](https://www.nexusmods.com/fallout4/mods/20664)
   - [NPC Drinking Fix](https://www.nexusmods.com/fallout4/mods/53980)
   - [Fixed Alpha Maps](https://www.nexusmods.com/fallout4/mods/28974?tab=files)
@@ -148,6 +167,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 # GUI
   - [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
   - [FallUI - HUD](https://www.nexusmods.com/fallout4/mods/51813)
+  - [FallUI - Icon Library](https://www.nexusmods.com/fallout4/mods/60579?tab=files)
   - [Nameplates - Floating Healthbars](https://www.nexusmods.com/fallout4/mods/21636?tab=files)
 
 # Creatures
