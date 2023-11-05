@@ -7,12 +7,15 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 # Warnings
   - If the protagonist's voice is silent be sure to go to Steam, properties of the game and change the language to "English"! (found 5/11/23).
   - To avoid intro: open steamapps\common\Fallout 4\Data\Video\ and delete or rename the file “GameIntro_V3_B.bk2”
+  - To turn on/off pip-boy flashlight: HOLD TAB!
 
 # Essential (many mods need these)
 
   - [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147?tab=files) (Fallout Faces & HiPoly Faces REDUX require it).
   - [Address Library for F4SE Plugins](https://www.nexusmods.com/fallout4/mods/47327?tab=files)
   - [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497) (Fallout Faces & HiPoly Faces REDUX require it).
+  - [MCM Booster](https://www.nexusmods.com/fallout4/mods/56997?tab=files)
+  - [MCM Settings Manager](https://www.nexusmods.com/fallout4/mods/56195?tab=files)
   - [LooksMenu](https://www.nexusmods.com/fallout4/mods/12631) (Fallout Faces & HiPoly Faces REDUX require it).
   - [Looks Menu Customization Compendium](https://www.nexusmods.com/fallout4/mods/24830)
   - [Unofficial Fallout 4 Patch - UFO4P](https://www.nexusmods.com/fallout4/mods/4598)
@@ -84,6 +87,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522?tab=files)
   - [Increases Movement Speed](https://www.nexusmods.com/fallout4/mods/21807?tab=files)
   - [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025?tab=files)
+  - [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840/?tab=bugs)
 
 # Quests
   - [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) (Adds 12 new case files to Nick Valentine's).
@@ -140,6 +144,11 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 # Expansions
   - [Caves Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/75647)
   - 
+
+# GUI
+  - [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
+  - [FallUI - HUD](https://www.nexusmods.com/fallout4/mods/51813)
+  - [Nameplates - Floating Healthbars](https://www.nexusmods.com/fallout4/mods/21636?tab=files)
 
 # Creatures
   - [Fog Crawlers Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/55698?tab=files)
