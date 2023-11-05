@@ -114,6 +114,8 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Elevator Buttons Fix (Contraptions)](https://www.nexusmods.com/fallout4/mods/20664)
   - [NPC Drinking Fix](https://www.nexusmods.com/fallout4/mods/53980)
   - [Fixed Alpha Maps](https://www.nexusmods.com/fallout4/mods/28974?tab=files)
+  - [High Res DLC Black Face Fix](https://www.nexusmods.com/fallout4/mods/21907)
+  - [High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798)
 
 # Textures
   - [Vivid Fallout - All in One](https://www.nexusmods.com/fallout4/mods/25714/?tab=files)
@@ -128,6 +130,9 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Main Menu
   - [Post Apocalypse Main Menu](https://www.nexusmods.com/fallout4/mods/74231?tab=files)
+
+# Expansions
+  - [Caves Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/75647)
   - 
 
 # Bobbleheads
