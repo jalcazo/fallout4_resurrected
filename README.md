@@ -193,8 +193,8 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Some reviews here](https://www.youtube.com/watch?v=306g7_wV6Lg)
   - [Companion Status HUD](https://www.nexusmods.com/fallout4/mods/20310?tab=files)
   - [Companion Status UI Remastered](https://www.nexusmods.com/fallout4/mods/42925?tab=files)
-<img src="collectibles/gui/Companion Status UI Remastered 1.jpg"/>
-<img src="collectibles/gui/Companion Status UI Remastered 2.jpg"/>
+<img src="gui/Companion Status UI Remastered 1.jpg"/>
+<img src="gui/Companion Status UI Remastered 2.jpg"/>
 
 # Creatures
   - [Fog Crawlers Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/55698?tab=files)
