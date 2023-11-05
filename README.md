@@ -4,14 +4,19 @@
 
 My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
+# Warning
+  - If the protagonist's voice is silent be sure to go to Steam, properties of the game and change the language to "English"! (found 5/11/23).
+
 # Essential (many mods need these)
 
   - [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147?tab=files) (Fallout Faces & HiPoly Faces REDUX require it).
   - [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497) (Fallout Faces & HiPoly Faces REDUX require it).
   - [LooksMenu](https://www.nexusmods.com/fallout4/mods/12631) (Fallout Faces & HiPoly Faces REDUX require it).
+  - [Looks Menu Customization Compendium](
   - [Unofficial Fallout 4 Patch - UFO4P](https://www.nexusmods.com/fallout4/mods/4598)
   - [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216?tab=files)
   - [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984)
+  
 
 # NPC's
 
@@ -80,6 +85,12 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 # Audio
   - [Aggressive synth voice overhaul.](https://www.nexusmods.com/fallout4/mods/2105)
   - [Cough.](https://www.nexusmods.com/fallout4/mods/49235)
+
+# Fixes
+  - [Ownership Fixes](https://www.nexusmods.com/fallout4/mods/56885)
+  - [Radio Reverb Fix](https://www.nexusmods.com/fallout4/mods/16563?tab=files)
+  - [River Fix](https://www.nexusmods.com/fallout4/mods/36762?tab=files) (choose the ESL to avoid counting towards the mod limit).
+  - [Fixed Gobo Effects](https://www.nexusmods.com/fallout4/mods/27445)
 
 # Gore and blood
   - [Enhanced Blood Textures.](https://www.nexusmods.com/fallout4/mods/212/)
