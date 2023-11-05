@@ -13,7 +13,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Address Library for F4SE Plugins](https://www.nexusmods.com/fallout4/mods/47327?tab=files)
   - [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497) (Fallout Faces & HiPoly Faces REDUX require it).
   - [LooksMenu](https://www.nexusmods.com/fallout4/mods/12631) (Fallout Faces & HiPoly Faces REDUX require it).
-  - [Looks Menu Customization Compendium](
+  - [Looks Menu Customization Compendium](https://www.nexusmods.com/fallout4/mods/24830)
   - [Unofficial Fallout 4 Patch - UFO4P](https://www.nexusmods.com/fallout4/mods/4598)
   - [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216?tab=files)
   - [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984)
@@ -27,15 +27,14 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     - [Lots More Facial Hair](https://www.nexusmods.com/fallout4/mods/10746/?tab=files)
     - [Commonwealth Cuts - KS Hairdos - ApachiiSkyHair](https://www.nexusmods.com/fallout4/mods/11402)
     - [Femshepping and radbeetle's KS Hairdos Conversions](https://www.nexusmods.com/fallout4/mods/45373?tab=files)
+  
+<img src="npcs/fallout_faces1.jpg"/><img src="npcs/fallout_faces2.jpg"/><img src="npcs/fallout_faces3.jpg"/><img src="npcs/fallout_faces4.jpg"/><img src="npcs/fallout_faces5.jpg"/><img src="npcs/fallout_faces6.jpg"/><img src="npcs/fallout_faces7.jpg"/><img src="npcs/fallout_faces8.jpg"/><img src="npcs/fallout_faces9.jpg"/>
+
   - [Preset Face Replacers](https://www.nexusmods.com/fallout4/mods/11003?tab=files), requires:
     - [Lots More Male Hairstyles](https://www.nexusmods.com/fallout4/mods/10695?tab=files)
     - [Lots More Female Hairstyles](https://www.nexusmods.com/fallout4/mods/10543?tab=files)
-  - [Another Piper Replacer and Preset](https://www.nexusmods.com/fallout4/mods/42903?tab=files), requires:
-    - [Ponytail Hairstyles by Azar v2.5a](https://www.nexusmods.com/fallout4/mods/8126?tab=files)
-    - [True Reporter - Piper Outfit Redone - CBBE - Vanilla - Bodyslide](https://www.nexusmods.com/fallout4/mods/11611?tab=files)
-    
-
-<img src="npcs/fallout_faces1.jpg"/><img src="npcs/fallout_faces2.jpg"/><img src="npcs/fallout_faces3.jpg"/><img src="npcs/fallout_faces4.jpg"/><img src="npcs/fallout_faces5.jpg"/><img src="npcs/fallout_faces6.jpg"/><img src="npcs/fallout_faces7.jpg"/><img src="npcs/fallout_faces8.jpg"/><img src="npcs/fallout_faces9.jpg"/>
+- [Ponytail Hairstyles by Azar v2.5a](https://www.nexusmods.com/fallout4/mods/8126?tab=files)
+- [True Reporter - Piper Outfit Redone - CBBE - Vanilla - Bodyslide](https://www.nexusmods.com/fallout4/mods/11611?tab=files)
 
 # Companions
   - [Buttons.](https://www.nexusmods.com/fallout4/mods/31710)
@@ -113,9 +112,16 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Interior NavCut Fix](https://www.nexusmods.com/fallout4/mods/72904?tab=files)
   - [Weston Water LOD Fix](https://www.nexusmods.com/fallout4/mods/42020)
   - [Elevator Buttons Fix (Contraptions)](https://www.nexusmods.com/fallout4/mods/20664)
+  - [NPC Drinking Fix](https://www.nexusmods.com/fallout4/mods/53980)
+  - [Fixed Alpha Maps](https://www.nexusmods.com/fallout4/mods/28974?tab=files)
+
+# Textures
+  - [Vivid Fallout - All in One](https://www.nexusmods.com/fallout4/mods/25714/?tab=files)
+  - [Vivid Fallout - LOD and Far Distant Detail](https://www.nexusmods.com/fallout4/mods/71745)
 
 # Clothing/Armor
   - [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187)
+  - [More Clothes and Textures (CBBE)](https://www.nexusmods.com/fallout4/mods/40315?tab=files)
 
 # Gore and blood
   - [Enhanced Blood Textures.](https://www.nexusmods.com/fallout4/mods/212/)
