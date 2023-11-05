@@ -103,6 +103,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Quests
   - [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) (Adds 12 new case files to Nick Valentine's).
+  - [Atomic Radio and Tales from the Commonwealth](https://www.nexusmods.com/fallout4/mods/8704?tab=files) (be sure to download BOTH).
 
 # Buildings / area expansions
   - [Atomic World](https://www.nexusmods.com/fallout4/mods/28713)
@@ -130,7 +131,10 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Wildwood Cemetery Tombs ESL Flagged ESP](https://www.nexusmods.com/fallout4/mods/51802?tab=files)
   - [Williams Plaza](https://www.nexusmods.com/fallout4/mods/59566/?tab=files)
   - [Better Skylanes Flight 1981 Crash-site](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
-  - 
+  - [Better UFO Crash Site](https://www.nexusmods.com/fallout4/mods/13521?tab=files)
+  - [Landwer Interiors Project](https://www.nexusmods.com/fallout4/mods/52889?tab=files)
+  - [Commonwealth Improvements - Fort Strong](https://www.nexusmods.com/fallout4/mods/22287/?tab=files)
+  - [Egret's Secret](https://www.nexusmods.com/fallout4/mods/22031/?tab=files)
 
 # Homes
   - [Army Bunker player home and settlement. (Elianora)](https://www.nexusmods.com/fallout4/mods/62209)
