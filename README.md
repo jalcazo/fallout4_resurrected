@@ -10,6 +10,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 # Essential (many mods need these)
 
   - [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147?tab=files) (Fallout Faces & HiPoly Faces REDUX require it).
+  - [Address Library for F4SE Plugins](https://www.nexusmods.com/fallout4/mods/47327?tab=files)
   - [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497) (Fallout Faces & HiPoly Faces REDUX require it).
   - [LooksMenu](https://www.nexusmods.com/fallout4/mods/12631) (Fallout Faces & HiPoly Faces REDUX require it).
   - [Looks Menu Customization Compendium](
@@ -91,9 +92,14 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Radio Reverb Fix](https://www.nexusmods.com/fallout4/mods/16563?tab=files)
   - [River Fix](https://www.nexusmods.com/fallout4/mods/36762?tab=files) (choose the ESL to avoid counting towards the mod limit).
   - [Fixed Gobo Effects](https://www.nexusmods.com/fallout4/mods/27445)
+  - [Long Save Bug Fix](https://www.nexusmods.com/fallout4/mods/68681)
 
 # Gore and blood
   - [Enhanced Blood Textures.](https://www.nexusmods.com/fallout4/mods/212/)
+
+# Main Menu
+  - [Post Apocalypse Main Menu](https://www.nexusmods.com/fallout4/mods/74231?tab=files)
+  - 
 
 # Bobbleheads
   - [New Vault-Girl Bobbleheads AIO.](https://www.nexusmods.com/fallout4/mods/60833) ( [NSFW version here.](https://www.nexusmods.com/fallout4/mods/63047) )
