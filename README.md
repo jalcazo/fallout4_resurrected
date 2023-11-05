@@ -40,6 +40,12 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     
     <img src="quality/hologlow.jpg"/>
 
+# Lighting
+  - [NAC X - NATURAL AND ATMOSPHERIC COMMONWEALTH 10 - Legacy Edition](https://www.nexusmods.com/fallout4/mods/46722?tab=description)
+  - [Godrays for NAC X.](https://www.nexusmods.com/fallout4/mods/53457) ("Add way more visible and intense godrays to every weather of NAC X. The mod is ESL flag, put it below NAC X.)
+  - [Ultra Interior Lighting.](https://www.nexusmods.com/fallout4/mods/22101)
+  - [
+
 # Immersion
 
 # Quests
