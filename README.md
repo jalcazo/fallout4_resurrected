@@ -19,14 +19,20 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984)
   
 
-# NPC's
+# NPC's/Presets
 
-  - [Fallout Faces (Male All-in-One and Female All-in-One](https://www.nexusmods.com/fallout4/mods/59064?tab=files) requires:
+  - [Fallout Faces (Male All-in-One and Female All-in-One](https://www.nexusmods.com/fallout4/mods/59064?tab=files), requires:
     - [CBBE](https://www.nexusmods.com/fallout4/mods/15?tab=files)
     - [HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB)](https://www.nexusmods.com/fallout4/mods/58950?tab=files)
     - [Lots More Facial Hair](https://www.nexusmods.com/fallout4/mods/10746/?tab=files)
     - [Commonwealth Cuts - KS Hairdos - ApachiiSkyHair](https://www.nexusmods.com/fallout4/mods/11402)
     - [Femshepping and radbeetle's KS Hairdos Conversions](https://www.nexusmods.com/fallout4/mods/45373?tab=files)
+  - [Preset Face Replacers](https://www.nexusmods.com/fallout4/mods/11003?tab=files), requires:
+    - [Lots More Male Hairstyles](https://www.nexusmods.com/fallout4/mods/10695?tab=files)
+    - [Lots More Female Hairstyles](https://www.nexusmods.com/fallout4/mods/10543?tab=files)
+  - [Another Piper Replacer and Preset](https://www.nexusmods.com/fallout4/mods/42903?tab=files), requires:
+    - [Ponytail Hairstyles by Azar v2.5a](https://www.nexusmods.com/fallout4/mods/8126?tab=files)
+    - [True Reporter - Piper Outfit Redone - CBBE - Vanilla - Bodyslide](https://www.nexusmods.com/fallout4/mods/11611?tab=files)
     
 
 <img src="npcs/fallout_faces1.jpg"/><img src="npcs/fallout_faces2.jpg"/><img src="npcs/fallout_faces3.jpg"/><img src="npcs/fallout_faces4.jpg"/><img src="npcs/fallout_faces5.jpg"/><img src="npcs/fallout_faces6.jpg"/><img src="npcs/fallout_faces7.jpg"/><img src="npcs/fallout_faces8.jpg"/><img src="npcs/fallout_faces9.jpg"/>
@@ -105,6 +111,11 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Fallout 4 Fixes](https://www.nexusmods.com/fallout4/mods/63005)
   - [Mesh Bounds Fix](https://www.nexusmods.com/fallout4/mods/70817?tab=files)
   - [Interior NavCut Fix](https://www.nexusmods.com/fallout4/mods/72904?tab=files)
+  - [Weston Water LOD Fix](https://www.nexusmods.com/fallout4/mods/42020)
+  - [Elevator Buttons Fix (Contraptions)](https://www.nexusmods.com/fallout4/mods/20664)
+
+# Clothing/Armor
+  - [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187)
 
 # Gore and blood
   - [Enhanced Blood Textures.](https://www.nexusmods.com/fallout4/mods/212/)
