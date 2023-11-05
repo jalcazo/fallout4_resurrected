@@ -79,16 +79,17 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [NAC X - NATURAL AND ATMOSPHERIC COMMONWEALTH 10 - Legacy Edition](https://www.nexusmods.com/fallout4/mods/46722?tab=description)
   - [Godrays for NAC X.](https://www.nexusmods.com/fallout4/mods/53457) ("Add way more visible and intense godrays to every weather of NAC X. The mod is ESL flag, put it below NAC X.)
   - [Ultra Interior Lighting.](https://www.nexusmods.com/fallout4/mods/22101)
-  - [
 
 # Immersion
   - [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522?tab=files)
   - [Increases Movement Speed](https://www.nexusmods.com/fallout4/mods/21807?tab=files)
+  - [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025?tab=files)
 
 # Quests
   - [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) (Adds 12 new case files to Nick Valentine's).
 
 # Buildings / area expansions
+  - [The Beantown Interiors Project](https://www.nexusmods.com/fallout4/mods/4612?tab=files)
   - [Phase 4 An Institute Expansion.](https://www.nexusmods.com/fallout4/mods/42647?tab=files)
   - [South of The Sea. (Massive GS and more Expansion) (Final Update July 2020).](https://www.nexusmods.com/fallout4/mods/27870) (WARNING: "Youll still need the AWKCR patch if you still use that old mod.").
 
