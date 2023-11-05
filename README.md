@@ -4,8 +4,9 @@
 
 My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
-# Warning
+# Warnings
   - If the protagonist's voice is silent be sure to go to Steam, properties of the game and change the language to "English"! (found 5/11/23).
+  - To avoid intro: open steamapps\common\Fallout 4\Data\Video\ and delete or rename the file “GameIntro_V3_B.bk2”
 
 # Essential (many mods need these)
 
@@ -48,8 +49,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Vivid Weathers](https://www.nexusmods.com/fallout4/mods/15466?tab=files)
   - [Better LOD](https://www.nexusmods.com/fallout4/mods/40417?tab=files)
   - [Better Rubble](https://www.nexusmods.com/fallout4/mods/36301?tab=files)
-  - [The Aspen Commonwealth](https://www.nexusmods.com/fallout4/mods/40991?tab=files)
-  - [True Grass](https://www.nexusmods.com/fallout4/mods/23469?tab=files)
+    - [True Grass](https://www.nexusmods.com/fallout4/mods/23469?tab=files)
 
 # Collectibles
   - [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) (This treasure hunt adds 40 classic works of western philosophy.ESP marked as ESL.)
@@ -98,6 +98,9 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     
     <img src="homes/elianora_army_bunker.jpg"/>
 
+# Locations
+  - [Immersive Drumlin Diner](https://www.nexusmods.com/fallout4/mods/18995)
+
 # Audio
   - [Aggressive synth voice overhaul.](https://www.nexusmods.com/fallout4/mods/2105)
   - [Cough.](https://www.nexusmods.com/fallout4/mods/49235)
@@ -111,7 +114,8 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Fallout 4 Fixes](https://www.nexusmods.com/fallout4/mods/63005)
   - [Mesh Bounds Fix](https://www.nexusmods.com/fallout4/mods/70817?tab=files)
   - [Interior NavCut Fix](https://www.nexusmods.com/fallout4/mods/72904?tab=files)
-  - [Weston Water LOD Fix](https://www.nexusmods.com/fallout4/mods/42020)
+  - [Water LOD Fix](https://www.nexusmods.com/fallout4/mods/33815)
+  
   - [Elevator Buttons Fix (Contraptions)](https://www.nexusmods.com/fallout4/mods/20664)
   - [NPC Drinking Fix](https://www.nexusmods.com/fallout4/mods/53980)
   - [Fixed Alpha Maps](https://www.nexusmods.com/fallout4/mods/28974?tab=files)
@@ -128,6 +132,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Gore and blood
   - [Enhanced Blood Textures.](https://www.nexusmods.com/fallout4/mods/212/)
+  - [Gore Overhaul 3.0 -Reload-](https://www.nexusmods.com/fallout4/mods/21216?tab=files)
 
 # Main Menu
   - [Post Apocalypse Main Menu](https://www.nexusmods.com/fallout4/mods/74231?tab=files)
