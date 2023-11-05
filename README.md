@@ -35,7 +35,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     - [Commonwealth Cuts - KS Hairdos - ApachiiSkyHair](https://www.nexusmods.com/fallout4/mods/11402)
     - [Femshepping and radbeetle's KS Hairdos Conversions](https://www.nexusmods.com/fallout4/mods/45373?tab=files)
   
-<img src="npcs/fallout_faces1.jpg"/><img src="npcs/fallout_faces2.jpg"/><img src="npcs/fallout_faces3.jpg"/><img src="npcs/fallout_faces4.jpg"/><img src="npcs/fallout_faces5.jpg"/><img src="npcs/fallout_faces6.jpg"/><img src="npcs/fallout_faces7.jpg"/><img src="npcs/fallout_faces8.jpg"/><img src="npcs/fallout_faces9.jpg"/>
+<img src="npcs/fallout_faces1.jpg"/><img src="npcs/fallout_faces2.jpg"/><img src="npcs/fallout_faces3.jpg"/><img src="npcs/fallout_faces4.jpg"/><img src="npcs/fallout_faces5.jpg"/><img src="npcs/fallout_faces6.jpg"/><img src="npcs/fallout_faces7.jpg"/><img src="npcs/fallout_faces8.jpg"/>
 
   - [Preset Face Replacers](https://www.nexusmods.com/fallout4/mods/11003?tab=files), requires:
     - [Lots More Male Hairstyles](https://www.nexusmods.com/fallout4/mods/10695?tab=files)
