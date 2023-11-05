@@ -37,6 +37,13 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     <img src="companions/buttons.jpg"/>
   - [Other companion](https://www.nexusmods.com/fallout4/mods/31710)
 
+# Weather and landscape
+  - [Vivid Weathers](https://www.nexusmods.com/fallout4/mods/15466?tab=files)
+  - [Better LOD](https://www.nexusmods.com/fallout4/mods/40417?tab=files)
+  - [Better Rubble](https://www.nexusmods.com/fallout4/mods/36301?tab=files)
+  - [The Aspen Commonwealth](https://www.nexusmods.com/fallout4/mods/40991?tab=files)
+  - [True Grass](https://www.nexusmods.com/fallout4/mods/23469?tab=files)
+
 # Collectibles
   - [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) (This treasure hunt adds 40 classic works of western philosophy.ESP marked as ESL.)
     
@@ -70,6 +77,8 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [
 
 # Immersion
+  - [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522?tab=files)
+  - [Increases Movement Speed](https://www.nexusmods.com/fallout4/mods/21807?tab=files)
 
 # Quests
   - [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) (Adds 12 new case files to Nick Valentine's).
@@ -93,6 +102,9 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [River Fix](https://www.nexusmods.com/fallout4/mods/36762?tab=files) (choose the ESL to avoid counting towards the mod limit).
   - [Fixed Gobo Effects](https://www.nexusmods.com/fallout4/mods/27445)
   - [Long Save Bug Fix](https://www.nexusmods.com/fallout4/mods/68681)
+  - [Fallout 4 Fixes](https://www.nexusmods.com/fallout4/mods/63005)
+  - [Mesh Bounds Fix](https://www.nexusmods.com/fallout4/mods/70817?tab=files)
+  - [Interior NavCut Fix](https://www.nexusmods.com/fallout4/mods/72904?tab=files)
 
 # Gore and blood
   - [Enhanced Blood Textures.](https://www.nexusmods.com/fallout4/mods/212/)
