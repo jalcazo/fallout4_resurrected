@@ -190,6 +190,8 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [FallUI - Inventory](https://www.nexusmods.com/fallout4/mods/48758?tab=files)
   - [FallUI - Workbench](https://www.nexusmods.com/fallout4/mods/49300?tab=files)
   - [FallUI - Map](https://www.nexusmods.com/fallout4/mods/49920?tab=files)
+  - [FallUI - Confirm Boxes (incl. Yes Im Sure)](https://www.nexusmods.com/fallout4/mods/48958?tab=files)
+  - [LevelUpMenuEx](https://www.nexusmods.com/fallout4/mods/28822)
   - [Nameplates - Floating Healthbars](https://www.nexusmods.com/fallout4/mods/21636?tab=files)
   - [Floating Damage](https://www.nexusmods.com/fallout4/mods/28684?tab=files)
   - [Some reviews here](https://www.youtube.com/watch?v=306g7_wV6Lg)
@@ -209,4 +211,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [New Vault-Girl Bobbleheads AIO.](https://www.nexusmods.com/fallout4/mods/60833) ( [NSFW version here.](https://www.nexusmods.com/fallout4/mods/63047) )
     
     <img src="collectibles/bobbleheads/1.jpg"/>
+
+# Spanish translation, in case you want one
+  - [LevelUpMenuEx - Spanish](https://www.nexusmods.com/fallout4/mods/55737)
 
