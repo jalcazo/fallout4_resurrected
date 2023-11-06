@@ -168,6 +168,8 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798)
   - [Diamond City Auto Close Gate](https://www.nexusmods.com/fallout4/mods/12928)
   - [Long Loading Times Fix](https://www.nexusmods.com/fallout4/mods/73469?tab=files)
+  - [Remove Helmet In Dialog](https://www.nexusmods.com/fallout4/mods/24480/)
+  - [Vault 88 Crash Fix - Remove Molerats and Radscorps](https://www.nexusmods.com/fallout4/mods/73601)
 
 # Textures
   - [Vivid Fallout - All in One](https://www.nexusmods.com/fallout4/mods/25714/?tab=files)
