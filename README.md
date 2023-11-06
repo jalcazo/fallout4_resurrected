@@ -166,6 +166,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Remove Helmet In Dialog](https://www.nexusmods.com/fallout4/mods/24480/)
   - [Vault 88 Crash Fix - Remove Molerats and Radscorps](https://www.nexusmods.com/fallout4/mods/73601)
   - [Shadow Boost FO4](https://www.nexusmods.com/fallout4/mods/63482?tab=files) (Sets the distance of the shadows dynamically with F4SE). [check out this review by JuiceHead](https://www.youtube.com/watch?v=RdIzlBABMSY&t=4s).
+  - [No Crafting Animations](https://www.nexusmods.com/fallout4/mods/63183?tab=files)
 
 # Textures
   - [Vivid Fallout - All in One](https://www.nexusmods.com/fallout4/mods/25714/?tab=files)
@@ -184,7 +185,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Expansions
   - [Caves Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/75647)
-  - 
+  - [Fallout 4 - Point Lookout](https://www.nexusmods.com/fallout4/mods/60330?tab=files)
 
 # GUI
   - [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
@@ -216,4 +217,5 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Spanish translation, in case you want one
   - [LevelUpMenuEx - Spanish](https://www.nexusmods.com/fallout4/mods/55737)
+  - [Fallout 4 - Point Lookout traduccion español](https://www.nexusmods.com/fallout4/mods/60413)
 
