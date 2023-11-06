@@ -186,6 +186,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 # Expansions
   - [Caves Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/75647)
   - [Fallout 4 - Point Lookout](https://www.nexusmods.com/fallout4/mods/60330?tab=files)
+  - [Fallout 4 Point Lookout - Voiced Player Lines Addon](https://www.nexusmods.com/fallout4/mods/60387?tab=files)
 
 # GUI
   - [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
