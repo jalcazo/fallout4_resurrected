@@ -203,6 +203,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Creatures
   - [Fog Crawlers Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/55698?tab=files)
+  - [Institute Centaurs](https://www.nexusmods.com/fallout4/mods/41476?tab=files)
 
 # Bobbleheads
   - [New Vault-Girl Bobbleheads AIO.](https://www.nexusmods.com/fallout4/mods/60833) ( [NSFW version here.](https://www.nexusmods.com/fallout4/mods/63047) )
