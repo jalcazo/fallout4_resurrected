@@ -43,7 +43,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     - [Lots More Male Hairstyles](https://www.nexusmods.com/fallout4/mods/10695?tab=files)
     - [Lots More Female Hairstyles](https://www.nexusmods.com/fallout4/mods/10543?tab=files)
 - [Ponytail Hairstyles by Azar v2.5a](https://www.nexusmods.com/fallout4/mods/8126?tab=files)
-- [Immersive Wastelanders](https://www.nexusmods.com/fallout4/mods/19544?tab=files) (just Piper, Magnolia, Cait, Tina deLuca & Glory)
+- [Immersive Wastelanders](https://www.nexusmods.com/fallout4/mods/19544?tab=files) (I just hand-pick Piper, Magnolia, Cait, Tina deLuca & Glory, but you can pick whatever you like best).
 - [True Reporter - Piper Outfit Redone - CBBE - Vanilla - Bodyslide](https://www.nexusmods.com/fallout4/mods/11611?tab=files)
 - [FCO - HD Eyes](https://www.nexusmods.com/fallout4/mods/169/?)
 - [deLuxe Makeup](https://www.nexusmods.com/fallout4/mods/4398/?tab=files)
