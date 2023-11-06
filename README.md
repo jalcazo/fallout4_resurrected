@@ -213,10 +213,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     
 <img src="collectibles/bobbleheads/1.jpg"/>
 
-# If you fancy it
-  - [Vault Girl Mod - Neo's FOMOD Version](https://www.nexusmods.com/fallout4/mods/38220?tab=files)
-  - [FallUI - Inventory and Vault Girl Mod Patch](https://www.nexusmods.com/fallout4/mods/52760?tab=files)
-
 # Spanish translation, in case you want one
   - [LevelUpMenuEx - Spanish](https://www.nexusmods.com/fallout4/mods/55737)
 
