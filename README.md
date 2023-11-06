@@ -26,8 +26,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Unofficial Fallout 4 Patch - UFO4P](https://www.nexusmods.com/fallout4/mods/4598)
   - [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216?tab=files)
   - [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984)
-  - [Horizon v1.9](https://www.nexusmods.com/fallout4/mods/17374?tab=files) ([review here at 13:45 aprox](https://www.youtube.com/watch?v=x4zSuNDDq00))
-  
 
 # NPC's/Presets
 
