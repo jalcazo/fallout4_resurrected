@@ -107,6 +107,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 # Quests
   - [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) (Adds 12 new case files to Nick Valentine's).
   - [Atomic Radio and Tales from the Commonwealth](https://www.nexusmods.com/fallout4/mods/8704?tab=files) (be sure to download BOTH).
+  - [America Rising 2 - Legacy of the Enclave](https://www.nexusmods.com/fallout4/mods/75767?tab=files) (remaster of the 1).
 
 # Buildings / area expansions
   - [Atomic World](https://www.nexusmods.com/fallout4/mods/28713)
@@ -195,6 +196,8 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [FallUI - HUD](https://www.nexusmods.com/fallout4/mods/51813)
   - [FallUI - Icon Library](https://www.nexusmods.com/fallout4/mods/60579?tab=files)
   - [FallUI - Inventory](https://www.nexusmods.com/fallout4/mods/48758?tab=files)
+  - [FallUI - Workbench](https://www.nexusmods.com/fallout4/mods/49300?tab=files)
+  - [FallUI - Map](https://www.nexusmods.com/fallout4/mods/49920?tab=files)
   - [Nameplates - Floating Healthbars](https://www.nexusmods.com/fallout4/mods/21636?tab=files)
   - [Floating Damage](https://www.nexusmods.com/fallout4/mods/28684?tab=files)
   - [Some reviews here](https://www.youtube.com/watch?v=306g7_wV6Lg)
