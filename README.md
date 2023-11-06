@@ -99,7 +99,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Immersion
   - [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522?tab=files)
-  - [Increases Movement Speed](https://www.nexusmods.com/fallout4/mods/21807?tab=files)
+  - [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737?tab=files)
   - [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025?tab=files)
   - [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840/?tab=bugs)
 
