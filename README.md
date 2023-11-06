@@ -4,7 +4,7 @@
 
 My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
-# Warnings
+# Warnings / Remembers
   - If the protagonist's voice is silent be sure to go to Steam, properties of the game and change the language to "English"! (found 5/11/23).
   - To avoid intro: open steamapps\common\Fallout 4\Data\Video\ and delete or rename the file “GameIntro_V3_B.bk2”
   - To turn on/off pip-boy flashlight: HOLD TAB!
@@ -12,6 +12,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     - 2f1f.unequipItem a81af
     - 2f1f.removeItem a81af
   - Remember to use Q for activating the V.A.T.S. on combat!
+  - Hold TAB in combat to throw grenade/molotov coctails, etc.
 
 # Essential (many mods need these)
 
@@ -165,6 +166,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [High Res DLC Black Face Fix](https://www.nexusmods.com/fallout4/mods/21907)
   - [High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798)
   - [Diamond City Auto Close Gate](https://www.nexusmods.com/fallout4/mods/12928)
+  - [Long Loading Times Fix](https://www.nexusmods.com/fallout4/mods/73469?tab=files)
 
 # Textures
   - [Vivid Fallout - All in One](https://www.nexusmods.com/fallout4/mods/25714/?tab=files)
@@ -195,6 +197,9 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Companion Status HUD](https://www.nexusmods.com/fallout4/mods/20310?tab=files)
   - [Companion Status UI Remastered](https://www.nexusmods.com/fallout4/mods/42925?tab=files)
 <img src="gui/Companion Status UI Remastered 1.jpg"/>
+  - [Active Effects on HUD](https://www.nexusmods.com/fallout4/mods/32735?tab=files)
+  - [HUDCaps](https://www.nexusmods.com/fallout4/mods/43505)
+  - 
 
 # Creatures
   - [Fog Crawlers Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/55698?tab=files)
