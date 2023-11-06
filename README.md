@@ -4,7 +4,7 @@
 
 My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
-# Warnings
+# Warnings / Remembers
   - If the protagonist's voice is silent be sure to go to Steam, properties of the game and change the language to "English"! (found 5/11/23).
   - To avoid intro: open steamapps\common\Fallout 4\Data\Video\ and delete or rename the file “GameIntro_V3_B.bk2”
   - To turn on/off pip-boy flashlight: HOLD TAB!
@@ -12,6 +12,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     - 2f1f.unequipItem a81af
     - 2f1f.removeItem a81af
   - Remember to use Q for activating the V.A.T.S. on combat!
+  - Hold TAB in combat to throw grenade/molotov coctails, etc.
 
 # Essential (many mods need these)
 
@@ -98,13 +99,15 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Immersion
   - [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522?tab=files)
-  - [Increases Movement Speed](https://www.nexusmods.com/fallout4/mods/21807?tab=files)
+  - [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737?tab=files)
   - [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025?tab=files)
   - [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840/?tab=bugs)
+  - [Achievements Mods Enabler](https://www.nexusmods.com/fallout4/mods/15639/?tab=files)
 
 # Quests
   - [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) (Adds 12 new case files to Nick Valentine's).
   - [Atomic Radio and Tales from the Commonwealth](https://www.nexusmods.com/fallout4/mods/8704?tab=files) (be sure to download BOTH).
+  - [America Rising 2 - Legacy of the Enclave](https://www.nexusmods.com/fallout4/mods/75767?tab=files) (remaster of the 1).
 
 # Buildings / area expansions
   - [Atomic World](https://www.nexusmods.com/fallout4/mods/28713)
@@ -165,6 +168,9 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [High Res DLC Black Face Fix](https://www.nexusmods.com/fallout4/mods/21907)
   - [High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798)
   - [Diamond City Auto Close Gate](https://www.nexusmods.com/fallout4/mods/12928)
+  - [Long Loading Times Fix](https://www.nexusmods.com/fallout4/mods/73469?tab=files)
+  - [Remove Helmet In Dialog](https://www.nexusmods.com/fallout4/mods/24480/)
+  - [Vault 88 Crash Fix - Remove Molerats and Radscorps](https://www.nexusmods.com/fallout4/mods/73601)
 
 # Textures
   - [Vivid Fallout - All in One](https://www.nexusmods.com/fallout4/mods/25714/?tab=files)
@@ -189,15 +195,23 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
   - [FallUI - HUD](https://www.nexusmods.com/fallout4/mods/51813)
   - [FallUI - Icon Library](https://www.nexusmods.com/fallout4/mods/60579?tab=files)
+  - [FallUI - Inventory](https://www.nexusmods.com/fallout4/mods/48758?tab=files)
+  - [FallUI - Workbench](https://www.nexusmods.com/fallout4/mods/49300?tab=files)
+  - [FallUI - Map](https://www.nexusmods.com/fallout4/mods/49920?tab=files)
   - [Nameplates - Floating Healthbars](https://www.nexusmods.com/fallout4/mods/21636?tab=files)
   - [Floating Damage](https://www.nexusmods.com/fallout4/mods/28684?tab=files)
   - [Some reviews here](https://www.youtube.com/watch?v=306g7_wV6Lg)
   - [Companion Status HUD](https://www.nexusmods.com/fallout4/mods/20310?tab=files)
   - [Companion Status UI Remastered](https://www.nexusmods.com/fallout4/mods/42925?tab=files)
 <img src="gui/Companion Status UI Remastered 1.jpg"/>
+  - [Active Effects on HUD](https://www.nexusmods.com/fallout4/mods/32735?tab=files)
+  - [HUDCaps](https://www.nexusmods.com/fallout4/mods/43505)
+  - [FIS - The NEW FallUI Item Sorter](https://www.nexusmods.com/fallout4/mods/60580?tab=files)
+  - [Quest Tags - FIS](https://www.nexusmods.com/fallout4/mods/67427?tab=files)
 
 # Creatures
   - [Fog Crawlers Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/55698?tab=files)
+  - [Institute Centaurs](https://www.nexusmods.com/fallout4/mods/41476?tab=files)
 
 # Bobbleheads
   - [New Vault-Girl Bobbleheads AIO.](https://www.nexusmods.com/fallout4/mods/60833) ( [NSFW version here.](https://www.nexusmods.com/fallout4/mods/63047) )
