@@ -102,6 +102,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737?tab=files)
   - [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025?tab=files)
   - [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840/?tab=bugs)
+  - [Achievements Mods Enabler](https://www.nexusmods.com/fallout4/mods/15639/?tab=files)
 
 # Quests
   - [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) (Adds 12 new case files to Nick Valentine's).
@@ -191,6 +192,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
   - [FallUI - HUD](https://www.nexusmods.com/fallout4/mods/51813)
   - [FallUI - Icon Library](https://www.nexusmods.com/fallout4/mods/60579?tab=files)
+  - [FallUI - Inventory](https://www.nexusmods.com/fallout4/mods/48758?tab=files)
   - [Nameplates - Floating Healthbars](https://www.nexusmods.com/fallout4/mods/21636?tab=files)
   - [Floating Damage](https://www.nexusmods.com/fallout4/mods/28684?tab=files)
   - [Some reviews here](https://www.youtube.com/watch?v=306g7_wV6Lg)
