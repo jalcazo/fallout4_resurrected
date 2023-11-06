@@ -8,7 +8,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - If the protagonist's voice is silent be sure to go to Steam, properties of the game and change the language to "English"! (found 5/11/23).
   - To avoid intro: open steamapps\common\Fallout 4\Data\Video\ and delete or rename the file “GameIntro_V3_B.bk2”
   - To turn on/off pip-boy flashlight: HOLD TAB!
-  - Remove Piper's Hat: console (ñ key in spanish keyboard, the key left to 1 in english keyboard)
+  - Remove Piper's Hat: console ("ñ" key in spanish keyboard, the key left to 1 in english keyboard)
     - 2f1f.unequipItem a81af
     - 2f1f.removeItem a81af
   - Remember to use Q for activating the V.A.T.S. on combat!
@@ -68,7 +68,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Vivid Weathers](https://www.nexusmods.com/fallout4/mods/15466?tab=files)
   - [Better LOD](https://www.nexusmods.com/fallout4/mods/40417?tab=files)
   - [Better Rubble](https://www.nexusmods.com/fallout4/mods/36301?tab=files)
-    - [True Grass](https://www.nexusmods.com/fallout4/mods/23469?tab=files)
+  - [True Grass](https://www.nexusmods.com/fallout4/mods/23469?tab=files)
 
 # Collectibles
   - [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) (This treasure hunt adds 40 classic works of western philosophy.ESP marked as ESL.)
