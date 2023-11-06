@@ -8,7 +8,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - If the protagonist's voice is silent be sure to go to Steam, properties of the game and change the language to "English"! (found 5/11/23).
   - To avoid intro: open steamapps\common\Fallout 4\Data\Video\ and delete or rename the file “GameIntro_V3_B.bk2”
   - To turn on/off pip-boy flashlight: HOLD TAB!
-  - Remove Piper's Hat: console (ñ key in spanish keyboard, the key left to 1 in english keyboard)
+  - Remove Piper's Hat: console ("ñ" key in spanish keyboard, the key left to 1 in english keyboard)
     - 2f1f.unequipItem a81af
     - 2f1f.removeItem a81af
   - Remember to use Q for activating the V.A.T.S. on combat!
@@ -58,9 +58,9 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Buttons.](https://www.nexusmods.com/fallout4/mods/31710)
     
     <img src="companions/buttons.jpg"/>
+
     - [Companion Status UI Remastered](https://www.nexusmods.com/fallout4/mods/42925?tab=files)
 <img src="gui/Companion Status UI Remastered 1.jpg"/>
-  - [Other companion](https://www.nexusmods.com/fallout4/mods/31710)
 
 # Weather and landscape
   - [Misty Pines Overhaul](https://www.nexusmods.com/fallout4/mods/28990?tab=files)
@@ -68,7 +68,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Vivid Weathers](https://www.nexusmods.com/fallout4/mods/15466?tab=files)
   - [Better LOD](https://www.nexusmods.com/fallout4/mods/40417?tab=files)
   - [Better Rubble](https://www.nexusmods.com/fallout4/mods/36301?tab=files)
-    - [True Grass](https://www.nexusmods.com/fallout4/mods/23469?tab=files)
+  - [True Grass](https://www.nexusmods.com/fallout4/mods/23469?tab=files)
 
 # Collectibles
   - [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) (This treasure hunt adds 40 classic works of western philosophy.ESP marked as ESL.)
@@ -165,7 +165,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Long Loading Times Fix](https://www.nexusmods.com/fallout4/mods/73469?tab=files)
   - [Remove Helmet In Dialog](https://www.nexusmods.com/fallout4/mods/24480/)
   - [Vault 88 Crash Fix - Remove Molerats and Radscorps](https://www.nexusmods.com/fallout4/mods/73601)
-  - [Shadow Boost FO4](https://www.nexusmods.com/fallout4/mods/63482?tab=files) (Sets the distance of the shadows dynamically with F4SE).
+  - [Shadow Boost FO4](https://www.nexusmods.com/fallout4/mods/63482?tab=files) (Sets the distance of the shadows dynamically with F4SE). [check out this review by JuiceHead](https://www.youtube.com/watch?v=RdIzlBABMSY&t=4s).
 
 # Textures
   - [Vivid Fallout - All in One](https://www.nexusmods.com/fallout4/mods/25714/?tab=files)
@@ -207,6 +207,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 # Creatures
   - [Fog Crawlers Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/55698?tab=files)
   - [Institute Centaurs](https://www.nexusmods.com/fallout4/mods/41476?tab=files)
+  - [Mutant Menagerie - Life Finds A Way](https://www.nexusmods.com/fallout4/mods/68187?tab=files) ([review here](https://www.youtube.com/watch?v=RdIzlBABMSY&t=4s))
 
 # Bobbleheads
   - [New Vault-Girl Bobbleheads AIO.](https://www.nexusmods.com/fallout4/mods/60833) ( [NSFW version here.](https://www.nexusmods.com/fallout4/mods/63047) )
