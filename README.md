@@ -58,6 +58,8 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Buttons.](https://www.nexusmods.com/fallout4/mods/31710)
     
     <img src="companions/buttons.jpg"/>
+    - [Companion Status UI Remastered](https://www.nexusmods.com/fallout4/mods/42925?tab=files)
+<img src="gui/Companion Status UI Remastered 1.jpg"/>
   - [Other companion](https://www.nexusmods.com/fallout4/mods/31710)
 
 # Weather and landscape
@@ -197,8 +199,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Floating Damage](https://www.nexusmods.com/fallout4/mods/28684?tab=files)
   - [Some reviews here](https://www.youtube.com/watch?v=306g7_wV6Lg)
   - [Companion Status HUD](https://www.nexusmods.com/fallout4/mods/20310?tab=files)
-  - [Companion Status UI Remastered](https://www.nexusmods.com/fallout4/mods/42925?tab=files)
-<img src="gui/Companion Status UI Remastered 1.jpg"/>
   - [Active Effects on HUD](https://www.nexusmods.com/fallout4/mods/32735?tab=files)
   - [HUDCaps](https://www.nexusmods.com/fallout4/mods/43505)
   - [FIS - The NEW FallUI Item Sorter](https://www.nexusmods.com/fallout4/mods/60580?tab=files)
