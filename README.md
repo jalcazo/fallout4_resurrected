@@ -58,9 +58,9 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Buttons.](https://www.nexusmods.com/fallout4/mods/31710)
     
     <img src="companions/buttons.jpg"/>
+
     - [Companion Status UI Remastered](https://www.nexusmods.com/fallout4/mods/42925?tab=files)
 <img src="gui/Companion Status UI Remastered 1.jpg"/>
-  - [Other companion](https://www.nexusmods.com/fallout4/mods/31710)
 
 # Weather and landscape
   - [Misty Pines Overhaul](https://www.nexusmods.com/fallout4/mods/28990?tab=files)
