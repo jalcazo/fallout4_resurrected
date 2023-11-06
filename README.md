@@ -203,7 +203,8 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 <img src="gui/Companion Status UI Remastered 1.jpg"/>
   - [Active Effects on HUD](https://www.nexusmods.com/fallout4/mods/32735?tab=files)
   - [HUDCaps](https://www.nexusmods.com/fallout4/mods/43505)
-  - 
+  - [FIS - The NEW FallUI Item Sorter](https://www.nexusmods.com/fallout4/mods/60580?tab=files)
+  - [Quest Tags - FIS](https://www.nexusmods.com/fallout4/mods/67427?tab=files)
 
 # Creatures
   - [Fog Crawlers Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/55698?tab=files)
