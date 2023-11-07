@@ -212,6 +212,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Fog Crawlers Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/55698?tab=files)
   - [Institute Centaurs](https://www.nexusmods.com/fallout4/mods/41476?tab=files)
   - [Mutant Menagerie - Life Finds A Way](https://www.nexusmods.com/fallout4/mods/68187?tab=files) ([review here](https://www.youtube.com/watch?v=RdIzlBABMSY&t=4s))
+  - [Capital Wasteland Behemoths](https://www.nexusmods.com/fallout4/mods/41549).
 
 # Bobbleheads
   - [New Vault-Girl Bobbleheads AIO.](https://www.nexusmods.com/fallout4/mods/60833) ( [NSFW version here.](https://www.nexusmods.com/fallout4/mods/63047) )
@@ -221,4 +222,5 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 # Spanish translation, in case you want one
   - [LevelUpMenuEx - Spanish](https://www.nexusmods.com/fallout4/mods/55737)
   - [Fallout 4 - Point Lookout traduccion español](https://www.nexusmods.com/fallout4/mods/60413)
+  - [Capital Wasteland Behemoths Ver. Spanish](https://www.nexusmods.com/fallout4/mods/62014)
 
