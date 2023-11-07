@@ -216,7 +216,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Fog Crawlers Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/55698?tab=files)
   - [Institute Centaurs](https://www.nexusmods.com/fallout4/mods/41476?tab=files)
   - [Mutant Menagerie - Life Finds A Way](https://www.nexusmods.com/fallout4/mods/68187?tab=files) ([review here](https://www.youtube.com/watch?v=RdIzlBABMSY&t=4s))
-  - [Capital Wasteland Behemoths](https://www.nexusmods.com/fallout4/mods/41549).
+  - (Capital Wasteland Behemoths NO! too much difficult! Although tested and they look and behave good they are too much difficult).
   - [Respawnable Legendary Bosses and Hard Legendary Giant Creatures](https://www.nexusmods.com/fallout4/mods/10124?tab=files)
 
 # Bobbleheads
