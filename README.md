@@ -196,7 +196,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [FallUI - Icon Library](https://www.nexusmods.com/fallout4/mods/60579?tab=files)
   - [FallUI - Inventory](https://www.nexusmods.com/fallout4/mods/48758?tab=files)
   - [FallUI - Workbench](https://www.nexusmods.com/fallout4/mods/49300?tab=files)
-  - [FallUI - Map](https://www.nexusmods.com/fallout4/mods/49920?tab=files)
   - [FallUI - Confirm Boxes (incl. Yes Im Sure)](https://www.nexusmods.com/fallout4/mods/48958?tab=files)
   - [LevelUpMenuEx](https://www.nexusmods.com/fallout4/mods/28822)
   - [Nameplates - Floating Healthbars](https://www.nexusmods.com/fallout4/mods/21636?tab=files)
@@ -208,6 +207,11 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [FIS - The NEW FallUI Item Sorter](https://www.nexusmods.com/fallout4/mods/60580?tab=files)
   - [Quest Tags - FIS](https://www.nexusmods.com/fallout4/mods/67427?tab=files)
 
+
+# Map
+  - [Cartographers Map Markers (Fallout4 Edition) CMM](https://www.nexusmods.com/fallout4/mods/12581?tab=description) (more map markers!)
+  - [FallUI - Map](https://www.nexusmods.com/fallout4/mods/49920?tab=files)
+  
 # Creatures
   - [Fog Crawlers Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/55698?tab=files)
   - [Institute Centaurs](https://www.nexusmods.com/fallout4/mods/41476?tab=files)
@@ -226,3 +230,5 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Capital Wasteland Behemoths Ver. Spanish](https://www.nexusmods.com/fallout4/mods/62014)
   - [Respawnable Legendary Bosses and Hard Legendary Giant Creatures SPANISH](https://www.nexusmods.com/fallout4/mods/13503)
 
+# I plan to translate:
+  - Cartographers Map Markers.
