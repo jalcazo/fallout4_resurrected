@@ -116,7 +116,8 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Concord EXPANDED](https://www.nexusmods.com/fallout4/mods/27333?tab=files)
   - [Fort Hagen EXPANDED (More Loot Buildings and Enemies)](https://www.nexusmods.com/fallout4/mods/27607?tab=files)
   - [Better The Third Rail](https://www.nexusmods.com/fallout4/mods/15388?tab=files)
-  - [Welcome to Goodneighbor](https://www.nexusmods.com/fallout4/mods/15702?tab=files) ("expands and adds tons of new content to Goodneighbor. At over 500 lines of dialogue, this mod will take between 2-3 hours to complete.")
+  - Welcome to Goodneighbor: not recommended, unimmersive. Quest with dialog lines blank. No voiced protagonist. Try this instead better, better loose the quest and add immersion:
+  - [Goodneighbor View](https://www.nexusmods.com/fallout4/mods/72021?tab=files)
   - [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293?tab=files)
   - [Phase 4 An Institute Expansion.](https://www.nexusmods.com/fallout4/mods/42647?tab=files)
   - [South of The Sea. (Massive GS and more Expansion) (Final Update July 2020).](https://www.nexusmods.com/fallout4/mods/27870) (WARNING: "Youll still need the AWKCR patch if you still use that old mod).
