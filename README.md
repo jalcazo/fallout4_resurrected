@@ -98,6 +98,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Achievements Mods Enabler](https://www.nexusmods.com/fallout4/mods/15639/?tab=files)
   - [Immersive Vendors](https://www.nexusmods.com/fallout4/mods/10039) ([review here](https://www.youtube.com/watch?v=hiXwhQ13Nm0)).
   - [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987)
+  - [Realistic Death Physics - No Animations.](
 
 # Hunting
   - [More Wildlife.](https://www.nexusmods.com/fallout4/mods/51503?tab=files)
