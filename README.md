@@ -45,7 +45,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - [Ponytail Hairstyles by Azar v2.5a](https://www.nexusmods.com/fallout4/mods/8126?tab=files)
 - [Immersive Wastelanders](https://www.nexusmods.com/fallout4/mods/19544?tab=files) (I just hand-pick Piper, Magnolia, Cait, Tina deLuca & Glory, but you can pick whatever you like best).
 - [True Reporter - Piper Outfit Redone - CBBE - Vanilla - Bodyslide](https://www.nexusmods.com/fallout4/mods/11611?tab=files)
-- [FCO - HD Eyes](https://www.nexusmods.com/fallout4/mods/169/?)
 - [deLuxe Makeup](https://www.nexusmods.com/fallout4/mods/4398/?tab=files)
 - [Appealing Moles](https://www.nexusmods.com/fallout4/mods/3802/?)
 - [Eye Normal Map Fix Fallout 4 Edition](https://www.nexusmods.com/fallout4/mods/819/?tab=files)
@@ -99,6 +98,10 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Achievements Mods Enabler](https://www.nexusmods.com/fallout4/mods/15639/?tab=files)
   - [Immersive Vendors](https://www.nexusmods.com/fallout4/mods/10039) ([review here](https://www.youtube.com/watch?v=hiXwhQ13Nm0)).
   - [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987)
+
+# Hunting
+  - [More Wildlife.](https://www.nexusmods.com/fallout4/mods/51503?tab=files)
+  - [
 
 # Quests
   - [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) (Adds 12 new case files to Nick Valentine's).
