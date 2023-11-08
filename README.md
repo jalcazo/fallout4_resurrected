@@ -97,6 +97,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840/?tab=bugs)
   - [Achievements Mods Enabler](https://www.nexusmods.com/fallout4/mods/15639/?tab=files)
   - [Immersive Vendors](https://www.nexusmods.com/fallout4/mods/10039) ([review here](https://www.youtube.com/watch?v=hiXwhQ13Nm0)).
+  - [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987)
 
 # Quests
   - [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) (Adds 12 new case files to Nick Valentine's).
@@ -231,6 +232,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Fallout 4 - Point Lookout traduccion español.](https://www.nexusmods.com/fallout4/mods/60413)
   - [Respawnable Legendary Bosses and Hard Legendary Giant Creatures SPANISH.](https://www.nexusmods.com/fallout4/mods/13503)
   - [Immersive Vendors - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35759)
+  - [NPCs Travel (plus Fixes) - Spanish](https://www.nexusmods.com/fallout4/mods/55602)
 
 # I plan to translate:
   - Cartographers Map Markers.
