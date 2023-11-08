@@ -191,7 +191,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Raider Armors Retextured.](https://www.nexusmods.com/fallout4/mods/42933?tab=files)
   - [Retextured Terminals - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/24008?tab=files)
   - [Retextured Chems v.2 - Ephla's Unique Chems.](https://www.nexusmods.com/fallout4/mods/18867?tab=files)
-  - [FlaconOil's Complete Retexture Project.](https://www.nexusmods.com/fallout4/mods/3747?tab=files)
 
 # Clothing/Armor
   - [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187)
@@ -264,3 +263,4 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Tested and discarded mods
   - (Capital Wasteland Behemoths NO! too much difficult! Although tested and they look and behave good they are too much difficult).
+  - FlaconOil's Complete Retexture Project. NO! Gives a lot of conflicts with other mods in the modlist.
