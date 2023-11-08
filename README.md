@@ -195,21 +195,21 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Fallout 4 Point Lookout - Voiced Player Lines Addon](https://www.nexusmods.com/fallout4/mods/60387?tab=files)
 
 # GUI
-  - [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
-  - [FallUI - HUD](https://www.nexusmods.com/fallout4/mods/51813)
-  - [FallUI - Icon Library](https://www.nexusmods.com/fallout4/mods/60579?tab=files)
-  - [FallUI - Inventory](https://www.nexusmods.com/fallout4/mods/48758?tab=files)
-  - [FallUI - Workbench](https://www.nexusmods.com/fallout4/mods/49300?tab=files)
-  - [FallUI - Confirm Boxes (incl. Yes Im Sure)](https://www.nexusmods.com/fallout4/mods/48958?tab=files)
-  - [LevelUpMenuEx](https://www.nexusmods.com/fallout4/mods/28822)
-  - [Nameplates - Floating Healthbars](https://www.nexusmods.com/fallout4/mods/21636?tab=files)
-  - [Floating Damage](https://www.nexusmods.com/fallout4/mods/28684?tab=files)
-  - [Some reviews here](https://www.youtube.com/watch?v=306g7_wV6Lg)
-  - [Companion Status HUD](https://www.nexusmods.com/fallout4/mods/20310?tab=files)
-  - [Active Effects on HUD](https://www.nexusmods.com/fallout4/mods/32735?tab=files)
-  - [HUDCaps](https://www.nexusmods.com/fallout4/mods/43505)
-  - [FIS - The NEW FallUI Item Sorter](https://www.nexusmods.com/fallout4/mods/60580?tab=files)
-  - [Quest Tags - FIS](https://www.nexusmods.com/fallout4/mods/67427?tab=files)
+  - [HUDFramework.](https://www.nexusmods.com/fallout4/mods/20309)
+  - [FallUI - HUD.](https://www.nexusmods.com/fallout4/mods/51813)
+  - [FallUI - Icon Library.](https://www.nexusmods.com/fallout4/mods/60579?tab=files)
+  - [FallUI - Inventory.](https://www.nexusmods.com/fallout4/mods/48758?tab=files)
+  - [FallUI - Workbench.](https://www.nexusmods.com/fallout4/mods/49300?tab=files)
+  - [FallUI - Confirm Boxes (incl. Yes Im Sure).](https://www.nexusmods.com/fallout4/mods/48958?tab=files) (vanilla-like preset is better for me).
+  - [LevelUpMenuEx.](https://www.nexusmods.com/fallout4/mods/28822)
+  - [Nameplates - Floating Healthbars.](https://www.nexusmods.com/fallout4/mods/21636?tab=files)
+  - [Floating Damage.](https://www.nexusmods.com/fallout4/mods/28684?tab=files)
+  - [Some reviews here.](https://www.youtube.com/watch?v=306g7_wV6Lg)
+  - [Companion Status HUD.](https://www.nexusmods.com/fallout4/mods/20310?tab=files)
+  - [Active Effects on HUD.](https://www.nexusmods.com/fallout4/mods/32735?tab=files)
+  - [HUDCaps.](https://www.nexusmods.com/fallout4/mods/43505)
+  - [FIS - The NEW FallUI Item Sorter.](https://www.nexusmods.com/fallout4/mods/60580?tab=files)
+  - [Quest Tags - FIS.](https://www.nexusmods.com/fallout4/mods/67427?tab=files)
 
 
 # Map
@@ -229,7 +229,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 <img src="collectibles/bobbleheads/1.jpg"/>
 
 # Weapons
-  - [WARS - Weapon Addition and Replacement Suite.](https://www.nexusmods.com/fallout4/mods/73478) [(reviewed here by JuiceHead).](https://www.youtube.com/watch?v=hkcsDV50wac), requires:
+  - [WARS - Weapon Addition and Replacement Suite.](https://www.nexusmods.com/fallout4/mods/73478) [(reviewed here by JuiceHead).](https://www.youtube.com/watch?v=hkcsDV50wac) requires:
     - [Bullet Counted Reload System (BCR).](https://www.nexusmods.com/fallout4/mods/41178)
     - [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420)
     - [AmmoTweaks v1.11.](https://github.com/isathar/F4_AmmoTweaks/releases/tag/1.1) (not on Nexus!)
