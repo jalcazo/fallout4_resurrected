@@ -98,11 +98,11 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Achievements.](https://www.nexusmods.com/fallout4/mods/12465?tab=files)
   - [Immersive Vendors](https://www.nexusmods.com/fallout4/mods/10039) ([review here](https://www.youtube.com/watch?v=hiXwhQ13Nm0)).
   - [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987)
-  - [Realistic Death Physics - No Animations.](
+  - [Realistic Death Physics - No Animations.](https://www.nexusmods.com/fallout4/mods/4371/?tab=description)
+  - [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521)
 
 # Hunting
   - [More Wildlife.](https://www.nexusmods.com/fallout4/mods/51503?tab=files)
-  - [
 
 # Quests
   - [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) (Adds 12 new case files to Nick Valentine's).
@@ -128,20 +128,21 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293?tab=files)
   - [Phase 4 An Institute Expansion.](https://www.nexusmods.com/fallout4/mods/42647?tab=files)
   - [South of The Sea. (Massive GS and more Expansion) (Final Update July 2020).](https://www.nexusmods.com/fallout4/mods/27870) (WARNING: "Youll still need the AWKCR patch if you still use that old mod).
-  - [Immersive and Extended Nahant](https://www.nexusmods.com/fallout4/mods/36636/)
-  - [Immersive Hub City Auto Wreckers](https://www.nexusmods.com/fallout4/mods/35882?tab=files)
-  - [Immersive Vault 95](https://www.nexusmods.com/fallout4/mods/31674)
-  - [Immersive Beantown Brewery](https://www.nexusmods.com/fallout4/mods/31598?tab=files)
-  - [The Waste Landfill](https://www.nexusmods.com/fallout4/mods/35344?tab=files)
-  - [Commonwealth Underground and Forgotten Spaces](https://www.nexusmods.com/fallout4/mods/27584?tab=files)
-  - [The Sewers](https://www.nexusmods.com/fallout4/mods/45663?tab=files)
-  - [Wildwood Cemetery Tombs ESL Flagged ESP](https://www.nexusmods.com/fallout4/mods/51802?tab=files)
-  - [Williams Plaza](https://www.nexusmods.com/fallout4/mods/59566/?tab=files)
-  - [Better Skylanes Flight 1981 Crash-site](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
-  - [Better UFO Crash Site](https://www.nexusmods.com/fallout4/mods/13521?tab=files)
-  - [Landwer Interiors Project](https://www.nexusmods.com/fallout4/mods/52889?tab=files)
-  - [Commonwealth Improvements - Fort Strong](https://www.nexusmods.com/fallout4/mods/22287/?tab=files)
-  - [Egret's Secret](https://www.nexusmods.com/fallout4/mods/22031/?tab=files)
+  - [Immersive and Extended Nahant.](https://www.nexusmods.com/fallout4/mods/36636/)
+  - [Immersive Hub City Auto Wreckers.](https://www.nexusmods.com/fallout4/mods/35882?tab=files)
+  - [Immersive Vault 95.](https://www.nexusmods.com/fallout4/mods/31674)
+  - [Immersive Beantown Brewery.](https://www.nexusmods.com/fallout4/mods/31598?tab=files)
+  - [The Waste Landfill.](https://www.nexusmods.com/fallout4/mods/35344?tab=files)
+  - [Commonwealth Underground and Forgotten Spaces.](https://www.nexusmods.com/fallout4/mods/27584?tab=files)
+  - [The Sewers.](https://www.nexusmods.com/fallout4/mods/45663?tab=files)
+  - [Wildwood Cemetery Tombs ESL Flagged ESP.](https://www.nexusmods.com/fallout4/mods/51802?tab=files)
+  - [Williams Plaza.](https://www.nexusmods.com/fallout4/mods/59566/?tab=files)
+  - [Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
+  - [Better UFO Crash Site.](https://www.nexusmods.com/fallout4/mods/13521?tab=files)
+  - [Landwer Interiors Project.](https://www.nexusmods.com/fallout4/mods/52889?tab=files)
+  - [Commonwealth Improvements - Fort Strong.](https://www.nexusmods.com/fallout4/mods/22287/?tab=files)
+  - [Egret's Secret.](https://www.nexusmods.com/fallout4/mods/22031/?tab=files)
+  - [Welcome to Fallon's.](https://www.nexusmods.com/fallout4/mods/25629)
 
 # Homes
   - [Army Bunker player home and settlement. (Elianora)](https://www.nexusmods.com/fallout4/mods/62209)
