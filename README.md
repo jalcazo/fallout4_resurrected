@@ -73,7 +73,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) (This treasure hunt adds 40 classic works of western philosophy.ESP marked as ESL.)
     
     <img src="collectibles/philosophy_books.jpg"/>
-  - [Teddies 76](https://www.nexusmods.com/fallout4/mods/57424)
+  - [Teddies 76. (Elianora)](https://www.nexusmods.com/fallout4/mods/57424)
 
 # Ketaros Collectibles
   - [Ketaros Framework.](https://www.nexusmods.com/fallout4/mods/68236) (needed for all his add-ons).
@@ -143,7 +143,11 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Egret's Secret.](https://www.nexusmods.com/fallout4/mods/22031/?tab=files)
   - [Welcome to Fallon's.](https://www.nexusmods.com/fallout4/mods/25629)
 
-# Homes
+# Homes / Houses
+  - [Faction Housing Overhaul - All In One. (Elianora)](https://www.nexusmods.com/fallout4/mods/15814?tab=files)
+  - [The Crib - Raider Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/46236)
+  - [Hangman's Flat - Raider or Overboss player home.](Hangman's Flat - Raider or Overboss player home)
+  - [Far Harbor Shack. (Elianora)](https://www.nexusmods.com/fallout4/mods/25359?tab=files)
   - [Army Bunker player home and settlement. (Elianora)](https://www.nexusmods.com/fallout4/mods/62209)
     
     <img src="homes/elianora_army_bunker.jpg"/>
@@ -265,8 +269,14 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Immersive Vendors - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35759)
   - [NPCs Travel (plus Fixes) - Spanish](https://www.nexusmods.com/fallout4/mods/55602)
 
-# I plan to translate:
+# Factions
+  - [Church of Atom Overhaul.](https://www.nexusmods.com/fallout4/mods/26173)
+  - 
+
+# I plan to translate to spanish:
   - Cartographers Map Markers.
+  - Church of Atom Overhaul
+  - Far Harbor Shack. (Elianora)
 
 # Tested and discarded mods
   - (Capital Wasteland Behemoths NO! too much difficult! Although tested and they look and behave good they are too much difficult).
