@@ -99,6 +99,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Immersive Vendors](https://www.nexusmods.com/fallout4/mods/10039) ([review here](https://www.youtube.com/watch?v=hiXwhQ13Nm0)).
   - [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987)
   - [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521)
+  - [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447?tab=files)
 
 # Hunting
   - [More Wildlife.](https://www.nexusmods.com/fallout4/mods/51503?tab=files)
@@ -262,16 +263,16 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426)
   - [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087?tab=files)
 
+# Factions
+  - [Church of Atom Overhaul.](https://www.nexusmods.com/fallout4/mods/26173)
+
 # Spanish translation, in case you want one
   - [LevelUpMenuEx - Spanish.](https://www.nexusmods.com/fallout4/mods/55737)
   - [Fallout 4 - Point Lookout traduccion español.](https://www.nexusmods.com/fallout4/mods/60413)
   - [Respawnable Legendary Bosses and Hard Legendary Giant Creatures SPANISH.](https://www.nexusmods.com/fallout4/mods/13503)
   - [Immersive Vendors - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35759)
   - [NPCs Travel (plus Fixes) - Spanish](https://www.nexusmods.com/fallout4/mods/55602)
-
-# Factions
-  - [Church of Atom Overhaul.](https://www.nexusmods.com/fallout4/mods/26173)
-  - 
+  - [Backpacks of the Commonwealth - ES.](https://www.nexusmods.com/fallout4/mods/64851)
 
 # I plan to translate to spanish:
   - Cartographers Map Markers.
