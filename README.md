@@ -98,7 +98,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Achievements.](https://www.nexusmods.com/fallout4/mods/12465?tab=files)
   - [Immersive Vendors](https://www.nexusmods.com/fallout4/mods/10039) ([review here](https://www.youtube.com/watch?v=hiXwhQ13Nm0)).
   - [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987)
-  - [Realistic Death Physics - No Animations.](https://www.nexusmods.com/fallout4/mods/4371/?tab=description)
   - [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521)
 
 # Hunting
@@ -176,8 +175,15 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Remove Helmet In Dialog](https://www.nexusmods.com/fallout4/mods/24480/)
   - [Vault 88 Crash Fix - Remove Molerats and Radscorps](https://www.nexusmods.com/fallout4/mods/73601)
   - [Shadow Boost FO4](https://www.nexusmods.com/fallout4/mods/63482?tab=files) (Sets the distance of the shadows dynamically with F4SE). [check out this review by JuiceHead](https://www.youtube.com/watch?v=RdIzlBABMSY&t=4s).
-  - [No Crafting Animations.](https://www.nexusmods.com/fallout4/mods/63183?tab=files)
   - [High FPS Physics Fix.](https://www.nexusmods.com/fallout4/mods/44798) (Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.)
+  
+# Animations
+  - [Immersive Facial Animations REMADE - IFAR.](https://www.nexusmods.com/fallout4/mods/2224?tab=files)
+  - [No Crafting Animations.](https://www.nexusmods.com/fallout4/mods/63183?tab=files)
+  - [No Door Animations - Instant Doors.](https://www.nexusmods.com/fallout4/mods/63224)
+  - [Realistic Death Physics - No Animations.](https://www.nexusmods.com/fallout4/mods/4371/?tab=description)
+
+  
 
 # Textures
   - [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714/?tab=files)
