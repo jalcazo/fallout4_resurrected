@@ -13,6 +13,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     - 2f1f.removeItem a81af
   - Remember to use Q for activating the V.A.T.S. on combat!
   - Hold TAB in combat to throw grenade/molotov coctails, etc.
+  - Remember R to draw/sheathe weapon.
 
 # Essential (many mods need these)
 
