@@ -202,12 +202,12 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Gore Overhaul 3.0 -Reload-](https://www.nexusmods.com/fallout4/mods/21216?tab=files)
 
 # Main Menu
-  - [Post Apocalypse Main Menu](https://www.nexusmods.com/fallout4/mods/74231?tab=files)
+  - [Post Apocalypse Main Menu.](https://www.nexusmods.com/fallout4/mods/74231?tab=files)
 
 # Expansions
-  - [Caves Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/75647)
-  - [Fallout 4 - Point Lookout](https://www.nexusmods.com/fallout4/mods/60330?tab=files)
-  - [Fallout 4 Point Lookout - Voiced Player Lines Addon](https://www.nexusmods.com/fallout4/mods/60387?tab=files)
+  - [Caves Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/75647)
+  - [Fallout 4 - Point Lookout.](https://www.nexusmods.com/fallout4/mods/60330?tab=files)
+  - [Fallout 4 Point Lookout - Voiced Player Lines Addon.](https://www.nexusmods.com/fallout4/mods/60387?tab=files)
 
 # GUI
   - [HUDFramework.](https://www.nexusmods.com/fallout4/mods/20309)
@@ -228,14 +228,13 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 
 # Map
-  - [Cartographers Map Markers (Fallout4 Edition) CMM](https://www.nexusmods.com/fallout4/mods/12581?tab=description) (more map markers!)
-  - [FallUI - Map](https://www.nexusmods.com/fallout4/mods/49920?tab=files)
+  - [Cartographers Map Markers (Fallout4 Edition) CMM.](https://www.nexusmods.com/fallout4/mods/12581?tab=description) (more map markers!)
+  - [FallUI - Map.](https://www.nexusmods.com/fallout4/mods/49920?tab=files)
   
 # Creatures
-  - [Fog Crawlers Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/55698?tab=files)
-  - [Institute Centaurs](https://www.nexusmods.com/fallout4/mods/41476?tab=files)
-  - [Mutant Menagerie - Life Finds A Way](https://www.nexusmods.com/fallout4/mods/68187?tab=files) ([review here](https://www.youtube.com/watch?v=RdIzlBABMSY&t=4s))
-  - (Capital Wasteland Behemoths NO! too much difficult! Although tested and they look and behave good they are too much difficult).
+  - [Fog Crawlers Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/55698?tab=files)
+  - [Institute Centaurs.](https://www.nexusmods.com/fallout4/mods/41476?tab=files)
+  - [Mutant Menagerie - Life Finds A Way.](https://www.nexusmods.com/fallout4/mods/68187?tab=files) ([review here](https://www.youtube.com/watch?v=RdIzlBABMSY&t=4s))
   - [Respawnable Legendary Bosses and Hard Legendary Giant Creatures](https://www.nexusmods.com/fallout4/mods/10124?tab=files)
 
 # Bobbleheads
@@ -262,3 +261,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # I plan to translate:
   - Cartographers Map Markers.
+
+# Tested and discarded mods
+  - (Capital Wasteland Behemoths NO! too much difficult! Although tested and they look and behave good they are too much difficult).
