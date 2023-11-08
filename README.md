@@ -152,7 +152,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Audio
   - [Aggressive synth voice overhaul.](https://www.nexusmods.com/fallout4/mods/2105)
-  - [Cough.](https://www.nexusmods.com/fallout4/mods/49235)
 
 # Fixes
   - [Ownership Fixes](https://www.nexusmods.com/fallout4/mods/56885)
