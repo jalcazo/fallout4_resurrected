@@ -95,7 +95,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737?tab=files)
   - [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025?tab=files)
   - [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840/?tab=bugs)
-  - [Achievements Mods Enabler](https://www.nexusmods.com/fallout4/mods/15639/?tab=files)
+  - [Achievements.](https://www.nexusmods.com/fallout4/mods/12465?tab=files)
   - [Immersive Vendors](https://www.nexusmods.com/fallout4/mods/10039) ([review here](https://www.youtube.com/watch?v=hiXwhQ13Nm0)).
   - [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987)
   - [Realistic Death Physics - No Animations.](
@@ -186,6 +186,12 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [U.S. Covert Operations Manual Redux - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/53012?tab=files)
   - [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742?tab=files)
   - [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560?tab=files)
+  - [Total Hack - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/50253?tab=files)
+  - [Classic Wasteland Survival Guide - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/49999?tab=files)
+  - [Raider Armors Retextured.](https://www.nexusmods.com/fallout4/mods/42933?tab=files)
+  - [Retextured Terminals - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/24008?tab=files)
+  - [Retextured Chems v.2 - Ephla's Unique Chems.](https://www.nexusmods.com/fallout4/mods/18867?tab=files)
+  - [FlaconOil's Complete Retexture Project.](https://www.nexusmods.com/fallout4/mods/3747?tab=files)
 
 # Clothing/Armor
   - [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187)
@@ -244,10 +250,8 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     - [AmmoTweaks v1.11.](https://github.com/isathar/F4_AmmoTweaks/releases/tag/1.1) (not on Nexus!)
     - [Settlement Menu Manager.](https://www.nexusmods.com/fallout4/mods/24204?tab=files)
     - Other mods already in this modlist.
-  - [Craftable Ammo.](https://www.nexusmods.com/fallout4/mods/798?tab=files)
   - [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426)
   - [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087?tab=files)
-  - 
 
 # Spanish translation, in case you want one
   - [LevelUpMenuEx - Spanish.](https://www.nexusmods.com/fallout4/mods/55737)
