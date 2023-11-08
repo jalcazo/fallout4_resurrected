@@ -179,8 +179,13 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [High FPS Physics Fix.](https://www.nexusmods.com/fallout4/mods/44798) (Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.)
 
 # Textures
-  - [Vivid Fallout - All in One](https://www.nexusmods.com/fallout4/mods/25714/?tab=files)
-  - [Vivid Fallout - LOD and Far Distant Detail](https://www.nexusmods.com/fallout4/mods/71745)
+  - [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714/?tab=files)
+  - [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745)
+  - [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425?tab=files)
+  - [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511)
+  - [U.S. Covert Operations Manual Redux - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/53012?tab=files)
+  - [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742?tab=files)
+  - [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560?tab=files)
 
 # Clothing/Armor
   - [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187)
