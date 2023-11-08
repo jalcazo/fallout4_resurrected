@@ -153,6 +153,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Audio
   - [Aggressive synth voice overhaul.](https://www.nexusmods.com/fallout4/mods/2105)
+  - [More Where That Came From - Diamond City Radio Edition.](https://www.nexusmods.com/fallout4/mods/637/?tab=files)
 
 # Fixes
   - [Ownership Fixes](https://www.nexusmods.com/fallout4/mods/56885)
