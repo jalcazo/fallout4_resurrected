@@ -65,7 +65,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 # Weather and landscape
   - [Misty Pines Overhaul](https://www.nexusmods.com/fallout4/mods/28990?tab=files)
   - [True Storms](https://www.nexusmods.com/fallout4/mods/4472?tab=files)
-  - [Vivid Weathers](https://www.nexusmods.com/fallout4/mods/15466?tab=files)
+  - [Vivid Weathers.](https://www.nexusmods.com/fallout4/mods/15466?tab=files) (don't enable "Vivid Waters" since we are using [Clean Water of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/16297?tab=files) (I like the tropical preset).
   - [Better LOD](https://www.nexusmods.com/fallout4/mods/40417?tab=files)
   - [Better Rubble](https://www.nexusmods.com/fallout4/mods/36301?tab=files)
   - [True Grass](https://www.nexusmods.com/fallout4/mods/23469?tab=files)
