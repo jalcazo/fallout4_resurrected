@@ -237,6 +237,10 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     - [AmmoTweaks v1.11.](https://github.com/isathar/F4_AmmoTweaks/releases/tag/1.1) (not on Nexus!)
     - [Settlement Menu Manager.](https://www.nexusmods.com/fallout4/mods/24204?tab=files)
     - Other mods already in this modlist.
+  - [Craftable Ammo.](https://www.nexusmods.com/fallout4/mods/798?tab=files)
+  - [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426)
+  - [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087?tab=files)
+  - 
 
 # Spanish translation, in case you want one
   - [LevelUpMenuEx - Spanish.](https://www.nexusmods.com/fallout4/mods/55737)
