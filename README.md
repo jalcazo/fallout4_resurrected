@@ -229,7 +229,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 <img src="collectibles/bobbleheads/1.jpg"/>
 
 # Weapons
-  - [WARS - Weapon Addition and Replacement Suite.](https://www.nexusmods.com/fallout4/mods/73478), [(reviewed here by JuiceHead).](https://www.youtube.com/watch?v=hkcsDV50wac), requires:
+  - [WARS - Weapon Addition and Replacement Suite.](https://www.nexusmods.com/fallout4/mods/73478) [(reviewed here by JuiceHead).](https://www.youtube.com/watch?v=hkcsDV50wac), requires:
     - [Bullet Counted Reload System (BCR).](https://www.nexusmods.com/fallout4/mods/41178)
     - [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420)
     - [AmmoTweaks v1.11.](https://github.com/isathar/F4_AmmoTweaks/releases/tag/1.1) (not on Nexus!)
