@@ -101,6 +101,8 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) (Adds 12 new case files to Nick Valentine's).
   - [Atomic Radio and Tales from the Commonwealth](https://www.nexusmods.com/fallout4/mods/8704?tab=files) (be sure to download BOTH).
   - [America Rising 2 - Legacy of the Enclave](https://www.nexusmods.com/fallout4/mods/75767?tab=files) (remaster of the 1).
+  - [Outcasts and Remnants - Quest Mod Plus](https://www.nexusmods.com/fallout4/mods/21469) ("DLC-sized quest mod. 20 hours of game play with new factions, locations, player bases, and fully-voiced custom companions.").
+  - [Depravity](https://www.nexusmods.com/fallout4/mods/35513?tab=description) (Large quest/companion mod with evil RPG options for the vanilla main story. Aug 2019 Mod of the Month. 40 quests, 13 companions, around 20 hours of content.) (needs Outcasts and Remnants).
 
 # Buildings / area expansions
   - [Atomic World](https://www.nexusmods.com/fallout4/mods/28713)
@@ -114,7 +116,8 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Concord EXPANDED](https://www.nexusmods.com/fallout4/mods/27333?tab=files)
   - [Fort Hagen EXPANDED (More Loot Buildings and Enemies)](https://www.nexusmods.com/fallout4/mods/27607?tab=files)
   - [Better The Third Rail](https://www.nexusmods.com/fallout4/mods/15388?tab=files)
-  - [Welcome to Goodneighbor](https://www.nexusmods.com/fallout4/mods/15702?tab=files) ("expands and adds tons of new content to Goodneighbor. At over 500 lines of dialogue, this mod will take between 2-3 hours to complete.")
+  - Welcome to Goodneighbor: not recommended, unimmersive. Quest with dialog lines blank. No voiced protagonist. Try this instead better, better loose the quest and add immersion:
+  - [Goodneighbor View](https://www.nexusmods.com/fallout4/mods/72021?tab=files)
   - [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293?tab=files)
   - [Phase 4 An Institute Expansion.](https://www.nexusmods.com/fallout4/mods/42647?tab=files)
   - [South of The Sea. (Massive GS and more Expansion) (Final Update July 2020).](https://www.nexusmods.com/fallout4/mods/27870) (WARNING: "Youll still need the AWKCR patch if you still use that old mod).
@@ -193,7 +196,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [FallUI - Icon Library](https://www.nexusmods.com/fallout4/mods/60579?tab=files)
   - [FallUI - Inventory](https://www.nexusmods.com/fallout4/mods/48758?tab=files)
   - [FallUI - Workbench](https://www.nexusmods.com/fallout4/mods/49300?tab=files)
-  - [FallUI - Map](https://www.nexusmods.com/fallout4/mods/49920?tab=files)
   - [FallUI - Confirm Boxes (incl. Yes Im Sure)](https://www.nexusmods.com/fallout4/mods/48958?tab=files)
   - [LevelUpMenuEx](https://www.nexusmods.com/fallout4/mods/28822)
   - [Nameplates - Floating Healthbars](https://www.nexusmods.com/fallout4/mods/21636?tab=files)
@@ -205,10 +207,17 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [FIS - The NEW FallUI Item Sorter](https://www.nexusmods.com/fallout4/mods/60580?tab=files)
   - [Quest Tags - FIS](https://www.nexusmods.com/fallout4/mods/67427?tab=files)
 
+
+# Map
+  - [Cartographers Map Markers (Fallout4 Edition) CMM](https://www.nexusmods.com/fallout4/mods/12581?tab=description) (more map markers!)
+  - [FallUI - Map](https://www.nexusmods.com/fallout4/mods/49920?tab=files)
+  
 # Creatures
   - [Fog Crawlers Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/55698?tab=files)
   - [Institute Centaurs](https://www.nexusmods.com/fallout4/mods/41476?tab=files)
   - [Mutant Menagerie - Life Finds A Way](https://www.nexusmods.com/fallout4/mods/68187?tab=files) ([review here](https://www.youtube.com/watch?v=RdIzlBABMSY&t=4s))
+  - (Capital Wasteland Behemoths NO! too much difficult! Although tested and they look and behave good they are too much difficult).
+  - [Respawnable Legendary Bosses and Hard Legendary Giant Creatures](https://www.nexusmods.com/fallout4/mods/10124?tab=files)
 
 # Bobbleheads
   - [New Vault-Girl Bobbleheads AIO.](https://www.nexusmods.com/fallout4/mods/60833) ( [NSFW version here.](https://www.nexusmods.com/fallout4/mods/63047) )
@@ -218,4 +227,8 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 # Spanish translation, in case you want one
   - [LevelUpMenuEx - Spanish](https://www.nexusmods.com/fallout4/mods/55737)
   - [Fallout 4 - Point Lookout traduccion español](https://www.nexusmods.com/fallout4/mods/60413)
+  - [Capital Wasteland Behemoths Ver. Spanish](https://www.nexusmods.com/fallout4/mods/62014)
+  - [Respawnable Legendary Bosses and Hard Legendary Giant Creatures SPANISH](https://www.nexusmods.com/fallout4/mods/13503)
 
+# I plan to translate:
+  - Cartographers Map Markers.
