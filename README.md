@@ -281,6 +281,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [NPCs Travel (plus Fixes) - Spanish](https://www.nexusmods.com/fallout4/mods/55602)
   - [Backpacks of the Commonwealth - ES.](https://www.nexusmods.com/fallout4/mods/64851)
   - [Outcasts and Remnants - Quest Mod Plus SPANISH.](https://www.nexusmods.com/fallout4/mods/42017)
+  - [Eli's Armour Compendium (Spanish Translation).](https://www.nexusmods.com/fallout4/mods/24882)
 
 # I plan to translate to spanish:
   - Cartographers Map Markers.
