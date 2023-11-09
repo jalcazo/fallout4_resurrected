@@ -184,7 +184,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [High FPS Physics Fix.](https://www.nexusmods.com/fallout4/mods/44798) (Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.)
   
 # Animations
-  - [Immersive Facial Animations REMADE - IFAR.](https://www.nexusmods.com/fallout4/mods/2224?tab=files)
   - [No Crafting Animations.](https://www.nexusmods.com/fallout4/mods/63183?tab=files)
   - [No Door Animations - Instant Doors.](https://www.nexusmods.com/fallout4/mods/63224)
   - [Realistic Death Physics - No Animations.](https://www.nexusmods.com/fallout4/mods/4371/?tab=description)
@@ -292,3 +291,5 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 # Tested and discarded mods
   - (Capital Wasteland Behemoths NO! too much difficult! Although tested and they look and behave good they are too much difficult).
   - FlaconOil's Complete Retexture Project. NO! Gives a lot of conflicts with other mods in the modlist.
+  - Immersive Facial Animations REMADE - IFAR. NO! Too exaggerate facial animations even in the lowest presets.
+  - Too many other...
