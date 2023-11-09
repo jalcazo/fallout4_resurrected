@@ -149,6 +149,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [The Crib - Raider Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/46236)
   - [Hangman's Flat - Raider or Overboss player home.](Hangman's Flat - Raider or Overboss player home)
   - [Far Harbor Shack. (Elianora)](https://www.nexusmods.com/fallout4/mods/25359?tab=files)
+  - [Chestnut Lodge - Player Home.](https://www.nexusmods.com/fallout4/mods/25033)
   - [Army Bunker player home and settlement. (Elianora)](https://www.nexusmods.com/fallout4/mods/62209)
     
     <img src="homes/elianora_army_bunker.jpg"/>
@@ -273,11 +274,13 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Immersive Vendors - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35759)
   - [NPCs Travel (plus Fixes) - Spanish](https://www.nexusmods.com/fallout4/mods/55602)
   - [Backpacks of the Commonwealth - ES.](https://www.nexusmods.com/fallout4/mods/64851)
+  - [Outcasts and Remnants - Quest Mod Plus SPANISH.](https://www.nexusmods.com/fallout4/mods/42017)
 
 # I plan to translate to spanish:
   - Cartographers Map Markers.
   - Church of Atom Overhaul
   - Far Harbor Shack. (Elianora)
+  - Chestnut Lodge - Player Home.
 
 # Tested and discarded mods
   - (Capital Wasteland Behemoths NO! too much difficult! Although tested and they look and behave good they are too much difficult).
