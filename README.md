@@ -149,7 +149,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [The Crib - Raider Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/46236)
   - [Hangman's Flat - Raider or Overboss player home.](Hangman's Flat - Raider or Overboss player home)
   - [Far Harbor Shack. (Elianora)](https://www.nexusmods.com/fallout4/mods/25359?tab=files)
-  - [Chestnut Lodge - Player Home.](https://www.nexusmods.com/fallout4/mods/25033)
+  - [Chestnut Lodge - Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/25033)
   - [Army Bunker player home and settlement. (Elianora)](https://www.nexusmods.com/fallout4/mods/62209)
     
     <img src="homes/elianora_army_bunker.jpg"/>
@@ -189,8 +189,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [No Door Animations - Instant Doors.](https://www.nexusmods.com/fallout4/mods/63224)
   - [Realistic Death Physics - No Animations.](https://www.nexusmods.com/fallout4/mods/4371/?tab=description)
 
-  
-
 # Textures
   - [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714/?tab=files)
   - [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745)
@@ -201,13 +199,22 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560?tab=files)
   - [Total Hack - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/50253?tab=files)
   - [Classic Wasteland Survival Guide - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/49999?tab=files)
-  - [Raider Armors Retextured.](https://www.nexusmods.com/fallout4/mods/42933?tab=files)
   - [Retextured Terminals - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/24008?tab=files)
+
+<img src="textures/terminals.jpg"/>
+
   - [Retextured Chems v.2 - Ephla's Unique Chems.](https://www.nexusmods.com/fallout4/mods/18867?tab=files)
+  - [Raider Armors Retextured.](https://www.nexusmods.com/fallout4/mods/42933?tab=files)
+
+<img src="textures/raider_armors_retextured.jpg"/>
 
 # Clothing/Armor
   - [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187)
   - [More Clothes and Textures (CBBE)](https://www.nexusmods.com/fallout4/mods/40315?tab=files)
+  - [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431?tab=description)
+
+<img src="armor/elis_compendium.jpg"/>
+
 
 # Gore and blood
   - [Enhanced Blood Textures.](https://www.nexusmods.com/fallout4/mods/212/)
