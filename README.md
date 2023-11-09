@@ -73,7 +73,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) (This treasure hunt adds 40 classic works of western philosophy.ESP marked as ESL.)
     
     <img src="collectibles/philosophy_books.jpg"/>
-  - [Teddies 76](https://www.nexusmods.com/fallout4/mods/57424)
+  - [Teddies 76. (Elianora)](https://www.nexusmods.com/fallout4/mods/57424)
 
 # Ketaros Collectibles
   - [Ketaros Framework.](https://www.nexusmods.com/fallout4/mods/68236) (needed for all his add-ons).
@@ -95,14 +95,14 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737?tab=files)
   - [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025?tab=files)
   - [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840/?tab=bugs)
-  - [Achievements Mods Enabler](https://www.nexusmods.com/fallout4/mods/15639/?tab=files)
+  - [Achievements.](https://www.nexusmods.com/fallout4/mods/12465?tab=files)
   - [Immersive Vendors](https://www.nexusmods.com/fallout4/mods/10039) ([review here](https://www.youtube.com/watch?v=hiXwhQ13Nm0)).
   - [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987)
-  - [Realistic Death Physics - No Animations.](
+  - [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521)
+  - [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447?tab=files)
 
 # Hunting
   - [More Wildlife.](https://www.nexusmods.com/fallout4/mods/51503?tab=files)
-  - [
 
 # Quests
   - [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) (Adds 12 new case files to Nick Valentine's).
@@ -128,22 +128,28 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293?tab=files)
   - [Phase 4 An Institute Expansion.](https://www.nexusmods.com/fallout4/mods/42647?tab=files)
   - [South of The Sea. (Massive GS and more Expansion) (Final Update July 2020).](https://www.nexusmods.com/fallout4/mods/27870) (WARNING: "Youll still need the AWKCR patch if you still use that old mod).
-  - [Immersive and Extended Nahant](https://www.nexusmods.com/fallout4/mods/36636/)
-  - [Immersive Hub City Auto Wreckers](https://www.nexusmods.com/fallout4/mods/35882?tab=files)
-  - [Immersive Vault 95](https://www.nexusmods.com/fallout4/mods/31674)
-  - [Immersive Beantown Brewery](https://www.nexusmods.com/fallout4/mods/31598?tab=files)
-  - [The Waste Landfill](https://www.nexusmods.com/fallout4/mods/35344?tab=files)
-  - [Commonwealth Underground and Forgotten Spaces](https://www.nexusmods.com/fallout4/mods/27584?tab=files)
-  - [The Sewers](https://www.nexusmods.com/fallout4/mods/45663?tab=files)
-  - [Wildwood Cemetery Tombs ESL Flagged ESP](https://www.nexusmods.com/fallout4/mods/51802?tab=files)
-  - [Williams Plaza](https://www.nexusmods.com/fallout4/mods/59566/?tab=files)
-  - [Better Skylanes Flight 1981 Crash-site](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
-  - [Better UFO Crash Site](https://www.nexusmods.com/fallout4/mods/13521?tab=files)
-  - [Landwer Interiors Project](https://www.nexusmods.com/fallout4/mods/52889?tab=files)
-  - [Commonwealth Improvements - Fort Strong](https://www.nexusmods.com/fallout4/mods/22287/?tab=files)
-  - [Egret's Secret](https://www.nexusmods.com/fallout4/mods/22031/?tab=files)
+  - [Immersive and Extended Nahant.](https://www.nexusmods.com/fallout4/mods/36636/)
+  - [Immersive Hub City Auto Wreckers.](https://www.nexusmods.com/fallout4/mods/35882?tab=files)
+  - [Immersive Vault 95.](https://www.nexusmods.com/fallout4/mods/31674)
+  - [Immersive Beantown Brewery.](https://www.nexusmods.com/fallout4/mods/31598?tab=files)
+  - [The Waste Landfill.](https://www.nexusmods.com/fallout4/mods/35344?tab=files)
+  - [Commonwealth Underground and Forgotten Spaces.](https://www.nexusmods.com/fallout4/mods/27584?tab=files)
+  - [The Sewers.](https://www.nexusmods.com/fallout4/mods/45663?tab=files)
+  - [Wildwood Cemetery Tombs ESL Flagged ESP.](https://www.nexusmods.com/fallout4/mods/51802?tab=files)
+  - [Williams Plaza.](https://www.nexusmods.com/fallout4/mods/59566/?tab=files)
+  - [Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
+  - [Better UFO Crash Site.](https://www.nexusmods.com/fallout4/mods/13521?tab=files)
+  - [Landwer Interiors Project.](https://www.nexusmods.com/fallout4/mods/52889?tab=files)
+  - [Commonwealth Improvements - Fort Strong.](https://www.nexusmods.com/fallout4/mods/22287/?tab=files)
+  - [Egret's Secret.](https://www.nexusmods.com/fallout4/mods/22031/?tab=files)
+  - [Welcome to Fallon's.](https://www.nexusmods.com/fallout4/mods/25629)
 
-# Homes
+# Homes / Houses
+  - [Faction Housing Overhaul - All In One. (Elianora)](https://www.nexusmods.com/fallout4/mods/15814?tab=files)
+  - [The Crib - Raider Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/46236)
+  - [Hangman's Flat - Raider or Overboss player home.](Hangman's Flat - Raider or Overboss player home)
+  - [Far Harbor Shack. (Elianora)](https://www.nexusmods.com/fallout4/mods/25359?tab=files)
+  - [Chestnut Lodge - Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/25033)
   - [Army Bunker player home and settlement. (Elianora)](https://www.nexusmods.com/fallout4/mods/62209)
     
     <img src="homes/elianora_army_bunker.jpg"/>
@@ -153,6 +159,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Audio
   - [Aggressive synth voice overhaul.](https://www.nexusmods.com/fallout4/mods/2105)
+  - [More Where That Came From - Diamond City Radio Edition.](https://www.nexusmods.com/fallout4/mods/637/?tab=files)
 
 # Fixes
   - [Ownership Fixes](https://www.nexusmods.com/fallout4/mods/56885)
@@ -174,28 +181,52 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Remove Helmet In Dialog](https://www.nexusmods.com/fallout4/mods/24480/)
   - [Vault 88 Crash Fix - Remove Molerats and Radscorps](https://www.nexusmods.com/fallout4/mods/73601)
   - [Shadow Boost FO4](https://www.nexusmods.com/fallout4/mods/63482?tab=files) (Sets the distance of the shadows dynamically with F4SE). [check out this review by JuiceHead](https://www.youtube.com/watch?v=RdIzlBABMSY&t=4s).
-  - [No Crafting Animations.](https://www.nexusmods.com/fallout4/mods/63183?tab=files)
   - [High FPS Physics Fix.](https://www.nexusmods.com/fallout4/mods/44798) (Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.)
+  
+# Animations
+  - [Immersive Facial Animations REMADE - IFAR.](https://www.nexusmods.com/fallout4/mods/2224?tab=files)
+  - [No Crafting Animations.](https://www.nexusmods.com/fallout4/mods/63183?tab=files)
+  - [No Door Animations - Instant Doors.](https://www.nexusmods.com/fallout4/mods/63224)
+  - [Realistic Death Physics - No Animations.](https://www.nexusmods.com/fallout4/mods/4371/?tab=description)
 
 # Textures
-  - [Vivid Fallout - All in One](https://www.nexusmods.com/fallout4/mods/25714/?tab=files)
-  - [Vivid Fallout - LOD and Far Distant Detail](https://www.nexusmods.com/fallout4/mods/71745)
+  - [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714/?tab=files)
+  - [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745)
+  - [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425?tab=files)
+  - [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511)
+  - [U.S. Covert Operations Manual Redux - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/53012?tab=files)
+  - [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742?tab=files)
+  - [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560?tab=files)
+  - [Total Hack - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/50253?tab=files)
+  - [Classic Wasteland Survival Guide - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/49999?tab=files)
+  - [Retextured Terminals - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/24008?tab=files)
+
+<img src="textures/terminals.jpg"/>
+
+  - [Retextured Chems v.2 - Ephla's Unique Chems.](https://www.nexusmods.com/fallout4/mods/18867?tab=files)
+  - [Raider Armors Retextured.](https://www.nexusmods.com/fallout4/mods/42933?tab=files)
+
+<img src="textures/raider_armors_retextured.jpg"/>
 
 # Clothing/Armor
   - [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187)
   - [More Clothes and Textures (CBBE)](https://www.nexusmods.com/fallout4/mods/40315?tab=files)
+  - [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431?tab=description)
+
+<img src="armor/elis_compendium.jpg"/>
+
 
 # Gore and blood
   - [Enhanced Blood Textures.](https://www.nexusmods.com/fallout4/mods/212/)
   - [Gore Overhaul 3.0 -Reload-](https://www.nexusmods.com/fallout4/mods/21216?tab=files)
 
 # Main Menu
-  - [Post Apocalypse Main Menu](https://www.nexusmods.com/fallout4/mods/74231?tab=files)
+  - [Post Apocalypse Main Menu.](https://www.nexusmods.com/fallout4/mods/74231?tab=files)
 
 # Expansions
-  - [Caves Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/75647)
-  - [Fallout 4 - Point Lookout](https://www.nexusmods.com/fallout4/mods/60330?tab=files)
-  - [Fallout 4 Point Lookout - Voiced Player Lines Addon](https://www.nexusmods.com/fallout4/mods/60387?tab=files)
+  - [Caves Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/75647)
+  - [Fallout 4 - Point Lookout.](https://www.nexusmods.com/fallout4/mods/60330?tab=files)
+  - [Fallout 4 Point Lookout - Voiced Player Lines Addon.](https://www.nexusmods.com/fallout4/mods/60387?tab=files)
 
 # GUI
   - [HUDFramework.](https://www.nexusmods.com/fallout4/mods/20309)
@@ -216,14 +247,13 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 
 # Map
-  - [Cartographers Map Markers (Fallout4 Edition) CMM](https://www.nexusmods.com/fallout4/mods/12581?tab=description) (more map markers!)
-  - [FallUI - Map](https://www.nexusmods.com/fallout4/mods/49920?tab=files)
+  - [Cartographers Map Markers (Fallout4 Edition) CMM.](https://www.nexusmods.com/fallout4/mods/12581?tab=description) (more map markers!)
+  - [FallUI - Map.](https://www.nexusmods.com/fallout4/mods/49920?tab=files)
   
 # Creatures
-  - [Fog Crawlers Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/55698?tab=files)
-  - [Institute Centaurs](https://www.nexusmods.com/fallout4/mods/41476?tab=files)
-  - [Mutant Menagerie - Life Finds A Way](https://www.nexusmods.com/fallout4/mods/68187?tab=files) ([review here](https://www.youtube.com/watch?v=RdIzlBABMSY&t=4s))
-  - (Capital Wasteland Behemoths NO! too much difficult! Although tested and they look and behave good they are too much difficult).
+  - [Fog Crawlers Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/55698?tab=files)
+  - [Institute Centaurs.](https://www.nexusmods.com/fallout4/mods/41476?tab=files)
+  - [Mutant Menagerie - Life Finds A Way.](https://www.nexusmods.com/fallout4/mods/68187?tab=files) ([review here](https://www.youtube.com/watch?v=RdIzlBABMSY&t=4s))
   - [Respawnable Legendary Bosses and Hard Legendary Giant Creatures](https://www.nexusmods.com/fallout4/mods/10124?tab=files)
 
 # Bobbleheads
@@ -238,10 +268,11 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     - [AmmoTweaks v1.11.](https://github.com/isathar/F4_AmmoTweaks/releases/tag/1.1) (not on Nexus!)
     - [Settlement Menu Manager.](https://www.nexusmods.com/fallout4/mods/24204?tab=files)
     - Other mods already in this modlist.
-  - [Craftable Ammo.](https://www.nexusmods.com/fallout4/mods/798?tab=files)
   - [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426)
   - [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087?tab=files)
-  - 
+
+# Factions
+  - [Church of Atom Overhaul.](https://www.nexusmods.com/fallout4/mods/26173)
 
 # Spanish translation, in case you want one
   - [LevelUpMenuEx - Spanish.](https://www.nexusmods.com/fallout4/mods/55737)
@@ -249,6 +280,15 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Respawnable Legendary Bosses and Hard Legendary Giant Creatures SPANISH.](https://www.nexusmods.com/fallout4/mods/13503)
   - [Immersive Vendors - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35759)
   - [NPCs Travel (plus Fixes) - Spanish](https://www.nexusmods.com/fallout4/mods/55602)
+  - [Backpacks of the Commonwealth - ES.](https://www.nexusmods.com/fallout4/mods/64851)
+  - [Outcasts and Remnants - Quest Mod Plus SPANISH.](https://www.nexusmods.com/fallout4/mods/42017)
 
-# I plan to translate:
+# I plan to translate to spanish:
   - Cartographers Map Markers.
+  - Church of Atom Overhaul
+  - Far Harbor Shack. (Elianora)
+  - Chestnut Lodge - Player Home.
+
+# Tested and discarded mods
+  - (Capital Wasteland Behemoths NO! too much difficult! Although tested and they look and behave good they are too much difficult).
+  - FlaconOil's Complete Retexture Project. NO! Gives a lot of conflicts with other mods in the modlist.
