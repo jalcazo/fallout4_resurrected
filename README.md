@@ -27,7 +27,12 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Looks Menu Customization Compendium](https://www.nexusmods.com/fallout4/mods/24830)
   - [Unofficial Fallout 4 Patch - UFO4P](https://www.nexusmods.com/fallout4/mods/4598)
   - [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216?tab=files)
-  - [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984)
+  - [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). NEVER USE High FPS Fix mod with this mod!
+  - Be sure to reenable texts reading the description of the mod!
+
+# Loading screens
+
+  - Grab this mod: [Automated Loadscreen Replacer (ALR)](https://www.nexusmods.com/fallout4/mods/52322). Put 25 or more 1920x1080 (or your desktop resolution screens on 
 
 # NPC's/Presets
 
