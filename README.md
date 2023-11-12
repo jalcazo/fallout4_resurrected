@@ -214,11 +214,10 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745)
   - [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425?tab=files)
   - [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511)
-  - [U.S. Covert Operations Manual Redux - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/53012?tab=files)
+  
   - [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742?tab=files)
   - [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560?tab=files)
-  - [Total Hack - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/50253?tab=files)
-  - [Classic Wasteland Survival Guide - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/49999?tab=files)
+  
   - [Retextured Terminals - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/24008?tab=files)
 
 <img src="textures/terminals.jpg"/>
@@ -227,6 +226,14 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Raider Armors Retextured.](https://www.nexusmods.com/fallout4/mods/42933?tab=files)
 
 <img src="textures/raider_armors_retextured.jpg"/>
+
+# Magazines
+
+| [Ketaros Missing Magazines.](https://www.nexusmods.com/fallout4/mods/63541) | a |
+| [Classic Wasteland Survival Guide - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/49999) | a |
+| [U.S. Covert Operations Manual Redux - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/53012) | a |
+| [Total Hack - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/50253) | a |
+  
 
 # Clothing/Armor
   - [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187)
@@ -323,6 +330,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Extended Facial Sculpting - now with 90 percent less beta](https://www.nexusmods.com/fallout4/mods/25087) | a |
 | [Valkyr Female Face and Body Textures.](https://www.nexusmods.com/fallout4/mods/3841) | a |
 | [Female Neck Tweaks.](https://www.nexusmods.com/fallout4/mods/21331) | a |
+| [Wasteland Heroines Replacer and Presets All in One.](https://www.nexusmods.com/fallout4/mods/29205) | a |
 
 # Tested and discarded mods
   - (Capital Wasteland Behemoths NO! too much difficult! Although tested and they look and behave good they are too much difficult).
