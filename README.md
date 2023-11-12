@@ -109,9 +109,17 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [More Wildlife.](https://www.nexusmods.com/fallout4/mods/51503?tab=files)
 
 # Quests
-  - [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) (Adds 12 new case files to Nick Valentine's).
-  - [Atomic Radio and Tales from the Commonwealth](https://www.nexusmods.com/fallout4/mods/8704?tab=files) (be sure to download BOTH).
-  - [America Rising 2 - Legacy of the Enclave](https://www.nexusmods.com/fallout4/mods/75767?tab=files) (remaster of the 1).
+
+| Mod | Summary |
+|----------|----------|
+| [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) | Adds 12 new case files to Nick Valentine's detective office in Diamond City. |
+| [Atomic Radio and Tales from the Commonwealth.](https://www.nexusmods.com/fallout4/mods/8704) | Be sure to download **BOTH.** |
+
+# DLC sized expansions
+
+| [America Rising 2 - Legacy of the Enclave](https://www.nexusmods.com/fallout4/mods/75767) | Remaster of the 1. Review by JuiceHead. |
+
+
   - [Outcasts and Remnants - Quest Mod Plus](https://www.nexusmods.com/fallout4/mods/21469) ("DLC-sized quest mod. 20 hours of game play with new factions, locations, player bases, and fully-voiced custom companions.").
   - [Depravity](https://www.nexusmods.com/fallout4/mods/35513?tab=description) (Large quest/companion mod with evil RPG options for the vanilla main story. Aug 2019 Mod of the Month. 40 quests, 13 companions, around 20 hours of content.) (needs Outcasts and Remnants).
 
@@ -156,6 +164,13 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Army Bunker player home and settlement. (Elianora)](https://www.nexusmods.com/fallout4/mods/62209)
     
     <img src="homes/elianora_army_bunker.jpg"/>
+
+
+# Power armor
+
+| [Scrappable Power Armor Pieces.](https://www.nexusmods.com/fallout4/mods/17787) | todo |
+| [Power Armor Animation Changes.](https://www.nexusmods.com/fallout4/mods/4408) | todo |
+
 
 # Locations
   - [Immersive Drumlin Diner](https://www.nexusmods.com/fallout4/mods/18995)
