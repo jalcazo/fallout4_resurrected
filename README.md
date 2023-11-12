@@ -18,16 +18,20 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Essential (many mods need these)
 
-  - [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147?tab=files) (Fallout Faces & HiPoly Faces REDUX require it).
-  - [Address Library for F4SE Plugins](https://www.nexusmods.com/fallout4/mods/47327?tab=files)
-  - [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497) (Fallout Faces & HiPoly Faces REDUX require it).
-  - [MCM Booster](https://www.nexusmods.com/fallout4/mods/56997?tab=files)
-  - [MCM Settings Manager](https://www.nexusmods.com/fallout4/mods/56195?tab=files)
-  - [LooksMenu](https://www.nexusmods.com/fallout4/mods/12631) (Fallout Faces & HiPoly Faces REDUX require it).
-  - [Looks Menu Customization Compendium](https://www.nexusmods.com/fallout4/mods/24830)
-  - [Unofficial Fallout 4 Patch - UFO4P](https://www.nexusmods.com/fallout4/mods/4598)
-  - [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216?tab=files)
-  - [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984).
+| Mod | Summary |
+|----------|----------|
+| [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147) | (Fallout Faces & HiPoly Faces REDUX require it). A lot of mods require F4SE, it's essential. |
+| [Address Library for F4SE Plugins](https://www.nexusmods.com/fallout4/mods/47327) | ``` TODO. TO BE DONE 🚧 ``` | 
+| [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497) | (Fallout Faces & HiPoly Faces REDUX require it). Let you configure your mods via ESC menu |
+| [MCM Booster](https://www.nexusmods.com/fallout4/mods/56997) | Makes MCM go faster using some black magic. |
+| [MCM Settings Manager](https://www.nexusmods.com/fallout4/mods/56195) | ``` TODO. TO BE DONE 🚧 ``` |
+| [LooksMenu](https://www.nexusmods.com/fallout4/mods/12631) | (Fallout Faces & HiPoly Faces REDUX require it). A lot of mods require it for improved characters. |
+| [Looks Menu Customization Compendium](https://www.nexusmods.com/fallout4/mods/24830) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Unofficial Fallout 4 Patch - UFO4P](https://www.nexusmods.com/fallout4/mods/4598) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216) | Easier conversation. |
+| [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative startings. Not doing the same playthrough (and initial long cutscene) every time. |
+| [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. |
+
 
 # NPC's/Presets
 
@@ -116,18 +120,17 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Minuteman Watchtowers](https://www.nexusmods.com/fallout4/mods/67115?tab=files) (pick the ESL).
   - [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320?tab=files)
   - [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539)
-  - [Lexington Interiors](https://www.nexusmods.com/fallout4/mods/19120)
   - [moreXplore](https://www.nexusmods.com/fallout4/mods/28733?tab=files)
   - [Rsiyo's Location Pack](https://www.nexusmods.com/fallout4/mods/38501)
   - [Salem Expanded](https://www.nexusmods.com/fallout4/mods/27420?tab=files)
   - [Concord EXPANDED](https://www.nexusmods.com/fallout4/mods/27333?tab=files)
   - [Fort Hagen EXPANDED (More Loot Buildings and Enemies)](https://www.nexusmods.com/fallout4/mods/27607?tab=files)
   - [Better The Third Rail](https://www.nexusmods.com/fallout4/mods/15388?tab=files)
-  - Welcome to Goodneighbor: not recommended, unimmersive. Quest with dialog lines blank. No voiced protagonist. Try this instead better, better loose the quest and add immersion:
-  - [Goodneighbor View](https://www.nexusmods.com/fallout4/mods/72021?tab=files)
-  - [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293?tab=files)
-  - [Phase 4 An Institute Expansion.](https://www.nexusmods.com/fallout4/mods/42647?tab=files)
-  - [South of The Sea. (Massive GS and more Expansion) (Final Update July 2020).](https://www.nexusmods.com/fallout4/mods/27870) (WARNING: "Youll still need the AWKCR patch if you still use that old mod).
+  - Welcome to Goodneighbor: not recommended, unimmersive. Quest with dialog lines blank. No voiced protagonist. Try this instead better, better lose the quest and add immersion:
+  - [Goodneighbor View](https://www.nexusmods.com/fallout4/mods/72021)
+  - [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293)
+  - [Phase 4 An Institute Expansion.](https://www.nexusmods.com/fallout4/mods/42647)
+  - [South of The Sea. (Massive GS and more Expansion) (Final Update July 2020).](https://www.nexusmods.com/fallout4/mods/27870) (WARNING: "You'll still need the AWKCR patch if you still use that old mod).
   - [Immersive and Extended Nahant.](https://www.nexusmods.com/fallout4/mods/36636/)
   - [Immersive Hub City Auto Wreckers.](https://www.nexusmods.com/fallout4/mods/35882?tab=files)
   - [Immersive Vault 95.](https://www.nexusmods.com/fallout4/mods/31674)
@@ -260,14 +263,10 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 <img src="collectibles/bobbleheads/1.jpg"/>
 
 # Weapons
-  - [WARS - Weapon Addition and Replacement Suite.](https://www.nexusmods.com/fallout4/mods/73478) [(reviewed here by JuiceHead).](https://www.youtube.com/watch?v=hkcsDV50wac) requires:
-    - [Bullet Counted Reload System (BCR).](https://www.nexusmods.com/fallout4/mods/41178)
-    - [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420)
-    - [AmmoTweaks v1.11.](https://github.com/isathar/F4_AmmoTweaks/releases/tag/1.1) (not on Nexus!)
-    - [Settlement Menu Manager.](https://www.nexusmods.com/fallout4/mods/24204?tab=files)
-    - Other mods already in this modlist.
-  - [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426)
-  - [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087?tab=files)
+  
+- [Settlement Menu Manager.](https://www.nexusmods.com/fallout4/mods/24204?tab=files)
+- [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426)
+- [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087?tab=files)
 
 # Factions
   - [Church of Atom Overhaul.](https://www.nexusmods.com/fallout4/mods/26173)
