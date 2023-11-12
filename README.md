@@ -35,6 +35,10 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # NPC's/Presets
 
+| Mod | Summary |
+|----------|----------|
+|[Lucky Cricket's Caravan for CBBE - SHB.](https://www.nexusmods.com/fallout4/mods/20298) | a |
+
   - [Fallout Faces (Male All-in-One and Female All-in-One](https://www.nexusmods.com/fallout4/mods/59064?tab=files), requires:
     - [CBBE](https://www.nexusmods.com/fallout4/mods/15?tab=files)
     - [HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB)](https://www.nexusmods.com/fallout4/mods/58950?tab=files)
@@ -200,9 +204,10 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [High FPS Physics Fix.](https://www.nexusmods.com/fallout4/mods/44798) | (Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.) |
   
 # Animations
-  - [No Crafting Animations.](https://www.nexusmods.com/fallout4/mods/63183?tab=files)
-  - [No Door Animations - Instant Doors.](https://www.nexusmods.com/fallout4/mods/63224)
-  - [Realistic Death Physics - No Animations.](https://www.nexusmods.com/fallout4/mods/4371/?tab=description)
+| [No Crafting Animations.](https://www.nexusmods.com/fallout4/mods/63183) | a |
+| [No Door Animations - Instant Doors.](https://www.nexusmods.com/fallout4/mods/63224) | a |
+| [Realistic Death Physics - No Animations.](https://www.nexusmods.com/fallout4/mods/4371) | a |
+| [Combat Knife Animations.](https://www.nexusmods.com/fallout4/mods/75952) | a |
 
 # Textures
   - [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714/?tab=files)
@@ -309,6 +314,11 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - Church of Atom Overhaul
   - Far Harbor Shack. (Elianora)
   - Chestnut Lodge - Player Home.
+
+# Presets
+
+| [Enhanced Vanilla Face Presets For Females.](https://www.nexusmods.com/fallout4/mods/35696) | a |
+
 
 # Tested and discarded mods
   - (Capital Wasteland Behemoths NO! too much difficult! Although tested and they look and behave good they are too much difficult).
