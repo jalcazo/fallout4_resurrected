@@ -160,30 +160,29 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 # Locations
   - [Immersive Drumlin Diner](https://www.nexusmods.com/fallout4/mods/18995)
 
-# Audio
-  - [Aggressive synth voice overhaul.](https://www.nexusmods.com/fallout4/mods/2105)
-  - [More Where That Came From - Diamond City Radio Edition.](https://www.nexusmods.com/fallout4/mods/637/?tab=files)
-
 # Fixes
-  - [Ownership Fixes](https://www.nexusmods.com/fallout4/mods/56885)
-  - [Radio Reverb Fix](https://www.nexusmods.com/fallout4/mods/16563?tab=files)
-  - [River Fix](https://www.nexusmods.com/fallout4/mods/36762?tab=files) (choose the ESL to avoid counting towards the mod limit).
-  - [Fixed Gobo Effects](https://www.nexusmods.com/fallout4/mods/27445)
-  - [Long Save Bug Fix](https://www.nexusmods.com/fallout4/mods/68681)
-  - [Fallout 4 Fixes](https://www.nexusmods.com/fallout4/mods/63005)
-  - [Mesh Bounds Fix](https://www.nexusmods.com/fallout4/mods/70817?tab=files)
-  - [Interior NavCut Fix](https://www.nexusmods.com/fallout4/mods/72904?tab=files)
-  - [Water LOD Fix](https://www.nexusmods.com/fallout4/mods/33815)
-  - [Elevator Buttons Fix (Contraptions)](https://www.nexusmods.com/fallout4/mods/20664)
-  - [NPC Drinking Fix](https://www.nexusmods.com/fallout4/mods/53980)
-  - [Fixed Alpha Maps](https://www.nexusmods.com/fallout4/mods/28974?tab=files)
-  - [High Res DLC Black Face Fix](https://www.nexusmods.com/fallout4/mods/21907)
-  - [Diamond City Auto Close Gate](https://www.nexusmods.com/fallout4/mods/12928)
-  - [Long Loading Times Fix](https://www.nexusmods.com/fallout4/mods/73469?tab=files)
-  - [Remove Helmet In Dialog](https://www.nexusmods.com/fallout4/mods/24480/)
-  - [Vault 88 Crash Fix - Remove Molerats and Radscorps](https://www.nexusmods.com/fallout4/mods/73601)
-  - [Shadow Boost FO4](https://www.nexusmods.com/fallout4/mods/63482?tab=files) (Sets the distance of the shadows dynamically with F4SE). [check out this review by JuiceHead](https://www.youtube.com/watch?v=RdIzlBABMSY&t=4s).
-  - [High FPS Physics Fix.](https://www.nexusmods.com/fallout4/mods/44798) (Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.)
+
+| Mod | Summary |
+|----------|----------|
+| [Ownership Fixes.](https://www.nexusmods.com/fallout4/mods/56885) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Radio Reverb Fix.](https://www.nexusmods.com/fallout4/mods/16563) | ``` TODO. TO BE DONE 🚧 ``` |
+| [River Fix](https://www.nexusmods.com/fallout4/mods/36762) | (choose the ESL to avoid counting towards the mod limit). |
+| [Fixed Gobo Effects](https://www.nexusmods.com/fallout4/mods/27445) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Long Save Bug Fix](https://www.nexusmods.com/fallout4/mods/68681) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Fallout 4 Fixes](https://www.nexusmods.com/fallout4/mods/63005) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Mesh Bounds Fix](https://www.nexusmods.com/fallout4/mods/70817) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Interior NavCut Fix](https://www.nexusmods.com/fallout4/mods/72904) | Fixes disappearing buildings at random times. |
+| [Water LOD Fix](https://www.nexusmods.com/fallout4/mods/33815) | Makes water look prettier from the distance. |
+| [Elevator Buttons Fix (Contraptions)](https://www.nexusmods.com/fallout4/mods/20664) | A fix in the buttons of a certain elevator. |
+| [NPC Drinking Fix](https://www.nexusmods.com/fallout4/mods/53980) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Fixed Alpha Maps](https://www.nexusmods.com/fallout4/mods/28974) | Fixes some vanilla not working transparencies. | 
+| [High Res DLC Black Face Fix](https://www.nexusmods.com/fallout4/mods/21907) | Fixes an annoying bug where some pale character has the dark face but not the body, after loading a game. Happens in Skyrim too. |
+| [Diamond City Auto Close Gate](https://www.nexusmods.com/fallout4/mods/12928) | Fixes lore/consistency bug. |
+| [Long Loading Times Fix](https://www.nexusmods.com/fallout4/mods/73469?tab=files) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Remove Helmet In Dialog](https://www.nexusmods.com/fallout4/mods/24480/) | I want to see my characters face when talking! Not his/her helmet! This automatically fixes it. |
+| [Vault 88 Crash Fix - Remove Molerats and Radscorps](https://www.nexusmods.com/fallout4/mods/73601) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Shadow Boost FO4](https://www.nexusmods.com/fallout4/mods/63482) | (Sets the distance of the shadows dynamically with F4SE). [check out this review by JuiceHead](https://www.youtube.com/watch? v=RdIzlBABMSY&t=4s). |
+| [High FPS Physics Fix.](https://www.nexusmods.com/fallout4/mods/44798) | (Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.) |
   
 # Animations
   - [No Crafting Animations.](https://www.nexusmods.com/fallout4/mods/63183?tab=files)
@@ -216,13 +215,22 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 <img src="armor/elis_compendium.jpg"/>
 
+# Audio
+
+| Mod | Summary |
+|----------|----------|
+| [Aggressive synth voice overhaul.](https://www.nexusmods.com/fallout4/mods/2105) | More menacing-sounding synths. Very cool and immersive. |
+| [More Where That Came From - Diamond City Radio Edition.](https://www.nexusmods.com/fallout4/mods/637) | More classical tunes in the radio. |
 
 # Gore and blood
   - [Enhanced Blood Textures.](https://www.nexusmods.com/fallout4/mods/212/)
   - [Gore Overhaul 3.0 -Reload-](https://www.nexusmods.com/fallout4/mods/21216?tab=files)
 
 # Main Menu
-  - [Post Apocalypse Main Menu.](https://www.nexusmods.com/fallout4/mods/74231?tab=files)
+
+| Mod | Summary |
+|----------|----------|
+| a | b |
 
 # Expansions
   - [Caves Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/75647)
