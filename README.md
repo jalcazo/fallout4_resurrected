@@ -176,7 +176,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [NPC Drinking Fix](https://www.nexusmods.com/fallout4/mods/53980)
   - [Fixed Alpha Maps](https://www.nexusmods.com/fallout4/mods/28974?tab=files)
   - [High Res DLC Black Face Fix](https://www.nexusmods.com/fallout4/mods/21907)
-  - [High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798)
   - [Diamond City Auto Close Gate](https://www.nexusmods.com/fallout4/mods/12928)
   - [Long Loading Times Fix](https://www.nexusmods.com/fallout4/mods/73469?tab=files)
   - [Remove Helmet In Dialog](https://www.nexusmods.com/fallout4/mods/24480/)
