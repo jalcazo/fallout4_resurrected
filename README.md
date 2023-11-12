@@ -49,7 +49,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - [deLuxe Makeup](https://www.nexusmods.com/fallout4/mods/4398/?tab=files)
 - [Appealing Moles](https://www.nexusmods.com/fallout4/mods/3802/?)
 - [Eye Normal Map Fix Fallout 4 Edition](https://www.nexusmods.com/fallout4/mods/819/?tab=files)
-- [HN66s and XAZOMNs Distinctive Teeth for FO4](https://www.nexusmods.com/fallout4/mods/20946/?tab=files)
 - [Sexy Hancock](https://www.nexusmods.com/fallout4/mods/12029/?tab=files)
 - [Ghastly - Ghoul Eyes Texture](https://www.nexusmods.com/fallout4/mods/5013?tab=files)
 - [Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton](https://www.nexusmods.com/fallout4/mods/9568/?tab=files)
