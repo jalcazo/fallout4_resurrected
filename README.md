@@ -145,7 +145,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Immersive Beantown Brewery.](https://www.nexusmods.com/fallout4/mods/31598?tab=files)
   - [The Waste Landfill.](https://www.nexusmods.com/fallout4/mods/35344?tab=files)
   - [Commonwealth Underground and Forgotten Spaces.](https://www.nexusmods.com/fallout4/mods/27584?tab=files)
-  - [The Sewers.](https://www.nexusmods.com/fallout4/mods/45663?tab=files)
+  | [The Sewers.](https://www.nexusmods.com/fallout4/mods/45663?tab=files) | (ESM file). |
   - [Wildwood Cemetery Tombs ESL Flagged ESP.](https://www.nexusmods.com/fallout4/mods/51802?tab=files)
   - [Williams Plaza.](https://www.nexusmods.com/fallout4/mods/59566/?tab=files)
   - [Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
