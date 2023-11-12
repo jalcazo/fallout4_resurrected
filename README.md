@@ -317,8 +317,12 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Presets
 
+| Mod | Summary |
+|----------|----------|
 | [Enhanced Vanilla Face Presets For Females.](https://www.nexusmods.com/fallout4/mods/35696) | a |
-
+| [Extended Facial Sculpting - now with 90 percent less beta](https://www.nexusmods.com/fallout4/mods/25087) | a |
+| [Valkyr Female Face and Body Textures.](https://www.nexusmods.com/fallout4/mods/3841) | a |
+| [Female Neck Tweaks.](https://www.nexusmods.com/fallout4/mods/21331) | a |
 
 # Tested and discarded mods
   - (Capital Wasteland Behemoths NO! too much difficult! Although tested and they look and behave good they are too much difficult).
