@@ -333,7 +333,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Wasteland Heroines Replacer and Presets All in One.](https://www.nexusmods.com/fallout4/mods/29205) | a |
 
 # Tested and discarded mods
-  - (Capital Wasteland Behemoths NO! too much difficult! Although tested and they look and behave good they are too much difficult).
-  - FlaconOil's Complete Retexture Project. NO! Gives a lot of conflicts with other mods in the modlist.
-  - Immersive Facial Animations REMADE - IFAR. NO! Too exaggerate facial animations even in the lowest presets.
+  - (Capital Wasteland Behemoths NO! Too much difficult! Although tested and they look and behave good they are too much difficult).
+  | FlaconOil's Complete Retexture Project. | NO! Gives a lot of conflicts with other mods in the modlist and performance problems and a heavy drop of FPS in certain areas. 1
+  - Immersive Facial Animations REMADE - IFAR. NO! Too exaggerated facial animations even in the lowest presets.
   - Too many other...
