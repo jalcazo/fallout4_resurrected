@@ -14,21 +14,30 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - Remember to use Q for activating the V.A.T.S. on combat!
   - Hold TAB in combat to throw grenade/molotov coctails, etc.
   - Remember R to draw/sheathe weapon.
+  - [REMEMBER HOW TO HACK TERMINALS!](https://www.thegamer.com/fallout-4-guide-terminal-passwords-hacking/) **It's important to click on { [ ( etc (that highlight several characters) to remove words or reset attempts!** (it says "Dud" removed and removes a possible key).
 
 # Essential (many mods need these)
 
-  - [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147?tab=files) (Fallout Faces & HiPoly Faces REDUX require it).
-  - [Address Library for F4SE Plugins](https://www.nexusmods.com/fallout4/mods/47327?tab=files)
-  - [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497) (Fallout Faces & HiPoly Faces REDUX require it).
-  - [MCM Booster](https://www.nexusmods.com/fallout4/mods/56997?tab=files)
-  - [MCM Settings Manager](https://www.nexusmods.com/fallout4/mods/56195?tab=files)
-  - [LooksMenu](https://www.nexusmods.com/fallout4/mods/12631) (Fallout Faces & HiPoly Faces REDUX require it).
-  - [Looks Menu Customization Compendium](https://www.nexusmods.com/fallout4/mods/24830)
-  - [Unofficial Fallout 4 Patch - UFO4P](https://www.nexusmods.com/fallout4/mods/4598)
-  - [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216?tab=files)
-  - [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984)
+| Mod | Summary |
+|----------|----------|
+| [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147) | (Fallout Faces & HiPoly Faces REDUX require it). A lot of mods require F4SE, it's essential. |
+| [Address Library for F4SE Plugins](https://www.nexusmods.com/fallout4/mods/47327) | ``` TODO. TO BE DONE 🚧 ``` | 
+| [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497) | (Fallout Faces & HiPoly Faces REDUX require it). Let you configure your mods via ESC menu |
+| [MCM Booster](https://www.nexusmods.com/fallout4/mods/56997) | Makes MCM go faster using some black magic. |
+| [MCM Settings Manager](https://www.nexusmods.com/fallout4/mods/56195) | ``` TODO. TO BE DONE 🚧 ``` |
+| [LooksMenu](https://www.nexusmods.com/fallout4/mods/12631) | (Fallout Faces & HiPoly Faces REDUX require it). A lot of mods require it for improved characters. |
+| [Looks Menu Customization Compendium](https://www.nexusmods.com/fallout4/mods/24830) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Unofficial Fallout 4 Patch - UFO4P](https://www.nexusmods.com/fallout4/mods/4598) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216) | Easier conversation. |
+| [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative startings. Not doing the same playthrough (and initial long cutscene) every time. |
+| [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. |
+
 
 # NPC's/Presets
+
+| Mod | Summary |
+|----------|----------|
+|[Lucky Cricket's Caravan for CBBE - SHB.](https://www.nexusmods.com/fallout4/mods/20298) | a |
 
   - [Fallout Faces (Male All-in-One and Female All-in-One](https://www.nexusmods.com/fallout4/mods/59064?tab=files), requires:
     - [CBBE](https://www.nexusmods.com/fallout4/mods/15?tab=files)
@@ -48,7 +57,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - [deLuxe Makeup](https://www.nexusmods.com/fallout4/mods/4398/?tab=files)
 - [Appealing Moles](https://www.nexusmods.com/fallout4/mods/3802/?)
 - [Eye Normal Map Fix Fallout 4 Edition](https://www.nexusmods.com/fallout4/mods/819/?tab=files)
-- [HN66s and XAZOMNs Distinctive Teeth for FO4](https://www.nexusmods.com/fallout4/mods/20946/?tab=files)
 - [Sexy Hancock](https://www.nexusmods.com/fallout4/mods/12029/?tab=files)
 - [Ghastly - Ghoul Eyes Texture](https://www.nexusmods.com/fallout4/mods/5013?tab=files)
 - [Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton](https://www.nexusmods.com/fallout4/mods/9568/?tab=files)
@@ -73,7 +81,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) (This treasure hunt adds 40 classic works of western philosophy.ESP marked as ESL.)
     
     <img src="collectibles/philosophy_books.jpg"/>
-  - [Teddies 76. (Elianora)](https://www.nexusmods.com/fallout4/mods/57424)
+    NO, ADDS 3D SCREENS: - [Teddies 76. (Elianora)](https://www.nexusmods.com/fallout4/mods/57424)
 
 # Ketaros Collectibles
   - [Ketaros Framework.](https://www.nexusmods.com/fallout4/mods/68236) (needed for all his add-ons).
@@ -105,9 +113,17 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [More Wildlife.](https://www.nexusmods.com/fallout4/mods/51503?tab=files)
 
 # Quests
-  - [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) (Adds 12 new case files to Nick Valentine's).
-  - [Atomic Radio and Tales from the Commonwealth](https://www.nexusmods.com/fallout4/mods/8704?tab=files) (be sure to download BOTH).
-  - [America Rising 2 - Legacy of the Enclave](https://www.nexusmods.com/fallout4/mods/75767?tab=files) (remaster of the 1).
+
+| Mod | Summary |
+|----------|----------|
+| [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) | Adds 12 new case files to Nick Valentine's detective office in Diamond City. |
+| [Atomic Radio and Tales from the Commonwealth.](https://www.nexusmods.com/fallout4/mods/8704) | Be sure to download **BOTH.** |
+
+# DLC sized expansions
+
+| [America Rising 2 - Legacy of the Enclave](https://www.nexusmods.com/fallout4/mods/75767) | Remaster of the 1. Review by JuiceHead. |
+
+
   - [Outcasts and Remnants - Quest Mod Plus](https://www.nexusmods.com/fallout4/mods/21469) ("DLC-sized quest mod. 20 hours of game play with new factions, locations, player bases, and fully-voiced custom companions.").
   - [Depravity](https://www.nexusmods.com/fallout4/mods/35513?tab=description) (Large quest/companion mod with evil RPG options for the vanilla main story. Aug 2019 Mod of the Month. 40 quests, 13 companions, around 20 hours of content.) (needs Outcasts and Remnants).
 
@@ -116,25 +132,24 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Minuteman Watchtowers](https://www.nexusmods.com/fallout4/mods/67115?tab=files) (pick the ESL).
   - [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320?tab=files)
   - [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539)
-  - [Lexington Interiors](https://www.nexusmods.com/fallout4/mods/19120)
   - [moreXplore](https://www.nexusmods.com/fallout4/mods/28733?tab=files)
   - [Rsiyo's Location Pack](https://www.nexusmods.com/fallout4/mods/38501)
   - [Salem Expanded](https://www.nexusmods.com/fallout4/mods/27420?tab=files)
   - [Concord EXPANDED](https://www.nexusmods.com/fallout4/mods/27333?tab=files)
   - [Fort Hagen EXPANDED (More Loot Buildings and Enemies)](https://www.nexusmods.com/fallout4/mods/27607?tab=files)
   - [Better The Third Rail](https://www.nexusmods.com/fallout4/mods/15388?tab=files)
-  - Welcome to Goodneighbor: not recommended, unimmersive. Quest with dialog lines blank. No voiced protagonist. Try this instead better, better loose the quest and add immersion:
-  - [Goodneighbor View](https://www.nexusmods.com/fallout4/mods/72021?tab=files)
-  - [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293?tab=files)
-  - [Phase 4 An Institute Expansion.](https://www.nexusmods.com/fallout4/mods/42647?tab=files)
-  - [South of The Sea. (Massive GS and more Expansion) (Final Update July 2020).](https://www.nexusmods.com/fallout4/mods/27870) (WARNING: "Youll still need the AWKCR patch if you still use that old mod).
+  - Welcome to Goodneighbor: not recommended, unimmersive. Quest with dialog lines blank. No voiced protagonist. Try this instead better, better lose the quest and add immersion:
+  - [Goodneighbor View](https://www.nexusmods.com/fallout4/mods/72021)
+  - [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293)
+  - [Phase 4 An Institute Expansion.](https://www.nexusmods.com/fallout4/mods/42647)
+  - [South of The Sea. (Massive GS and more Expansion) (Final Update July 2020).](https://www.nexusmods.com/fallout4/mods/27870) (WARNING: "You'll still need the AWKCR patch if you still use that old mod).
   - [Immersive and Extended Nahant.](https://www.nexusmods.com/fallout4/mods/36636/)
   - [Immersive Hub City Auto Wreckers.](https://www.nexusmods.com/fallout4/mods/35882?tab=files)
   - [Immersive Vault 95.](https://www.nexusmods.com/fallout4/mods/31674)
   - [Immersive Beantown Brewery.](https://www.nexusmods.com/fallout4/mods/31598?tab=files)
   - [The Waste Landfill.](https://www.nexusmods.com/fallout4/mods/35344?tab=files)
   - [Commonwealth Underground and Forgotten Spaces.](https://www.nexusmods.com/fallout4/mods/27584?tab=files)
-  - [The Sewers.](https://www.nexusmods.com/fallout4/mods/45663?tab=files)
+  | [The Sewers.](https://www.nexusmods.com/fallout4/mods/45663?tab=files) | (ESM file). |
   - [Wildwood Cemetery Tombs ESL Flagged ESP.](https://www.nexusmods.com/fallout4/mods/51802?tab=files)
   - [Williams Plaza.](https://www.nexusmods.com/fallout4/mods/59566/?tab=files)
   - [Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
@@ -154,50 +169,55 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     
     <img src="homes/elianora_army_bunker.jpg"/>
 
+
+# Power armor
+
+| [Scrappable Power Armor Pieces.](https://www.nexusmods.com/fallout4/mods/17787) | todo |
+| [Power Armor Animation Changes.](https://www.nexusmods.com/fallout4/mods/4408) | todo |
+
+
 # Locations
   - [Immersive Drumlin Diner](https://www.nexusmods.com/fallout4/mods/18995)
 
-# Audio
-  - [Aggressive synth voice overhaul.](https://www.nexusmods.com/fallout4/mods/2105)
-  - [More Where That Came From - Diamond City Radio Edition.](https://www.nexusmods.com/fallout4/mods/637/?tab=files)
-
 # Fixes
-  - [Ownership Fixes](https://www.nexusmods.com/fallout4/mods/56885)
-  - [Radio Reverb Fix](https://www.nexusmods.com/fallout4/mods/16563?tab=files)
-  - [River Fix](https://www.nexusmods.com/fallout4/mods/36762?tab=files) (choose the ESL to avoid counting towards the mod limit).
-  - [Fixed Gobo Effects](https://www.nexusmods.com/fallout4/mods/27445)
-  - [Long Save Bug Fix](https://www.nexusmods.com/fallout4/mods/68681)
-  - [Fallout 4 Fixes](https://www.nexusmods.com/fallout4/mods/63005)
-  - [Mesh Bounds Fix](https://www.nexusmods.com/fallout4/mods/70817?tab=files)
-  - [Interior NavCut Fix](https://www.nexusmods.com/fallout4/mods/72904?tab=files)
-  - [Water LOD Fix](https://www.nexusmods.com/fallout4/mods/33815)
-  - [Elevator Buttons Fix (Contraptions)](https://www.nexusmods.com/fallout4/mods/20664)
-  - [NPC Drinking Fix](https://www.nexusmods.com/fallout4/mods/53980)
-  - [Fixed Alpha Maps](https://www.nexusmods.com/fallout4/mods/28974?tab=files)
-  - [High Res DLC Black Face Fix](https://www.nexusmods.com/fallout4/mods/21907)
-  - [High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798)
-  - [Diamond City Auto Close Gate](https://www.nexusmods.com/fallout4/mods/12928)
-  - [Long Loading Times Fix](https://www.nexusmods.com/fallout4/mods/73469?tab=files)
-  - [Remove Helmet In Dialog](https://www.nexusmods.com/fallout4/mods/24480/)
-  - [Vault 88 Crash Fix - Remove Molerats and Radscorps](https://www.nexusmods.com/fallout4/mods/73601)
-  - [Shadow Boost FO4](https://www.nexusmods.com/fallout4/mods/63482?tab=files) (Sets the distance of the shadows dynamically with F4SE). [check out this review by JuiceHead](https://www.youtube.com/watch?v=RdIzlBABMSY&t=4s).
-  - [High FPS Physics Fix.](https://www.nexusmods.com/fallout4/mods/44798) (Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.)
+
+| Mod | Summary |
+|----------|----------|
+| [Ownership Fixes.](https://www.nexusmods.com/fallout4/mods/56885) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Radio Reverb Fix.](https://www.nexusmods.com/fallout4/mods/16563) | ``` TODO. TO BE DONE 🚧 ``` |
+| [River Fix](https://www.nexusmods.com/fallout4/mods/36762) | (choose the ESL to avoid counting towards the mod limit). |
+| [Fixed Gobo Effects](https://www.nexusmods.com/fallout4/mods/27445) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Long Save Bug Fix](https://www.nexusmods.com/fallout4/mods/68681) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Fallout 4 Fixes](https://www.nexusmods.com/fallout4/mods/63005) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Mesh Bounds Fix](https://www.nexusmods.com/fallout4/mods/70817) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Interior NavCut Fix](https://www.nexusmods.com/fallout4/mods/72904) | Fixes disappearing buildings at random times. |
+| [Water LOD Fix](https://www.nexusmods.com/fallout4/mods/33815) | Makes water look prettier from the distance. |
+| [Elevator Buttons Fix (Contraptions)](https://www.nexusmods.com/fallout4/mods/20664) | A fix in the buttons of a certain elevator. |
+| [NPC Drinking Fix](https://www.nexusmods.com/fallout4/mods/53980) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Fixed Alpha Maps](https://www.nexusmods.com/fallout4/mods/28974) | Fixes some vanilla not working transparencies. | 
+| [High Res DLC Black Face Fix](https://www.nexusmods.com/fallout4/mods/21907) | Fixes an annoying bug where some pale character has the dark face but not the body, after loading a game. Happens in Skyrim too. |
+| [Diamond City Auto Close Gate](https://www.nexusmods.com/fallout4/mods/12928) | Fixes lore/consistency bug. |
+| [Long Loading Times Fix](https://www.nexusmods.com/fallout4/mods/73469?tab=files) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Remove Helmet In Dialog](https://www.nexusmods.com/fallout4/mods/24480/) | I want to see my characters face when talking! Not his/her helmet! This automatically fixes it. |
+| [Vault 88 Crash Fix - Remove Molerats and Radscorps](https://www.nexusmods.com/fallout4/mods/73601) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Shadow Boost FO4](https://www.nexusmods.com/fallout4/mods/63482) | (Sets the distance of the shadows dynamically with F4SE). [check out this review by JuiceHead](https://www.youtube.com/watch? v=RdIzlBABMSY&t=4s). |
+| [High FPS Physics Fix.](https://www.nexusmods.com/fallout4/mods/44798) | (Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.) |
   
 # Animations
-  - [No Crafting Animations.](https://www.nexusmods.com/fallout4/mods/63183?tab=files)
-  - [No Door Animations - Instant Doors.](https://www.nexusmods.com/fallout4/mods/63224)
-  - [Realistic Death Physics - No Animations.](https://www.nexusmods.com/fallout4/mods/4371/?tab=description)
+| [No Crafting Animations.](https://www.nexusmods.com/fallout4/mods/63183) | a |
+| [No Door Animations - Instant Doors.](https://www.nexusmods.com/fallout4/mods/63224) | a |
+| [Realistic Death Physics - No Animations.](https://www.nexusmods.com/fallout4/mods/4371) | a |
+| [Combat Knife Animations.](https://www.nexusmods.com/fallout4/mods/75952) | a |
 
 # Textures
   - [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714/?tab=files)
   - [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745)
   - [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425?tab=files)
   - [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511)
-  - [U.S. Covert Operations Manual Redux - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/53012?tab=files)
+  
   - [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742?tab=files)
   - [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560?tab=files)
-  - [Total Hack - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/50253?tab=files)
-  - [Classic Wasteland Survival Guide - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/49999?tab=files)
+  
   - [Retextured Terminals - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/24008?tab=files)
 
 <img src="textures/terminals.jpg"/>
@@ -207,6 +227,14 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 <img src="textures/raider_armors_retextured.jpg"/>
 
+# Magazines
+
+| [Ketaros Missing Magazines.](https://www.nexusmods.com/fallout4/mods/63541) | a |
+| [Classic Wasteland Survival Guide - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/49999) | a |
+| [U.S. Covert Operations Manual Redux - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/53012) | a |
+| [Total Hack - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/50253) | a |
+  
+
 # Clothing/Armor
   - [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187)
   - [More Clothes and Textures (CBBE)](https://www.nexusmods.com/fallout4/mods/40315?tab=files)
@@ -214,13 +242,22 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 <img src="armor/elis_compendium.jpg"/>
 
+# Audio
+
+| Mod | Summary |
+|----------|----------|
+| [Aggressive synth voice overhaul.](https://www.nexusmods.com/fallout4/mods/2105) | More menacing-sounding synths. Very cool and immersive. |
+| [More Where That Came From - Diamond City Radio Edition.](https://www.nexusmods.com/fallout4/mods/637) | More classical tunes in the radio. |
 
 # Gore and blood
   - [Enhanced Blood Textures.](https://www.nexusmods.com/fallout4/mods/212/)
   - [Gore Overhaul 3.0 -Reload-](https://www.nexusmods.com/fallout4/mods/21216?tab=files)
 
 # Main Menu
-  - [Post Apocalypse Main Menu.](https://www.nexusmods.com/fallout4/mods/74231?tab=files)
+
+| Mod | Summary |
+|----------|----------|
+| a | b |
 
 # Expansions
   - [Caves Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/75647)
@@ -261,14 +298,10 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 <img src="collectibles/bobbleheads/1.jpg"/>
 
 # Weapons
-  - [WARS - Weapon Addition and Replacement Suite.](https://www.nexusmods.com/fallout4/mods/73478) [(reviewed here by JuiceHead).](https://www.youtube.com/watch?v=hkcsDV50wac) requires:
-    - [Bullet Counted Reload System (BCR).](https://www.nexusmods.com/fallout4/mods/41178)
-    - [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420)
-    - [AmmoTweaks v1.11.](https://github.com/isathar/F4_AmmoTweaks/releases/tag/1.1) (not on Nexus!)
-    - [Settlement Menu Manager.](https://www.nexusmods.com/fallout4/mods/24204?tab=files)
-    - Other mods already in this modlist.
-  - [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426)
-  - [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087?tab=files)
+  
+- [Settlement Menu Manager.](https://www.nexusmods.com/fallout4/mods/24204?tab=files)
+- [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426)
+- [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087?tab=files)
 
 # Factions
   - [Church of Atom Overhaul.](https://www.nexusmods.com/fallout4/mods/26173)
@@ -289,8 +322,18 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - Far Harbor Shack. (Elianora)
   - Chestnut Lodge - Player Home.
 
+# Presets
+
+| Mod | Summary |
+|----------|----------|
+| [Enhanced Vanilla Face Presets For Females.](https://www.nexusmods.com/fallout4/mods/35696) | a |
+| [Extended Facial Sculpting - now with 90 percent less beta](https://www.nexusmods.com/fallout4/mods/25087) | a |
+| [Valkyr Female Face and Body Textures.](https://www.nexusmods.com/fallout4/mods/3841) | a |
+| [Female Neck Tweaks.](https://www.nexusmods.com/fallout4/mods/21331) | a |
+| [Wasteland Heroines Replacer and Presets All in One.](https://www.nexusmods.com/fallout4/mods/29205) | a |
+
 # Tested and discarded mods
-  - (Capital Wasteland Behemoths NO! too much difficult! Although tested and they look and behave good they are too much difficult).
-  - FlaconOil's Complete Retexture Project. NO! Gives a lot of conflicts with other mods in the modlist.
-  - Immersive Facial Animations REMADE - IFAR. NO! Too exaggerate facial animations even in the lowest presets.
+  - (Capital Wasteland Behemoths NO! Too much difficult! Although tested and they look and behave good they are too much difficult).
+  | FlaconOil's Complete Retexture Project. | NO! Gives a lot of conflicts with other mods in the modlist and performance problems and a heavy drop of FPS in certain areas. 1
+  - Immersive Facial Animations REMADE - IFAR. NO! Too exaggerated facial animations even in the lowest presets.
   - Too many other...
