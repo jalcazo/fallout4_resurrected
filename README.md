@@ -13,7 +13,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     - 2f1f.removeItem a81af
   - Remember to use Q for activating the V.A.T.S. on combat!
   - Hold TAB in combat to throw grenade/molotov coctails, etc.
-  - Remember R to draw/sheathe weapon.
+  - Remember R to draw/sheathe your gun.
   - [REMEMBER HOW TO HACK TERMINALS!](https://www.thegamer.com/fallout-4-guide-terminal-passwords-hacking/) **It's important to click on { [ ( etc (that highlight several characters) to remove words or reset attempts!** (it says "Dud" removed and removes a possible key).
 
 # Essential (many mods need these)
@@ -31,6 +31,17 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216) | Easier conversation. |
 | [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative startings. Not doing the same playthrough (and initial long cutscene) every time. |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. |
+
+# Weapons
+
+  | Mod | Summary |
+|----------|----------|
+| [Heckler und Koch - G36 Complex.](https://www.nexusmods.com/fallout4/mods/64108) | This mod adds a G36 into Fallout 4. It features custom animations, sounds and quest. |
+| [More Uniques - Unique Weapons Expansion.](https://www.nexusmods.com/fallout4/mods/18357) | todo |
+| [All Weapons HD (A.W.H.D.).](https://www.nexusmods.com/fallout4/mods/8556) | 4K upscale of every weapon in the game 0.o Yup you heard right, Every single one! |
+| [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426) | todo |
+| [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087) | todo |
+| [Automatron Expanded Weapons System.](https://www.nexusmods.com/fallout4/mods/29858) | todo |
 
 # Cut content
 
@@ -428,17 +439,6 @@ POSAR FOTO! todo o screenshot meu pujat face
   - [New Vault-Girl Bobbleheads AIO.](https://www.nexusmods.com/fallout4/mods/60833) ( [NSFW version here.](https://www.nexusmods.com/fallout4/mods/63047) )
     
 <img src="collectibles/bobbleheads/1.jpg"/>
-
-# Weapons
-  
-| [More Uniques - Unique Weapons Expansion.](https://www.nexusmods.com/fallout4/mods/18357) | a |
-
-- [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426)
-- [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087?tab=files)
-
-| [All Weapons HD (A.W.H.D.).](https://www.nexusmods.com/fallout4/mods/8556) | (4K upscale of every weapon in the game 0.o Yup you heard right, Every single one!) |
-| [Automatron Expanded Weapons System.](https://www.nexusmods.com/fallout4/mods/29858) | a |
-
 
 # Factions
   - [Church of Atom Overhaul.](https://www.nexusmods.com/fallout4/mods/26173)
