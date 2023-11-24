@@ -32,6 +32,14 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative startings. Not doing the same playthrough (and initial long cutscene) every time. |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. |
 
+# Quests
+
+| Mod | Summary |
+|----------|----------|
+| [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) | Adds 12 new case files to Nick Valentine's detective office in Diamond City. |
+| [Atomic Radio and Tales from the Commonwealth.](https://www.nexusmods.com/fallout4/mods/8704) | Be sure to download **BOTH.** |
+| [Mad Rock - Quest - Settlement](https://www.nexusmods.com/fallout4/mods/32146) | Brutal, near Billy the Boy in the fridge. |
+
 # Vaults
 
 | Mod | Summary |
@@ -200,16 +208,8 @@ POSAR FOTO! todo o screenshot meu pujat face
 # Lighting  
   - [Ultra Interior Lighting.](https://www.nexusmods.com/fallout4/mods/22101)
 
-
 # Hunting
   - [More Wildlife.](https://www.nexusmods.com/fallout4/mods/51503?tab=files)
-
-# Quests
-
-| Mod | Summary |
-|----------|----------|
-| [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) | Adds 12 new case files to Nick Valentine's detective office in Diamond City. |
-| [Atomic Radio and Tales from the Commonwealth.](https://www.nexusmods.com/fallout4/mods/8704) | Be sure to download **BOTH.** |
 
 # DLC sized expansions
 
