@@ -32,6 +32,12 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative startings. Not doing the same playthrough (and initial long cutscene) every time. |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. |
 
+# Towns
+
+| Mod | Summary |
+|----------|----------|
+| [Salem Expanded](https://www.nexusmods.com/fallout4/mods/27420) | todo |
+
 # Base Object Swapper
 
 <img src="base_object_swapper/logo.jpg"/>
@@ -116,9 +122,7 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 | [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987) | todo |
 | [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521) | todo |
 | [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447) | todo |
-| [KCI - Kellogg's Cybernetic Implants.](https://www.nexusmods.com/fallout4/mods/48812) | todo |
-
-:tv: reviewed here by MxR]https://www.youtube.com/watch?v=1JqPQvw_8xA&t=1s
+| [KCI - Kellogg's Cybernetic Implants.](https://www.nexusmods.com/fallout4/mods/48812) | :tv: [Reviewed here (amongst other mods) by MxR.](https://www.youtube.com/watch?v=1JqPQvw_8xA) |
 
 # NPC's / presets / characters
 
@@ -205,14 +209,28 @@ POSAR FOTO! todo o screenshot meu pujat face
   - [Outcasts and Remnants - Quest Mod Plus](https://www.nexusmods.com/fallout4/mods/21469) ("DLC-sized quest mod. 20 hours of game play with new factions, locations, player bases, and fully-voiced custom companions.").
   - [Depravity](https://www.nexusmods.com/fallout4/mods/35513?tab=description) (Large quest/companion mod with evil RPG options for the vanilla main story. Aug 2019 Mod of the Month. 40 quests, 13 companions, around 20 hours of content.) (needs Outcasts and Remnants).
 
+# Settlements
+
+
+| [Settlement Menu Manager.](https://www.nexusmods.com/fallout4/mods/24204) | todo |
+
+# Landscape
+
+| [Minuteman Watchtowers](https://www.nexusmods.com/fallout4/mods/67115?tab=files) (pick the ESL).
+
+# Interiors
+
+| [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539) | todo |
+| [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320) | todo |
+
 # Buildings / area expansions
-  - [Atomic World](https://www.nexusmods.com/fallout4/mods/28713)
-  - [Minuteman Watchtowers](https://www.nexusmods.com/fallout4/mods/67115?tab=files) (pick the ESL).
-  - [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320?tab=files)
-  - [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539)
-  - [moreXplore](https://www.nexusmods.com/fallout4/mods/28733?tab=files)
-  - [Rsiyo's Location Pack](https://www.nexusmods.com/fallout4/mods/38501)
-  - [Salem Expanded](https://www.nexusmods.com/fallout4/mods/27420?tab=files)
+
+| [Atomic World](https://www.nexusmods.com/fallout4/mods/28713) | todo |
+
+  
+| [moreXplore](https://www.nexusmods.com/fallout4/mods/28733) | todo |
+| [Rsiyo's Location Pack](https://www.nexusmods.com/fallout4/mods/38501) | todo |
+  
   - [Concord EXPANDED](https://www.nexusmods.com/fallout4/mods/27333?tab=files)
   - [Fort Hagen EXPANDED (More Loot Buildings and Enemies)](https://www.nexusmods.com/fallout4/mods/27607?tab=files)
   - [Better The Third Rail](https://www.nexusmods.com/fallout4/mods/15388?tab=files)
@@ -279,7 +297,7 @@ POSAR FOTO! todo o screenshot meu pujat face
 | [Remove Helmet In Dialog](https://www.nexusmods.com/fallout4/mods/24480/) | I want to see my characters face when talking! Not his/her helmet! This automatically fixes it. |
 | [Vault 88 Crash Fix - Remove Molerats and Radscorps](https://www.nexusmods.com/fallout4/mods/73601) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Shadow Boost FO4](https://www.nexusmods.com/fallout4/mods/63482) | (Sets the distance of the shadows dynamically with F4SE). [check out this review by JuiceHead](https://www.youtube.com/watch? v=RdIzlBABMSY&t=4s). |
-| [High FPS Physics Fix.](https://www.nexusmods.com/fallout4/mods/44798) | (Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.) |
+| [High FPS Physics Fix.](https://www.nexusmods.com/fallout4/mods/44798) | Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time. |
   
 # Animations
 | [No Crafting Animations.](https://www.nexusmods.com/fallout4/mods/63183) | a |
@@ -377,9 +395,14 @@ POSAR FOTO! todo o screenshot meu pujat face
 
 # Weapons
   
-- [Settlement Menu Manager.](https://www.nexusmods.com/fallout4/mods/24204?tab=files)
+| [More Uniques - Unique Weapons Expansion.](https://www.nexusmods.com/fallout4/mods/18357) | a |
+
 - [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426)
 - [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087?tab=files)
+
+| [All Weapons HD (A.W.H.D.).](https://www.nexusmods.com/fallout4/mods/8556) | (4K upscale of every weapon in the game 0.o Yup you heard right, Every single one!) |
+| [Automatron Expanded Weapons System.](https://www.nexusmods.com/fallout4/mods/29858) | a |
+
 
 # Factions
   - [Church of Atom Overhaul.](https://www.nexusmods.com/fallout4/mods/26173)
