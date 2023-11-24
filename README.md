@@ -32,6 +32,17 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative startings. Not doing the same playthrough (and initial long cutscene) every time. |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. |
 
+# Animations
+
+| Mod | Summary |
+|----------|----------|
+| [No Crafting Animations.](https://www.nexusmods.com/fallout4/mods/63183) | todo |
+| [No Door Animations - Instant Doors.](https://www.nexusmods.com/fallout4/mods/63224) | todo |
+| [Realistic Death Physics - No Animations.](https://www.nexusmods.com/fallout4/mods/4371) | todo |
+| [Combat Knife Animations.](https://www.nexusmods.com/fallout4/mods/75952) | todo |
+| [Another Deliverer Reanimation.](https://www.nexusmods.com/fallout4/mods/76195) | Deliverer is a type of gun in the game. Imatge a github. Uses this textures: [VWR - Vanilla Weapons Redone.](https://www.nexusmods.com/fallout4/mods/47726) |
+| [Better Female Walk (Extra Jiggle).](https://www.nexusmods.com/fallout4/mods/21370) | :tv: [Better Female Walk reviewed here by MxR](https://www.youtube.com/watch?v=9tdoqLwnqCM) |
+
 # Settlements
 
 | Mod | Summary |
@@ -323,12 +334,6 @@ POSAR FOTO! todo o screenshot meu pujat face
 | [Shadow Boost FO4](https://www.nexusmods.com/fallout4/mods/63482) | (Sets the distance of the shadows dynamically with F4SE). [check out this review by JuiceHead](https://www.youtube.com/watch? v=RdIzlBABMSY&t=4s). |
 | [High FPS Physics Fix.](https://www.nexusmods.com/fallout4/mods/44798) | Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time. |
   
-# Animations
-| [No Crafting Animations.](https://www.nexusmods.com/fallout4/mods/63183) | a |
-| [No Door Animations - Instant Doors.](https://www.nexusmods.com/fallout4/mods/63224) | a |
-| [Realistic Death Physics - No Animations.](https://www.nexusmods.com/fallout4/mods/4371) | a |
-| [Combat Knife Animations.](https://www.nexusmods.com/fallout4/mods/75952) | a |
-
 # Textures
   - [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714/?tab=files)
   - [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745)
