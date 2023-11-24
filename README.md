@@ -69,6 +69,32 @@ requires [Collectable Cars of the Commonwealth.](https://www.nexusmods.com/fallo
 he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Workshop.
 )
 
+# Food
+
+| Mod | Summary |
+|----------|----------|
+| [Better Cooking Stations.](https://schaken-mods.com/files/file/1800-archive-better-cooking-stations-with-patches-for-animations-and-recipes/?do=download) | Not on Nexus due the mod collections controversy and authors response. "Overhauls the vanilla cooking stations with better effects and features; adds several new ones including a working kitchen stove, BBQ grill and supermutant cooking pot. All craftable cooking station."  |
+| [Choice Chopped.](https://www.nexusmods.com/fallout4/mods/10434) | "Turn junk food items into tasty, useful meals at cooking stations. Prepared dishes have also been distributed throughout the Commonwealth. Includes new options for adhesive, addictions, and conversions." |
+
+:tv: [Better Cooking Stations reviewed by MxR here.](https://www.youtube.com/watch?v=rvXfzPfyZic)
+:tv: [Better Cooking Stations reviewed by Popontop here.](https://www.youtube.com/watch?v=zlezAv7ftTI)
+
+# The Widow
+
+| Mod | Summary |
+|----------|----------|
+| [The Widow Shotgun](https://www.nexusmods.com/fallout4/mods/19619) | Adds a standalone modular sawn off double-barrelled shotgun. | [The Widow Shotgun Spanish.](https://www.nexusmods.com/fallout4/mods/34757) |
+| [Black Widow Armor and Pipboy (Pip-boy).](https://www.nexusmods.com/fallout4/mods/21162) | "Will you be the one to fulfill the widow's last wish?" | [Black Widow Armor and Pipboy (Pip-boy) Spanish.](https://www.nexusmods.com/fallout4/mods/34794) |
+
+:tv: [both reviewed by MxR here](https://www.youtube.com/watch?v=rvXfzPfyZic)
+
+
+# Elianora mods
+
+| Mod | Summary |
+|----------|----------|
+| Collectibles: [Teddies 76 - A Mr. Fuzzy mod.](https://www.nexusmods.com/fallout4/mods/57424) | "This mod adds a huge amount of collectible teddybears into the game inspired by the Mr. Fuzzy mascot and toys. Most of them are high quality recreations from Fallout 76, plus a few new ones. It also adds other Mr. Fuzzy themed items like outfits, a helmet and paints, and displays that work with the new items." |
+
 
 # Gameplay
 
@@ -77,7 +103,24 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 | [Stealth & Detection System.](https://www.nexusmods.com/fallout4/mods/62140) | Stealth system fixed !! It's now possible to take out enemies one by one ( even undetected, if done carefully ). No more magic enemies "almost seeing through walls", and alerting everyone around "telepathically" for no reason |
 | [Smooth First Person Sprint - Less Jerkiness and Stutter.](https://www.nexusmods.com/fallout4/mods/29828) | Fallout 4 stutters when sprinting in first person. This is a workaround to the problem. |
 
-# NPC's/Presets
+# Immersion
+
+| Mod | Summary |
+|----------|----------|
+| [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522) | todo |
+| [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737) | todo |
+| [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025) | todo |
+| [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840) | todo |
+| [Achievements.](https://www.nexusmods.com/fallout4/mods/12465) | todo |
+| [Immersive Vendors](https://www.nexusmods.com/fallout4/mods/10039) | ([review here](https://www.youtube.com/watch?v=hiXwhQ13Nm0)). |
+| [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987) | todo |
+| [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521) | todo |
+| [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447) | todo |
+| [KCI - Kellogg's Cybernetic Implants.](https://www.nexusmods.com/fallout4/mods/48812) | todo |
+
+:tv: reviewed here by MxR]https://www.youtube.com/watch?v=1JqPQvw_8xA&t=1s
+
+# NPC's / presets / characters
 
 | Mod | Summary |
 |----------|----------|
@@ -143,16 +186,6 @@ POSAR FOTO! todo o screenshot meu pujat face
 # Lighting  
   - [Ultra Interior Lighting.](https://www.nexusmods.com/fallout4/mods/22101)
 
-# Immersion
-  - [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522?tab=files)
-  - [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737?tab=files)
-  - [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025?tab=files)
-  - [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840/?tab=bugs)
-  - [Achievements.](https://www.nexusmods.com/fallout4/mods/12465?tab=files)
-  - [Immersive Vendors](https://www.nexusmods.com/fallout4/mods/10039) ([review here](https://www.youtube.com/watch?v=hiXwhQ13Nm0)).
-  - [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987)
-  - [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521)
-  - [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447?tab=files)
 
 # Hunting
   - [More Wildlife.](https://www.nexusmods.com/fallout4/mods/51503?tab=files)
