@@ -32,6 +32,13 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative startings. Not doing the same playthrough (and initial long cutscene) every time. |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. |
 
+# Radio
+
+| Mod | Summary |
+|----------|----------|
+| [Old Wold Radio](https://www.nexusmods.com/fallout4/mods/9048) | 29 new stations, custom craftable settlement radios for each station, craftable holotapes for each station for in-game volume control and track-seeking control, craftable posters and billboards included, compatibility patches included. |
+| [Old World Radio 2.](https://www.nexusmods.com/fallout4/mods/28711) | :tv: [Old World Radio 2 reviewed here by MxR.](https://www.youtube.com/watch?v=Y0h23o6GkcM) |
+
 # Quests
 
 | Mod | Summary |
@@ -442,6 +449,12 @@ POSAR FOTO! todo o screenshot meu pujat face
 | [Valkyr Female Face and Body Textures.](https://www.nexusmods.com/fallout4/mods/3841) | a |
 | [Female Neck Tweaks.](https://www.nexusmods.com/fallout4/mods/21331) | a |
 | [Wasteland Heroines Replacer and Presets All in One.](https://www.nexusmods.com/fallout4/mods/29205) | a |
+
+# NSFW / adult content
+
+| Mod | Summary |
+|----------|----------|
+| [Vault Girl Main Menu and Main Menu Sound Replacer.](https://www.nexusmods.com/fallout4/mods/76225) | Spicy new main menu & new music for it (not too much NSFW). |
 
 # Tested and discarded mods
   - (Capital Wasteland Behemoths NO! Too much difficult! Although tested and they look and behave good they are too much difficult).
