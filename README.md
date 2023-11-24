@@ -32,11 +32,18 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative startings. Not doing the same playthrough (and initial long cutscene) every time. |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. |
 
+# Vaults
+
+| Mod | Summary |
+|----------|----------|
+| [Vault 1080.](https://www.nexusmods.com/fallout4/mods/18172) | New questline, 4 new areas to explore, displays new way of handling volumetric lighting. |
+
 # Towns
 
 | Mod | Summary |
 |----------|----------|
 | [Salem Expanded](https://www.nexusmods.com/fallout4/mods/27420) | todo |
+| [Diamond City Expansion.](https://www.nexusmods.com/fallout4/mods/21853) | :tv: [Reviewed here by MxR](https://www.youtube.com/watch?v=yQNNo4eu2F8) |
 
 # Base Object Swapper
 
@@ -108,6 +115,9 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 |----------|----------|
 | [Stealth & Detection System.](https://www.nexusmods.com/fallout4/mods/62140) | Stealth system fixed !! It's now possible to take out enemies one by one ( even undetected, if done carefully ). No more magic enemies "almost seeing through walls", and alerting everyone around "telepathically" for no reason |
 | [Smooth First Person Sprint - Less Jerkiness and Stutter.](https://www.nexusmods.com/fallout4/mods/29828) | Fallout 4 stutters when sprinting in first person. This is a workaround to the problem. |
+| [Take Cover.](https://www.nexusmods.com/fallout4/mods/10875) | todo |
+| [Live Dismemberment - Increased Headshot Damage.](https://www.nexusmods.com/fallout4/mods/16400) | todo |
+| [More XP from quests.](https://www.nexusmods.com/fallout4/mods/29195) | This mod raises the amount of XP you'll get when you complete quests. Comes with an installer. Optinonal version with zero XP for all sorts of crafting to encourage the player to do more quests. ESP and ESL versions available. |
 
 # Immersion
 
