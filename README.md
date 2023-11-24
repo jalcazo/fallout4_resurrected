@@ -33,6 +33,20 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative startings. Not doing the same playthrough (and initial long cutscene) every time. |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. |
 
+# Settlements
+
+| Mod | Summary |
+|----------|----------|
+| [Settlement Menu Manager.](https://www.nexusmods.com/fallout4/mods/24204) | todo |
+| [Dino's Decorations - clutter arrangements for your settlements.](https://www.nexusmods.com/fallout4/mods/16186) | Make your settlements look a little more lived in, requires: [Place Everywhere](https://www.nexusmods.com/fallout4/mods/9424) | 
+| [Snappable Clutter and Display.](https://www.nexusmods.com/fallout4/mods/69980) | Adds modular clutter that will snap to provided furniture, giving you limitless combinations to add clutter to your settlements. |
+| [Sandbag Fortifications.](https://www.nexusmods.com/fallout4/mods/21358) | todo |
+| [Settlement Keywords Expanded.](https://www.nexusmods.com/fallout4/mods/12226) | Needed by some mods. |
+| [Objects for Bathroom and Kitchen - WorkshopPack.](https://www.nexusmods.com/fallout4/mods/38515) | Adds washing machine & dryer + some more objects for your bathroom. |
+| [Minutemen Propaganda Posters.](https://www.nexusmods.com/fallout4/mods/11975) | todo |
+| [Nothing Fancy Hot Showers.](https://www.nexusmods.com/fallout4/mods/46241) | Adds 4 showers and some color variants, showers work like a decontamination arch. Requires DLC: Wasteland Workshop. |
+| [Showers ESL.](https://www.nexusmods.com/fallout4/mods/36107) | ix showers that boost your charisma or remove your rads. |
+
 # Quests
 
 | Mod | Summary |
@@ -113,17 +127,6 @@ ADD MORE IMAGES
 | [Combat Knife Animations.](https://www.nexusmods.com/fallout4/mods/75952) | todo |
 | [Another Deliverer Reanimation.](https://www.nexusmods.com/fallout4/mods/76195) | Deliverer is a type of gun in the game. Imatge a github. Uses this textures: [VWR - Vanilla Weapons Redone.](https://www.nexusmods.com/fallout4/mods/47726) |
 | [Better Female Walk (Extra Jiggle).](https://www.nexusmods.com/fallout4/mods/21370) | :tv: [Better Female Walk reviewed here by MxR](https://www.youtube.com/watch?v=9tdoqLwnqCM) |
-
-# Settlements
-
-| Mod | Summary |
-|----------|----------|
-| [Settlement Menu Manager.](https://www.nexusmods.com/fallout4/mods/24204) | todo |
-| [Dino's Decorations - clutter arrangements for your settlements.](https://www.nexusmods.com/fallout4/mods/16186) | Make your settlements look a little more lived in, requires: [Place Everywhere](https://www.nexusmods.com/fallout4/mods/9424) | 
-| [Snappable Clutter and Display.](https://www.nexusmods.com/fallout4/mods/69980) | Adds modular clutter that will snap to provided furniture, giving you limitless combinations to add clutter to your settlements. |
-| [Sandbag Fortifications.](https://www.nexusmods.com/fallout4/mods/21358) | todo |
-| [Settlement Keywords Expanded.](https://www.nexusmods.com/fallout4/mods/12226) | Needed by some mods. |
-| [Objects for Bathroom and Kitchen - WorkshopPack.](https://www.nexusmods.com/fallout4/mods/38515) | Adds washing machine & dryer + some more objects for your bathroom. |
 
 # Radio
 
