@@ -37,6 +37,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | Mod | Summary |
 |----------|----------|
 | [Stealth & Detection System.](https://www.nexusmods.com/fallout4/mods/62140) | Stealth system fixed !! It's now possible to take out enemies one by one ( even undetected, if done carefully ). No more magic enemies "almost seeing through walls", and alerting everyone around "telepathically" for no reason |
+| [Smooth First Person Sprint - Less Jerkiness and Stutter.](https://www.nexusmods.com/fallout4/mods/29828) | Fallout 4 stutters when sprinting in first person. This is a workaround to the problem. |
 
 # NPC's/Presets
 
