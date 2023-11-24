@@ -5,16 +5,17 @@
 My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
 # Warnings / Remembers
-  - If the protagonist's voice is silent be sure to go to Steam, properties of the game and change the language to "English"! (found 5/11/23). Happened to me because Steam detected my language as Spanish and didn't care to install the English language files.
-  - To avoid intro: open steamapps\common\Fallout 4\Data\Video\ and delete or rename the file “GameIntro_V3_B.bk2”
-  - To turn on/off pip-boy flashlight: HOLD TAB!
-  - Remove Piper's Hat: console ("ñ" key in spanish keyboard, the key left to 1 in english keyboard)
-    - 2f1f.unequipItem a81af
-    - 2f1f.removeItem a81af
-  - Remember to use Q for activating the V.A.T.S. on combat!
-  - Hold TAB in combat to throw grenade/molotov coctails, etc.
-  - Remember R to draw/sheathe your gun.
-  - [REMEMBER HOW TO HACK TERMINALS!](https://www.thegamer.com/fallout-4-guide-terminal-passwords-hacking/) **It's important to click on { [ ( etc (that highlight several characters) to remove words or reset attempts!** (it says "Dud" removed and removes a possible key).
+
+| Problem | Solution |
+|----------|----------|
+| The protagonist's voice is silent when looking into the mirror at the start of the game! | Be sure to go to Steam, properties of the game and change the language to "English"! (found 5/11/23). Happened to me because Steam detected my language as Spanish and didn't care to install the English language files. |
+| I want to ao avoid the Bethesda logo intro. | Open steamapps\common\Fallout 4\Data\Video\ and delete or rename the file “GameIntro_V3_B.bk2” |
+| I don't remember how to turn on/off pip-boy flashligh. | **HOLD** tab key! |
+| I need to remove Piper's Hat because it's clipping with her hair. | Console ("ñ" key in spanish keyboard, the key left to 1 in english keyboard) and write "2f1f.unequipItem a81af" and then "2f1f.removeItem a81af" |
+| I don't remember how to activate the V.A.T.S. in combat. | Use the Q key. |
+| I don't remember how to throw a grenade or molotov coctail | Select it in the Pipboy, and hold TAB in combat to throw it. |
+| I don't remember how to sheath or draw my gun. | Hold R key. |
+| [REMEMBER HOW TO HACK TERMINALS!](https://www.thegamer.com/fallout-4-guide-terminal-passwords-hacking/) | **It's VERY important to click on { [ ( etc (that highlight several characters) to remove words or reset attempts!** (it says "Dud" removed and removes a possible key). |
 
 # Essential (many mods need these)
 
