@@ -32,9 +32,18 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative startings. Not doing the same playthrough (and initial long cutscene) every time. |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. |
 
+# Armor / armors (not clothes)
+
+| Mod | Summary |
+|----------|----------|
+| [Chinese Stealth Suit.](https://www.nexusmods.com/fallout4/mods/20959) | :tv: [Reviewd here by MxR.](https://www.youtube.com/watch?v=9tdoqLwnqCM) |
+| [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431) | todo |
+
+<img src="armor/elis_compendium.jpg"/>
+
 # Weapons
 
-  | Mod | Summary |
+| Mod | Summary |
 |----------|----------|
 | [Heckler und Koch - G36 Complex.](https://www.nexusmods.com/fallout4/mods/64108) | This mod adds a G36 into Fallout 4. It features custom animations, sounds and quest. |
 | [More Uniques - Unique Weapons Expansion.](https://www.nexusmods.com/fallout4/mods/18357) | todo |
@@ -175,18 +184,18 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 
 # Immersion
 
-| Mod | Summary |
-|----------|----------|
-| [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522) | todo |
-| [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737) | todo |
-| [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025) | todo |
-| [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840) | todo |
-| [Achievements.](https://www.nexusmods.com/fallout4/mods/12465) | todo |
-| [Immersive Vendors](https://www.nexusmods.com/fallout4/mods/10039) | ([review here](https://www.youtube.com/watch?v=hiXwhQ13Nm0)). |
-| [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987) | todo |
-| [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521) | todo |
-| [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447) | todo |
-| [KCI - Kellogg's Cybernetic Implants.](https://www.nexusmods.com/fallout4/mods/48812) | :tv: [Reviewed here (amongst other mods) by MxR.](https://www.youtube.com/watch?v=1JqPQvw_8xA) |
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522) | todo | todo |
+| [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737) | todo | todo |
+| [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025) | todo | todo |
+| [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840) | todo | todo |
+| [Achievements.](https://www.nexusmods.com/fallout4/mods/12465) | todo | todo |
+| [Immersive Vendors](https://www.nexusmods.com/fallout4/mods/10039) | ([review here](https://www.youtube.com/watch?v=hiXwhQ13Nm0)). |  [Immersive Vendors - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35759) |
+| [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987) | todo | todo |
+| [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521) | todo | todo |
+| [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447) | todo | todo |
+| [KCI - Kellogg's Cybernetic Implants.](https://www.nexusmods.com/fallout4/mods/48812) | :tv: [Reviewed here (amongst other mods) by MxR.](https://www.youtube.com/watch?v=1JqPQvw_8xA) | todo |
 
 # NPC's / presets / characters
 
@@ -349,52 +358,63 @@ POSAR FOTO! todo o screenshot meu pujat face
 | [Long Loading Times Fix](https://www.nexusmods.com/fallout4/mods/73469?tab=files) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Remove Helmet In Dialog](https://www.nexusmods.com/fallout4/mods/24480/) | I want to see my characters face when talking! Not his/her helmet! This automatically fixes it. |
 | [Vault 88 Crash Fix - Remove Molerats and Radscorps](https://www.nexusmods.com/fallout4/mods/73601) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Shadow Boost FO4](https://www.nexusmods.com/fallout4/mods/63482) | (Sets the distance of the shadows dynamically with F4SE). [check out this review by JuiceHead](https://www.youtube.com/watch? v=RdIzlBABMSY&t=4s). |
+| [Shadow Boost FO4](https://www.nexusmods.com/fallout4/mods/63482) | (Sets the distance of the shadows dynamically with F4SE). [check out this review by JuiceHead](https://www.youtube.com/watch? v=RdIzlBABMSY). |
 | [High FPS Physics Fix.](https://www.nexusmods.com/fallout4/mods/44798) | Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time. |
+| [XDI - America Rising 2 (AR2) Patch](https://www.nexusmods.com/fallout4/mods/76204) | This patches America Rising 2 to work with Extended Dialogue Interface (XDI). |
+| [Mutilated Dead Bodies crash fix.](https://www.nexusmods.com/fallout4/mods/76206) | todo |
   
 # Textures
-  - [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714/?tab=files)
-  - [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745)
-  - [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425?tab=files)
-  - [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511)
-  
-  - [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742?tab=files)
-  - [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560?tab=files)
-  
-  - [Retextured Terminals - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/24008?tab=files)
+
+| Mod | Summary |
+|----------|----------|
+| [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714) | todo |
+| [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745) | todo |
+| [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425) | todo |
+| [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511) | todo |
+| [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742) | todo |
+| [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560) | todo |
+| [Retextured Terminals - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/24008) | todo |
 
 <img src="textures/terminals.jpg"/>
 
-  - [Retextured Chems v.2 - Ephla's Unique Chems.](https://www.nexusmods.com/fallout4/mods/18867?tab=files)
-  - [Raider Armors Retextured.](https://www.nexusmods.com/fallout4/mods/42933?tab=files)
+| Mod | Summary |
+|----------|----------|
+| [Retextured Chems v.2 - Ephla's Unique Chems.](https://www.nexusmods.com/fallout4/mods/18867) | todo |
+| [Raider Armors Retextured.](https://www.nexusmods.com/fallout4/mods/42933) | todo |
 
 <img src="textures/raider_armors_retextured.jpg"/>
 
+ADD MORE IMAGES
+
 # Magazines
 
-| [Ketaros Missing Magazines.](https://www.nexusmods.com/fallout4/mods/63541) | a |
-| [Classic Wasteland Survival Guide - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/49999) | a |
-| [U.S. Covert Operations Manual Redux - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/53012) | a |
-| [Total Hack - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/50253) | a |
+| Mod | Summary |
+|----------|----------|
+| [Ketaros Missing Magazines.](https://www.nexusmods.com/fallout4/mods/63541) | todo |
+| [Classic Wasteland Survival Guide - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/49999) | todo |
+| [U.S. Covert Operations Manual Redux - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/53012) | todo |
+| [Total Hack - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/50253) | todo |
   
+# Clothing/ Clothes (not armor)
 
-# Clothing/Armor
-  - [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187)
-  - [More Clothes and Textures (CBBE)](https://www.nexusmods.com/fallout4/mods/40315?tab=files)
-  - [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431?tab=description)
-
-<img src="armor/elis_compendium.jpg"/>
+| Mod | Summary |
+|----------|----------|
+| [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187) | todo |
+| [More Clothes and Textures (CBBE)](https://www.nexusmods.com/fallout4/mods/40315) | todo |
 
 # Audio
 
 | Mod | Summary |
 |----------|----------|
 | [Aggressive synth voice overhaul.](https://www.nexusmods.com/fallout4/mods/2105) | More menacing-sounding synths. Very cool and immersive. |
-| [More Where That Came From - Diamond City Radio Edition.](https://www.nexusmods.com/fallout4/mods/637) | More classical tunes in the radio. |
+| [More Where That Came From - Diamond City Radio Edition.](https://www.nexusmods.com/fallout4/mods/637) | More classical tunes on the radio. |
 
-# Gore and blood
-  - [Enhanced Blood Textures.](https://www.nexusmods.com/fallout4/mods/212/)
-  - [Gore Overhaul 3.0 -Reload-](https://www.nexusmods.com/fallout4/mods/21216?tab=files)
+# Gore / blood / violence
+
+| Mod | Summary |
+|----------|----------|
+| [Enhanced Blood Textures.](https://www.nexusmods.com/fallout4/mods/212/) | todo |
+| [Gore Overhaul 3.0 -Reload-](https://www.nexusmods.com/fallout4/mods/21216) | todo |
 
 # Main Menu
 
@@ -403,51 +423,71 @@ POSAR FOTO! todo o screenshot meu pujat face
 | a | b |
 
 # Expansions
-  - [Caves Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/75647)
-  - [Fallout 4 - Point Lookout.](https://www.nexusmods.com/fallout4/mods/60330?tab=files)
-  - [Fallout 4 Point Lookout - Voiced Player Lines Addon.](https://www.nexusmods.com/fallout4/mods/60387?tab=files)
+
+| Mod | Summary |
+|----------|----------|
+| [Caves Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/75647) | todo |
+| [Fallout 4 - Point Lookout.](https://www.nexusmods.com/fallout4/mods/60330) | todo, put :tv: youtube reviews |
+| [Fallout 4 Point Lookout - Voiced Player Lines Addon.](https://www.nexusmods.com/fallout4/mods/60387) | todo |
 
 # GUI
-  - [HUDFramework.](https://www.nexusmods.com/fallout4/mods/20309)
-  - [FallUI - HUD.](https://www.nexusmods.com/fallout4/mods/51813)
-  - [FallUI - Icon Library.](https://www.nexusmods.com/fallout4/mods/60579?tab=files)
-  - [FallUI - Inventory.](https://www.nexusmods.com/fallout4/mods/48758?tab=files)
-  - [FallUI - Workbench.](https://www.nexusmods.com/fallout4/mods/49300?tab=files)
-  - [FallUI - Confirm Boxes (incl. Yes Im Sure).](https://www.nexusmods.com/fallout4/mods/48958?tab=files) (vanilla-like preset is better for me).
-  - [LevelUpMenuEx.](https://www.nexusmods.com/fallout4/mods/28822)
-  - [Nameplates - Floating Healthbars.](https://www.nexusmods.com/fallout4/mods/21636?tab=files)
-  - [Floating Damage.](https://www.nexusmods.com/fallout4/mods/28684?tab=files)
-  - [Some reviews here.](https://www.youtube.com/watch?v=306g7_wV6Lg)
-  - [Companion Status HUD.](https://www.nexusmods.com/fallout4/mods/20310?tab=files)
-  - [Active Effects on HUD.](https://www.nexusmods.com/fallout4/mods/32735?tab=files)
-  - [HUDCaps.](https://www.nexusmods.com/fallout4/mods/43505)
-  - [FIS - The NEW FallUI Item Sorter.](https://www.nexusmods.com/fallout4/mods/60580?tab=files)
-  - [Quest Tags - FIS.](https://www.nexusmods.com/fallout4/mods/67427?tab=files)
 
+| Mod | Brief Summary | Spanish Translation |
+|----------|----------|----------|
+| [HUDFramework.](https://www.nexusmods.com/fallout4/mods/20309) | todo | todo |
+| [FallUI - HUD.](https://www.nexusmods.com/fallout4/mods/51813) | todo | todo |
+| [FallUI - Icon Library.](https://www.nexusmods.com/fallout4/mods/60579) | todo | todo |
+| [FallUI - Inventory.](https://www.nexusmods.com/fallout4/mods/48758) | todo | todo |
+| [FallUI - Workbench.](https://www.nexusmods.com/fallout4/mods/49300) | todo | todo |
+| [FallUI - Confirm Boxes (incl. Yes Im Sure).](https://www.nexusmods.com/fallout4/mods/48958) | Vanilla-like preset is better for me, Jaume. |  todo |
+| [LevelUpMenuEx.](https://www.nexusmods.com/fallout4/mods/28822) | todo | [LevelUpMenuEx - Spanish.](https://www.nexusmods.com/fallout4/mods/55737) | todo |
+| [Nameplates - Floating Healthbars.](https://www.nexusmods.com/fallout4/mods/21636) | todo | todo |
+| [Floating Damage.](https://www.nexusmods.com/fallout4/mods/28684) | :tv: [Some reviews here.](https://www.youtube.com/watch?v=306g7_wV6Lg) | todo |
+| [Companion Status HUD.](https://www.nexusmods.com/fallout4/mods/20310) | todo | todo |
+| [Active Effects on HUD.](https://www.nexusmods.com/fallout4/mods/32735) | todo | todo |
+| [HUDCaps.](https://www.nexusmods.com/fallout4/mods/43505) | :tv: put some review here youtube and screenshot | todo |
+| [FIS - The NEW FallUI Item Sorter.](https://www.nexusmods.com/fallout4/mods/60580) | todo | todo |
+| [Quest Tags - FIS.](https://www.nexusmods.com/fallout4/mods/67427) | todo | todo |
 
 # Map
-  - [Cartographers Map Markers (Fallout4 Edition) CMM.](https://www.nexusmods.com/fallout4/mods/12581?tab=description) (more map markers!)
-  - [FallUI - Map.](https://www.nexusmods.com/fallout4/mods/49920?tab=files)
-  
-# Creatures
-  - [Fog Crawlers Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/55698?tab=files)
-  - [Institute Centaurs.](https://www.nexusmods.com/fallout4/mods/41476?tab=files)
-  - [Mutant Menagerie - Life Finds A Way.](https://www.nexusmods.com/fallout4/mods/68187?tab=files) ([review here](https://www.youtube.com/watch?v=RdIzlBABMSY&t=4s))
-  - [Respawnable Legendary Bosses and Hard Legendary Giant Creatures](https://www.nexusmods.com/fallout4/mods/10124?tab=files)
 
+| Mod | Summary |
+|----------|----------|
+| [Cartographers Map Markers (Fallout4 Edition) CMM.](https://www.nexusmods.com/fallout4/mods/12581) | More map markers. |
+| [FallUI - Map.](https://www.nexusmods.com/fallout4/mods/49920) | todo |
+
+# Creatures / Monsters
+
+| Mod | Summary |
+|----------|----------|
+| [Fog Crawlers Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/55698) | todo |
+| [Institute Centaurs.](https://www.nexusmods.com/fallout4/mods/41476) | todo screenshot |
+| [Mutant Menagerie - Life Finds A Way.](https://www.nexusmods.com/fallout4/mods/68187) | :tv [Review here](https://www.youtube.com/watch?v=RdIzlBABMSY) |
+| [Respawnable Legendary Bosses and Hard Legendary Giant Creatures](https://www.nexusmods.com/fallout4/mods/10124) | todo |
+
+PUT SCREENSHOTS
+  
 # Bobbleheads
-  - [New Vault-Girl Bobbleheads AIO.](https://www.nexusmods.com/fallout4/mods/60833) ( [NSFW version here.](https://www.nexusmods.com/fallout4/mods/63047) )
+
+| Mod | Summary |
+|----------|----------|
+| [New Vault-Girl Bobbleheads AIO.](https://www.nexusmods.com/fallout4/mods/60833) | [NSFW version here.](https://www.nexusmods.com/fallout4/mods/63047) |
     
 <img src="collectibles/bobbleheads/1.jpg"/>
 
+PUT ALTERNATIVES LESS SPICY
+
 # Factions
-  - [Church of Atom Overhaul.](https://www.nexusmods.com/fallout4/mods/26173)
+
+| Mod | Summary |
+|----------|----------|
+| [Church of Atom Overhaul.](https://www.nexusmods.com/fallout4/mods/26173) | todo |
 
 # Spanish translation, in case you want one
-  - [LevelUpMenuEx - Spanish.](https://www.nexusmods.com/fallout4/mods/55737)
+  
   - [Fallout 4 - Point Lookout traduccion español.](https://www.nexusmods.com/fallout4/mods/60413)
   - [Respawnable Legendary Bosses and Hard Legendary Giant Creatures SPANISH.](https://www.nexusmods.com/fallout4/mods/13503)
-  - [Immersive Vendors - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35759)
+
   - [NPCs Travel (plus Fixes) - Spanish](https://www.nexusmods.com/fallout4/mods/55602)
   - [Backpacks of the Commonwealth - ES.](https://www.nexusmods.com/fallout4/mods/64851)
   - [Outcasts and Remnants - Quest Mod Plus SPANISH.](https://www.nexusmods.com/fallout4/mods/42017)
