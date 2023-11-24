@@ -80,9 +80,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 |----------|----------|
 | [Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/67528) | F4SE plugin for swapping objects for others in creative and cool ways. |
 | [Baka Framework.](https://www.nexusmods.com/fallout4/mods/43627) | "Baka Framework is required for Base Object Swapper to function". |
-| [Millennium Clutter - Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/68073) | "Replaces vanilla misc items in the world with the Millennium Clutter counterparts Using Base Object Swapper." |
-requires
-| [Millennium Clutter ESL flagged ESP.](https://www.nexusmods.com/fallout4/mods/67929) | "128 new items placed all over the world. Mugs, Fans, Telephones, Skates, Basketballs, Batteries and the list goes on." |
+| [Millennium Clutter - Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/68073) | Replaces vanilla misc items in the world with the Millennium Clutter counterparts, requires [Millennium Clutter ESL flagged ESP.](https://www.nexusmods.com/fallout4/mods/67929) (128 new items placed all over the world. Mugs, Fans, Telephones, Skates, Basketballs, Batteries, etc.) |
 | [Book Collector - Philosophy for the Wasteland - Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/72665) | "There is a 10% chance for each burnt book to swap" ... "Replaces "BookBurnt" in the world with books from Book Collector - Philosophy for the Wasteland Using Base Object Swapper." |
 | [Capital Wasteland Workshop Pack - Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/69298) | "- Furniture has a 60% chance to swap with no re-roll." ... "Replaces vanilla furniture in the world with the Capital Wasteland Workshop Pack counterparts Using Base Object Swapper." |
 (Capital Wasteland Workshop Pack - Required, Capital Wasteland Workshop Pack II - Optional)
