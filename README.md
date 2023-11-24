@@ -79,6 +79,30 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Combat Zone Restored.](https://www.nexusmods.com/fallout4/mods/21498) | :tv: [Working arena, reviewed here by MxR.](https://www.youtube.com/watch?v=9tdoqLwnqCM) |
 | [Cut Content - Eddie Lipkis.](https://www.nexusmods.com/fallout4/mods/76207) | NPC cut restored. |
 
+# Textures
+
+| Mod | Summary |
+|----------|----------|
+| [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714) | todo |
+| [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745) | todo |
+| [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425) | todo |
+| [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511) | todo |
+| [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742) | todo |
+| [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560) | todo |
+| [Bag of Cement Retexture.](https://www.nexusmods.com/fallout4/mods/76108) | todo |
+| [Retextured Terminals - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/24008) | todo |
+
+<img src="textures/terminals.jpg"/>
+
+| Mod | Summary |
+|----------|----------|
+| [Retextured Chems v.2 - Ephla's Unique Chems.](https://www.nexusmods.com/fallout4/mods/18867) | todo |
+| [Raider Armors Retextured.](https://www.nexusmods.com/fallout4/mods/42933) | todo |
+
+<img src="textures/raider_armors_retextured.jpg"/>
+
+ADD MORE IMAGES
+
 # Animations
 
 | Mod | Summary |
@@ -374,30 +398,7 @@ POSAR FOTO! todo o screenshot meu pujat face
 | [XDI - America Rising 2 (AR2) Patch](https://www.nexusmods.com/fallout4/mods/76204) | This patches America Rising 2 to work with Extended Dialogue Interface (XDI). |
 | [Mutilated Dead Bodies crash fix.](https://www.nexusmods.com/fallout4/mods/76206) | todo |
   
-# Textures
-
-| Mod | Summary |
-|----------|----------|
-| [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714) | todo |
-| [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745) | todo |
-| [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425) | todo |
-| [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511) | todo |
-| [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742) | todo |
-| [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560) | todo |
-| [Retextured Terminals - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/24008) | todo |
-
-<img src="textures/terminals.jpg"/>
-
-| Mod | Summary |
-|----------|----------|
-| [Retextured Chems v.2 - Ephla's Unique Chems.](https://www.nexusmods.com/fallout4/mods/18867) | todo |
-| [Raider Armors Retextured.](https://www.nexusmods.com/fallout4/mods/42933) | todo |
-
-<img src="textures/raider_armors_retextured.jpg"/>
-
-ADD MORE IMAGES
-
-# Magazines
+ # Magazines
 
 | Mod | Summary |
 |----------|----------|
