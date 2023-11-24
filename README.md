@@ -34,9 +34,11 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Base Object Swapper
 
+<img src="base_object_swapper/logo.jpg"/>
+
 | Mod | Summary |
 |----------|----------|
-| [Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/67528) |
+| [Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/67528) | F4SE plugin for swapping objects for others in creative and cool ways. |
 | [Baka Framework.](https://www.nexusmods.com/fallout4/mods/43627) | "Baka Framework is required for Base Object Swapper to function". |
 | [Millennium Clutter - Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/68073) | "Replaces vanilla misc items in the world with the Millennium Clutter counterparts Using Base Object Swapper." |
 requires
