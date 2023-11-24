@@ -5,7 +5,7 @@
 My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
 # Warnings / Remembers
-  - If the protagonist's voice is silent be sure to go to Steam, properties of the game and change the language to "English"! (found 5/11/23).
+  - If the protagonist's voice is silent be sure to go to Steam, properties of the game and change the language to "English"! (found 5/11/23). Happened to me because Steam detected my language as Spanish and didn't care to install the English language files.
   - To avoid intro: open steamapps\common\Fallout 4\Data\Video\ and delete or rename the file “GameIntro_V3_B.bk2”
   - To turn on/off pip-boy flashlight: HOLD TAB!
   - Remove Piper's Hat: console ("ñ" key in spanish keyboard, the key left to 1 in english keyboard)
@@ -31,6 +31,42 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216) | Easier conversation. |
 | [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative startings. Not doing the same playthrough (and initial long cutscene) every time. |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. |
+
+# Base Object Swapper
+
+| Mod | Summary |
+|----------|----------|
+| [Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/67528) |
+| [Baka Framework.](https://www.nexusmods.com/fallout4/mods/43627) | "Baka Framework is required for Base Object Swapper to function". |
+| [Millennium Clutter - Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/68073) | "Replaces vanilla misc items in the world with the Millennium Clutter counterparts Using Base Object Swapper." |
+requires
+| [Millennium Clutter ESL flagged ESP.](https://www.nexusmods.com/fallout4/mods/67929) | "128 new items placed all over the world. Mugs, Fans, Telephones, Skates, Basketballs, Batteries and the list goes on." |
+| [Book Collector - Philosophy for the Wasteland - Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/72665) | "There is a 10% chance for each burnt book to swap" ... "Replaces "BookBurnt" in the world with books from Book Collector - Philosophy for the Wasteland Using Base Object Swapper." |
+| [Capital Wasteland Workshop Pack - Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/69298) | "- Furniture has a 60% chance to swap with no re-roll." ... "Replaces vanilla furniture in the world with the Capital Wasteland Workshop Pack counterparts Using Base Object Swapper." |
+(Capital Wasteland Workshop Pack - Required, Capital Wasteland Workshop Pack II - Optional)
+| [Capital Wasteland Workshop Pack.](https://www.nexusmods.com/fallout4/mods/43068) | "This is a full new workshop pack containing tons of new furniture, workshop items and two brand new building kits. The pack contains around 200 new placeable items!" |
+| [Capital Wasteland Workshop Pack II.](https://www.nexusmods.com/fallout4/mods/50626) | "Part 2 of the Capital Wasteland workshop pack, includes 100+ brand new custom placeable objects, the theme is really just a mixed bag of stuff from Fallout 3 and a few things from New Vegas." |
+| [Televisions of the Wasteland - Base Object Swapper](https://www.nexusmods.com/fallout4/mods/68305) | (Televisions of the Wasteland is already merged with Videos of the Wasteland) "TVs have an 85% chance to swap with no re-roll." "Replaces vanilla TVs in the world with the Televisions of the Wasteland counterparts Using Base Object Swapper."  |
+| [Real Comics - Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/68063) | Replaces "ComicBurnt" in the world with comics from Real Comics using BOS. There is a 10% chance to swap. Requires [Real Comics.](https://www.nexusmods.com/fallout4/mods/17291) (111 full comics. 15% chance). | Not needed. |
+| [MDR Crossover Comics - Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/68069) | Replaces "ComicBurnt" in the world with comics from MDR Crossover Comics Using BOS. There is a 10% chance to swap. Requires [MDR Crossover Comics.](https://www.nexusmods.com/fallout4/mods/64339) ("Adds Over 700 Real Comics to the Commonwealth for you to find and collect, they spawn in various loot containers, and on enemies!") | Not needed. |
+| [Collectable Cars of the Commonwealth - Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/69727) | - "Replaces "ToyCar" in the world with Collectable Cars of the Commonwealth Using Base Object Swapper.
+- Replaces "ToyTruck" in the world with Collectable Trucks of Far Harbor Using Base Object Swapper.
+- There is a 15% chance to swap." | Not needed.
+requires [Collectable Cars of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/14150) & [Collectable Trucks of Far Harbor.](https://www.nexusmods.com/fallout4/mods/14676)
+
+| [Creation Club - Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/68216) | "Replaces vanilla furniture in the world with the Creation Club counterparts Using Base Object Swapper."
+(Furniture has a 60% chance to swap with no re-roll.
+- Note: At least one of the following Creation Club mods is Required
+   - Arcade Workshop Pack
+   - Captain Cosmos
+   - Coffee and Donuts Workshop Pack
+   - Modern Furniture Workshop Pack
+   - Neon Flats
+   - Nuka-Cola Collector Workshop
+   - Noir Penthouse
+he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Workshop.
+)
+
 
 # Gameplay
 
