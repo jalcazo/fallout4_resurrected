@@ -380,42 +380,68 @@ POSAR FOTO! todo o screenshot meu pujat face
   - [ADD-ON - Terror Card Series.](https://www.nexusmods.com/fallout4/mods/68244) (100 collectible cards).
 
 # Quality of life
-  - [HoloGlow - A glowing holotape mod.](https://www.nexusmods.com/fallout4/mods/59901?tab=files)
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [HoloGlow - A glowing holotape mod.](https://www.nexusmods.com/fallout4/mods/59901) | todo | todo |
     
-    <img src="quality/hologlow.jpg"/>
+<img src="quality/hologlow.jpg"/>
 
 # Lighting  
-  - [Ultra Interior Lighting.](https://www.nexusmods.com/fallout4/mods/22101)
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Ultra Interior Lighting.](https://www.nexusmods.com/fallout4/mods/22101) | todo | todo |
 
 # DLC sized expansions
 
-| [America Rising 2 - Legacy of the Enclave](https://www.nexusmods.com/fallout4/mods/75767) | Remaster of the 1. Review by JuiceHead. |
-
-
-  - [Outcasts and Remnants - Quest Mod Plus](https://www.nexusmods.com/fallout4/mods/21469) ("DLC-sized quest mod. 20 hours of gameplay with new factions, locations, player bases, and fully-voiced custom companions.").
-  - [Depravity](https://www.nexusmods.com/fallout4/mods/35513?tab=description) (Large quest/companion mod with evil RPG options for the vanilla main story. Aug 2019 Mod of the Month. 40 quests, 13 companions, around 20 hours of content.) (needs Outcasts and Remnants).
-
-
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [America Rising 2 - Legacy of the Enclave](https://www.nexusmods.com/fallout4/mods/75767) | Remaster of the 1. Review by JuiceHead. | todo |
+| [Outcasts and Remnants - Quest Mod Plus](https://www.nexusmods.com/fallout4/mods/21469) | DLC-sized quest mod. 20 hours of gameplay with new factions, locations, player bases, and fully-voiced custom companions. | todo |
+| [Depravity](https://www.nexusmods.com/fallout4/mods/35513) | Large quest/companion mod with evil RPG options for the vanilla main story. 40 quests, 13 companions, and around 20 hours of content. Requires Outcasts and Remnants. | todo |
 
 # Landscape
 
-| [Minuteman Watchtowers](https://www.nexusmods.com/fallout4/mods/67115?tab=files) (pick the ESL).
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Minuteman Watchtowers](https://www.nexusmods.com/fallout4/mods/67115?tab=files) (pick the ESL). | todo | todo |
 
 # Interiors
 
-| [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320) | ``` TODO. TO BE DONE 🚧 ``` |
-| [moreXplore](https://www.nexusmods.com/fallout4/mods/28733) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Rsiyo's Location Pack](https://www.nexusmods.com/fallout4/mods/38501) | ``` TODO. TO BE DONE 🚧 ``` |
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [moreXplore](https://www.nexusmods.com/fallout4/mods/28733) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Rsiyo's Location Pack](https://www.nexusmods.com/fallout4/mods/38501) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Overboss HQ Overhaul.](https://www.nexusmods.com/fallout4/mods/29968) | Overhauls the Overboss place over in Nuka World. | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Better The Third Rail](https://www.nexusmods.com/fallout4/mods/15388) | todo | todo |
+
+
+# Homes / Houses
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Faction Housing Overhaul - All In One. (Elianora)](https://www.nexusmods.com/fallout4/mods/15814) | todo | todo |
+| [The Crib - Raider Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/46236) | todo | todo |
+| [Hangman's Flat - Raider or Overboss player home.](Hangman's Flat - Raider or Overboss player home) | todo | todo |
+| [Far Harbor Shack. (Elianora)](https://www.nexusmods.com/fallout4/mods/25359) | todo | todo |
+| [Chestnut Lodge - Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/25033) | todo | todo |
+| [Army Bunker player home and settlement. (Elianora)](https://www.nexusmods.com/fallout4/mods/62209) | todo | todo |
+    
+<img src="homes/elianora_army_bunker.jpg"/>
 
 # Area expansions
 
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
 | [Atomic World](https://www.nexusmods.com/fallout4/mods/28713) | ``` TODO. TO BE DONE 🚧 ``` |
+ 
+Discarded mods:
+  - Welcome to Goodneighbor: not recommended, unimmersive. Quest with dialog lines blank. No voiced protagonist. Try this instead better, better lose the quest and add immersion:
 
   
-  
-  - [Better The Third Rail](https://www.nexusmods.com/fallout4/mods/15388?tab=files)
-  - Welcome to Goodneighbor: not recommended, unimmersive. Quest with dialog lines blank. No voiced protagonist. Try this instead better, better lose the quest and add immersion:
   - [Goodneighbor View](https://www.nexusmods.com/fallout4/mods/72021)
   - [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293)
   - [Phase 4 An Institute Expansion.](https://www.nexusmods.com/fallout4/mods/42647)
@@ -434,17 +460,6 @@ POSAR FOTO! todo o screenshot meu pujat face
   - [Commonwealth Improvements - Fort Strong.](https://www.nexusmods.com/fallout4/mods/22287/?tab=files)
   - [Egret's Secret.](https://www.nexusmods.com/fallout4/mods/22031/?tab=files)
   - [Welcome to Fallon's.](https://www.nexusmods.com/fallout4/mods/25629)
-
-# Homes / Houses
-  - [Faction Housing Overhaul - All In One. (Elianora)](https://www.nexusmods.com/fallout4/mods/15814?tab=files)
-  - [The Crib - Raider Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/46236)
-  - [Hangman's Flat - Raider or Overboss player home.](Hangman's Flat - Raider or Overboss player home)
-  - [Far Harbor Shack. (Elianora)](https://www.nexusmods.com/fallout4/mods/25359?tab=files)
-  - [Chestnut Lodge - Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/25033)
-  - [Army Bunker player home and settlement. (Elianora)](https://www.nexusmods.com/fallout4/mods/62209)
-    
-    <img src="homes/elianora_army_bunker.jpg"/>
-
 
 # Power armor
 
