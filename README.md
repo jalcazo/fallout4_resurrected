@@ -139,16 +139,17 @@ posar imatges github
 
 # Textures
 
-| Mod | Summary |
-|----------|----------|
-| [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Bag of Cement Retexture.](https://www.nexusmods.com/fallout4/mods/76108) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Retextured Terminals - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/24008) | ``` TODO. TO BE DONE 🚧 ``` |
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
+| [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
+| [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
+| [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
+| [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
+| [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
+| [Bag of Cement Retexture.](https://www.nexusmods.com/fallout4/mods/76108) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
+| [Drifter Outfit 4k.](https://www.nexusmods.com/fallout4/mods/39904) | todo | Not needed. |  Not needed. |
+| [Retextured Terminals - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/24008) | ``` TODO. TO BE DONE 🚧 ``` | Not needed. |
 
 <img src="textures/terminals.jpg"/>
 
