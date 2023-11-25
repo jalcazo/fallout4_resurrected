@@ -33,6 +33,43 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative startings. Not doing the same playthrough (and initial long cutscene) every time. |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. |
 
+# Settlements
+
+| Mod | Summary |
+|----------|----------|
+| [Settlement Menu Manager.](https://www.nexusmods.com/fallout4/mods/24204) | todo |
+| [Dino's Decorations - clutter arrangements for your settlements.](https://www.nexusmods.com/fallout4/mods/16186) | Make your settlements look a little more lived in, requires: [Place Everywhere](https://www.nexusmods.com/fallout4/mods/9424) | 
+| [Snappable Clutter and Display.](https://www.nexusmods.com/fallout4/mods/69980) | Adds modular clutter that will snap to provided furniture, giving you limitless combinations to add clutter to your settlements. |
+| [Sandbag Fortifications.](https://www.nexusmods.com/fallout4/mods/21358) | todo |
+| [Settlement Keywords Expanded.](https://www.nexusmods.com/fallout4/mods/12226) | Needed by some mods. |
+| [Objects for Bathroom and Kitchen - WorkshopPack.](https://www.nexusmods.com/fallout4/mods/38515) | Adds washing machine & dryer + some more objects for your bathroom. |
+| [Minutemen Propaganda Posters.](https://www.nexusmods.com/fallout4/mods/11975) | todo |
+| [Nothing Fancy Hot Showers.](https://www.nexusmods.com/fallout4/mods/46241) | Adds 4 showers and some color variants, showers work like a decontamination arch. Requires DLC: Wasteland Workshop. |
+| [Showers ESL.](https://www.nexusmods.com/fallout4/mods/36107) | ix showers that boost your charisma or remove your rads. |
+
+# Quests
+
+| Mod | Summary |
+|----------|----------|
+| [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) | Adds 12 new case files to Nick Valentine's detective office in Diamond City. |
+| [Atomic Radio and Tales from the Commonwealth.](https://www.nexusmods.com/fallout4/mods/8704) | Be sure to download **BOTH.** |
+| [Mad Rock - Quest - Settlement](https://www.nexusmods.com/fallout4/mods/32146) | Brutal, near Billy the Boy in the fridge. |
+| [Maxwell's World.](https://www.nexusmods.com/fallout4/mods/18949) | A DLC-sized, haunted amusement park quest mod. Fully voiced acted, with new weapons like the heavy incinerator and fireworks cannon, monsters, multiple endings, new companions, and much much more! | :tv: [Maxwell's World reviewed by MxR here.](https://www.youtube.com/watch?v=ikcZwv6BUuw) |
+| [CSEP Presents Commonwealth Killer - Quest Mod.](https://www.nexusmods.com/fallout4/mods/61305) | todo |
+| [Submarine Base Echo Dungeon and Quest.](https://www.nexusmods.com/fallout4/mods/14471) | Quest about finding an item for Dr. Waters. A new Dungeon level 30a40 + with some loot at the end. |
+| [Quest - Prelude To Vault 273.](https://www.nexusmods.com/fallout4/mods/7710) | Adds a scavenger hunt style quest with audio logs scattered across the wasteland. |
+| [No Quest Autostart - Automatron.](https://www.nexusmods.com/fallout4/mods/31576) | Prevents the Automatron main quest from automatically starting until the player listens to the Caravan Distress Call. |
+| [No Quest Autostart - Nuka World.](https://www.nexusmods.com/fallout4/mods/31433) | Simple script edit to prevent the Nuka-World main quest from running without either visiting the Nuka-World Transit Station or listening to the radio station. |
+| [The Kelly Manor Horror - Quest.](https://www.nexusmods.com/fallout4/mods/27657) | A spooky horror quest mod. |
+| [50 Ways to Die at Dr. Nick's - Quest Mod.](https://www.nexusmods.com/fallout4/mods/25564) | 10 Connected Quests, Unique Rewards, Custom Player Home, Lore-Friendly Backstory, Lots of Explosions, and a Twist. |
+| [Main Quest Choices Extended.](https://www.nexusmods.com/fallout4/mods/19835) | A few changes that expand your options in the main story including keeping the Railroad alive. |
+| [Whose Quest Is It Anyway.](https://www.nexusmods.com/fallout4/mods/51979) | Swap the "quest items can't be removed" message with something a little more informative. |
+| [No Quest Autostart - Far Harbor.](https://www.nexusmods.com/fallout4/mods/31450) | Prevents "Far From Home" from starting without the player either listening to Ellie's radio message or visiting the Nakano residence." |
+| [CHAOTIC SUN.](https://www.nexusmods.com/fallout4/mods/38808) 2.9GB!!!| "It starts with a Nameless Island and is an adventure focused on combat and exploration. The dungeon that accumulates a person's memory. powerful Temple Knights and their Synth Army. Stalkers seem to have gathered after hearing the rumor of treasure. You fight with the help of a 3D printed spirit called Wraith, and the Android. Let's get started!" |
+
+
+imatges github
+
 # Armor / armors (not clothes)
 
 | Mod | Summary |
@@ -60,6 +97,30 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Combat Zone Restored.](https://www.nexusmods.com/fallout4/mods/21498) | :tv: [Working arena, reviewed here by MxR.](https://www.youtube.com/watch?v=9tdoqLwnqCM) |
 | [Cut Content - Eddie Lipkis.](https://www.nexusmods.com/fallout4/mods/76207) | NPC cut restored. |
 
+# Textures
+
+| Mod | Summary |
+|----------|----------|
+| [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714) | todo |
+| [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745) | todo |
+| [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425) | todo |
+| [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511) | todo |
+| [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742) | todo |
+| [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560) | todo |
+| [Bag of Cement Retexture.](https://www.nexusmods.com/fallout4/mods/76108) | todo |
+| [Retextured Terminals - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/24008) | todo |
+
+<img src="textures/terminals.jpg"/>
+
+| Mod | Summary |
+|----------|----------|
+| [Retextured Chems v.2 - Ephla's Unique Chems.](https://www.nexusmods.com/fallout4/mods/18867) | todo |
+| [Raider Armors Retextured.](https://www.nexusmods.com/fallout4/mods/42933) | todo |
+
+<img src="textures/raider_armors_retextured.jpg"/>
+
+ADD MORE IMAGES
+
 # Animations
 
 | Mod | Summary |
@@ -71,32 +132,12 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Another Deliverer Reanimation.](https://www.nexusmods.com/fallout4/mods/76195) | Deliverer is a type of gun in the game. Imatge a github. Uses this textures: [VWR - Vanilla Weapons Redone.](https://www.nexusmods.com/fallout4/mods/47726) |
 | [Better Female Walk (Extra Jiggle).](https://www.nexusmods.com/fallout4/mods/21370) | :tv: [Better Female Walk reviewed here by MxR](https://www.youtube.com/watch?v=9tdoqLwnqCM) |
 
-# Settlements
-
-| Mod | Summary |
-|----------|----------|
-| [Settlement Menu Manager.](https://www.nexusmods.com/fallout4/mods/24204) | todo |
-| [Dino's Decorations - clutter arrangements for your settlements.](https://www.nexusmods.com/fallout4/mods/16186) | Make your settlements look a little more lived in, requires: [Place Everywhere](https://www.nexusmods.com/fallout4/mods/9424) | 
-| [Snappable Clutter and Display.](https://www.nexusmods.com/fallout4/mods/69980) | Adds modular clutter that will snap to provided furniture, giving you limitless combinations to add clutter to your settlements. |
-| [Sandbag Fortifications.](https://www.nexusmods.com/fallout4/mods/21358) | todo |
-| [Settlement Keywords Expanded.](https://www.nexusmods.com/fallout4/mods/12226) | Needed by some mods. |
-| [Objects for Bathroom and Kitchen - WorkshopPack.](https://www.nexusmods.com/fallout4/mods/38515) | Adds washing machine & dryer + some more objects for your bathroom. |
-
 # Radio
 
 | Mod | Summary |
 |----------|----------|
 | [Old Wold Radio](https://www.nexusmods.com/fallout4/mods/9048) | 29 new stations, custom craftable settlement radios for each station, craftable holotapes for each station for in-game volume control and track-seeking control, craftable posters and billboards included, compatibility patches included. |
 | [Old World Radio 2.](https://www.nexusmods.com/fallout4/mods/28711) | :tv: [Old World Radio 2 reviewed here by MxR.](https://www.youtube.com/watch?v=Y0h23o6GkcM) |
-
-# Quests
-
-| Mod | Summary |
-|----------|----------|
-| [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) | Adds 12 new case files to Nick Valentine's detective office in Diamond City. |
-| [Atomic Radio and Tales from the Commonwealth.](https://www.nexusmods.com/fallout4/mods/8704) | Be sure to download **BOTH.** |
-| [Mad Rock - Quest - Settlement](https://www.nexusmods.com/fallout4/mods/32146) | Brutal, near Billy the Boy in the fridge. |
-| [Maxwell's World.](https://www.nexusmods.com/fallout4/mods/18949) | A DLC-sized, haunted amusement park quest mod. Fully voiced acted, with new weapons like the heavy incinerator and fireworks cannon, monsters, multiple endings, new companions, and much much more! | :tv: [Maxwell's World reviewed by MxR here.](https://www.youtube.com/watch?v=ikcZwv6BUuw) |
 
 # Vaults
 
@@ -161,7 +202,7 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 | Mod | Summary |
 |----------|----------|
 | [The Widow Shotgun](https://www.nexusmods.com/fallout4/mods/19619) | Adds a standalone modular sawn off double-barrelled shotgun. | [The Widow Shotgun Spanish.](https://www.nexusmods.com/fallout4/mods/34757) |
-| [Black Widow Armor and Pipboy (Pip-boy).](https://www.nexusmods.com/fallout4/mods/21162) | "Will you be the one to fulfill the widow's last wish?" | [Black Widow Armor and Pipboy (Pip-boy) Spanish.](https://www.nexusmods.com/fallout4/mods/34794) |
+| [Black Widow Armor and Pipboy (Pip-boy).](https://www.nexusmods.com/fallout4/mods/21162) **I PERSONALLY UNINSTALL THE PIPBOY, I DON'T LIKE IT, JAUME** | "Will you be the one to fulfill the widow's last wish?" | [Black Widow Armor and Pipboy (Pip-boy) Spanish.](https://www.nexusmods.com/fallout4/mods/34794) |
 
 :tv: [both reviewed by MxR here](https://www.youtube.com/watch?v=rvXfzPfyZic)
 
@@ -197,6 +238,13 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 | [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521) | todo | todo |
 | [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447) | todo | todo |
 | [KCI - Kellogg's Cybernetic Implants.](https://www.nexusmods.com/fallout4/mods/48812) | :tv: [Reviewed here (amongst other mods) by MxR.](https://www.youtube.com/watch?v=1JqPQvw_8xA) | todo |
+
+# Hunting
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [More Wildlife.](https://www.nexusmods.com/fallout4/mods/51503) | todo | todo |
+| [IHO - Immersive Hunting Overhaul.](https://www.nexusmods.com/fallout4/mods/53964) | Very lightweight but effective hunting mechanic. Get ingredients from creatures in a more immersive way. Disassemble to parts various mechanical targets. Learn new cooking recipes and even more. | [IHO - Immersive Hunting Overhaul - Spanish.](https://www.nexusmods.com/fallout4/mods/58029) |
 
 # NPC's / presets / characters
 
@@ -264,8 +312,6 @@ POSAR FOTO! todo o screenshot meu pujat face
 # Lighting  
   - [Ultra Interior Lighting.](https://www.nexusmods.com/fallout4/mods/22101)
 
-# Hunting
-  - [More Wildlife.](https://www.nexusmods.com/fallout4/mods/51503?tab=files)
 
 # DLC sized expansions
 
@@ -364,30 +410,7 @@ POSAR FOTO! todo o screenshot meu pujat face
 | [XDI - America Rising 2 (AR2) Patch](https://www.nexusmods.com/fallout4/mods/76204) | This patches America Rising 2 to work with Extended Dialogue Interface (XDI). |
 | [Mutilated Dead Bodies crash fix.](https://www.nexusmods.com/fallout4/mods/76206) | todo |
   
-# Textures
-
-| Mod | Summary |
-|----------|----------|
-| [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714) | todo |
-| [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745) | todo |
-| [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425) | todo |
-| [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511) | todo |
-| [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742) | todo |
-| [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560) | todo |
-| [Retextured Terminals - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/24008) | todo |
-
-<img src="textures/terminals.jpg"/>
-
-| Mod | Summary |
-|----------|----------|
-| [Retextured Chems v.2 - Ephla's Unique Chems.](https://www.nexusmods.com/fallout4/mods/18867) | todo |
-| [Raider Armors Retextured.](https://www.nexusmods.com/fallout4/mods/42933) | todo |
-
-<img src="textures/raider_armors_retextured.jpg"/>
-
-ADD MORE IMAGES
-
-# Magazines
+ # Magazines
 
 | Mod | Summary |
 |----------|----------|
@@ -395,6 +418,7 @@ ADD MORE IMAGES
 | [Classic Wasteland Survival Guide - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/49999) | todo |
 | [U.S. Covert Operations Manual Redux - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/53012) | todo |
 | [Total Hack - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/50253) | todo |
+| [MM JOURNALS.](https://www.nexusmods.com/fallout4/mods/57092) | todo |
   
 # Clothing/ Clothes (not armor)
 
