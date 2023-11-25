@@ -168,10 +168,26 @@ posar imatges github
 | [Chinese Stealth Suit.](https://www.nexusmods.com/fallout4/mods/20959) | :tv: [Reviewed here by MxR.](https://www.youtube.com/watch?v=9tdoqLwnqCM) | todo |
 | [NCR Outfit Pack.](https://www.nexusmods.com/fallout4/mods/58182) | Adds in loads of new NCR outfits from Fallout New Vegas and its DLCs, these can be found at vendors like Fallon's basement. You can buy both the armours and plans to craft them a the chemistry workbench. | todo |
 | [CROSS_InstituteExpeditionarySuit.](https://www.nexusmods.com/fallout4/mods/30857) | The outfit is not added to any leveled lists, it can only be found in hand-placed locations or crafted. | todo |
-| [Nuka Gear.](https://www.nexusmods.com/fallout4/mods/11798/) | Mod adds Nuka-Cola-inspired equipment and weapons to the game. They're based on the Nuka-Cola posters found in the game. | todo |
-| [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431) | ``` TODO. TO BE DONE 🚧 ``` |
+
+# Elianora mods
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Faction Housing Overhaul - All In One. (Elianora)](https://www.nexusmods.com/fallout4/mods/15814) | todo | todo |
+| [Nuka Gear.](https://www.nexusmods.com/fallout4/mods/11798/) (Elianora - Ellise - DDProductions83) | Mod adds Nuka-Cola-inspired equipment and weapons to the game. They're based on the Nuka-Cola posters found in the game. | todo |
+| Collectibles: [Teddies 76 - A Mr. Fuzzy mod.](https://www.nexusmods.com/fallout4/mods/57424) | Adds a huge amount of collectible teddybears into the game inspired by the Mr. Fuzzy mascot and toys. | todo |
+| [Far Harbor Shack. (Elianora)](https://www.nexusmods.com/fallout4/mods/25359) | todo | todo |
+| [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431) | ``` TODO. TO BE DONE 🚧 ``` | TODO |
 
 <img src="armor/elis_compendium.jpg"/>
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Chestnut Lodge - Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/25033) | todo | todo |
+| [The Crib - Raider Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/46236) | todo | todo |
+| [Army Bunker player home and settlement. (Elianora)](https://www.nexusmods.com/fallout4/mods/62209) | todo | todo |
+    
+<img src="homes/elianora_army_bunker.jpg"/>
 
 # Cut content
 
@@ -308,14 +324,6 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 
 :tv: [both reviewed by MxR here](https://www.youtube.com/watch?v=rvXfzPfyZic)
 
-
-# Elianora mods
-
-| Mod | Summary |
-|----------|----------|
-| Collectibles: [Teddies 76 - A Mr. Fuzzy mod.](https://www.nexusmods.com/fallout4/mods/57424) | "This mod adds a huge amount of collectible teddybears into the game inspired by the Mr. Fuzzy mascot and toys. Most of them are high quality recreations from Fallout 76, plus a few new ones. It also adds other Mr. Fuzzy-themed items like outfits, a helmet, and paints, and displays that work with the new items." |
-
-
 # Gameplay
 
 | Mod | Summary |
@@ -391,8 +399,7 @@ POSAR FOTO! todo o screenshot meu pujat face
   - [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) (This treasure hunt adds 40 classic works of western philosophy.ESP marked as ESL.)
     
     <img src="collectibles/philosophy_books.jpg"/>
-    NO, ADDS 3D SCREENS: - [Teddies 76. (Elianora)](https://www.nexusmods.com/fallout4/mods/57424)
-
+    
 # Ketaros Collectibles
   - [Ketaros Framework.](https://www.nexusmods.com/fallout4/mods/68236) (needed for all his add-ons).
   - [ADD-ON - Pin-Up Card Series.](https://www.nexusmods.com/fallout4/mods/68239) (100 collectible cards).
@@ -444,14 +451,7 @@ POSAR FOTO! todo o screenshot meu pujat face
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Faction Housing Overhaul - All In One. (Elianora)](https://www.nexusmods.com/fallout4/mods/15814) | todo | todo |
-| [The Crib - Raider Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/46236) | todo | todo |
 | [Hangman's Flat - Raider or Overboss player home.](Hangman's Flat - Raider or Overboss player home) | todo | todo |
-| [Far Harbor Shack. (Elianora)](https://www.nexusmods.com/fallout4/mods/25359) | todo | todo |
-| [Chestnut Lodge - Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/25033) | todo | todo |
-| [Army Bunker player home and settlement. (Elianora)](https://www.nexusmods.com/fallout4/mods/62209) | todo | todo |
-    
-<img src="homes/elianora_army_bunker.jpg"/>
 
 # Area expansions
 
