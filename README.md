@@ -34,6 +34,18 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. |
 
 
+# Animations
+
+| Mod | Brief summary | Spanish translation
+|----------|----------|----------|
+| [No Crafting Animations.](https://www.nexusmods.com/fallout4/mods/63183) | ``` TODO. TO BE DONE 🚧 ``` | Not needed. |
+| [No Door Animations - Instant Doors.](https://www.nexusmods.com/fallout4/mods/63224) | ``` TODO. TO BE DONE 🚧 ``` | Not needed. |
+| [Realistic Death Physics - No Animations.](https://www.nexusmods.com/fallout4/mods/4371) | ``` TODO. TO BE DONE 🚧 ``` | Not needed. |
+| [Combat Knife Animations.](https://www.nexusmods.com/fallout4/mods/75952) | ``` TODO. TO BE DONE 🚧 ``` | Not needed. |
+| [Another Deliverer Reanimation.](https://www.nexusmods.com/fallout4/mods/76195) | Deliverer is a type of gun in the game. Imatge a github. Uses this textures: [VWR - Vanilla Weapons Redone.](https://www.nexusmods.com/fallout4/mods/47726) | Not needed. |
+| [Better Female Walk (Extra Jiggle).](https://www.nexusmods.com/fallout4/mods/21370) | :tv: [Better Female Walk reviewed here by MxR](https://www.youtube.com/watch?v=9tdoqLwnqCM) | Not needed. |
+| [Assault Rifle Reanimated.](https://www.nexusmods.com/fallout4/mods/61012) | Needs [Tactical Reload](https://www.nexusmods.com/fallout4/mods/49444) | Not needed. |
+
 # Buildings
 
 | Mod | Brief summary | Spanish translation |
@@ -189,17 +201,6 @@ posar imatges github
 <img src="textures/raider_armors_retextured.jpg"/>
 
 ADD MORE IMAGES
-
-# Animations
-
-| Mod | Summary |
-|----------|----------|
-| [No Crafting Animations.](https://www.nexusmods.com/fallout4/mods/63183) | ``` TODO. TO BE DONE 🚧 ``` |
-| [No Door Animations - Instant Doors.](https://www.nexusmods.com/fallout4/mods/63224) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Realistic Death Physics - No Animations.](https://www.nexusmods.com/fallout4/mods/4371) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Combat Knife Animations.](https://www.nexusmods.com/fallout4/mods/75952) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Another Deliverer Reanimation.](https://www.nexusmods.com/fallout4/mods/76195) | Deliverer is a type of gun in the game. Imatge a github. Uses this textures: [VWR - Vanilla Weapons Redone.](https://www.nexusmods.com/fallout4/mods/47726) |
-| [Better Female Walk (Extra Jiggle).](https://www.nexusmods.com/fallout4/mods/21370) | :tv: [Better Female Walk reviewed here by MxR](https://www.youtube.com/watch?v=9tdoqLwnqCM) |
 
 # Vaults
 
