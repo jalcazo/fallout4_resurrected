@@ -70,6 +70,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Detour Radio.](https://www.nexusmods.com/fallout4/mods/29060) | Over 110 songs from the golden age of music. All lore-friendly. This is just continuous music with no DJ or commercials added. A craftable radio is available in the workshop so your settlers can enjoy it as well. XBOX and PC versions are also available at Bethesda's site. | Not needed. |
 | [Delta Wasteland Radio - Now with 70-plus old blues tunes.](https://www.nexusmods.com/fallout4/mods/11087) | Radio station adds 36 classic blues songs from the 1920s-1930s | Not needed. |
 | [Starlight Drive-In Trailer Radio](https://www.nexusmods.com/fallout4/mods/29305). |This mods ads a new radio station to the Commonwealth that you can listen to on your Pip-Boy. The radio station features many trailers from old-school movies, such as The Mummy (1932), The Wizard of Oz (1939) and 12 Angry Men (1957). In total, there are 20 different trailers for old movies, with a few commercials and announcements in between. | Not needed. |
+| [The Cat's Meow -Atom Cats Radio-.](https://www.nexusmods.com/fallout4/mods/34288) | This mod adds a brand new lore-friendly radio station called "The Cat's Meow" which is hosted by Rowdy of the Atom Cats. It also comes with a craftable holotape which allows the user to change tracks and to raise/lower the volume of the station. | Not needed. |
 
 # Fixes
 
