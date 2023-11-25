@@ -9,12 +9,12 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | Problem | Solution |
 |----------|----------|
 | The protagonist's voice is silent when looking into the mirror at the start of the game! | Be sure to go to Steam, properties of the game and change the language to "English"! (found 5/11/23). Happened to me because Steam detected my language as Spanish and didn't care to install the English language files. |
-| I want to ao avoid the Bethesda logo intro. | Open steamapps\common\Fallout 4\Data\Video\ and delete or rename the file “GameIntro_V3_B.bk2” |
-| I don't remember how to turn on/off pip-boy flashligh. | **HOLD** tab key! |
-| I need to remove Piper's Hat because it's clipping with her hair. | Console ("ñ" key in spanish keyboard, the key left to 1 in english keyboard) and write "2f1f.unequipItem a81af" and then "2f1f.removeItem a81af" |
+| I want to avoid the Bethesda logo intro. | Open steamapps\common\Fallout 4\Data\Video\ and delete or rename the file “GameIntro_V3_B.bk2” |
+| I don't remember how to turn on/off the pip-boy flashlight. | **HOLD** tab key! |
+| I need to remove Piper's Hat because it's clipping with her hair. | Console ("ñ" key in Spanish keyboard, the key left to 1 in English keyboard) and write "2f1f.unequipItem a81af" and then "2f1f.removeItem a81af" |
 | I don't remember how to activate the V.A.T.S. in combat. | Use the Q key. |
-| I don't remember how to throw a grenade or molotov coctail | Select it in the Pipboy, and hold TAB in combat to throw it. |
-| I don't remember how to sheath or draw my gun. | Hold R key. |
+| I don't remember how to throw a grenade or Molotov cocktail | Select it in the Pipboy, and hold TAB in combat to throw it. |
+| I don't remember how to sheath or draw my gun. | Hold the R key. |
 | [REMEMBER HOW TO HACK TERMINALS!](https://www.thegamer.com/fallout-4-guide-terminal-passwords-hacking/) | **It's VERY important to click on { [ ( etc (that highlight several characters) to remove words or reset attempts!** (it says "Dud" removed and removes a possible key). |
 
 # Essential (many mods need these)
@@ -22,28 +22,67 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | Mod | Summary |
 |----------|----------|
 | [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147) | (Fallout Faces & HiPoly Faces REDUX require it). A lot of mods require F4SE, it's essential. |
-| [Address Library for F4SE Plugins](https://www.nexusmods.com/fallout4/mods/47327) | ``` TODO. TO BE DONE 🚧 ``` | 
-| [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497) | (Fallout Faces & HiPoly Faces REDUX require it). Let you configure your mods via ESC menu |
-| [MCM Booster](https://www.nexusmods.com/fallout4/mods/56997) | Makes MCM go faster using some black magic. |
-| [MCM Settings Manager](https://www.nexusmods.com/fallout4/mods/56195) | ``` TODO. TO BE DONE 🚧 ``` |
-| [LooksMenu](https://www.nexusmods.com/fallout4/mods/12631) | (Fallout Faces & HiPoly Faces REDUX require it). A lot of mods require it for improved characters. |
-| [Looks Menu Customization Compendium](https://www.nexusmods.com/fallout4/mods/24830) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Unofficial Fallout 4 Patch - UFO4P](https://www.nexusmods.com/fallout4/mods/4598) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216) | Easier conversation. |
-| [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative startings. Not doing the same playthrough (and initial long cutscene) every time. |
+| [Address Library for F4SE Plugins.](https://www.nexusmods.com/fallout4/mods/47327) | ``` TODO. TO BE DONE 🚧 ``` | 
+| [Mod Configuration Menu.](https://www.nexusmods.com/fallout4/mods/21497) | (Fallout Faces & HiPoly Faces REDUX require it). Let you configure your mods via ESC menu |
+| [MCM Booster.](https://www.nexusmods.com/fallout4/mods/56997) | Makes MCM go faster using some black magic. |
+| [MCM Settings Manager.](https://www.nexusmods.com/fallout4/mods/56195) | ``` TODO. TO BE DONE 🚧 ``` |
+| [LooksMenu.](https://www.nexusmods.com/fallout4/mods/12631) | (Fallout Faces & HiPoly Faces REDUX require it). A lot of mods require it for improved characters. |
+| [Looks Menu Customization Compendium.](https://www.nexusmods.com/fallout4/mods/24830) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Unofficial Fallout 4 Patch - UFO4P.](https://www.nexusmods.com/fallout4/mods/4598) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Extended Dialogue Interface.](https://www.nexusmods.com/fallout4/mods/27216) | Easier conversation. |
+| [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative starting. Not doing the same playthrough (and initial long cutscene) every time. |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. |
+
+# Fixes
+
+| Mod | Summary |
+|----------|----------|
+| [Ownership Fixes.](https://www.nexusmods.com/fallout4/mods/56885) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Radio Reverb Fix.](https://www.nexusmods.com/fallout4/mods/16563) | ``` TODO. TO BE DONE 🚧 ``` |
+| [River Fix](https://www.nexusmods.com/fallout4/mods/36762) | (choose the ESL to avoid counting towards the mod limit). |
+| [Fixed Gobo Effects](https://www.nexusmods.com/fallout4/mods/27445) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Long Save Bug Fix](https://www.nexusmods.com/fallout4/mods/68681) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Fallout 4 Fixes](https://www.nexusmods.com/fallout4/mods/63005) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Mesh Bounds Fix](https://www.nexusmods.com/fallout4/mods/70817) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Interior NavCut Fix](https://www.nexusmods.com/fallout4/mods/72904) | Fixes disappearing buildings at random times. |
+| [Water LOD Fix](https://www.nexusmods.com/fallout4/mods/33815) | Makes water look prettier from the distance. |
+| [Elevator Buttons Fix (Contraptions)](https://www.nexusmods.com/fallout4/mods/20664) | A fix in the buttons of a certain elevator. |
+| [NPC Drinking Fix](https://www.nexusmods.com/fallout4/mods/53980) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Fixed Alpha Maps](https://www.nexusmods.com/fallout4/mods/28974) | Fixes some vanilla not working transparencies. | 
+| [High Res DLC Black Face Fix](https://www.nexusmods.com/fallout4/mods/21907) | Fixes an annoying bug where some pale character has the dark face but not the body, after loading a game. Happens in Skyrim too. |
+| [Diamond City Auto Close Gate](https://www.nexusmods.com/fallout4/mods/12928) | Fixes lore/consistency bug. |
+| [Long Loading Times Fix](https://www.nexusmods.com/fallout4/mods/73469?tab=files) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Remove Helmet In Dialog](https://www.nexusmods.com/fallout4/mods/24480/) | I want to see my characters face when talking! Not his/her helmet! This automatically fixes it. |
+| [Vault 88 Crash Fix - Remove Molerats and Radscorps](https://www.nexusmods.com/fallout4/mods/73601) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Shadow Boost FO4](https://www.nexusmods.com/fallout4/mods/63482) | (Sets the distance of the shadows dynamically with F4SE). [check out this review by JuiceHead](https://www.youtube.com/watch?v=RdIzlBABMSY). |
+| [High FPS Physics Fix.](https://www.nexusmods.com/fallout4/mods/44798) | Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time. |
+| [XDI - America Rising 2 (AR2) Patch](https://www.nexusmods.com/fallout4/mods/76204) | This patches America Rising 2 to work with Extended Dialogue Interface (XDI). |
+| [Mutilated Dead Bodies crash fix.](https://www.nexusmods.com/fallout4/mods/76206) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Corpse Collision.](https://www.nexusmods.com/fallout4/mods/37133) | Run into dead things and they get pushed. |
+
+# Creatures / Monsters
+
+| Mod | Summary |
+|----------|----------|
+| [Fog Crawlers Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/55698) | todo |
+| [Institute Centaurs.](https://www.nexusmods.com/fallout4/mods/41476) | todo screenshot |
+| [Mutant Menagerie - Life Finds A Way.](https://www.nexusmods.com/fallout4/mods/68187) | :tv [Review here](https://www.youtube.com/watch?v=RdIzlBABMSY) |
+| [Respawnable Legendary Bosses and Hard Legendary Giant Creatures](https://www.nexusmods.com/fallout4/mods/10124) | todo |
+| [Mirelurk Queen Variants.](https://www.nexusmods.com/fallout4/mods/13333) | todo |
+
+PUT SCREENSHOTS
 
 # Settlements
 
 | Mod | Summary |
 |----------|----------|
-| [Settlement Menu Manager.](https://www.nexusmods.com/fallout4/mods/24204) | todo |
+| [Settlement Menu Manager.](https://www.nexusmods.com/fallout4/mods/24204) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Dino's Decorations - clutter arrangements for your settlements.](https://www.nexusmods.com/fallout4/mods/16186) | Make your settlements look a little more lived in, requires: [Place Everywhere](https://www.nexusmods.com/fallout4/mods/9424) | 
 | [Snappable Clutter and Display.](https://www.nexusmods.com/fallout4/mods/69980) | Adds modular clutter that will snap to provided furniture, giving you limitless combinations to add clutter to your settlements. |
-| [Sandbag Fortifications.](https://www.nexusmods.com/fallout4/mods/21358) | todo |
+| [Sandbag Fortifications.](https://www.nexusmods.com/fallout4/mods/21358) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Settlement Keywords Expanded.](https://www.nexusmods.com/fallout4/mods/12226) | Needed by some mods. |
 | [Objects for Bathroom and Kitchen - WorkshopPack.](https://www.nexusmods.com/fallout4/mods/38515) | Adds washing machine & dryer + some more objects for your bathroom. |
-| [Minutemen Propaganda Posters.](https://www.nexusmods.com/fallout4/mods/11975) | todo |
+| [Minutemen Propaganda Posters.](https://www.nexusmods.com/fallout4/mods/11975) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Nothing Fancy Hot Showers.](https://www.nexusmods.com/fallout4/mods/46241) | Adds 4 showers and some color variants, showers work like a decontamination arch. Requires DLC: Wasteland Workshop. |
 | [Showers ESL.](https://www.nexusmods.com/fallout4/mods/36107) | ix showers that boost your charisma or remove your rads. |
 
@@ -55,9 +94,8 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Atomic Radio and Tales from the Commonwealth.](https://www.nexusmods.com/fallout4/mods/8704) | Be sure to download **BOTH.** |
 | [Mad Rock - Quest - Settlement](https://www.nexusmods.com/fallout4/mods/32146) | Brutal, near Billy the Boy in the fridge. |
 | [Maxwell's World.](https://www.nexusmods.com/fallout4/mods/18949) | A DLC-sized, haunted amusement park quest mod. Fully voiced acted, with new weapons like the heavy incinerator and fireworks cannon, monsters, multiple endings, new companions, and much much more! | :tv: [Maxwell's World reviewed by MxR here.](https://www.youtube.com/watch?v=ikcZwv6BUuw) |
-| [CSEP Presents Commonwealth Killer - Quest Mod.](https://www.nexusmods.com/fallout4/mods/61305) | todo |
+| [CSEP Presents Commonwealth Killer - Quest Mod.](https://www.nexusmods.com/fallout4/mods/61305) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Submarine Base Echo Dungeon and Quest.](https://www.nexusmods.com/fallout4/mods/14471) | Quest about finding an item for Dr. Waters. A new Dungeon level 30a40 + with some loot at the end. |
-| [Quest - Prelude To Vault 273.](https://www.nexusmods.com/fallout4/mods/7710) | Adds a scavenger hunt style quest with audio logs scattered across the wasteland. |
 | [No Quest Autostart - Automatron.](https://www.nexusmods.com/fallout4/mods/31576) | Prevents the Automatron main quest from automatically starting until the player listens to the Caravan Distress Call. |
 | [No Quest Autostart - Nuka World.](https://www.nexusmods.com/fallout4/mods/31433) | Simple script edit to prevent the Nuka-World main quest from running without either visiting the Nuka-World Transit Station or listening to the radio station. |
 | [The Kelly Manor Horror - Quest.](https://www.nexusmods.com/fallout4/mods/27657) | A spooky horror quest mod. |
@@ -65,30 +103,31 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Main Quest Choices Extended.](https://www.nexusmods.com/fallout4/mods/19835) | A few changes that expand your options in the main story including keeping the Railroad alive. |
 | [Whose Quest Is It Anyway.](https://www.nexusmods.com/fallout4/mods/51979) | Swap the "quest items can't be removed" message with something a little more informative. |
 | [No Quest Autostart - Far Harbor.](https://www.nexusmods.com/fallout4/mods/31450) | Prevents "Far From Home" from starting without the player either listening to Ellie's radio message or visiting the Nakano residence." |
-| [CHAOTIC SUN.](https://www.nexusmods.com/fallout4/mods/38808) 2.9GB!!!| "It starts with a Nameless Island and is an adventure focused on combat and exploration. The dungeon that accumulates a person's memory. powerful Temple Knights and their Synth Army. Stalkers seem to have gathered after hearing the rumor of treasure. You fight with the help of a 3D printed spirit called Wraith, and the Android. Let's get started!" |
+| [CHAOTIC SUN.](https://www.nexusmods.com/fallout4/mods/38808) 2.9GB!!!| "It starts with a Nameless Island and is an adventure focused on combat and exploration. The dungeon that accumulates a person's memory. powerful Temple Knights and their Synth Army. Stalkers seem to have gathered after hearing the rumor of treasure. You fight with the help of a 3D-printed spirit called Wraith, and the Android. Let's get started!" |
+| [Enter The Brotherhood.](https://www.nexusmods.com/fallout4/mods/28006) | Fixes the BoS quest line so that in order to get them in the Commonwealth, you have to help Danse and his team. |
 
-
-imatges github
+posar imatges github
 
 # Armor / armors (not clothes)
 
 | Mod | Summary |
 |----------|----------|
 | [Chinese Stealth Suit.](https://www.nexusmods.com/fallout4/mods/20959) | :tv: [Reviewd here by MxR.](https://www.youtube.com/watch?v=9tdoqLwnqCM) |
-| [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431) | todo |
+| [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431) | ``` TODO. TO BE DONE 🚧 ``` |
 
 <img src="armor/elis_compendium.jpg"/>
 
 # Weapons
 
-| Mod | Summary |
-|----------|----------|
-| [Heckler und Koch - G36 Complex.](https://www.nexusmods.com/fallout4/mods/64108) | This mod adds a G36 into Fallout 4. It features custom animations, sounds and quest. |
-| [More Uniques - Unique Weapons Expansion.](https://www.nexusmods.com/fallout4/mods/18357) | todo |
-| [All Weapons HD (A.W.H.D.).](https://www.nexusmods.com/fallout4/mods/8556) | 4K upscale of every weapon in the game 0.o Yup you heard right, Every single one! |
-| [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426) | todo |
-| [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087) | todo |
-| [Automatron Expanded Weapons System.](https://www.nexusmods.com/fallout4/mods/29858) | todo |
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Heckler und Koch - G36 Complex.](https://www.nexusmods.com/fallout4/mods/64108) | This mod adds a G36 into Fallout 4. It features custom animations, sounds, and a quest. | ``` TODO. TO BE DONE 🚧 ``` |
+| [More Uniques - Unique Weapons Expansion.](https://www.nexusmods.com/fallout4/mods/18357) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [All Weapons HD (A.W.H.D.).](https://www.nexusmods.com/fallout4/mods/8556) | 4K upscale of every weapon in the game 0.o Yup you heard right, Every single one! | ``` TODO. TO BE DONE 🚧 ``` |
+| [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Automatron Expanded Weapons System.](https://www.nexusmods.com/fallout4/mods/29858) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Remote Explosives - C4 with Detonators and More.](https://www.nexusmods.com/fallout4/mods/22444) |Adds familiar C-4 and three other new explosive types with new meshes, and a working remote detonator with new animations, giving you you the ability to make explosives more tactical or blow up your enemy's pants from afar! | [Remote Explosives - C4 with Detonators and More - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/29315) |
 
 # Cut content
 
@@ -101,21 +140,21 @@ imatges github
 
 | Mod | Summary |
 |----------|----------|
-| [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714) | todo |
-| [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745) | todo |
-| [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425) | todo |
-| [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511) | todo |
-| [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742) | todo |
-| [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560) | todo |
-| [Bag of Cement Retexture.](https://www.nexusmods.com/fallout4/mods/76108) | todo |
-| [Retextured Terminals - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/24008) | todo |
+| [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Bag of Cement Retexture.](https://www.nexusmods.com/fallout4/mods/76108) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Retextured Terminals - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/24008) | ``` TODO. TO BE DONE 🚧 ``` |
 
 <img src="textures/terminals.jpg"/>
 
 | Mod | Summary |
 |----------|----------|
-| [Retextured Chems v.2 - Ephla's Unique Chems.](https://www.nexusmods.com/fallout4/mods/18867) | todo |
-| [Raider Armors Retextured.](https://www.nexusmods.com/fallout4/mods/42933) | todo |
+| [Retextured Chems v.2 - Ephla's Unique Chems.](https://www.nexusmods.com/fallout4/mods/18867) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Raider Armors Retextured.](https://www.nexusmods.com/fallout4/mods/42933) | ``` TODO. TO BE DONE 🚧 ``` |
 
 <img src="textures/raider_armors_retextured.jpg"/>
 
@@ -125,10 +164,10 @@ ADD MORE IMAGES
 
 | Mod | Summary |
 |----------|----------|
-| [No Crafting Animations.](https://www.nexusmods.com/fallout4/mods/63183) | todo |
-| [No Door Animations - Instant Doors.](https://www.nexusmods.com/fallout4/mods/63224) | todo |
-| [Realistic Death Physics - No Animations.](https://www.nexusmods.com/fallout4/mods/4371) | todo |
-| [Combat Knife Animations.](https://www.nexusmods.com/fallout4/mods/75952) | todo |
+| [No Crafting Animations.](https://www.nexusmods.com/fallout4/mods/63183) | ``` TODO. TO BE DONE 🚧 ``` |
+| [No Door Animations - Instant Doors.](https://www.nexusmods.com/fallout4/mods/63224) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Realistic Death Physics - No Animations.](https://www.nexusmods.com/fallout4/mods/4371) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Combat Knife Animations.](https://www.nexusmods.com/fallout4/mods/75952) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Another Deliverer Reanimation.](https://www.nexusmods.com/fallout4/mods/76195) | Deliverer is a type of gun in the game. Imatge a github. Uses this textures: [VWR - Vanilla Weapons Redone.](https://www.nexusmods.com/fallout4/mods/47726) |
 | [Better Female Walk (Extra Jiggle).](https://www.nexusmods.com/fallout4/mods/21370) | :tv: [Better Female Walk reviewed here by MxR](https://www.youtube.com/watch?v=9tdoqLwnqCM) |
 
@@ -143,13 +182,15 @@ ADD MORE IMAGES
 
 | Mod | Summary |
 |----------|----------|
-| [Vault 1080.](https://www.nexusmods.com/fallout4/mods/18172) | New questline, 4 new areas to explore, displays new way of handling volumetric lighting. |
+| [Vault 1080.](https://www.nexusmods.com/fallout4/mods/18172) | New questline, 4 new areas to explore, displays a new way of handling volumetric lighting. |
+| [Immersive Vault 95.](https://www.nexusmods.com/fallout4/mods/31674) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Quest - Prelude To Vault 273.](https://www.nexusmods.com/fallout4/mods/7710) | Adds a scavenger hunt-style quest with audio logs scattered across the wasteland. |
 
 # Towns
 
 | Mod | Summary |
 |----------|----------|
-| [Salem Expanded](https://www.nexusmods.com/fallout4/mods/27420) | todo |
+| [Salem Expanded](https://www.nexusmods.com/fallout4/mods/27420) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Diamond City Expansion.](https://www.nexusmods.com/fallout4/mods/21853) | :tv: [Reviewed here by MxR](https://www.youtube.com/watch?v=yQNNo4eu2F8) |
 
 # Base Object Swapper
@@ -192,7 +233,7 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 | Mod | Summary |
 |----------|----------|
 | [Better Cooking Stations.](https://schaken-mods.com/files/file/1800-archive-better-cooking-stations-with-patches-for-animations-and-recipes/?do=download) | Not on Nexus due the mod collections controversy and authors response. "Overhauls the vanilla cooking stations with better effects and features; adds several new ones including a working kitchen stove, BBQ grill and supermutant cooking pot. All craftable cooking station."  |
-| [Choice Chopped.](https://www.nexusmods.com/fallout4/mods/10434) | "Turn junk food items into tasty, useful meals at cooking stations. Prepared dishes have also been distributed throughout the Commonwealth. Includes new options for adhesive, addictions, and conversions." |
+| [Choice Chopped.](https://www.nexusmods.com/fallout4/mods/10434) | Turn junk food items into tasty, useful meals at cooking stations. Prepared dishes have also been distributed throughout the Commonwealth. Includes new options for adhesive, addictions, and conversions. |
 
 :tv: [Better Cooking Stations reviewed by MxR here.](https://www.youtube.com/watch?v=rvXfzPfyZic)
 :tv: [Better Cooking Stations reviewed by Popontop here.](https://www.youtube.com/watch?v=zlezAv7ftTI)
@@ -211,7 +252,7 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 
 | Mod | Summary |
 |----------|----------|
-| Collectibles: [Teddies 76 - A Mr. Fuzzy mod.](https://www.nexusmods.com/fallout4/mods/57424) | "This mod adds a huge amount of collectible teddybears into the game inspired by the Mr. Fuzzy mascot and toys. Most of them are high quality recreations from Fallout 76, plus a few new ones. It also adds other Mr. Fuzzy themed items like outfits, a helmet and paints, and displays that work with the new items." |
+| Collectibles: [Teddies 76 - A Mr. Fuzzy mod.](https://www.nexusmods.com/fallout4/mods/57424) | "This mod adds a huge amount of collectible teddybears into the game inspired by the Mr. Fuzzy mascot and toys. Most of them are high quality recreations from Fallout 76, plus a few new ones. It also adds other Mr. Fuzzy-themed items like outfits, a helmet, and paints, and displays that work with the new items." |
 
 
 # Gameplay
@@ -220,37 +261,37 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 |----------|----------|
 | [Stealth & Detection System.](https://www.nexusmods.com/fallout4/mods/62140) | Stealth system fixed !! It's now possible to take out enemies one by one ( even undetected, if done carefully ). No more magic enemies "almost seeing through walls", and alerting everyone around "telepathically" for no reason |
 | [Smooth First Person Sprint - Less Jerkiness and Stutter.](https://www.nexusmods.com/fallout4/mods/29828) | Fallout 4 stutters when sprinting in first person. This is a workaround to the problem. |
-| [Take Cover.](https://www.nexusmods.com/fallout4/mods/10875) | todo |
-| [Live Dismemberment - Increased Headshot Damage.](https://www.nexusmods.com/fallout4/mods/16400) | todo |
-| [More XP from quests.](https://www.nexusmods.com/fallout4/mods/29195) | This mod raises the amount of XP you'll get when you complete quests. Comes with an installer. Optinonal version with zero XP for all sorts of crafting to encourage the player to do more quests. ESP and ESL versions available. |
+| [Take Cover.](https://www.nexusmods.com/fallout4/mods/10875) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Live Dismemberment - Increased Headshot Damage.](https://www.nexusmods.com/fallout4/mods/16400) | ``` TODO. TO BE DONE 🚧 ``` |
+| [More XP from quests.](https://www.nexusmods.com/fallout4/mods/29195) | This mod raises the amount of XP you'll get when you complete quests. Comes with an installer. Optional version with zero XP for all sorts of crafting to encourage the player to do more quests. ESP and ESL versions are available. |
 
 # Immersion
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522) | todo | todo |
-| [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737) | todo | todo |
-| [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025) | todo | todo |
-| [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840) | todo | todo |
-| [Achievements.](https://www.nexusmods.com/fallout4/mods/12465) | todo | todo |
-| [Immersive Vendors](https://www.nexusmods.com/fallout4/mods/10039) | ([review here](https://www.youtube.com/watch?v=hiXwhQ13Nm0)). |  [Immersive Vendors - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35759) |
-| [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987) | todo | todo |
-| [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521) | todo | todo |
-| [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447) | todo | todo |
-| [KCI - Kellogg's Cybernetic Implants.](https://www.nexusmods.com/fallout4/mods/48812) | :tv: [Reviewed here (amongst other mods) by MxR.](https://www.youtube.com/watch?v=1JqPQvw_8xA) | todo |
+| [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Achievements.](https://www.nexusmods.com/fallout4/mods/12465) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Immersive Vendors](https://www.nexusmods.com/fallout4/mods/10039) | ([Review here.](https://www.youtube.com/watch?v=hiXwhQ13Nm0)). |  [Immersive Vendors - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35759) |
+| [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [KCI - Kellogg's Cybernetic Implants.](https://www.nexusmods.com/fallout4/mods/48812) | :tv: [Reviewed here (amongst other mods) by MxR.](https://www.youtube.com/watch?v=1JqPQvw_8xA) | ``` TODO. TO BE DONE 🚧 ``` |
 
 # Hunting
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [More Wildlife.](https://www.nexusmods.com/fallout4/mods/51503) | todo | todo |
+| [More Wildlife.](https://www.nexusmods.com/fallout4/mods/51503) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [IHO - Immersive Hunting Overhaul.](https://www.nexusmods.com/fallout4/mods/53964) | Very lightweight but effective hunting mechanic. Get ingredients from creatures in a more immersive way. Disassemble to parts various mechanical targets. Learn new cooking recipes and even more. | [IHO - Immersive Hunting Overhaul - Spanish.](https://www.nexusmods.com/fallout4/mods/58029) |
 
 # NPC's / presets / characters
 
 | Mod | Summary |
 |----------|----------|
-|[Lucky Cricket's Caravan for CBBE - SHB.](https://www.nexusmods.com/fallout4/mods/20298) | todo |
+|[Lucky Cricket's Caravan for CBBE - SHB.](https://www.nexusmods.com/fallout4/mods/20298) | ``` TODO. TO BE DONE 🚧 ``` |
 POSAR FOTO! todo o screenshot meu pujat face
 
   - [Fallout Faces (Male All-in-One and Female All-in-One](https://www.nexusmods.com/fallout4/mods/59064?tab=files), requires:
@@ -318,7 +359,7 @@ POSAR FOTO! todo o screenshot meu pujat face
 | [America Rising 2 - Legacy of the Enclave](https://www.nexusmods.com/fallout4/mods/75767) | Remaster of the 1. Review by JuiceHead. |
 
 
-  - [Outcasts and Remnants - Quest Mod Plus](https://www.nexusmods.com/fallout4/mods/21469) ("DLC-sized quest mod. 20 hours of game play with new factions, locations, player bases, and fully-voiced custom companions.").
+  - [Outcasts and Remnants - Quest Mod Plus](https://www.nexusmods.com/fallout4/mods/21469) ("DLC-sized quest mod. 20 hours of gameplay with new factions, locations, player bases, and fully-voiced custom companions.").
   - [Depravity](https://www.nexusmods.com/fallout4/mods/35513?tab=description) (Large quest/companion mod with evil RPG options for the vanilla main story. Aug 2019 Mod of the Month. 40 quests, 13 companions, around 20 hours of content.) (needs Outcasts and Remnants).
 
 
@@ -329,16 +370,17 @@ POSAR FOTO! todo o screenshot meu pujat face
 
 # Interiors
 
-| [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539) | todo |
-| [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320) | todo |
+| [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320) | ``` TODO. TO BE DONE 🚧 ``` |
+| [The Lost Building of Atlantic.](https://www.nexusmods.com/fallout4/mods/25401) | As you're wandering through the ruins of downtown Boston, you find a building which is heavily fortified by a camp of raiders. You're not about to let a bunch of raiders get in the way of your curiosity, so you blast through them and enter the building. Inside, you can learn the story of Allison Miller, the CEO of Atlantic Pharmaceuticals. |
 
 # Buildings / area expansions
 
-| [Atomic World](https://www.nexusmods.com/fallout4/mods/28713) | todo |
+| [Atomic World](https://www.nexusmods.com/fallout4/mods/28713) | ``` TODO. TO BE DONE 🚧 ``` |
 
   
-| [moreXplore](https://www.nexusmods.com/fallout4/mods/28733) | todo |
-| [Rsiyo's Location Pack](https://www.nexusmods.com/fallout4/mods/38501) | todo |
+| [moreXplore](https://www.nexusmods.com/fallout4/mods/28733) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Rsiyo's Location Pack](https://www.nexusmods.com/fallout4/mods/38501) | ``` TODO. TO BE DONE 🚧 ``` |
   
   - [Concord EXPANDED](https://www.nexusmods.com/fallout4/mods/27333?tab=files)
   - [Fort Hagen EXPANDED (More Loot Buildings and Enemies)](https://www.nexusmods.com/fallout4/mods/27607?tab=files)
@@ -350,7 +392,6 @@ POSAR FOTO! todo o screenshot meu pujat face
   - [South of The Sea. (Massive GS and more Expansion) (Final Update July 2020).](https://www.nexusmods.com/fallout4/mods/27870) (WARNING: "You'll still need the AWKCR patch if you still use that old mod).
   - [Immersive and Extended Nahant.](https://www.nexusmods.com/fallout4/mods/36636/)
   - [Immersive Hub City Auto Wreckers.](https://www.nexusmods.com/fallout4/mods/35882?tab=files)
-  - [Immersive Vault 95.](https://www.nexusmods.com/fallout4/mods/31674)
   - [Immersive Beantown Brewery.](https://www.nexusmods.com/fallout4/mods/31598?tab=files)
   - [The Waste Landfill.](https://www.nexusmods.com/fallout4/mods/35344?tab=files)
   - [Commonwealth Underground and Forgotten Spaces.](https://www.nexusmods.com/fallout4/mods/27584?tab=files)
@@ -377,55 +418,29 @@ POSAR FOTO! todo o screenshot meu pujat face
 
 # Power armor
 
-| [Scrappable Power Armor Pieces.](https://www.nexusmods.com/fallout4/mods/17787) | todo |
-| [Power Armor Animation Changes.](https://www.nexusmods.com/fallout4/mods/4408) | todo |
+| [Scrappable Power Armor Pieces.](https://www.nexusmods.com/fallout4/mods/17787) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Power Armor Animation Changes.](https://www.nexusmods.com/fallout4/mods/4408) | ``` TODO. TO BE DONE 🚧 ``` |
 
 
 # Locations
   - [Immersive Drumlin Diner](https://www.nexusmods.com/fallout4/mods/18995)
-
-# Fixes
-
-| Mod | Summary |
-|----------|----------|
-| [Ownership Fixes.](https://www.nexusmods.com/fallout4/mods/56885) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Radio Reverb Fix.](https://www.nexusmods.com/fallout4/mods/16563) | ``` TODO. TO BE DONE 🚧 ``` |
-| [River Fix](https://www.nexusmods.com/fallout4/mods/36762) | (choose the ESL to avoid counting towards the mod limit). |
-| [Fixed Gobo Effects](https://www.nexusmods.com/fallout4/mods/27445) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Long Save Bug Fix](https://www.nexusmods.com/fallout4/mods/68681) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Fallout 4 Fixes](https://www.nexusmods.com/fallout4/mods/63005) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Mesh Bounds Fix](https://www.nexusmods.com/fallout4/mods/70817) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Interior NavCut Fix](https://www.nexusmods.com/fallout4/mods/72904) | Fixes disappearing buildings at random times. |
-| [Water LOD Fix](https://www.nexusmods.com/fallout4/mods/33815) | Makes water look prettier from the distance. |
-| [Elevator Buttons Fix (Contraptions)](https://www.nexusmods.com/fallout4/mods/20664) | A fix in the buttons of a certain elevator. |
-| [NPC Drinking Fix](https://www.nexusmods.com/fallout4/mods/53980) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Fixed Alpha Maps](https://www.nexusmods.com/fallout4/mods/28974) | Fixes some vanilla not working transparencies. | 
-| [High Res DLC Black Face Fix](https://www.nexusmods.com/fallout4/mods/21907) | Fixes an annoying bug where some pale character has the dark face but not the body, after loading a game. Happens in Skyrim too. |
-| [Diamond City Auto Close Gate](https://www.nexusmods.com/fallout4/mods/12928) | Fixes lore/consistency bug. |
-| [Long Loading Times Fix](https://www.nexusmods.com/fallout4/mods/73469?tab=files) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Remove Helmet In Dialog](https://www.nexusmods.com/fallout4/mods/24480/) | I want to see my characters face when talking! Not his/her helmet! This automatically fixes it. |
-| [Vault 88 Crash Fix - Remove Molerats and Radscorps](https://www.nexusmods.com/fallout4/mods/73601) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Shadow Boost FO4](https://www.nexusmods.com/fallout4/mods/63482) | (Sets the distance of the shadows dynamically with F4SE). [check out this review by JuiceHead](https://www.youtube.com/watch? v=RdIzlBABMSY). |
-| [High FPS Physics Fix.](https://www.nexusmods.com/fallout4/mods/44798) | Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time. |
-| [XDI - America Rising 2 (AR2) Patch](https://www.nexusmods.com/fallout4/mods/76204) | This patches America Rising 2 to work with Extended Dialogue Interface (XDI). |
-| [Mutilated Dead Bodies crash fix.](https://www.nexusmods.com/fallout4/mods/76206) | todo |
-  
+ 
  # Magazines
 
 | Mod | Summary |
 |----------|----------|
-| [Ketaros Missing Magazines.](https://www.nexusmods.com/fallout4/mods/63541) | todo |
-| [Classic Wasteland Survival Guide - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/49999) | todo |
-| [U.S. Covert Operations Manual Redux - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/53012) | todo |
-| [Total Hack - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/50253) | todo |
-| [MM JOURNALS.](https://www.nexusmods.com/fallout4/mods/57092) | todo |
+| [Ketaros Missing Magazines.](https://www.nexusmods.com/fallout4/mods/63541) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Classic Wasteland Survival Guide - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/49999) | ``` TODO. TO BE DONE 🚧 ``` |
+| [U.S. Covert Operations Manual Redux - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/53012) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Total Hack - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/50253) | ``` TODO. TO BE DONE 🚧 ``` |
+| [MM JOURNALS.](https://www.nexusmods.com/fallout4/mods/57092) | ``` TODO. TO BE DONE 🚧 ``` |
   
 # Clothing/ Clothes (not armor)
 
 | Mod | Summary |
 |----------|----------|
-| [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187) | todo |
-| [More Clothes and Textures (CBBE)](https://www.nexusmods.com/fallout4/mods/40315) | todo |
+| [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187) | ``` TODO. TO BE DONE 🚧 ``` |
+| [More Clothes and Textures (CBBE)](https://www.nexusmods.com/fallout4/mods/40315) | ``` TODO. TO BE DONE 🚧 ``` |
 
 # Audio
 
@@ -438,8 +453,8 @@ POSAR FOTO! todo o screenshot meu pujat face
 
 | Mod | Summary |
 |----------|----------|
-| [Enhanced Blood Textures.](https://www.nexusmods.com/fallout4/mods/212/) | todo |
-| [Gore Overhaul 3.0 -Reload-](https://www.nexusmods.com/fallout4/mods/21216) | todo |
+| [Enhanced Blood Textures.](https://www.nexusmods.com/fallout4/mods/212/) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Gore Overhaul 3.0 -Reload-](https://www.nexusmods.com/fallout4/mods/21216) | ``` TODO. TO BE DONE 🚧 ``` |
 
 # Main Menu
 
@@ -451,20 +466,20 @@ POSAR FOTO! todo o screenshot meu pujat face
 
 | Mod | Summary |
 |----------|----------|
-| [Caves Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/75647) | todo |
-| [Fallout 4 - Point Lookout.](https://www.nexusmods.com/fallout4/mods/60330) | todo, put :tv: youtube reviews |
-| [Fallout 4 Point Lookout - Voiced Player Lines Addon.](https://www.nexusmods.com/fallout4/mods/60387) | todo |
+| [Caves Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/75647) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Fallout 4 - Point Lookout.](https://www.nexusmods.com/fallout4/mods/60330) | ``` TODO. TO BE DONE 🚧 ```, put :tv: youtube reviews |
+| [Fallout 4 Point Lookout - Voiced Player Lines Addon.](https://www.nexusmods.com/fallout4/mods/60387) | ``` TODO. TO BE DONE 🚧 ``` |
 
 # GUI
 
 | Mod | Brief Summary | Spanish Translation |
 |----------|----------|----------|
-| [HUDFramework.](https://www.nexusmods.com/fallout4/mods/20309) | todo | todo |
-| [FallUI - HUD.](https://www.nexusmods.com/fallout4/mods/51813) | todo | todo |
+| [HUDFramework.](https://www.nexusmods.com/fallout4/mods/20309) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [FallUI - HUD.](https://www.nexusmods.com/fallout4/mods/51813) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [FallUI - Icon Library.](https://www.nexusmods.com/fallout4/mods/60579) | todo | todo |
 | [FallUI - Inventory.](https://www.nexusmods.com/fallout4/mods/48758) | todo | todo |
 | [FallUI - Workbench.](https://www.nexusmods.com/fallout4/mods/49300) | todo | todo |
-| [FallUI - Confirm Boxes (incl. Yes Im Sure).](https://www.nexusmods.com/fallout4/mods/48958) | Vanilla-like preset is better for me, Jaume. |  todo |
+| [FallUI - Confirm Boxes (incl. Yes I'm Sure).](https://www.nexusmods.com/fallout4/mods/48958) | Vanilla-like preset is better for me, Jaume. |  todo |
 | [LevelUpMenuEx.](https://www.nexusmods.com/fallout4/mods/28822) | todo | [LevelUpMenuEx - Spanish.](https://www.nexusmods.com/fallout4/mods/55737) | todo |
 | [Nameplates - Floating Healthbars.](https://www.nexusmods.com/fallout4/mods/21636) | todo | todo |
 | [Floating Damage.](https://www.nexusmods.com/fallout4/mods/28684) | :tv: [Some reviews here.](https://www.youtube.com/watch?v=306g7_wV6Lg) | todo |
@@ -480,17 +495,6 @@ POSAR FOTO! todo o screenshot meu pujat face
 |----------|----------|
 | [Cartographers Map Markers (Fallout4 Edition) CMM.](https://www.nexusmods.com/fallout4/mods/12581) | More map markers. |
 | [FallUI - Map.](https://www.nexusmods.com/fallout4/mods/49920) | todo |
-
-# Creatures / Monsters
-
-| Mod | Summary |
-|----------|----------|
-| [Fog Crawlers Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/55698) | todo |
-| [Institute Centaurs.](https://www.nexusmods.com/fallout4/mods/41476) | todo screenshot |
-| [Mutant Menagerie - Life Finds A Way.](https://www.nexusmods.com/fallout4/mods/68187) | :tv [Review here](https://www.youtube.com/watch?v=RdIzlBABMSY) |
-| [Respawnable Legendary Bosses and Hard Legendary Giant Creatures](https://www.nexusmods.com/fallout4/mods/10124) | todo |
-
-PUT SCREENSHOTS
   
 # Bobbleheads
 
