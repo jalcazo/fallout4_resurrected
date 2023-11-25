@@ -143,8 +143,9 @@ posar imatges github
 
 | Mod | Summary |
 |----------|----------|
-| [Chinese Stealth Suit.](https://www.nexusmods.com/fallout4/mods/20959) | :tv: [Reviewd here by MxR.](https://www.youtube.com/watch?v=9tdoqLwnqCM) |
+| [Chinese Stealth Suit.](https://www.nexusmods.com/fallout4/mods/20959) | :tv: [Reviewed here by MxR.](https://www.youtube.com/watch?v=9tdoqLwnqCM) |
 | [NCR Outfit Pack.](https://www.nexusmods.com/fallout4/mods/58182) | Adds in loads of new NCR outfits from Fallout New Vegas and its DLCs, these can be found at vendors like Fallon's basement. You can buy both the armours and plans to craft them a the chemistry workbench. | todo |
+| [CROSS_InstituteExpeditionarySuit.](https://www.nexusmods.com/fallout4/mods/30857) | The outfit is not added to any leveled lists, it can only be found in hand-placed locations or crafted. | todo |
 | [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431) | ``` TODO. TO BE DONE 🚧 ``` |
 
 <img src="armor/elis_compendium.jpg"/>
@@ -194,20 +195,21 @@ ADD MORE IMAGES
 
 # Vaults
 
-| Mod | Summary |
-|----------|----------|
-| [Vault 1080.](https://www.nexusmods.com/fallout4/mods/18172) | New questline, 4 new areas to explore, displays a new way of handling volumetric lighting. |
-| [Immersive Vault 95.](https://www.nexusmods.com/fallout4/mods/31674) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Quest - Prelude To Vault 273.](https://www.nexusmods.com/fallout4/mods/7710) | Adds a scavenger hunt-style quest with audio logs scattered across the wasteland. |
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Vault 1080.](https://www.nexusmods.com/fallout4/mods/18172) | New questline, 4 new areas to explore, displays a new way of handling volumetric lighting. | ``` TODO. TO BE DONE 🚧 ``` |
+| [Immersive Vault 95.](https://www.nexusmods.com/fallout4/mods/31674) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Quest - Prelude To Vault 273.](https://www.nexusmods.com/fallout4/mods/7710) | Adds a scavenger hunt-style quest with audio logs scattered across the wasteland. | ``` TODO. TO BE DONE 🚧 ``` |
+| [Haunted Vault 165.](https://www.nexusmods.com/fallout4/mods/29449) | Speak to Paladin Shepard to start Quest. | ``` TODO. TO BE DONE 🚧 ``` |
 
 # Towns
 
-| Mod | Summary |
-|----------|----------|
-| [Salem Expanded](https://www.nexusmods.com/fallout4/mods/27420) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Diamond City Expansion.](https://www.nexusmods.com/fallout4/mods/21853) | :tv: [Reviewed here by MxR](https://www.youtube.com/watch?v=yQNNo4eu2F8) |
-| [Concord EXPANDED](https://www.nexusmods.com/fallout4/mods/27333) | todo | todo |
-| [Fort Hagen EXPANDED (More Loot Buildings and Enemies)](https://www.nexusmods.com/fallout4/mods/27607) | todo | todo |
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Salem Expanded](https://www.nexusmods.com/fallout4/mods/27420) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Diamond City Expansion.](https://www.nexusmods.com/fallout4/mods/21853) | :tv: [Reviewed here by MxR](https://www.youtube.com/watch?v=yQNNo4eu2F8) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Concord EXPANDED](https://www.nexusmods.com/fallout4/mods/27333) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Fort Hagen EXPANDED (More Loot Buildings and Enemies)](https://www.nexusmods.com/fallout4/mods/27607) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 
 # Base Object Swapper
 
