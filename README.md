@@ -144,6 +144,7 @@ posar imatges github
 | Mod | Summary |
 |----------|----------|
 | [Chinese Stealth Suit.](https://www.nexusmods.com/fallout4/mods/20959) | :tv: [Reviewd here by MxR.](https://www.youtube.com/watch?v=9tdoqLwnqCM) |
+| [NCR Outfit Pack.](https://www.nexusmods.com/fallout4/mods/58182) | Adds in loads of new NCR outfits from Fallout New Vegas and its DLCs, these can be found at vendors like Fallon's basement. You can buy both the armours and plans to craft them a the chemistry workbench. | todo |
 | [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431) | ``` TODO. TO BE DONE 🚧 ``` |
 
 <img src="armor/elis_compendium.jpg"/>
