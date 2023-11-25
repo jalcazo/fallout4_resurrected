@@ -100,29 +100,29 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Creatures / Monsters
 
-| Mod | Summary |
-|----------|----------|
-| [Fog Crawlers Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/55698) | todo |
-| [Institute Centaurs.](https://www.nexusmods.com/fallout4/mods/41476) | todo screenshot |
-| [Mutant Menagerie - Life Finds A Way.](https://www.nexusmods.com/fallout4/mods/68187) | :tv [Review here](https://www.youtube.com/watch?v=RdIzlBABMSY) |
-| [Respawnable Legendary Bosses and Hard Legendary Giant Creatures](https://www.nexusmods.com/fallout4/mods/10124) | todo |
-| [Mirelurk Queen Variants.](https://www.nexusmods.com/fallout4/mods/13333) | todo |
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Fog Crawlers Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/55698) | todo | todo |
+| [Institute Centaurs.](https://www.nexusmods.com/fallout4/mods/41476) | todo screenshot | todo |
+| [Mutant Menagerie - Life Finds A Way.](https://www.nexusmods.com/fallout4/mods/68187) | :tv [Review here](https://www.youtube.com/watch?v=RdIzlBABMSY) | todo |
+| [Respawnable Legendary Bosses and Hard Legendary Giant Creatures](https://www.nexusmods.com/fallout4/mods/10124) | todo | todo |
+| [Mirelurk Queen Variants.](https://www.nexusmods.com/fallout4/mods/13333) | todo | todo |
 
 PUT SCREENSHOTS
 
 # Settlements
 
-| Mod | Summary |
-|----------|----------|
-| [Settlement Menu Manager.](https://www.nexusmods.com/fallout4/mods/24204) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Dino's Decorations - clutter arrangements for your settlements.](https://www.nexusmods.com/fallout4/mods/16186) | Make your settlements look a little more lived in, requires: [Place Everywhere](https://www.nexusmods.com/fallout4/mods/9424) | 
-| [Snappable Clutter and Display.](https://www.nexusmods.com/fallout4/mods/69980) | Adds modular clutter that will snap to provided furniture, giving you limitless combinations to add clutter to your settlements. |
-| [Sandbag Fortifications.](https://www.nexusmods.com/fallout4/mods/21358) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Settlement Keywords Expanded.](https://www.nexusmods.com/fallout4/mods/12226) | Needed by some mods. |
-| [Objects for Bathroom and Kitchen - WorkshopPack.](https://www.nexusmods.com/fallout4/mods/38515) | Adds washing machine & dryer + some more objects for your bathroom. |
-| [Minutemen Propaganda Posters.](https://www.nexusmods.com/fallout4/mods/11975) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Nothing Fancy Hot Showers.](https://www.nexusmods.com/fallout4/mods/46241) | Adds 4 showers and some color variants, showers work like a decontamination arch. Requires DLC: Wasteland Workshop. |
-| [Showers ESL.](https://www.nexusmods.com/fallout4/mods/36107) | ix showers that boost your charisma or remove your rads. |
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Settlement Menu Manager.](https://www.nexusmods.com/fallout4/mods/24204) | ``` TODO. TO BE DONE 🚧 ``` | todo |
+| [Dino's Decorations - clutter arrangements for your settlements.](https://www.nexusmods.com/fallout4/mods/16186) | Make your settlements look a little more lived in, requires: [Place Everywhere](https://www.nexusmods.com/fallout4/mods/9424) | todo |
+| [Snappable Clutter and Display.](https://www.nexusmods.com/fallout4/mods/69980) | Adds modular clutter that will snap to provided furniture, giving you limitless combinations to add clutter to your settlements. | todo |
+| [Sandbag Fortifications.](https://www.nexusmods.com/fallout4/mods/21358) | ``` TODO. TO BE DONE 🚧 ``` | todo |
+| [Settlement Keywords Expanded.](https://www.nexusmods.com/fallout4/mods/12226) | Needed by some mods. | todo |
+| [Objects for Bathroom and Kitchen - WorkshopPack.](https://www.nexusmods.com/fallout4/mods/38515) | Adds washing machine & dryer + some more objects for your bathroom. | todo |
+| [Minutemen Propaganda Posters.](https://www.nexusmods.com/fallout4/mods/11975) | ``` TODO. TO BE DONE 🚧 ``` | todo |
+| [Nothing Fancy Hot Showers.](https://www.nexusmods.com/fallout4/mods/46241) | Adds 4 showers and some color variants, showers work like a decontamination arch. Requires DLC: Wasteland Workshop. | todo |
+| [Showers ESL.](https://www.nexusmods.com/fallout4/mods/36107) | ix showers that boost your charisma or remove your rads. | todo |
 
 # Weapons
 
