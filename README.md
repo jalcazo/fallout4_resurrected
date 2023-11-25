@@ -277,12 +277,21 @@ requires [Collectable Cars of the Commonwealth.](https://www.nexusmods.com/fallo
 he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Workshop.
 )
 
+# Videos of the Wasteland
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+[Videos of the Wasteland.](https://www.nexusmods.com/fallout4/mods/24435) | Videos of the Wasteland enables you to view videos from holotapes on in-game TVs, and film-reels at the Starlight Drive-In! | [Videos of the Wasteland - Spanish Translation](https://www.nexusmods.com/fallout4/mods/35387) | 
+| [Good old Cartoons.](https://www.nexusmods.com/fallout4/mods/17633) | Brings old cartoons to the Commonwealth! | Not needed. |
+| [How to Survive a Nuclear War (for Videos of the Wasteland).](https://www.nexusmods.com/fallout4/mods/43153) | A collection of videos on how to survive a nuclear war (for Videos of the Wasteland). | Not needed. |
+| [Funhaus video for Videos of the Wasteland.](https://www.nexusmods.com/fallout4/mods/13634) | This is a cartoon made by funhaus. Requires Videos of the wasteland. | Not needed. |
+
 # Food
 
-| Mod | Summary |
-|----------|----------|
-| [Better Cooking Stations.](https://schaken-mods.com/files/file/1800-archive-better-cooking-stations-with-patches-for-animations-and-recipes/?do=download) | Not on Nexus due the mod collections controversy and authors response. "Overhauls the vanilla cooking stations with better effects and features; adds several new ones including a working kitchen stove, BBQ grill and supermutant cooking pot. All craftable cooking station."  |
-| [Choice Chopped.](https://www.nexusmods.com/fallout4/mods/10434) | Turn junk food items into tasty, useful meals at cooking stations. Prepared dishes have also been distributed throughout the Commonwealth. Includes new options for adhesive, addictions, and conversions. |
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Better Cooking Stations.](https://schaken-mods.com/files/file/1800-archive-better-cooking-stations-with-patches-for-animations-and-recipes/?do=download) | Not on Nexus due to the mod collections controversy and authors response. "Overhauls the vanilla cooking stations with better effects and features; adds several new ones including a working kitchen stove, BBQ grill, and supermutant cooking pot. All craftable cooking station."  | todo |
+| [Choice Chopped.](https://www.nexusmods.com/fallout4/mods/10434) | Turn junk food items into tasty, useful meals at cooking stations. Prepared dishes have also been distributed throughout the Commonwealth. Includes new options for adhesive, addictions, and conversions. | todo |
 
 :tv: [Better Cooking Stations reviewed by MxR here.](https://www.youtube.com/watch?v=rvXfzPfyZic)
 :tv: [Better Cooking Stations reviewed by Popontop here.](https://www.youtube.com/watch?v=zlezAv7ftTI)
