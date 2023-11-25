@@ -33,6 +33,24 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative starting. Not doing the same playthrough (and initial long cutscene) every time. |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. |
 
+
+# Buildings
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [The British Consulate General.](https://www.nexusmods.com/fallout4/mods/19486) | todo | todo |
+| [The Lost Building of Atlantic.](https://www.nexusmods.com/fallout4/mods/25401) | As you're wandering through the ruins of downtown Boston, you find a building that is heavily fortified by a camp of raiders. You're not about to let a bunch of raiders get in the way of your curiosity, so you blast through them and enter the building. Inside, you can learn the story of Allison Miller, the CEO of Atlantic Pharmaceuticals. | todo |
+| [Bioshock Infinite Lighthouse.](https://www.nexusmods.com/fallout4/mods/23881) | Bioshock Infinite Light House, right behind the Atom Cats Garage. Can be used as a player home | todo |
+
+# Radio
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Old Wold Radio](https://www.nexusmods.com/fallout4/mods/9048) | 29 new stations, custom craftable settlement radios for each station, craftable holotapes for each station for in-game volume control and track-seeking control, craftable posters and billboards included, compatibility patches included. | Not needed. |
+| [Old World Radio 2.](https://www.nexusmods.com/fallout4/mods/28711) | :tv: [Old World Radio 2 reviewed here by MxR.](https://www.youtube.com/watch?v=Y0h23o6GkcM) | Not needed. |
+| [Detour Radio.](https://www.nexusmods.com/fallout4/mods/29060) | Over 110 songs from the golden age of music. All lore-friendly. This is just continuous music with no DJ or commercials added. A craftable radio is available in the workshop so your settlers can enjoy it as well. XBOX and PC versions are also available at Bethesda's site. | Not needed. |
+| [Delta Wasteland Radio - Now with 70-plus old blues tunes.](https://www.nexusmods.com/fallout4/mods/11087) | Radio station adds 36 classic blues songs from the 1920s-1930s | Not needed. |
+
 # Fixes
 
 | Mod | Summary |
@@ -125,7 +143,9 @@ posar imatges github
 
 | Mod | Summary |
 |----------|----------|
-| [Chinese Stealth Suit.](https://www.nexusmods.com/fallout4/mods/20959) | :tv: [Reviewd here by MxR.](https://www.youtube.com/watch?v=9tdoqLwnqCM) |
+| [Chinese Stealth Suit.](https://www.nexusmods.com/fallout4/mods/20959) | :tv: [Reviewed here by MxR.](https://www.youtube.com/watch?v=9tdoqLwnqCM) |
+| [NCR Outfit Pack.](https://www.nexusmods.com/fallout4/mods/58182) | Adds in loads of new NCR outfits from Fallout New Vegas and its DLCs, these can be found at vendors like Fallon's basement. You can buy both the armours and plans to craft them a the chemistry workbench. | todo |
+| [CROSS_InstituteExpeditionarySuit.](https://www.nexusmods.com/fallout4/mods/30857) | The outfit is not added to any leveled lists, it can only be found in hand-placed locations or crafted. | todo |
 | [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431) | ``` TODO. TO BE DONE 🚧 ``` |
 
 <img src="armor/elis_compendium.jpg"/>
@@ -139,16 +159,17 @@ posar imatges github
 
 # Textures
 
-| Mod | Summary |
-|----------|----------|
-| [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Bag of Cement Retexture.](https://www.nexusmods.com/fallout4/mods/76108) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Retextured Terminals - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/24008) | ``` TODO. TO BE DONE 🚧 ``` |
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
+| [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
+| [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
+| [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
+| [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
+| [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
+| [Bag of Cement Retexture.](https://www.nexusmods.com/fallout4/mods/76108) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
+| [Drifter Outfit 4k.](https://www.nexusmods.com/fallout4/mods/39904) | todo | Not needed. |  Not needed. |
+| [Retextured Terminals - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/24008) | ``` TODO. TO BE DONE 🚧 ``` | Not needed. |
 
 <img src="textures/terminals.jpg"/>
 
@@ -172,27 +193,23 @@ ADD MORE IMAGES
 | [Another Deliverer Reanimation.](https://www.nexusmods.com/fallout4/mods/76195) | Deliverer is a type of gun in the game. Imatge a github. Uses this textures: [VWR - Vanilla Weapons Redone.](https://www.nexusmods.com/fallout4/mods/47726) |
 | [Better Female Walk (Extra Jiggle).](https://www.nexusmods.com/fallout4/mods/21370) | :tv: [Better Female Walk reviewed here by MxR](https://www.youtube.com/watch?v=9tdoqLwnqCM) |
 
-# Radio
-
-| Mod | Summary |
-|----------|----------|
-| [Old Wold Radio](https://www.nexusmods.com/fallout4/mods/9048) | 29 new stations, custom craftable settlement radios for each station, craftable holotapes for each station for in-game volume control and track-seeking control, craftable posters and billboards included, compatibility patches included. |
-| [Old World Radio 2.](https://www.nexusmods.com/fallout4/mods/28711) | :tv: [Old World Radio 2 reviewed here by MxR.](https://www.youtube.com/watch?v=Y0h23o6GkcM) |
-
 # Vaults
 
-| Mod | Summary |
-|----------|----------|
-| [Vault 1080.](https://www.nexusmods.com/fallout4/mods/18172) | New questline, 4 new areas to explore, displays a new way of handling volumetric lighting. |
-| [Immersive Vault 95.](https://www.nexusmods.com/fallout4/mods/31674) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Quest - Prelude To Vault 273.](https://www.nexusmods.com/fallout4/mods/7710) | Adds a scavenger hunt-style quest with audio logs scattered across the wasteland. |
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Vault 1080.](https://www.nexusmods.com/fallout4/mods/18172) | New questline, 4 new areas to explore, displays a new way of handling volumetric lighting. | ``` TODO. TO BE DONE 🚧 ``` |
+| [Immersive Vault 95.](https://www.nexusmods.com/fallout4/mods/31674) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Quest - Prelude To Vault 273.](https://www.nexusmods.com/fallout4/mods/7710) | Adds a scavenger hunt-style quest with audio logs scattered across the wasteland. | ``` TODO. TO BE DONE 🚧 ``` |
+| [Haunted Vault 165.](https://www.nexusmods.com/fallout4/mods/29449) | Speak to Paladin Shepard to start Quest. | ``` TODO. TO BE DONE 🚧 ``` |
 
 # Towns
 
-| Mod | Summary |
-|----------|----------|
-| [Salem Expanded](https://www.nexusmods.com/fallout4/mods/27420) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Diamond City Expansion.](https://www.nexusmods.com/fallout4/mods/21853) | :tv: [Reviewed here by MxR](https://www.youtube.com/watch?v=yQNNo4eu2F8) |
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Salem Expanded](https://www.nexusmods.com/fallout4/mods/27420) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Diamond City Expansion.](https://www.nexusmods.com/fallout4/mods/21853) | :tv: [Reviewed here by MxR](https://www.youtube.com/watch?v=yQNNo4eu2F8) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Concord EXPANDED](https://www.nexusmods.com/fallout4/mods/27333) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Fort Hagen EXPANDED (More Loot Buildings and Enemies)](https://www.nexusmods.com/fallout4/mods/27607) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 
 # Base Object Swapper
 
@@ -329,7 +346,7 @@ POSAR FOTO! todo o screenshot meu pujat face
 
 # Companions
 
-| Mod | Brief summary | Spanish translation
+| Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
 | [Ellen - the cartographer.](https://www.nexusmods.com/fallout4/mods/15962) | The very first and truly custom-voiced companion for Fallout 4, boasting over 1200 lines of custom-made and voiced dialogue. Affinity system, supporting DLC. Romance. Custom quest. Vanilla lore-friendly face and background. | [Ellen The Cartographer - Adaptacion Latina.](https://www.nexusmods.com/fallout4/mods/42549) |
 | [Buttons.](https://www.nexusmods.com/fallout4/mods/31710) | todo | todo |
@@ -370,7 +387,6 @@ POSAR FOTO! todo o screenshot meu pujat face
 # Lighting  
   - [Ultra Interior Lighting.](https://www.nexusmods.com/fallout4/mods/22101)
 
-
 # DLC sized expansions
 
 | [America Rising 2 - Legacy of the Enclave](https://www.nexusmods.com/fallout4/mods/75767) | Remaster of the 1. Review by JuiceHead. |
@@ -389,18 +405,15 @@ POSAR FOTO! todo o screenshot meu pujat face
 
 | [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320) | ``` TODO. TO BE DONE 🚧 ``` |
-| [The Lost Building of Atlantic.](https://www.nexusmods.com/fallout4/mods/25401) | As you're wandering through the ruins of downtown Boston, you find a building which is heavily fortified by a camp of raiders. You're not about to let a bunch of raiders get in the way of your curiosity, so you blast through them and enter the building. Inside, you can learn the story of Allison Miller, the CEO of Atlantic Pharmaceuticals. |
+| [moreXplore](https://www.nexusmods.com/fallout4/mods/28733) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Rsiyo's Location Pack](https://www.nexusmods.com/fallout4/mods/38501) | ``` TODO. TO BE DONE 🚧 ``` |
 
-# Buildings / area expansions
+# Area expansions
 
 | [Atomic World](https://www.nexusmods.com/fallout4/mods/28713) | ``` TODO. TO BE DONE 🚧 ``` |
 
   
-| [moreXplore](https://www.nexusmods.com/fallout4/mods/28733) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Rsiyo's Location Pack](https://www.nexusmods.com/fallout4/mods/38501) | ``` TODO. TO BE DONE 🚧 ``` |
   
-  - [Concord EXPANDED](https://www.nexusmods.com/fallout4/mods/27333?tab=files)
-  - [Fort Hagen EXPANDED (More Loot Buildings and Enemies)](https://www.nexusmods.com/fallout4/mods/27607?tab=files)
   - [Better The Third Rail](https://www.nexusmods.com/fallout4/mods/15388?tab=files)
   - Welcome to Goodneighbor: not recommended, unimmersive. Quest with dialog lines blank. No voiced protagonist. Try this instead better, better lose the quest and add immersion:
   - [Goodneighbor View](https://www.nexusmods.com/fallout4/mods/72021)
