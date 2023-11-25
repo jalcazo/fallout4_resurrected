@@ -19,24 +19,30 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Essential (many mods need these)
 
-| Mod | Summary |
-|----------|----------|
-| [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147) | (Fallout Faces & HiPoly Faces REDUX require it). A lot of mods require F4SE, it's essential. |
-| [Address Library for F4SE Plugins.](https://www.nexusmods.com/fallout4/mods/47327) | ``` TODO. TO BE DONE 🚧 ``` | 
-| [Mod Configuration Menu.](https://www.nexusmods.com/fallout4/mods/21497) | (Fallout Faces & HiPoly Faces REDUX require it). Let you configure your mods via ESC menu |
-| [MCM Booster.](https://www.nexusmods.com/fallout4/mods/56997) | Makes MCM go faster using some black magic. |
-| [MCM Settings Manager.](https://www.nexusmods.com/fallout4/mods/56195) | ``` TODO. TO BE DONE 🚧 ``` |
-| [LooksMenu.](https://www.nexusmods.com/fallout4/mods/12631) | (Fallout Faces & HiPoly Faces REDUX require it). A lot of mods require it for improved characters. |
-| [Looks Menu Customization Compendium.](https://www.nexusmods.com/fallout4/mods/24830) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Unofficial Fallout 4 Patch - UFO4P.](https://www.nexusmods.com/fallout4/mods/4598) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Extended Dialogue Interface.](https://www.nexusmods.com/fallout4/mods/27216) | Easier conversation. |
-| [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative starting. Not doing the same playthrough (and initial long cutscene) every time. |
-| [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. |
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147) | (Fallout Faces & HiPoly Faces REDUX require it). A lot of mods require F4SE, it's essential. | Not needed. |
+| [Address Library for F4SE Plugins.](https://www.nexusmods.com/fallout4/mods/47327) | ``` TODO. TO BE DONE 🚧 ``` | Not needed. |
+| [Mod Configuration Menu.](https://www.nexusmods.com/fallout4/mods/21497) | (Fallout Faces & HiPoly Faces REDUX require it). Let you configure your mods via ESC menu | todo |
+| [MCM Booster.](https://www.nexusmods.com/fallout4/mods/56997) | Makes MCM go faster using some black magic. | Not needed. |
+| [MCM Settings Manager.](https://www.nexusmods.com/fallout4/mods/56195) | ``` TODO. TO BE DONE 🚧 ``` | todo |
+| [LooksMenu.](https://www.nexusmods.com/fallout4/mods/12631) | (Fallout Faces & HiPoly Faces REDUX require it). A lot of mods require it for improved characters. | todo |
+| [Looks Menu Customization Compendium.](https://www.nexusmods.com/fallout4/mods/24830) | ``` TODO. TO BE DONE 🚧 ``` | todo |
+| [Unofficial Fallout 4 Patch - UFO4P.](https://www.nexusmods.com/fallout4/mods/4598) | ``` TODO. TO BE DONE 🚧 ``` | todo |
+| [Extended Dialogue Interface.](https://www.nexusmods.com/fallout4/mods/27216) | Easier conversation. | todo |
+| [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative starting. Not doing the same playthrough (and initial long cutscene) every time. | todo |
+| [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. | Not needed. |
 
+# Locations
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Immersive Drumlin Diner.](https://www.nexusmods.com/fallout4/mods/18995) | todo | todo |
+| [Starlight Drive-In Overhaul.](https://www.nexusmods.com/fallout4/mods/12763) | A small mod to repair the Starlight Drive-In. The parking is repaired and the pond was moved. That's it really. | todo |
 
 # Animations
 
-| Mod | Brief summary | Spanish translation
+| Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
 | [No Crafting Animations.](https://www.nexusmods.com/fallout4/mods/63183) | ``` TODO. TO BE DONE 🚧 ``` | Not needed. |
 | [No Door Animations - Instant Doors.](https://www.nexusmods.com/fallout4/mods/63224) | ``` TODO. TO BE DONE 🚧 ``` | Not needed. |
@@ -130,6 +136,7 @@ PUT SCREENSHOTS
 | [Automatron Expanded Weapons System.](https://www.nexusmods.com/fallout4/mods/29858) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [Remote Explosives - C4 with Detonators and More.](https://www.nexusmods.com/fallout4/mods/22444) |Adds familiar C-4 and three other new explosive types with new meshes, and a working remote detonator with new animations, giving you you the ability to make explosives more tactical or blow up your enemy's pants from afar! | [Remote Explosives - C4 with Detonators and More - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/29315) |
 | [M84 FlashBang.](https://www.nexusmods.com/fallout4/mods/56981) | The FlashBang can blind and paralyze more than 20 creatures in the game. | ``` TODO. TO BE DONE 🚧 ``` |
+| [Bullpup Bozar.](https://www.nexusmods.com/fallout4/mods/28478) | This mod will add Bozar - a legendary sniper LMG from Fallout 2 and Fallout New Vegas GRA DLC, with new bullpup design, custom assets and animations. | todo |
 
 # Nuka World
 
@@ -174,7 +181,7 @@ posar imatges github
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
 | [Faction Housing Overhaul - All In One. (Elianora)](https://www.nexusmods.com/fallout4/mods/15814) | todo | todo |
-| [Nuka Gear.](https://www.nexusmods.com/fallout4/mods/11798/) (Elianora - Ellise - DDProductions83) | Mod adds Nuka-Cola-inspired equipment and weapons to the game. They're based on the Nuka-Cola posters found in the game. | todo |
+| [Nuka Gear.](https://www.nexusmods.com/fallout4/mods/11798/) (Elianora - Ellise - DDProductions83) | Mod adds Nuka-Cola-inspired equipment and weapons to the game. They're based on the Nuka-Cola posters found in the game. :tv: [Fallout 4 Mod Showcase: Nuka Gear by Elianora-Ellise-DDProductions83](https://www.youtube.com/watch?v=n8hVjCzmK9E) | todo |
 | Collectibles: [Teddies 76 - A Mr. Fuzzy mod.](https://www.nexusmods.com/fallout4/mods/57424) | Adds a huge amount of collectible teddybears into the game inspired by the Mr. Fuzzy mascot and toys. | todo |
 | [Far Harbor Shack. (Elianora)](https://www.nexusmods.com/fallout4/mods/25359) | todo | todo |
 | [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431) | ``` TODO. TO BE DONE 🚧 ``` | TODO |
@@ -303,7 +310,6 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 [Videos of the Wasteland.](https://www.nexusmods.com/fallout4/mods/24435) | Videos of the Wasteland enables you to view videos from holotapes on in-game TVs, and film-reels at the Starlight Drive-In! | [Videos of the Wasteland - Spanish Translation](https://www.nexusmods.com/fallout4/mods/35387) | 
 | [Good old Cartoons.](https://www.nexusmods.com/fallout4/mods/17633) | Brings old cartoons to the Commonwealth! | Not needed. |
 | [How to Survive a Nuclear War (for Videos of the Wasteland).](https://www.nexusmods.com/fallout4/mods/43153) | A collection of videos on how to survive a nuclear war (for Videos of the Wasteland). | Not needed. |
-| [Funhaus video for Videos of the Wasteland.](https://www.nexusmods.com/fallout4/mods/13634) | This is a cartoon made by funhaus. Requires Videos of the wasteland. | Not needed. |
 
 # Food
 
@@ -487,10 +493,6 @@ Discarded mods:
 | [Scrappable Power Armor Pieces.](https://www.nexusmods.com/fallout4/mods/17787) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Power Armor Animation Changes.](https://www.nexusmods.com/fallout4/mods/4408) | ``` TODO. TO BE DONE 🚧 ``` |
 
-
-# Locations
-  - [Immersive Drumlin Diner](https://www.nexusmods.com/fallout4/mods/18995)
- 
  # Magazines
 
 | Mod | Summary |
