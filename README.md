@@ -157,6 +157,7 @@ PUT SCREENSHOTS
 | [CHAOTIC SUN.](https://www.nexusmods.com/fallout4/mods/38808) 2.9GB!!!| "It starts with a Nameless Island and is an adventure focused on combat and exploration. The dungeon that accumulates a person's memory. powerful Temple Knights and their Synth Army. Stalkers seem to have gathered after hearing the rumor of treasure. You fight with the help of a 3D-printed spirit called Wraith, and the Android. Let's get started!" | todo |
 | [Enter The Brotherhood.](https://www.nexusmods.com/fallout4/mods/28006) | Fixes the BoS quest line so that in order to get them in the Commonwealth, you have to help Danse and his team. | todo |
 | [Introducing - Radium-Inc.](https://www.nexusmods.com/fallout4/mods/32175) | A dungeon mod with a small questline, this mod takes the player through the headquarters of Radium-Inc., a company that made radium-infused products. | todo |
+| [String Theory.](https://www.nexusmods.com/fallout4/mods/33148) | What begins as a normal morning by Commonwealth standards soon unravels into strangeness when you stop by your local Sanctuary Diner. A young man needs a favour, a young girl has a one of a kind key and an important story needs to be told. This mod contains three new locations and two quests. **Note - This mod doesn't have voice acting.** | todo |
 
 posar imatges github
 
