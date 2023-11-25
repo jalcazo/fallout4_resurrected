@@ -297,6 +297,8 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 | [Kate Preset.](https://www.nexusmods.com/fallout4/mods/17934) | A cool preset by ClearanceClarence. | Not needed. |
 | [Sara The Survivor - Looksmenu Preset.](https://www.nexusmods.com/fallout4/mods/30688) | Cool preset by PokaPefk. | todo |
 | [Lilian - Character Preset.](https://www.nexusmods.com/fallout4/mods/23032) | Cool preset by Akarsil. | Not needed. |
+| [Sam Winchester Character Preset.](https://www.nexusmods.com/fallout4/mods/26930) | A preset of Sam from the TV show Supernatural. | Not needed. |
+| [Nate - A Male Preset.](https://www.nexusmods.com/fallout4/mods/37848) | Adds a male preset to LooksMenu | Not needed. |
 
 POSAR FOTO! todo o screenshot meu pujat face
 
@@ -326,20 +328,26 @@ POSAR FOTO! todo o screenshot meu pujat face
 | [Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton](https://www.nexusmods.com/fallout4/mods/9568) | todo. | Not needed. |
 
 # Companions
-  - [Buttons.](https://www.nexusmods.com/fallout4/mods/31710)
-    
-    <img src="companions/buttons.jpg"/>
 
-    - [Companion Status UI Remastered](https://www.nexusmods.com/fallout4/mods/42925?tab=files)
+| Mod | Brief summary | Spanish translation
+|----------|----------|----------|
+| [Ellen - the cartographer.](https://www.nexusmods.com/fallout4/mods/15962) | The very first and truly custom-voiced companion for Fallout 4, boasting over 1200 lines of custom-made and voiced dialogue. Affinity system, supporting DLC. Romance. Custom quest. Vanilla lore-friendly face and background. | [Ellen The Cartographer - Adaptacion Latina.](https://www.nexusmods.com/fallout4/mods/42549) |
+| [Buttons.](https://www.nexusmods.com/fallout4/mods/31710) | todo | todo |
+| [Companion Status UI Remastered](https://www.nexusmods.com/fallout4/mods/42925) | todo | todo |
+
+<img src="companions/buttons.jpg"/> <br>
 <img src="gui/Companion Status UI Remastered 1.jpg"/>
 
 # Weather and landscape
-  - [Misty Pines Overhaul](https://www.nexusmods.com/fallout4/mods/28990?tab=files)
-  - [True Storms](https://www.nexusmods.com/fallout4/mods/4472?tab=files)
-  - [Vivid Weathers.](https://www.nexusmods.com/fallout4/mods/15466?tab=files) (don't enable "Vivid Waters" since we are using [Clean Water of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/16297?tab=files) (I like the tropical preset).
-  - [Better LOD](https://www.nexusmods.com/fallout4/mods/40417?tab=files)
-  - [Better Rubble](https://www.nexusmods.com/fallout4/mods/36301?tab=files)
-  - [True Grass](https://www.nexusmods.com/fallout4/mods/23469?tab=files)
+
+| Mod | Brief summary | Spanish translation
+|----------|----------|----------|
+| [Misty Pines Overhaul](https://www.nexusmods.com/fallout4/mods/28990) | todo | Not needed. |
+| [True Storms](https://www.nexusmods.com/fallout4/mods/4472) | todo | todo |
+| [Vivid Weathers.](https://www.nexusmods.com/fallout4/mods/15466) (don't enable "Vivid Waters" since we are using [Clean Water of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/16297?tab=files) (I like the tropical preset). | todo | todo |
+| [Better LOD](https://www.nexusmods.com/fallout4/mods/40417) | todo | todo |
+| [Better Rubble](https://www.nexusmods.com/fallout4/mods/36301) | todo | todo |
+| [True Grass](https://www.nexusmods.com/fallout4/mods/23469) | todo | todo |
 
 # Collectibles
   - [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) (This treasure hunt adds 40 classic works of western philosophy.ESP marked as ESL.)
