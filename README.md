@@ -65,6 +65,10 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Main Quest Choices Extended.](https://www.nexusmods.com/fallout4/mods/19835) | A few changes that expand your options in the main story including keeping the Railroad alive. |
 | [Whose Quest Is It Anyway.](https://www.nexusmods.com/fallout4/mods/51979) | Swap the "quest items can't be removed" message with something a little more informative. |
 | [No Quest Autostart - Far Harbor.](https://www.nexusmods.com/fallout4/mods/31450) | Prevents "Far From Home" from starting without the player either listening to Ellie's radio message or visiting the Nakano residence." |
+| [CHAOTIC SUN.](https://www.nexusmods.com/fallout4/mods/38808) 2.9GB!!!| "It starts with a Nameless Island and is an adventure focused on combat and exploration. The dungeon that accumulates a person's memory. powerful Temple Knights and their Synth Army. Stalkers seem to have gathered after hearing the rumor of treasure. You fight with the help of a 3D printed spirit called Wraith, and the Android. Let's get started!" |
+
+
+imatges github
 
 # Armor / armors (not clothes)
 
@@ -198,7 +202,7 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 | Mod | Summary |
 |----------|----------|
 | [The Widow Shotgun](https://www.nexusmods.com/fallout4/mods/19619) | Adds a standalone modular sawn off double-barrelled shotgun. | [The Widow Shotgun Spanish.](https://www.nexusmods.com/fallout4/mods/34757) |
-| [Black Widow Armor and Pipboy (Pip-boy).](https://www.nexusmods.com/fallout4/mods/21162) | "Will you be the one to fulfill the widow's last wish?" | [Black Widow Armor and Pipboy (Pip-boy) Spanish.](https://www.nexusmods.com/fallout4/mods/34794) |
+| [Black Widow Armor and Pipboy (Pip-boy).](https://www.nexusmods.com/fallout4/mods/21162) **I PERSONALLY UNINSTALL THE PIPBOY, I DON'T LIKE IT, JAUME** | "Will you be the one to fulfill the widow's last wish?" | [Black Widow Armor and Pipboy (Pip-boy) Spanish.](https://www.nexusmods.com/fallout4/mods/34794) |
 
 :tv: [both reviewed by MxR here](https://www.youtube.com/watch?v=rvXfzPfyZic)
 
@@ -234,6 +238,13 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 | [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521) | todo | todo |
 | [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447) | todo | todo |
 | [KCI - Kellogg's Cybernetic Implants.](https://www.nexusmods.com/fallout4/mods/48812) | :tv: [Reviewed here (amongst other mods) by MxR.](https://www.youtube.com/watch?v=1JqPQvw_8xA) | todo |
+
+# Hunting
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [More Wildlife.](https://www.nexusmods.com/fallout4/mods/51503) | todo | todo |
+| [IHO - Immersive Hunting Overhaul.](https://www.nexusmods.com/fallout4/mods/53964) | Very lightweight but effective hunting mechanic. Get ingredients from creatures in a more immersive way. Disassemble to parts various mechanical targets. Learn new cooking recipes and even more. | [IHO - Immersive Hunting Overhaul - Spanish.](https://www.nexusmods.com/fallout4/mods/58029) |
 
 # NPC's / presets / characters
 
@@ -301,8 +312,6 @@ POSAR FOTO! todo o screenshot meu pujat face
 # Lighting  
   - [Ultra Interior Lighting.](https://www.nexusmods.com/fallout4/mods/22101)
 
-# Hunting
-  - [More Wildlife.](https://www.nexusmods.com/fallout4/mods/51503?tab=files)
 
 # DLC sized expansions
 
@@ -409,6 +418,7 @@ POSAR FOTO! todo o screenshot meu pujat face
 | [Classic Wasteland Survival Guide - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/49999) | todo |
 | [U.S. Covert Operations Manual Redux - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/53012) | todo |
 | [Total Hack - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/50253) | todo |
+| [MM JOURNALS.](https://www.nexusmods.com/fallout4/mods/57092) | todo |
   
 # Clothing/ Clothes (not armor)
 
