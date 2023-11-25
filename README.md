@@ -86,6 +86,19 @@ PUT SCREENSHOTS
 | [Nothing Fancy Hot Showers.](https://www.nexusmods.com/fallout4/mods/46241) | Adds 4 showers and some color variants, showers work like a decontamination arch. Requires DLC: Wasteland Workshop. |
 | [Showers ESL.](https://www.nexusmods.com/fallout4/mods/36107) | ix showers that boost your charisma or remove your rads. |
 
+# Weapons
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Heckler und Koch - G36 Complex.](https://www.nexusmods.com/fallout4/mods/64108) | This mod adds a G36 into Fallout 4. It features custom animations, sounds, and a quest. | ``` TODO. TO BE DONE 🚧 ``` |
+| [More Uniques - Unique Weapons Expansion.](https://www.nexusmods.com/fallout4/mods/18357) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [All Weapons HD (A.W.H.D.).](https://www.nexusmods.com/fallout4/mods/8556) | 4K upscale of every weapon in the game 0.o Yup you heard right, Every single one! | ``` TODO. TO BE DONE 🚧 ``` |
+| [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Automatron Expanded Weapons System.](https://www.nexusmods.com/fallout4/mods/29858) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Remote Explosives - C4 with Detonators and More.](https://www.nexusmods.com/fallout4/mods/22444) |Adds familiar C-4 and three other new explosive types with new meshes, and a working remote detonator with new animations, giving you you the ability to make explosives more tactical or blow up your enemy's pants from afar! | [Remote Explosives - C4 with Detonators and More - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/29315) |
+| [M84 FlashBang.](https://www.nexusmods.com/fallout4/mods/56981) | the FlashBang can blind and paralyze more than 20 creatures in the game. | ``` TODO. TO BE DONE 🚧 ``` |
+
 # Quests
 
 | Mod | Summary |
@@ -116,18 +129,6 @@ posar imatges github
 | [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431) | ``` TODO. TO BE DONE 🚧 ``` |
 
 <img src="armor/elis_compendium.jpg"/>
-
-# Weapons
-
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [Heckler und Koch - G36 Complex.](https://www.nexusmods.com/fallout4/mods/64108) | This mod adds a G36 into Fallout 4. It features custom animations, sounds, and a quest. | ``` TODO. TO BE DONE 🚧 ``` |
-| [More Uniques - Unique Weapons Expansion.](https://www.nexusmods.com/fallout4/mods/18357) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
-| [All Weapons HD (A.W.H.D.).](https://www.nexusmods.com/fallout4/mods/8556) | 4K upscale of every weapon in the game 0.o Yup you heard right, Every single one! | ``` TODO. TO BE DONE 🚧 ``` |
-| [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
-| [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
-| [Automatron Expanded Weapons System.](https://www.nexusmods.com/fallout4/mods/29858) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
-| [Remote Explosives - C4 with Detonators and More.](https://www.nexusmods.com/fallout4/mods/22444) |Adds familiar C-4 and three other new explosive types with new meshes, and a working remote detonator with new animations, giving you you the ability to make explosives more tactical or blow up your enemy's pants from afar! | [Remote Explosives - C4 with Detonators and More - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/29315) |
 
 # Cut content
 
@@ -289,9 +290,9 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 
 # NPC's / presets / characters
 
-| Mod | Summary |
-|----------|----------|
-|[Lucky Cricket's Caravan for CBBE - SHB.](https://www.nexusmods.com/fallout4/mods/20298) | ``` TODO. TO BE DONE 🚧 ``` |
+| Mod | Brief summary | Spanish translation
+|----------|----------|----------|
+|[Lucky Cricket's Caravan for CBBE - SHB.](https://www.nexusmods.com/fallout4/mods/20298) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 POSAR FOTO! todo o screenshot meu pujat face
 
   - [Fallout Faces (Male All-in-One and Female All-in-One](https://www.nexusmods.com/fallout4/mods/59064?tab=files), requires:
@@ -306,15 +307,18 @@ POSAR FOTO! todo o screenshot meu pujat face
   - [Preset Face Replacers](https://www.nexusmods.com/fallout4/mods/11003?tab=files), requires:
     - [Lots More Male Hairstyles](https://www.nexusmods.com/fallout4/mods/10695?tab=files)
     - [Lots More Female Hairstyles](https://www.nexusmods.com/fallout4/mods/10543?tab=files)
-- [Ponytail Hairstyles by Azar v2.5a](https://www.nexusmods.com/fallout4/mods/8126?tab=files)
-- [Immersive Wastelanders](https://www.nexusmods.com/fallout4/mods/19544?tab=files) (I just hand-pick Piper, Magnolia, Cait, Tina deLuca & Glory, but you can pick whatever you like best).
-- [True Reporter - Piper Outfit Redone - CBBE - Vanilla - Bodyslide](https://www.nexusmods.com/fallout4/mods/11611?tab=files)
-- [deLuxe Makeup](https://www.nexusmods.com/fallout4/mods/4398/?tab=files)
-- [Appealing Moles](https://www.nexusmods.com/fallout4/mods/3802/?)
-- [Eye Normal Map Fix Fallout 4 Edition](https://www.nexusmods.com/fallout4/mods/819/?tab=files)
-- [Sexy Hancock](https://www.nexusmods.com/fallout4/mods/12029/?tab=files)
-- [Ghastly - Ghoul Eyes Texture](https://www.nexusmods.com/fallout4/mods/5013?tab=files)
-- [Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton](https://www.nexusmods.com/fallout4/mods/9568/?tab=files)
+
+| Mod | Brief summary | Spanish translation
+|----------|----------|----------|
+| [Ponytail Hairstyles by Azar v2.5a](https://www.nexusmods.com/fallout4/mods/8126) | todo | todo |
+| [Immersive Wastelanders](https://www.nexusmods.com/fallout4/mods/19544) | I just hand-pick Piper, Magnolia, Cait, Tina deLuca & Glory, but you can pick whatever you like best. | Not needed. |
+| [True Reporter - Piper Outfit Redone - CBBE - Vanilla - Bodyslide](https://www.nexusmods.com/fallout4/mods/11611) | todo | todo |
+| [deLuxe Makeup](https://www.nexusmods.com/fallout4/mods/4398) | todo | todo |
+| [Appealing Moles](https://www.nexusmods.com/fallout4/mods/3802) | todo | todo |
+| [Eye Normal Map Fix Fallout 4 Edition](https://www.nexusmods.com/fallout4/mods/819) | todo | todo |
+| [Sexy Hancock](https://www.nexusmods.com/fallout4/mods/12029) | todo | Not needed. |
+| [Ghastly - Ghoul Eyes Texture](https://www.nexusmods.com/fallout4/mods/5013) | todo | Not needed. |
+| [Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton](https://www.nexusmods.com/fallout4/mods/9568) | todo. | Not needed. |
 
 # Companions
   - [Buttons.](https://www.nexusmods.com/fallout4/mods/31710)
