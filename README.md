@@ -42,6 +42,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Depravity](https://www.nexusmods.com/fallout4/mods/35513) | Large quest/companion mod with evil RPG options for the vanilla main story. 40 quests, 13 companions, and around 20 hours of content. Requires Outcasts and Remnants. | todo |
 | [The Machine And Her.](https://www.nexusmods.com/fallout4/mods/30488) | DLC-sized quest featuring 4-5 hours of gameplay, fully voiced companion with custom affinity, new radio station, and a story that reacts to your choices! September 2019 Mod Of The Month! | todo |
 | [Fallout 4 Northern Springs DLC.](https://www.nexusmods.com/fallout4/mods/32911) | Northern Springs is a massive DLC that adds a whole new location larger than both Nuka World and Far Harbor. An enormous land to explore with new quests, new weapons, new armor, settlements, and much more to find. A true DLC that naturally expands & adds beyond the Commonwealth further to the North. | todo |
+| [Fallout Sakhalin.](https://www.nexusmods.com/fallout4/mods/34945) | First of all, this mod is a big one. A new island, exclusive new interiors, fresh new quests, factions, monsters, and so on. | Not needed. |
 
 # Locations
 
@@ -76,8 +77,8 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
+| [Game Show Radio.](https://www.nexusmods.com/fallout4/mods/27759) | A radio station with 160+ episodes of your favorite quiz shows from the '40s, '50s and '60s. | Not needed. |
 | [Old Wold Radio](https://www.nexusmods.com/fallout4/mods/9048) | 29 new stations, custom craftable settlement radios for each station, craftable holotapes for each station for in-game volume control and track-seeking control, craftable posters and billboards included, compatibility patches included. | Not needed. |
-| [Old World Radio 2.](https://www.nexusmods.com/fallout4/mods/28711) | :tv: [Old World Radio 2 reviewed here by MxR.](https://www.youtube.com/watch?v=Y0h23o6GkcM) | Not needed. |
 | [Detour Radio.](https://www.nexusmods.com/fallout4/mods/29060) | Over 110 songs from the golden age of music. All lore-friendly. This is just continuous music with no DJ or commercials added. A craftable radio is available in the workshop so your settlers can enjoy it as well. XBOX and PC versions are also available at Bethesda's site. | Not needed. |
 | [Delta Wasteland Radio - Now with 70-plus old blues tunes.](https://www.nexusmods.com/fallout4/mods/11087) | Radio station adds 36 classic blues songs from the 1920s-1930s | Not needed. |
 | [Starlight Drive-In Trailer Radio](https://www.nexusmods.com/fallout4/mods/29305). |This mods ads a new radio station to the Commonwealth that you can listen to on your Pip-Boy. The radio station features many trailers from old-school movies, such as The Mummy (1932), The Wizard of Oz (1939) and 12 Angry Men (1957). In total, there are 20 different trailers for old movies, with a few commercials and announcements in between. | Not needed. |
@@ -221,6 +222,7 @@ posar imatges github
 |----------|----------|----------|
 | [Vivid Fallout - All in One.](https://www.nexusmods.com/fallout4/mods/25714) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
 | [Vivid Fallout - LOD and Far Distant Detail.](https://www.nexusmods.com/fallout4/mods/71745) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
+| [NMC's Texture Bundle.](https://www.nexusmods.com/fallout4/mods/31814) | Mini- texture bundle, retexturing the Nuka Cola Machine, RedRocket Truck Stops, Diners (including Drumlin), Drive-Ins, Roads (asphalt road only) and Sanctuary Bridge. Available in 3 sizes to suit your PC. | Not needed. |
 | [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
 | [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
 | [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
