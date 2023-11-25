@@ -217,7 +217,8 @@ ADD MORE IMAGES
 | [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [KCI - Kellogg's Cybernetic Implants.](https://www.nexusmods.com/fallout4/mods/48812) | :tv: [Reviewed here (amongst other mods) by MxR.](https://www.youtube.com/watch?v=1JqPQvw_8xA) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Player Curses During Lockpicking and Hacking. ESL.](https://www.nexusmods.com/fallout4/mods/48771) **PICK THE ESL VERSION!**| When you break a Bobby Pin, choose the wrong password during hacking, or just get locked out of a Terminal you may mutter some "indecent" words... Well.. this mod makes them audible in the Game too. | todo with xVaSynth2? |
-| [Notes of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/44532) | Adds a variety of lore friendly notes to various locations in the game. Some funny, mundane, sad, scary and lots more. | ``` TODO. TO BE DONE 🚧 ``` |
+| [Notes of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/44532) | Adds a variety of lore friendly notes to various locations in the game. Some funny, mundane, sad, scary, and lots more. | ``` TODO. TO BE DONE 🚧 ``` |
+| [Shatter - Shardz and Spillz.](https://www.nexusmods.com/fallout4/mods/33280) | The files in this package make many glass, ceramic, and other things destructible! | Needed? Maybe renames some things as destructible Skyrim did. Jaume |
 
 # Vaults
 
