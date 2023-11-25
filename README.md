@@ -223,6 +223,7 @@ ADD MORE IMAGES
 | [Shatter - Shardz and Spillz.](https://www.nexusmods.com/fallout4/mods/33280) | The files in this package make many glass, ceramic, and other things destructible! | Needed? Maybe renames some things as destructible Skyrim did. Jaume |
 | [More Realistic Fire Behavior.](https://www.nexusmods.com/fallout4/mods/30246) | This mod simply makes it so that when NPCs have 100% of their skin literally engulfed in flames they care a little. | todo |
 | [Military MREs - Meal Ready to Eat - New Food.](https://www.nexusmods.com/fallout4/mods/25824) | Pre-war MREs in 14 flavors featuring brand-new meshes and textures. Supply caches at military bases, and injected into vendor lists. | todo (french translation already is done). |
+| [Merchants Sells Weapon Mods.](https://www.nexusmods.com/fallout4/mods/39065) | Adds weapon mods to weapon vendors inventories. | todo |
 
 # Vaults
 
