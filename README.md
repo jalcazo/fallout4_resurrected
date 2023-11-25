@@ -196,6 +196,8 @@ ADD MORE IMAGES
 |----------|----------|
 | [Salem Expanded](https://www.nexusmods.com/fallout4/mods/27420) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Diamond City Expansion.](https://www.nexusmods.com/fallout4/mods/21853) | :tv: [Reviewed here by MxR](https://www.youtube.com/watch?v=yQNNo4eu2F8) |
+| [Concord EXPANDED](https://www.nexusmods.com/fallout4/mods/27333) | todo | todo |
+| [Fort Hagen EXPANDED (More Loot Buildings and Enemies)](https://www.nexusmods.com/fallout4/mods/27607) | todo | todo |
 
 # Base Object Swapper
 
@@ -332,7 +334,7 @@ POSAR FOTO! todo o screenshot meu pujat face
 
 # Companions
 
-| Mod | Brief summary | Spanish translation
+| Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
 | [Ellen - the cartographer.](https://www.nexusmods.com/fallout4/mods/15962) | The very first and truly custom-voiced companion for Fallout 4, boasting over 1200 lines of custom-made and voiced dialogue. Affinity system, supporting DLC. Romance. Custom quest. Vanilla lore-friendly face and background. | [Ellen The Cartographer - Adaptacion Latina.](https://www.nexusmods.com/fallout4/mods/42549) |
 | [Buttons.](https://www.nexusmods.com/fallout4/mods/31710) | todo | todo |
@@ -340,6 +342,13 @@ POSAR FOTO! todo o screenshot meu pujat face
 
 <img src="companions/buttons.jpg"/> <br>
 <img src="gui/Companion Status UI Remastered 1.jpg"/>
+
+# Buildings
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [The British Consulate General.](https://www.nexusmods.com/fallout4/mods/19486) | todo | todo |
+| [The Lost Building of Atlantic.](https://www.nexusmods.com/fallout4/mods/25401) | As you're wandering through the ruins of downtown Boston, you find a building that is heavily fortified by a camp of raiders. You're not about to let a bunch of raiders get in the way of your curiosity, so you blast through them and enter the building. Inside, you can learn the story of Allison Miller, the CEO of Atlantic Pharmaceuticals. | todo |
 
 # Weather and landscape
 
@@ -392,18 +401,15 @@ POSAR FOTO! todo o screenshot meu pujat face
 
 | [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320) | ``` TODO. TO BE DONE 🚧 ``` |
-| [The Lost Building of Atlantic.](https://www.nexusmods.com/fallout4/mods/25401) | As you're wandering through the ruins of downtown Boston, you find a building which is heavily fortified by a camp of raiders. You're not about to let a bunch of raiders get in the way of your curiosity, so you blast through them and enter the building. Inside, you can learn the story of Allison Miller, the CEO of Atlantic Pharmaceuticals. |
+| [moreXplore](https://www.nexusmods.com/fallout4/mods/28733) | ``` TODO. TO BE DONE 🚧 ``` |
+| [Rsiyo's Location Pack](https://www.nexusmods.com/fallout4/mods/38501) | ``` TODO. TO BE DONE 🚧 ``` |
 
-# Buildings / area expansions
+# Area expansions
 
 | [Atomic World](https://www.nexusmods.com/fallout4/mods/28713) | ``` TODO. TO BE DONE 🚧 ``` |
 
   
-| [moreXplore](https://www.nexusmods.com/fallout4/mods/28733) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Rsiyo's Location Pack](https://www.nexusmods.com/fallout4/mods/38501) | ``` TODO. TO BE DONE 🚧 ``` |
   
-  - [Concord EXPANDED](https://www.nexusmods.com/fallout4/mods/27333?tab=files)
-  - [Fort Hagen EXPANDED (More Loot Buildings and Enemies)](https://www.nexusmods.com/fallout4/mods/27607?tab=files)
   - [Better The Third Rail](https://www.nexusmods.com/fallout4/mods/15388?tab=files)
   - Welcome to Goodneighbor: not recommended, unimmersive. Quest with dialog lines blank. No voiced protagonist. Try this instead better, better lose the quest and add immersion:
   - [Goodneighbor View](https://www.nexusmods.com/fallout4/mods/72021)
