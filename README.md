@@ -41,6 +41,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [The British Consulate General.](https://www.nexusmods.com/fallout4/mods/19486) | todo | todo |
 | [The Lost Building of Atlantic.](https://www.nexusmods.com/fallout4/mods/25401) | As you're wandering through the ruins of downtown Boston, you find a building that is heavily fortified by a camp of raiders. You're not about to let a bunch of raiders get in the way of your curiosity, so you blast through them and enter the building. Inside, you can learn the story of Allison Miller, the CEO of Atlantic Pharmaceuticals. | todo |
 | [Bioshock Infinite Lighthouse.](https://www.nexusmods.com/fallout4/mods/23881) | Bioshock Infinite Light House, right behind the Atom Cats Garage. Can be used as a player home | todo |
+| [Pipboy Games Store.](https://www.nexusmods.com/fallout4/mods/16895) | This place was the location people used to buy games for Pipboy Machine. | todo |
 
 # Radio
 
@@ -115,7 +116,14 @@ PUT SCREENSHOTS
 | [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [Automatron Expanded Weapons System.](https://www.nexusmods.com/fallout4/mods/29858) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [Remote Explosives - C4 with Detonators and More.](https://www.nexusmods.com/fallout4/mods/22444) |Adds familiar C-4 and three other new explosive types with new meshes, and a working remote detonator with new animations, giving you you the ability to make explosives more tactical or blow up your enemy's pants from afar! | [Remote Explosives - C4 with Detonators and More - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/29315) |
-| [M84 FlashBang.](https://www.nexusmods.com/fallout4/mods/56981) | the FlashBang can blind and paralyze more than 20 creatures in the game. | ``` TODO. TO BE DONE 🚧 ``` |
+| [M84 FlashBang.](https://www.nexusmods.com/fallout4/mods/56981) | The FlashBang can blind and paralyze more than 20 creatures in the game. | ``` TODO. TO BE DONE 🚧 ``` |
+
+# Nuka World
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Nukatown Market - Reborn.](https://www.nexusmods.com/fallout4/mods/24057) | A new expansion of the Nukatown market from the Nukaworld DLC. | todo |
+| [No Quest Autostart - Nuka World.](https://www.nexusmods.com/fallout4/mods/31433) | Prevents the Nuka-World main quest from running without either visiting the Nuka-World Transit Station or listening to the radio station. | Not needed. |
 
 # Quests
 
@@ -128,7 +136,6 @@ PUT SCREENSHOTS
 | [CSEP Presents Commonwealth Killer - Quest Mod.](https://www.nexusmods.com/fallout4/mods/61305) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Submarine Base Echo Dungeon and Quest.](https://www.nexusmods.com/fallout4/mods/14471) | Quest about finding an item for Dr. Waters. A new Dungeon level 30a40 + with some loot at the end. |
 | [No Quest Autostart - Automatron.](https://www.nexusmods.com/fallout4/mods/31576) | Prevents the Automatron main quest from automatically starting until the player listens to the Caravan Distress Call. |
-| [No Quest Autostart - Nuka World.](https://www.nexusmods.com/fallout4/mods/31433) | Simple script edit to prevent the Nuka-World main quest from running without either visiting the Nuka-World Transit Station or listening to the radio station. |
 | [The Kelly Manor Horror - Quest.](https://www.nexusmods.com/fallout4/mods/27657) | A spooky horror quest mod. |
 | [50 Ways to Die at Dr. Nick's - Quest Mod.](https://www.nexusmods.com/fallout4/mods/25564) | 10 Connected Quests, Unique Rewards, Custom Player Home, Lore-Friendly Backstory, Lots of Explosions, and a Twist. |
 | [Main Quest Choices Extended.](https://www.nexusmods.com/fallout4/mods/19835) | A few changes that expand your options in the main story including keeping the Railroad alive. |
@@ -297,13 +304,7 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 | [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [KCI - Kellogg's Cybernetic Implants.](https://www.nexusmods.com/fallout4/mods/48812) | :tv: [Reviewed here (amongst other mods) by MxR.](https://www.youtube.com/watch?v=1JqPQvw_8xA) | ``` TODO. TO BE DONE 🚧 ``` |
-
-# Hunting
-
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [More Wildlife.](https://www.nexusmods.com/fallout4/mods/51503) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
-| [IHO - Immersive Hunting Overhaul.](https://www.nexusmods.com/fallout4/mods/53964) | Very lightweight but effective hunting mechanic. Get ingredients from creatures in a more immersive way. Disassemble to parts various mechanical targets. Learn new cooking recipes and even more. | [IHO - Immersive Hunting Overhaul - Spanish.](https://www.nexusmods.com/fallout4/mods/58029) |
+| [Player Curses During Lockpicking and Hacking. ESL.](https://www.nexusmods.com/fallout4/mods/48771) **PICK THE ESL VERSION!**| When you break a Bobby Pin, choose the wrong password during hacking, or just get locked out of a Terminal you may mutter some "indecent" words... Well.. this mod makes them audible in the Game too. | todo with xVaSynth2? |
 
 # NPC's / presets / characters
 
