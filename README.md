@@ -33,6 +33,11 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative starting. Not doing the same playthrough (and initial long cutscene) every time. | todo |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. | Not needed. |
 
+# Fix/fixes
+
+| [Load Accelerator.](https://www.nexusmods.com/fallout4/mods/10283) | Reduce the loading time by controlling vsync(fps) and CPU affinity at loading screen. This is expected to shorten the loading time under the SSD environment. (Under an HDD environment does not seem to have much effect) | Not needed. |
+| [Long Loading Times Fix.](https://www.nexusmods.com/fallout4/mods/73469) | F4SE plugin to fix long loading times. Also some settings for loading screens. | todo (Russian translation is available). |
+
 # Immersion
 
 | Mod | Brief summary | Spanish translation |
@@ -48,9 +53,9 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [KCI - Kellogg's Cybernetic Implants.](https://www.nexusmods.com/fallout4/mods/48812) | :tv: [Reviewed here (amongst other mods) by MxR.](https://www.youtube.com/watch?v=1JqPQvw_8xA) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Player Curses During Lockpicking and Hacking. ESL.](https://www.nexusmods.com/fallout4/mods/48771) **PICK THE ESL VERSION!**| When you break a Bobby Pin, choose the wrong password during hacking, or just get locked out of a Terminal you may mutter some "indecent" words... Well.. this mod makes them audible in the Game too. | todo with xVaSynth2? |
-| [Notes of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/44532) | Adds a variety of lore friendly notes to various locations in the game. Some funny, mundane, sad, scary, and lots more. | ``` TODO. TO BE DONE 🚧 ``` |
-| [Shatter - Shardz and Spillz.](https://www.nexusmods.com/fallout4/mods/33280) | The files in this package make many glass, ceramic, and other things destructible! | Needed? Maybe renames some things as destructible Skyrim did. Jaume |
-| [More Realistic Fire Behavior.](https://www.nexusmods.com/fallout4/mods/30246) | This mod simply makes it so that when NPCs have 100% of their skin literally engulfed in flames they care a little. | todo |
+| [Notes of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/44532) | Adds a variety of lore-friendly notes to various locations in the game. Some funny, mundane, sad, scary, and lots more. | ``` TODO. TO BE DONE 🚧 ``` |
+| [Shatter - Shardz and Spillz.](https://www.nexusmods.com/fallout4/mods/33280) | The files in this package make many glass, ceramic, and other things destructible! | Needed? Maybe rename some things as destructible Skyrim did. Jaume |
+| [More Realistic Fire Behavior.](https://www.nexusmods.com/fallout4/mods/30246) | This mod simply makes it so that when NPCs have 100% of their skin engulfed in flames they care a little. | todo |
 | [Military MREs - Meal Ready to Eat - New Food.](https://www.nexusmods.com/fallout4/mods/25824) | Pre-war MREs in 14 flavors featuring brand-new meshes and textures. Supply caches at military bases, and injected into vendor lists. | todo (french translation already is done). |
 | [Merchants Sells Weapon Mods.](https://www.nexusmods.com/fallout4/mods/39065) | Adds weapon mods to weapon vendors inventories. | todo |
 | [Mercenaries and safe passage.](https://www.nexusmods.com/fallout4/mods/31802) | Adds Three New NPCs to the game, which can be hired to fight alongside the player temporarily. Some provide safe passage among dangerous factions they are associated with. | todo |
@@ -80,8 +85,11 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Outcasts and Remnants - Quest Mod Plus](https://www.nexusmods.com/fallout4/mods/21469) | DLC-sized quest mod. 20 hours of gameplay with new factions, locations, player bases, and fully-voiced custom companions. | todo |
 | [Depravity](https://www.nexusmods.com/fallout4/mods/35513) | Large quest/companion mod with evil RPG options for the vanilla main story. 40 quests, 13 companions, and around 20 hours of content. Requires Outcasts and Remnants. | todo |
 | [The Machine And Her.](https://www.nexusmods.com/fallout4/mods/30488) | DLC-sized quest featuring 4-5 hours of gameplay, fully voiced companion with custom affinity, new radio station, and a story that reacts to your choices! September 2019 Mod Of The Month! | todo |
-| [Fallout 4 Northern Springs DLC.](https://www.nexusmods.com/fallout4/mods/32911) | Northern Springs is a massive DLC that adds a whole new location larger than both Nuka World and Far Harbor. An enormous land to explore with new quests, new weapons, new armor, settlements, and much more to find. A true DLC that naturally expands & adds beyond the Commonwealth further to the North. | todo |
-| [Fallout Sakhalin.](https://www.nexusmods.com/fallout4/mods/34945) | First of all, this mod is a big one. A new island, exclusive new interiors, fresh new quests, factions, monsters, and so on. | Not needed. |
+| [Fallout 4 Northern Springs DLC.](https://www.nexusmods.com/fallout4/mods/32911) | Northern Springs is a massive DLC that adds a new location larger than Nuka World and Far Harbor. It is an enormous land to explore with new quests, new weapons, new armor, settlements, and much more to find. A true DLC that naturally expands & adds beyond the Commonwealth further to the North. | todo |
+| [Fallout Sakhalin.](https://www.nexusmods.com/fallout4/mods/34945) | A new island, new interiors, new quests, factions, monsters, etc. | todo |
+| [Project Zeta.](https://www.nexusmods.com/fallout4/mods/60267) | Project based on Mothership Zeta and Invaders from Beyond. Adds a load of new workshop constructibles, 3 New weapons (3 uniques as well), 1 new outfit, one new companion, two new enemy types as well as two new workshops. | [Project Zeta VER. Spanish.](https://www.nexusmods.com/fallout4/mods/67137) |
+| [Project Zeta Fixes.](https://www.nexusmods.com/fallout4/mods/65166) | todo | todo |
+| [Project Zeta Expanded.](https://www.nexusmods.com/fallout4/mods/72133) | Makes Project Zeta feel less empty while fixing a couple of bugs. | todo |
 
 # Locations
 
