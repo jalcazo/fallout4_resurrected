@@ -163,7 +163,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 |----------|----------|----------|
 | [Fog Crawlers Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/55698) | todo | todo |
 | [Institute Centaurs.](https://www.nexusmods.com/fallout4/mods/41476) | todo screenshot | todo |
-| [Mutant Menagerie - Life Finds A Way.](https://www.nexusmods.com/fallout4/mods/68187) | :tv [Review here](https://www.youtube.com/watch?v=RdIzlBABMSY) | todo |
 | [Respawnable Legendary Bosses and Hard Legendary Giant Creatures](https://www.nexusmods.com/fallout4/mods/10124) | todo | todo |
 | [Mirelurk Queen Variants.](https://www.nexusmods.com/fallout4/mods/13333) | todo | todo |
 
