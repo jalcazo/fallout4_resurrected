@@ -59,7 +59,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Military MREs - Meal Ready to Eat - New Food.](https://www.nexusmods.com/fallout4/mods/25824) | Pre-war MREs in 14 flavors featuring brand-new meshes and textures. Supply caches at military bases, and injected into vendor lists. | todo (french translation already is done). |
 | [Merchants Sells Weapon Mods.](https://www.nexusmods.com/fallout4/mods/39065) | Adds weapon mods to weapon vendors inventories. | todo |
 | [Mercenaries and safe passage.](https://www.nexusmods.com/fallout4/mods/31802) | Adds Three New NPCs to the game, which can be hired to fight alongside the player temporarily. Some provide safe passage among dangerous factions they are associated with. | todo |
-| [Garmin Foretrex 901.](https://www.nexusmods.com/fallout4/mods/76214) | Adds the Garmin Foretrex 901 watch to the game. The watch displays several things like World Time, Current Ammo, Detection state, Cripple conditions and much more. :tv: [Review here.](https://www.youtube.com/watch?v=UxpDAt8y9Gg) | todo |
 
 # Weapons
 
