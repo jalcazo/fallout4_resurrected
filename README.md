@@ -157,7 +157,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Mutilated Dead Bodies crash fix.](https://www.nexusmods.com/fallout4/mods/76206) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Corpse Collision.](https://www.nexusmods.com/fallout4/mods/37133) | Run into dead things and they get pushed. |
 
-# Creatures / Monsters
+# Creatures / Monsters / Enemies
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
@@ -165,6 +165,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Institute Centaurs.](https://www.nexusmods.com/fallout4/mods/41476) | todo screenshot | todo |
 | [Respawnable Legendary Bosses and Hard Legendary Giant Creatures](https://www.nexusmods.com/fallout4/mods/10124) | todo | todo |
 | [Mirelurk Queen Variants.](https://www.nexusmods.com/fallout4/mods/13333) | todo | todo |
+| [Super Mutant Redux.](https://www.nexusmods.com/fallout4/mods/11853) | 'Reworks the super mutant faction including Behemoths, FEV Hounds, and of course, Super Mutants.' | [Super Mutant Redux_Spanish.](https://www.nexusmods.com/fallout4/mods/50713) |
 
 PUT SCREENSHOTS
 
