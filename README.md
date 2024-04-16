@@ -576,10 +576,11 @@ Discarded mods:
 
 # Map
 
-| Mod | Summary |
-|----------|----------|
+| Mod | Brief Summary | Spanish Translation |
+|----------|----------|----------|
 | [Cartographers Map Markers (Fallout4 Edition) CMM.](https://www.nexusmods.com/fallout4/mods/12581) | More map markers. |
 | [FallUI - Map.](https://www.nexusmods.com/fallout4/mods/49920) | todo |
+| [Unused Map Markers - Cut Content Restored.] | 'Restores 50+ map markers that were cut from the game.' | [Unused Map Markers - Cut Content Restored - Spanish.](https://www.nexusmods.com/fallout4/mods/64198) |
   
 # Bobbleheads
 
