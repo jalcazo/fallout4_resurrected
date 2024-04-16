@@ -215,13 +215,15 @@ PUT SCREENSHOTS
 
 posar imatges github
 
-# Armor / armors (not clothes)
+# Armor / Armors / Cloth / Clothes
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
+| [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187) | ``` TODO. TO BE DONE 🚧 ``` | todo |
 | [Chinese Stealth Suit.](https://www.nexusmods.com/fallout4/mods/20959) | :tv: [Reviewed here by MxR.](https://www.youtube.com/watch?v=9tdoqLwnqCM) | todo |
 | [NCR Outfit Pack.](https://www.nexusmods.com/fallout4/mods/58182) | Adds in loads of new NCR outfits from Fallout New Vegas and its DLCs, these can be found at vendors like Fallon's basement. You can buy both the armours and plans to craft them a the chemistry workbench. | todo |
 | [CROSS_InstituteExpeditionarySuit.](https://www.nexusmods.com/fallout4/mods/30857) | The outfit is not added to any leveled lists, it can only be found in hand-placed locations or crafted. | todo |
+| [The Pip-Boy Glove.](https://www.nexusmods.com/fallout4/mods/80480) | 'Adds the Pip-Boy Glove from Fallout 3 and Fallout New Vegas! Craftable, Upgradeable, and comes in 3 colors.' | [The Pip-Boy Glove - Spanish.](https://www.nexusmods.com/fallout4/mods/80559) |
 
 # Elianora mods
 
@@ -522,14 +524,6 @@ Discarded mods:
 | [Total Hack - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/50253) | ``` TODO. TO BE DONE 🚧 ``` | todo |
 | [MM JOURNALS.](https://www.nexusmods.com/fallout4/mods/57092) | ``` TODO. TO BE DONE 🚧 ``` | todo |
   
-# Clothing / Clothes (not armor)
-
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187) | ``` TODO. TO BE DONE 🚧 ``` | todo |
-| [More Clothes and Textures (CBBE)](https://www.nexusmods.com/fallout4/mods/40315) | ``` TODO. TO BE DONE 🚧 ``` | todo |
-| [The Pip-Boy Glove.](https://www.nexusmods.com/fallout4/mods/80480) | 'Adds the Pip-Boy Glove from Fallout 3 and Fallout New Vegas! Craftable, Upgradeable, and comes in 3 colors.' | [The Pip-Boy Glove - Spanish.](https://www.nexusmods.com/fallout4/mods/80559) |
-
 # Audio
 
 | Mod | Brief summary | Spanish translation |
