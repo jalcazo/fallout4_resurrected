@@ -46,7 +46,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 |----------|----------|----------|
 | [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
-| [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025) | 'Makes Vehicles in Commonwealth and outside (DLC) Lootable. Chance of finding a car with loot is partly based on Luck.' | ``` TODO. TO BE DONE 🚧 ``` |
 | [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [Achievements.](https://www.nexusmods.com/fallout4/mods/12465) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [Immersive Vendors](https://www.nexusmods.com/fallout4/mods/10039) | ([Review here.](https://www.youtube.com/watch?v=hiXwhQ13Nm0)). |  [Immersive Vendors - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35759) |
