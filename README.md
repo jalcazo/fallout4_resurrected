@@ -60,7 +60,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [More Realistic Fire Behavior.](https://www.nexusmods.com/fallout4/mods/30246) | This mod simply makes it so that when NPCs have 100% of their skin engulfed in flames they care a little. | todo |
 | [Military MREs - Meal Ready to Eat - New Food.](https://www.nexusmods.com/fallout4/mods/25824) | Pre-war MREs in 14 flavors featuring brand-new meshes and textures. Supply caches at military bases, and injected into vendor lists. | todo (french translation already is done). |
 | [Merchants Sells Weapon Mods.](https://www.nexusmods.com/fallout4/mods/39065) | Adds weapon mods to weapon vendors inventories. | todo |
-| [Mercenaries and safe passage.](https://www.nexusmods.com/fallout4/mods/31802) | Adds Three New NPCs to the game, which can be hired to fight alongside the player temporarily. Some provide safe passage among dangerous factions they are associated with. | todo |
 
 # Weapons
 
