@@ -369,7 +369,7 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 
 # NPC's / presets / characters
 
-<span style="font-family: Courier;">Looksmenu presets for character customization do not count towards this limit as they are not .esp or .esm files. (Looksmenu presets are typically stored as .json files within your Fallout 4 data directory, specifically under the folder for F4SE plugins).</span>
+Looksmenu presets for character customization do not count towards this limit as they are not .esp or .esm files. (Looksmenu presets are typically stored as .json files within your Fallout 4 data directory, specifically under the folder for F4SE plugins).
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
