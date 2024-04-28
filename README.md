@@ -371,6 +371,8 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
+| [aPocalyptic Presets for LooksMenu.](https://www.nexusmods.com/fallout4/mods/41576) | Presets with a raiders theme. | Not needed. |
+| [Megan LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/22158) | Nice preset. | Not needed. |
 | [Lovely Redhead - Face Preset and LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/7913) | A lovely red-headed face preset to use as your female sole survivor. | todo |
 | [Lucky Cricket's Caravan for CBBE - SHB.](https://www.nexusmods.com/fallout4/mods/20298) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [Kate Preset.](https://www.nexusmods.com/fallout4/mods/17934) | A cool preset by ClearanceClarence. | Not needed. |
@@ -378,6 +380,7 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 | [Lilian - Character Preset.](https://www.nexusmods.com/fallout4/mods/23032) | Cool preset by Akarsil. | Not needed. |
 | [Sam Winchester Character Preset.](https://www.nexusmods.com/fallout4/mods/26930) | A preset of Sam from the TV show Supernatural. | Not needed. |
 | [Nate - A Male Preset.](https://www.nexusmods.com/fallout4/mods/37848) | Adds a male preset to LooksMenu | Not needed. |
+| [Freja Birkin LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/33920) | Interesting preset. | Not needed. |
 
 POSAR FOTO! todo o screenshot meu pujat face
 
