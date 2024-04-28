@@ -21,9 +21,9 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147) | (Fallout Faces & HiPoly Faces REDUX require it). A lot of mods require F4SE, it's essential. | Not needed. |
-| [Address Library for F4SE Plugins.](https://www.nexusmods.com/fallout4/mods/47327) | ``` TODO. TO BE DONE 🚧 ``` | Not needed. |
-| [Mod Configuration Menu.](https://www.nexusmods.com/fallout4/mods/21497) | (Fallout Faces & HiPoly Faces REDUX require it). Let you configure your mods via ESC menu | todo |
+| [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147) | A LOT of mods require F4SE, it's essential. | Not needed. |
+| [Address Library for F4SE Plugins.](https://www.nexusmods.com/fallout4/mods/47327) | This is also required by many mods that use F4SE. | Not needed. |
+| [Mod Configuration Menu.](https://www.nexusmods.com/fallout4/mods/21497) | Lets you configure your mods via ESC menu. Very useful. | [Mod Configuration Menu - Spanish - V1.39](https://www.nexusmods.com/fallout4/mods/45519) |
 | [MCM Booster.](https://www.nexusmods.com/fallout4/mods/56997) | Makes MCM go faster using some black magic. | Not needed. |
 | [MCM Settings Manager.](https://www.nexusmods.com/fallout4/mods/56195) | ``` TODO. TO BE DONE 🚧 ``` | todo |
 | [LooksMenu.](https://www.nexusmods.com/fallout4/mods/12631) | (Fallout Faces & HiPoly Faces REDUX require it). A lot of mods require it for improved characters. | todo |
