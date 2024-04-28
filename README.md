@@ -384,6 +384,7 @@ Looksmenu presets for character customization do not count towards this limit as
 | [Ravishing Roxy LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/15276) | Interesting preset. | Not needed. |
 | [Nate - A Male Preset.](https://www.nexusmods.com/fallout4/mods/37848) | Adds a male preset to LooksMenu | Not needed. |
 | [Freja Birkin LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/33920) | Interesting preset. | Not needed. |
+| [Eydis - A LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/68507) | Interesting preset. | Not needed. |
 
 POSAR FOTO! todo o screenshot meu pujat face
 
@@ -411,6 +412,10 @@ POSAR FOTO! todo o screenshot meu pujat face
 | [Sexy Hancock](https://www.nexusmods.com/fallout4/mods/12029) | todo | Not needed. |
 | [Ghastly - Ghoul Eyes Texture](https://www.nexusmods.com/fallout4/mods/5013) | todo | Not needed. |
 | [Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton](https://www.nexusmods.com/fallout4/mods/9568) | todo. | Not needed. |
+
+# Needed by some presets / characters
+
+| [Kirs freckles.](https://www.nexusmods.com/fallout4/mods/9556) | Some freckles. | Not needed. |
 
 # Companions
 
