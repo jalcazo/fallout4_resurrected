@@ -29,7 +29,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [LooksMenu.](https://www.nexusmods.com/fallout4/mods/12631) | (Fallout Faces & HiPoly Faces REDUX require it). A lot of mods require it for improved characters. | [LooksMenu - Spanish.](https://www.nexusmods.com/fallout4/mods/53384) |
 | [Looks Menu Customization Compendium.](https://www.nexusmods.com/fallout4/mods/24830) | 'A mod that adds hundreds of new options to customize your character such as face paint, tattoos, scars, makeup, brows, haircolors, etc!' | [Looks Menu Customization Compendium v10 Spanish.](https://www.nexusmods.com/fallout4/mods/67982) |
 | [Unofficial Fallout 4 Patch - UFO4P.](https://www.nexusmods.com/fallout4/mods/4598) | 'A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.' | [Unofficial Fallout 4 Patch - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35417) |
-| [Extended Dialogue Interface.](https://www.nexusmods.com/fallout4/mods/27216) | Easier conversation. | todo |
+| [Extended Dialogue Interface.](https://www.nexusmods.com/fallout4/mods/27216) | Easier conversation. | [Extended Dialogue Interface -Spanish-](https://www.nexusmods.com/fallout4/mods/49498) |
 | [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative starting. Not doing the same playthrough (and initial long cutscene) every time. | todo |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. | Not needed. |
 
@@ -369,6 +369,8 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 
 # NPC's / presets / characters
 
+<span style="font-family: Courier;">Looksmenu presets for character customization do not count towards this limit as they are not .esp or .esm files. (Looksmenu presets are typically stored as .json files within your Fallout 4 data directory, specifically under the folder for F4SE plugins).</span>
+
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
 | [aPocalyptic Presets for LooksMenu.](https://www.nexusmods.com/fallout4/mods/41576) | Presets with a raiders theme. | Not needed. |
@@ -379,6 +381,7 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 | [Sara The Survivor - Looksmenu Preset.](https://www.nexusmods.com/fallout4/mods/30688) | Cool preset by PokaPefk. | todo |
 | [Lilian - Character Preset.](https://www.nexusmods.com/fallout4/mods/23032) | Cool preset by Akarsil. | Not needed. |
 | [Sam Winchester Character Preset.](https://www.nexusmods.com/fallout4/mods/26930) | A preset of Sam from the TV show Supernatural. | Not needed. |
+| [Ravishing Roxy LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/15276) | Interesting preset. | Not needed. |
 | [Nate - A Male Preset.](https://www.nexusmods.com/fallout4/mods/37848) | Adds a male preset to LooksMenu | Not needed. |
 | [Freja Birkin LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/33920) | Interesting preset. | Not needed. |
 
