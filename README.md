@@ -30,7 +30,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Looks Menu Customization Compendium.](https://www.nexusmods.com/fallout4/mods/24830) | 'A mod that adds hundreds of new options to customize your character such as face paint, tattoos, scars, makeup, brows, haircolors, etc!' | [Looks Menu Customization Compendium v10 Spanish.](https://www.nexusmods.com/fallout4/mods/67982) |
 | [Unofficial Fallout 4 Patch - UFO4P.](https://www.nexusmods.com/fallout4/mods/4598) | 'A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.' | [Unofficial Fallout 4 Patch - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35417) |
 | [Extended Dialogue Interface.](https://www.nexusmods.com/fallout4/mods/27216) | Easier conversation. | [Extended Dialogue Interface -Spanish-](https://www.nexusmods.com/fallout4/mods/49498) |
-| [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative starting. Not doing the same playthrough (and initial long cutscene) every time. | todo |
+| [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative starting. Not doing the same playthrough (and initial long cutscene) every time. | [Start Me Up Redux Spanish 7.3](https://www.nexusmods.com/fallout4/mods/68060) |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. | Not needed. |
 
 # Fix/fixes
