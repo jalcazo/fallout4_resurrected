@@ -44,7 +44,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522) | The character has the gun downed when not firing. | Not needed. |
 | [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025) | 'Makes Vehicles in Commonwealth and outside (DLC) Lootable. Chance of finding a car with loot is partly based on Luck.' | ``` TODO. TO BE DONE 🚧 ``` |
 | [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
