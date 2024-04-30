@@ -380,6 +380,12 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 | [Lots More Female Hairstyles.](https://www.nexusmods.com/fallout4/mods/10543) | todo | todo |
 | [Kirs freckles.](https://www.nexusmods.com/fallout4/mods/9556) | Some freckles. | Not needed. |
 | [Ponytail Hairstyles by Azar v2.5a](https://www.nexusmods.com/fallout4/mods/8126) | todo | todo |
+| [deLuxe Makeup.](https://www.nexusmods.com/fallout4/mods/4398) | todo | todo |
+| [Appealing Moles.](https://www.nexusmods.com/fallout4/mods/3802) | todo | todo |
+| [Eye Normal Map Fix Fallout 4 Edition.](https://www.nexusmods.com/fallout4/mods/819) | todo | todo |
+| [Ghastly - Ghoul Eyes Texture.](https://www.nexusmods.com/fallout4/mods/5013) | todo | Not needed. |
+| [Valkyr Female Face and Body Textures.](https://www.nexusmods.com/fallout4/mods/3841) | todo | todo |
+| [Female Neck Tweaks.](https://www.nexusmods.com/fallout4/mods/21331) | todo | todo |
 
 # Presets / Character creation
 
@@ -394,72 +400,77 @@ Looksmenu presets for character customization do not count towards this limit as
 | [Sara The Survivor - Looksmenu Preset.](https://www.nexusmods.com/fallout4/mods/30688) | Cool preset by PokaPefk. | todo |
 | [Lilian - Character Preset.](https://www.nexusmods.com/fallout4/mods/23032) | Cool preset by Akarsil. | Not needed. |
 | [Sam Winchester Character Preset.](https://www.nexusmods.com/fallout4/mods/26930) | A preset of Sam from the TV show Supernatural. | Not needed. |
-| [Aesthetic Presets for Player (LooksMenu).](https://www.nexusmods.com/fallout4/mods/37195) | Interesting preset. | Not needed. |
 | [Ravishing Roxy LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/15276) | Interesting preset. | Not needed. |
 | [Nate - A Male Preset.](https://www.nexusmods.com/fallout4/mods/37848) | Adds a male preset to LooksMenu | Not needed. |
 | [Freja Birkin LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/33920) | Interesting preset. | Not needed. |
 | [Eydis - A LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/68507) | Interesting preset. | Not needed. |
 | [Preset Face Replacers](https://www.nexusmods.com/fallout4/mods/11003) | todo. | todo. |
+| [Enhanced Vanilla Face Presets For Females.](https://www.nexusmods.com/fallout4/mods/35696) | todo | todo |
+| [Aesthetic Presets for Player (LooksMenu).](https://www.nexusmods.com/fallout4/mods/37195) | Interesting preset. | Not needed. |
 
-posar fotos
+Aesthetic presets:
+
+<img src="presets/Aesthetic Presets1.jpg"/><img src="presets/Aesthetic Presets2.jpg"/><img src="presets/Aesthetic Presets3.jpg"/><img src="presets/Aesthetic Presets4.jpg"/>
 
 # NPC's
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Fallout Faces (Male All-in-One and Female All-in-One](https://www.nexusmods.com/fallout4/mods/59064?tab=files), requires:
 | [Lucky Cricket's Caravan for CBBE - SHB.](https://www.nexusmods.com/fallout4/mods/20298) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Immersive Wastelanders](https://www.nexusmods.com/fallout4/mods/19544) | I just hand-pick Piper, Magnolia, Cait, Tina deLuca & Glory, but you can pick whatever you like best. | Not needed. |
+| [Sexy Hancock](https://www.nexusmods.com/fallout4/mods/12029) | todo | Not needed. |
+| [Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton](https://www.nexusmods.com/fallout4/mods/9568) | todo. | Not needed. |
+| [Wasteland Heroines Replacer and Presets All in One.](https://www.nexusmods.com/fallout4/mods/29205) | a | todo |
+| [Fallout Faces (Male All-in-One and Female All-in-One](https://www.nexusmods.com/fallout4/mods/59064) | todo | todo |
+
+Fallout faces:
 
 <img src="npcs/fallout_faces1.jpg"/><img src="npcs/fallout_faces2.jpg"/><img src="npcs/fallout_faces3.jpg"/><img src="npcs/fallout_faces4.jpg"/><img src="npcs/fallout_faces5.jpg"/><img src="npcs/fallout_faces6.jpg"/><img src="npcs/fallout_faces7.jpg"/><img src="npcs/fallout_faces8.jpg"/>
 
 posar fotos
    
-
-| [Immersive Wastelanders](https://www.nexusmods.com/fallout4/mods/19544) | I just hand-pick Piper, Magnolia, Cait, Tina deLuca & Glory, but you can pick whatever you like best. | Not needed. |
-| [True Reporter - Piper Outfit Redone - CBBE - Vanilla - Bodyslide](https://www.nexusmods.com/fallout4/mods/11611) | todo | todo |
-| [deLuxe Makeup](https://www.nexusmods.com/fallout4/mods/4398) | todo | todo |
-| [Appealing Moles](https://www.nexusmods.com/fallout4/mods/3802) | todo | todo |
-| [Eye Normal Map Fix Fallout 4 Edition](https://www.nexusmods.com/fallout4/mods/819) | todo | todo |
-| [Sexy Hancock](https://www.nexusmods.com/fallout4/mods/12029) | todo | Not needed. |
-| [Ghastly - Ghoul Eyes Texture](https://www.nexusmods.com/fallout4/mods/5013) | todo | Not needed. |
-| [Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton](https://www.nexusmods.com/fallout4/mods/9568) | todo. | Not needed. |
-
-
-# Companions
+# Companions / New companions
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
 | [Ellen - the cartographer.](https://www.nexusmods.com/fallout4/mods/15962) | The very first and truly custom-voiced companion for Fallout 4, boasting over 1200 lines of custom-made and voiced dialogue. Affinity system, supporting DLC. Romance. Custom quest. Vanilla lore-friendly face and background. | [Ellen The Cartographer - Adaptacion Latina.](https://www.nexusmods.com/fallout4/mods/42549) |
 | [Buttons.](https://www.nexusmods.com/fallout4/mods/31710) | todo | todo |
-| [Companion Status UI Remastered](https://www.nexusmods.com/fallout4/mods/42925) | todo | todo |
+| [True Reporter - Piper Outfit Redone - CBBE - Vanilla - Bodyslide.](https://www.nexusmods.com/fallout4/mods/11611) | todo | todo |
+| [Companion Status UI Remastered.](https://www.nexusmods.com/fallout4/mods/42925) | todo | todo |
 
 <img src="companions/buttons.jpg"/> <br>
 <img src="gui/Companion Status UI Remastered 1.jpg"/>
 
-# Weather and landscape
+# Weather
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Misty Pines Overhaul](https://www.nexusmods.com/fallout4/mods/28990) | todo | Not needed. |
-| [True Storms](https://www.nexusmods.com/fallout4/mods/4472) | todo | todo |
+| [Misty Pines Overhaul.](https://www.nexusmods.com/fallout4/mods/28990) | todo | Not needed. |
+| [True Storms.](https://www.nexusmods.com/fallout4/mods/4472) | todo | todo |
 | [Vivid Weathers.](https://www.nexusmods.com/fallout4/mods/15466) (don't enable "Vivid Waters" since we are using [Clean Water of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/16297?tab=files) (I like the tropical preset). | todo | todo |
-| [Better LOD](https://www.nexusmods.com/fallout4/mods/40417) | todo | todo |
-| [Better Rubble](https://www.nexusmods.com/fallout4/mods/36301) | todo | todo |
-| [True Grass](https://www.nexusmods.com/fallout4/mods/23469) | todo | todo |
+| [Better LOD.](https://www.nexusmods.com/fallout4/mods/40417) | todo | todo |
+| [Better Rubble.](https://www.nexusmods.com/fallout4/mods/36301) | todo | todo |
+| [True Grass.](https://www.nexusmods.com/fallout4/mods/23469) | todo | todo |
 
 # Collectibles
-  - [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) (This treasure hunt adds 40 classic works of western philosophy.ESP marked as ESL.)
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) | This treasure hunt adds 40 classic works of western philosophy. ESP marked as ESL. | todo
     
-    <img src="collectibles/philosophy_books.jpg"/>
+<img src="collectibles/philosophy_books.jpg"/>
     
 # Ketaros Collectibles
-  - [Ketaros Framework.](https://www.nexusmods.com/fallout4/mods/68236) (needed for all his add-ons).
-  - [ADD-ON - Pin-Up Card Series.](https://www.nexusmods.com/fallout4/mods/68239) (100 collectible cards).
-  - [ADD-ON - Board Games Collection Series.](https://www.nexusmods.com/fallout4/mods/68268) (120 collectible board games).
-  - [ADD-ON - Western Card Series.](https://www.nexusmods.com/fallout4/mods/68241) (100 collectible cards).
-  - [ADD-ON - Terror Card Series.](https://www.nexusmods.com/fallout4/mods/68244) (100 collectible cards).
 
-# Quality of life
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [Ketaros Framework.](https://www.nexusmods.com/fallout4/mods/68236) | Base mod needed for all his add-ons. | todo |
+| [ADD-ON - Pin-Up Card Series.](https://www.nexusmods.com/fallout4/mods/68239) | Adds 100 collectible cards. | todo |
+| [ADD-ON - Board Games Collection Series.](https://www.nexusmods.com/fallout4/mods/68268) | Adds 120 collectible board games. | todo |
+| [ADD-ON - Western Card Series.](https://www.nexusmods.com/fallout4/mods/68241) | Adds 100 collectible cards. | todo |
+| [ADD-ON - Terror Card Series.](https://www.nexusmods.com/fallout4/mods/68244) | Adds 100 collectible cards. | todo |
+
+# Quality of life mods
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
@@ -467,17 +478,20 @@ posar fotos
     
 <img src="quality/hologlow.jpg"/>
 
-# Lighting  
+# Lighting
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
 | [Ultra Interior Lighting.](https://www.nexusmods.com/fallout4/mods/22101) | todo | todo |
 
-# Landscape
+# Landscape modifications / Map structures
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Minuteman Watchtowers](https://www.nexusmods.com/fallout4/mods/67115?tab=files) (pick the ESL). | todo | todo |
+| [Minuteman Watchtowers](https://www.nexusmods.com/fallout4/mods/67115) (pick the ESL). | todo | todo |
+| [The Waste Landfill.](https://www.nexusmods.com/fallout4/mods/35344) | todo | todo |
+| [Better UFO Crash Site.](https://www.nexusmods.com/fallout4/mods/13521) | todo | todo |
+| [Wildwood Cemetery Tombs ESL Flagged ESP.](https://www.nexusmods.com/fallout4/mods/51802) | todo | todo |
 
 # Interiors
 
@@ -500,7 +514,7 @@ posar fotos
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Atomic World](https://www.nexusmods.com/fallout4/mods/28713) | ``` TODO. TO BE DONE 🚧 ``` | todo |
+| [Atomic World.](https://www.nexusmods.com/fallout4/mods/28713) | ``` TODO. TO BE DONE 🚧 ``` | todo |
  
 Discarded mods:
   - Welcome to Goodneighbor: not recommended, unimmersive. Quest with dialog lines blank. No voiced protagonist. Try this instead better, better lose the quest and add immersion:
@@ -513,13 +527,13 @@ Discarded mods:
   - [Immersive and Extended Nahant.](https://www.nexusmods.com/fallout4/mods/36636/)
   - [Immersive Hub City Auto Wreckers.](https://www.nexusmods.com/fallout4/mods/35882?tab=files)
   - [Immersive Beantown Brewery.](https://www.nexusmods.com/fallout4/mods/31598?tab=files)
-  - [The Waste Landfill.](https://www.nexusmods.com/fallout4/mods/35344?tab=files)
+  
   - [Commonwealth Underground and Forgotten Spaces.](https://www.nexusmods.com/fallout4/mods/27584?tab=files)
   | [The Sewers.](https://www.nexusmods.com/fallout4/mods/45663?tab=files) | (ESM file). |
-  - [Wildwood Cemetery Tombs ESL Flagged ESP.](https://www.nexusmods.com/fallout4/mods/51802?tab=files)
+  
   - [Williams Plaza.](https://www.nexusmods.com/fallout4/mods/59566/?tab=files)
   - [Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
-  - [Better UFO Crash Site.](https://www.nexusmods.com/fallout4/mods/13521?tab=files)
+  
   - [Landwer Interiors Project.](https://www.nexusmods.com/fallout4/mods/52889?tab=files)
   - [Commonwealth Improvements - Fort Strong.](https://www.nexusmods.com/fallout4/mods/22287/?tab=files)
   - [Egret's Secret.](https://www.nexusmods.com/fallout4/mods/22031/?tab=files)
@@ -559,16 +573,16 @@ Discarded mods:
 
 # Main Menu
 
-| Mod | Summary |
-|----------|----------|
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
 | a | b |
 
 # Expansions
 
-| Mod | Summary |
-|----------|----------|
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
 | [Caves Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/75647) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Fallout 4 - Point Lookout.](https://www.nexusmods.com/fallout4/mods/60330) | ``` TODO. TO BE DONE 🚧 ```, put :tv: youtube reviews |
+| [Fallout 4 - Point Lookout.](https://www.nexusmods.com/fallout4/mods/60330) | ``` TODO. TO BE DONE 🚧 ```, put :tv: youtube reviews | [Fallout 4 - Point Lookout traduccion español.](https://www.nexusmods.com/fallout4/mods/60413) |
 | [Fallout 4 Point Lookout - Voiced Player Lines Addon.](https://www.nexusmods.com/fallout4/mods/60387) | ``` TODO. TO BE DONE 🚧 ``` |
 
 # GUI
@@ -610,13 +624,13 @@ PUT ALTERNATIVES LESS SPICY
 
 # Factions
 
-| Mod | Summary |
-|----------|----------|
+| Mod | Brief Summary | Spanish Translation |
+|----------|----------|----------|
 | [Church of Atom Overhaul.](https://www.nexusmods.com/fallout4/mods/26173) | todo |
 
-# Spanish translation, in case you want one
+# Spanish translations, in case you want one
   
-  - [Fallout 4 - Point Lookout traduccion español.](https://www.nexusmods.com/fallout4/mods/60413)
+  
   - [Respawnable Legendary Bosses and Hard Legendary Giant Creatures SPANISH.](https://www.nexusmods.com/fallout4/mods/13503)
 
   - [NPCs Travel (plus Fixes) - Spanish](https://www.nexusmods.com/fallout4/mods/55602)
@@ -632,18 +646,14 @@ PUT ALTERNATIVES LESS SPICY
 
 # Presets
 
-| Mod | Summary |
-|----------|----------|
-| [Enhanced Vanilla Face Presets For Females.](https://www.nexusmods.com/fallout4/mods/35696) | a |
+| Mod | Brief Summary | Spanish Translation |
+|----------|----------|----------|
 | [Extended Facial Sculpting - now with 90 percent less beta](https://www.nexusmods.com/fallout4/mods/25087) | a |
-| [Valkyr Female Face and Body Textures.](https://www.nexusmods.com/fallout4/mods/3841) | a |
-| [Female Neck Tweaks.](https://www.nexusmods.com/fallout4/mods/21331) | a |
-| [Wasteland Heroines Replacer and Presets All in One.](https://www.nexusmods.com/fallout4/mods/29205) | a |
 
 # NSFW / adult content
 
-| Mod | Summary |
-|----------|----------|
+| Mod | Brief Summary | Spanish Translation |
+|----------|----------|----------|
 | [Vault Girl Main Menu and Main Menu Sound Replacer.](https://www.nexusmods.com/fallout4/mods/76225) | Spicy new main menu & new music for it (not too much NSFW). |
 
 # Tested and discarded mods
