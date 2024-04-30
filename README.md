@@ -51,7 +51,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Achievements Mods Enabler.](https://www.nexusmods.com/fallout4/mods/15639/) | Enables (Steam) achievements in Fallout 4 with mods. F4SE support. | Not needed. |
 | [Immersive Vendors](https://www.nexusmods.com/fallout4/mods/10039) | ([Review here.](https://www.youtube.com/watch?v=hiXwhQ13Nm0)). |  [Immersive Vendors - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35759) |
 | [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987) | Adds over 300 NPC's who traveling around. | [NPCs Travel (plus Fixes) - Spanish.](https://www.nexusmods.com/fallout4/mods/55602) |
-| [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521) | Makes wooden doors breakable with a custom explosion and debris effect. | Not needed. |
 | [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [KCI - Kellogg's Cybernetic Implants.](https://www.nexusmods.com/fallout4/mods/48812) | :tv: [Reviewed here (amongst other mods) by MxR.](https://www.youtube.com/watch?v=1JqPQvw_8xA) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Player Curses During Lockpicking and Hacking. ESL.](https://www.nexusmods.com/fallout4/mods/48771) **PICK THE ESL VERSION!**| When you break a Bobby Pin, choose the wrong password during hacking, or just get locked out of a Terminal you may mutter some "indecent" words... Well.. this mod makes them audible in the Game too. | todo with xVaSynth2? |
