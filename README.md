@@ -565,7 +565,7 @@ Discarded mods:
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Enhanced Blood Textures.](https://www.nexusmods.com/fallout4/mods/212/) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Enhanced Blood Textures.](https://www.nexusmods.com/fallout4/mods/212/) | High-resolution blood decals. | Not needed. |
 | [Gore Overhaul 3.0 -Reload-](https://www.nexusmods.com/fallout4/mods/21216) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [Piles of Corpses - Increased De-spawn Timer.](https://www.nexusmods.com/fallout4/mods/1770) | Leave the world littered with death. Say NO to corpse culling! | ``` TODO. TO BE DONE 🚧 ``` |
 
