@@ -254,7 +254,7 @@ posar imatges github
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
 | [NMC's Texture Bundle.](https://www.nexusmods.com/fallout4/mods/31814) | Mini- texture bundle, retexturing the Nuka Cola Machine, RedRocket Truck Stops, Diners (including Drumlin), Drive-Ins, Roads (asphalt road only) and Sanctuary Bridge. Available in 3 sizes to suit your PC. | Not needed. |
-| [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
+| [Railroad HQ Papers Retexture.](https://www.nexusmods.com/fallout4/mods/43425) | Railroad HQ Boston map and Conspiracy Board retexture. |  Not needed. |
 | [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
 | [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
 | [Rubber on the Road - Vehicle Overhaul.](https://www.nexusmods.com/fallout4/mods/39560) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
