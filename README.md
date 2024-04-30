@@ -21,16 +21,16 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147) | (Fallout Faces & HiPoly Faces REDUX require it). A lot of mods require F4SE, it's essential. | Not needed. |
-| [Address Library for F4SE Plugins.](https://www.nexusmods.com/fallout4/mods/47327) | ``` TODO. TO BE DONE 🚧 ``` | Not needed. |
-| [Mod Configuration Menu.](https://www.nexusmods.com/fallout4/mods/21497) | (Fallout Faces & HiPoly Faces REDUX require it). Let you configure your mods via ESC menu | todo |
-| [MCM Booster.](https://www.nexusmods.com/fallout4/mods/56997) | Makes MCM go faster using some black magic. | Not needed. |
-| [MCM Settings Manager.](https://www.nexusmods.com/fallout4/mods/56195) | ``` TODO. TO BE DONE 🚧 ``` | todo |
-| [LooksMenu.](https://www.nexusmods.com/fallout4/mods/12631) | (Fallout Faces & HiPoly Faces REDUX require it). A lot of mods require it for improved characters. | todo |
+| [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147) | A LOT of mods require F4SE, it's essential. | Not needed. |
+| [Address Library for F4SE Plugins.](https://www.nexusmods.com/fallout4/mods/47327) | This is also required by many mods that use F4SE. | Not needed. |
+| [Mod Configuration Menu.](https://www.nexusmods.com/fallout4/mods/21497) | Lets you configure your mods via ESC menu. Very useful. | [Mod Configuration Menu - Spanish - V1.39](https://www.nexusmods.com/fallout4/mods/45519) |
+| [MCM Booster.](https://www.nexusmods.com/fallout4/mods/56997) | Makes MCM go faster using some black magic. | [MCM Booster - Spanish.](https://www.nexusmods.com/fallout4/mods/57001) |
+| [MCM Settings Manager.](https://www.nexusmods.com/fallout4/mods/56195) | Save, load, transfer, import and export all your MCM settings at once. Transfer settings between savegames, backup your favorite settings, or send your settings to another user. | [MCM Settings Manager - Spanish](https://www.nexusmods.com/fallout4/mods/56216) |
+| [LooksMenu.](https://www.nexusmods.com/fallout4/mods/12631) | (Fallout Faces & HiPoly Faces REDUX require it). A lot of mods require it for improved characters. | [LooksMenu - Spanish.](https://www.nexusmods.com/fallout4/mods/53384) |
 | [Looks Menu Customization Compendium.](https://www.nexusmods.com/fallout4/mods/24830) | 'A mod that adds hundreds of new options to customize your character such as face paint, tattoos, scars, makeup, brows, haircolors, etc!' | [Looks Menu Customization Compendium v10 Spanish.](https://www.nexusmods.com/fallout4/mods/67982) |
 | [Unofficial Fallout 4 Patch - UFO4P.](https://www.nexusmods.com/fallout4/mods/4598) | 'A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.' | [Unofficial Fallout 4 Patch - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35417) |
-| [Extended Dialogue Interface.](https://www.nexusmods.com/fallout4/mods/27216) | Easier conversation. | todo |
-| [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative starting. Not doing the same playthrough (and initial long cutscene) every time. | todo |
+| [Extended Dialogue Interface.](https://www.nexusmods.com/fallout4/mods/27216) | Easier conversation. | [Extended Dialogue Interface -Spanish-](https://www.nexusmods.com/fallout4/mods/49498) |
+| [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative starting. Not doing the same playthrough (and initial long cutscene) every time. | [Start Me Up Redux Spanish 7.3](https://www.nexusmods.com/fallout4/mods/68060) |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. | Not needed. |
 
 # Fix/fixes
@@ -39,18 +39,18 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 |----------|----------|----------|
 | [Load Accelerator.](https://www.nexusmods.com/fallout4/mods/10283) | Reduce the loading time by controlling vsync(fps) and CPU affinity at loading screen. This is expected to shorten the loading time under the SSD environment. (Under an HDD environment does not seem to have much effect) | Not needed. |
 | [Long Loading Times Fix.](https://www.nexusmods.com/fallout4/mods/73469) | F4SE plugin to fix long loading times. Also some settings for loading screens. | todo (Russian translation is available). |
+| [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737) | Corrects for a longstanding bug that causes third-person mobility to be slower than first-person in almost all circumstances -- sometimes by more than half. | Not needed. |
 
 # Immersion
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
-| [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522) | The character has the gun downed when not firing. | Not needed. |
 | [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025) | 'Makes Vehicles in Commonwealth and outside (DLC) Lootable. Chance of finding a car with loot is partly based on Luck.' | ``` TODO. TO BE DONE 🚧 ``` |
-| [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
-| [Achievements.](https://www.nexusmods.com/fallout4/mods/12465) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840) | Turns the omnidirectional Pip-Boy light into a projectile beam. | Not needed. |
+| [Achievements Mods Enabler.](https://www.nexusmods.com/fallout4/mods/15639/) | Enables (Steam) achievements in Fallout 4 with mods. F4SE support. | Not needed. |
 | [Immersive Vendors](https://www.nexusmods.com/fallout4/mods/10039) | ([Review here.](https://www.youtube.com/watch?v=hiXwhQ13Nm0)). |  [Immersive Vendors - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35759) |
-| [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987) | Adds over 300 NPC's who traveling around. | [NPCs Travel (plus Fixes) - Spanish.](https://www.nexusmods.com/fallout4/mods/55602) |
 | [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [KCI - Kellogg's Cybernetic Implants.](https://www.nexusmods.com/fallout4/mods/48812) | :tv: [Reviewed here (amongst other mods) by MxR.](https://www.youtube.com/watch?v=1JqPQvw_8xA) | ``` TODO. TO BE DONE 🚧 ``` |
@@ -367,36 +367,54 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 | [Live Dismemberment - Increased Headshot Damage.](https://www.nexusmods.com/fallout4/mods/16400) | ``` TODO. TO BE DONE 🚧 ``` | todo |
 | [More XP from quests.](https://www.nexusmods.com/fallout4/mods/29195) | This mod raises the amount of XP you'll get when you complete quests. Comes with an installer. Optional version with zero XP for all sorts of crafting to encourage the player to do more quests. ESP and ESL versions are available. | todo |
 
-# NPC's / presets / characters
+# Stuff required by presets, NPC's and companions
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
+| [CBBE.](https://www.nexusmods.com/fallout4/mods/15) | todo | todo |
+| [Commonwealth Cuts - KS Hairdos - ApachiiSkyHair.](https://www.nexusmods.com/fallout4/mods/11402) | todo | todo |
+| [HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB)](https://www.nexusmods.com/fallout4/mods/58950) | todo | todo |
+| [Lots More Facial Hair.](https://www.nexusmods.com/fallout4/mods/10746/) | todo | todo |
+| [Femshepping and radbeetle's KS Hairdos Conversions.](https://www.nexusmods.com/fallout4/mods/45373) | todo | todo |
+| [Lots More Male Hairstyles.](https://www.nexusmods.com/fallout4/mods/10695) | todo | todo |
+| [Lots More Female Hairstyles.](https://www.nexusmods.com/fallout4/mods/10543) | todo | todo |
+| [Kirs freckles.](https://www.nexusmods.com/fallout4/mods/9556) | Some freckles. | Not needed. |
+| [Ponytail Hairstyles by Azar v2.5a](https://www.nexusmods.com/fallout4/mods/8126) | todo | todo |
+
+# Presets / Character creation
+
+Looksmenu presets for character customization do not count towards this limit as they are not .esp or .esm files. (Looksmenu presets are typically stored as .json files within your Fallout 4 data directory, specifically under the folder for F4SE plugins).
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [aPocalyptic Presets for LooksMenu.](https://www.nexusmods.com/fallout4/mods/41576) | Presets with a raiders theme. | Not needed. |
+| [Megan LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/22158) | Nice preset. | Not needed. |
 | [Lovely Redhead - Face Preset and LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/7913) | A lovely red-headed face preset to use as your female sole survivor. | todo |
-| [Lucky Cricket's Caravan for CBBE - SHB.](https://www.nexusmods.com/fallout4/mods/20298) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [Kate Preset.](https://www.nexusmods.com/fallout4/mods/17934) | A cool preset by ClearanceClarence. | Not needed. |
 | [Sara The Survivor - Looksmenu Preset.](https://www.nexusmods.com/fallout4/mods/30688) | Cool preset by PokaPefk. | todo |
 | [Lilian - Character Preset.](https://www.nexusmods.com/fallout4/mods/23032) | Cool preset by Akarsil. | Not needed. |
 | [Sam Winchester Character Preset.](https://www.nexusmods.com/fallout4/mods/26930) | A preset of Sam from the TV show Supernatural. | Not needed. |
+| [Aesthetic Presets for Player (LooksMenu).](https://www.nexusmods.com/fallout4/mods/37195) | Interesting preset. | Not needed. |
+| [Ravishing Roxy LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/15276) | Interesting preset. | Not needed. |
 | [Nate - A Male Preset.](https://www.nexusmods.com/fallout4/mods/37848) | Adds a male preset to LooksMenu | Not needed. |
+| [Freja Birkin LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/33920) | Interesting preset. | Not needed. |
+| [Eydis - A LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/68507) | Interesting preset. | Not needed. |
+| [Preset Face Replacers](https://www.nexusmods.com/fallout4/mods/11003) | todo. | todo. |
 
-POSAR FOTO! todo o screenshot meu pujat face
+posar fotos
 
-  - [Fallout Faces (Male All-in-One and Female All-in-One](https://www.nexusmods.com/fallout4/mods/59064?tab=files), requires:
-    - [CBBE](https://www.nexusmods.com/fallout4/mods/15?tab=files)
-    - [HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB)](https://www.nexusmods.com/fallout4/mods/58950?tab=files)
-    - [Lots More Facial Hair](https://www.nexusmods.com/fallout4/mods/10746/?tab=files)
-    - [Commonwealth Cuts - KS Hairdos - ApachiiSkyHair](https://www.nexusmods.com/fallout4/mods/11402)
-    - [Femshepping and radbeetle's KS Hairdos Conversions](https://www.nexusmods.com/fallout4/mods/45373?tab=files)
-  
-<img src="npcs/fallout_faces1.jpg"/><img src="npcs/fallout_faces2.jpg"/><img src="npcs/fallout_faces3.jpg"/><img src="npcs/fallout_faces4.jpg"/><img src="npcs/fallout_faces5.jpg"/><img src="npcs/fallout_faces6.jpg"/><img src="npcs/fallout_faces7.jpg"/><img src="npcs/fallout_faces8.jpg"/>
-
-  - [Preset Face Replacers](https://www.nexusmods.com/fallout4/mods/11003?tab=files), requires:
-    - [Lots More Male Hairstyles](https://www.nexusmods.com/fallout4/mods/10695?tab=files)
-    - [Lots More Female Hairstyles](https://www.nexusmods.com/fallout4/mods/10543?tab=files)
+# NPC's
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Ponytail Hairstyles by Azar v2.5a](https://www.nexusmods.com/fallout4/mods/8126) | todo | todo |
+| [Fallout Faces (Male All-in-One and Female All-in-One](https://www.nexusmods.com/fallout4/mods/59064?tab=files), requires:
+| [Lucky Cricket's Caravan for CBBE - SHB.](https://www.nexusmods.com/fallout4/mods/20298) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+
+<img src="npcs/fallout_faces1.jpg"/><img src="npcs/fallout_faces2.jpg"/><img src="npcs/fallout_faces3.jpg"/><img src="npcs/fallout_faces4.jpg"/><img src="npcs/fallout_faces5.jpg"/><img src="npcs/fallout_faces6.jpg"/><img src="npcs/fallout_faces7.jpg"/><img src="npcs/fallout_faces8.jpg"/>
+
+posar fotos
+   
+
 | [Immersive Wastelanders](https://www.nexusmods.com/fallout4/mods/19544) | I just hand-pick Piper, Magnolia, Cait, Tina deLuca & Glory, but you can pick whatever you like best. | Not needed. |
 | [True Reporter - Piper Outfit Redone - CBBE - Vanilla - Bodyslide](https://www.nexusmods.com/fallout4/mods/11611) | todo | todo |
 | [deLuxe Makeup](https://www.nexusmods.com/fallout4/mods/4398) | todo | todo |
@@ -405,6 +423,7 @@ POSAR FOTO! todo o screenshot meu pujat face
 | [Sexy Hancock](https://www.nexusmods.com/fallout4/mods/12029) | todo | Not needed. |
 | [Ghastly - Ghoul Eyes Texture](https://www.nexusmods.com/fallout4/mods/5013) | todo | Not needed. |
 | [Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton](https://www.nexusmods.com/fallout4/mods/9568) | todo. | Not needed. |
+
 
 # Companions
 
