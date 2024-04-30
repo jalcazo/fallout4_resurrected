@@ -367,7 +367,21 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 | [Live Dismemberment - Increased Headshot Damage.](https://www.nexusmods.com/fallout4/mods/16400) | ``` TODO. TO BE DONE 🚧 ``` | todo |
 | [More XP from quests.](https://www.nexusmods.com/fallout4/mods/29195) | This mod raises the amount of XP you'll get when you complete quests. Comes with an installer. Optional version with zero XP for all sorts of crafting to encourage the player to do more quests. ESP and ESL versions are available. | todo |
 
-# NPC's / presets / characters
+# Stuff required by presets, NPC's and companions
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [CBBE.](https://www.nexusmods.com/fallout4/mods/15) | todo | todo |
+| [Commonwealth Cuts - KS Hairdos - ApachiiSkyHair.](https://www.nexusmods.com/fallout4/mods/11402) | todo | todo |
+| [HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB)](https://www.nexusmods.com/fallout4/mods/58950) | todo | todo |
+| [Lots More Facial Hair.](https://www.nexusmods.com/fallout4/mods/10746/) | todo | todo |
+| [Femshepping and radbeetle's KS Hairdos Conversions.](https://www.nexusmods.com/fallout4/mods/45373) | todo | todo |
+| [Lots More Male Hairstyles.](https://www.nexusmods.com/fallout4/mods/10695) | todo | todo |
+| [Lots More Female Hairstyles.](https://www.nexusmods.com/fallout4/mods/10543) | todo | todo |
+| [Kirs freckles.](https://www.nexusmods.com/fallout4/mods/9556) | Some freckles. | Not needed. |
+| [Ponytail Hairstyles by Azar v2.5a](https://www.nexusmods.com/fallout4/mods/8126) | todo | todo |
+
+# Presets / Character creation
 
 Looksmenu presets for character customization do not count towards this limit as they are not .esp or .esm files. (Looksmenu presets are typically stored as .json files within your Fallout 4 data directory, specifically under the folder for F4SE plugins).
 
@@ -376,7 +390,6 @@ Looksmenu presets for character customization do not count towards this limit as
 | [aPocalyptic Presets for LooksMenu.](https://www.nexusmods.com/fallout4/mods/41576) | Presets with a raiders theme. | Not needed. |
 | [Megan LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/22158) | Nice preset. | Not needed. |
 | [Lovely Redhead - Face Preset and LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/7913) | A lovely red-headed face preset to use as your female sole survivor. | todo |
-| [Lucky Cricket's Caravan for CBBE - SHB.](https://www.nexusmods.com/fallout4/mods/20298) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [Kate Preset.](https://www.nexusmods.com/fallout4/mods/17934) | A cool preset by ClearanceClarence. | Not needed. |
 | [Sara The Survivor - Looksmenu Preset.](https://www.nexusmods.com/fallout4/mods/30688) | Cool preset by PokaPefk. | todo |
 | [Lilian - Character Preset.](https://www.nexusmods.com/fallout4/mods/23032) | Cool preset by Akarsil. | Not needed. |
@@ -386,25 +399,22 @@ Looksmenu presets for character customization do not count towards this limit as
 | [Nate - A Male Preset.](https://www.nexusmods.com/fallout4/mods/37848) | Adds a male preset to LooksMenu | Not needed. |
 | [Freja Birkin LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/33920) | Interesting preset. | Not needed. |
 | [Eydis - A LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/68507) | Interesting preset. | Not needed. |
+| [Preset Face Replacers](https://www.nexusmods.com/fallout4/mods/11003) | todo. | todo. |
 
-POSAR FOTO! todo o screenshot meu pujat face
+posar fotos
 
-  - [Fallout Faces (Male All-in-One and Female All-in-One](https://www.nexusmods.com/fallout4/mods/59064?tab=files), requires:
-    - [CBBE](https://www.nexusmods.com/fallout4/mods/15?tab=files)
-    - [HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB)](https://www.nexusmods.com/fallout4/mods/58950?tab=files)
-    - [Lots More Facial Hair](https://www.nexusmods.com/fallout4/mods/10746/?tab=files)
-    - [Commonwealth Cuts - KS Hairdos - ApachiiSkyHair](https://www.nexusmods.com/fallout4/mods/11402)
-    - [Femshepping and radbeetle's KS Hairdos Conversions](https://www.nexusmods.com/fallout4/mods/45373?tab=files)
-  
-<img src="npcs/fallout_faces1.jpg"/><img src="npcs/fallout_faces2.jpg"/><img src="npcs/fallout_faces3.jpg"/><img src="npcs/fallout_faces4.jpg"/><img src="npcs/fallout_faces5.jpg"/><img src="npcs/fallout_faces6.jpg"/><img src="npcs/fallout_faces7.jpg"/><img src="npcs/fallout_faces8.jpg"/>
-
-  - [Preset Face Replacers](https://www.nexusmods.com/fallout4/mods/11003?tab=files), requires:
-    - [Lots More Male Hairstyles](https://www.nexusmods.com/fallout4/mods/10695?tab=files)
-    - [Lots More Female Hairstyles](https://www.nexusmods.com/fallout4/mods/10543?tab=files)
+# NPC's
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Ponytail Hairstyles by Azar v2.5a](https://www.nexusmods.com/fallout4/mods/8126) | todo | todo |
+| [Fallout Faces (Male All-in-One and Female All-in-One](https://www.nexusmods.com/fallout4/mods/59064?tab=files), requires:
+| [Lucky Cricket's Caravan for CBBE - SHB.](https://www.nexusmods.com/fallout4/mods/20298) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+
+<img src="npcs/fallout_faces1.jpg"/><img src="npcs/fallout_faces2.jpg"/><img src="npcs/fallout_faces3.jpg"/><img src="npcs/fallout_faces4.jpg"/><img src="npcs/fallout_faces5.jpg"/><img src="npcs/fallout_faces6.jpg"/><img src="npcs/fallout_faces7.jpg"/><img src="npcs/fallout_faces8.jpg"/>
+
+posar fotos
+   
+
 | [Immersive Wastelanders](https://www.nexusmods.com/fallout4/mods/19544) | I just hand-pick Piper, Magnolia, Cait, Tina deLuca & Glory, but you can pick whatever you like best. | Not needed. |
 | [True Reporter - Piper Outfit Redone - CBBE - Vanilla - Bodyslide](https://www.nexusmods.com/fallout4/mods/11611) | todo | todo |
 | [deLuxe Makeup](https://www.nexusmods.com/fallout4/mods/4398) | todo | todo |
@@ -414,9 +424,6 @@ POSAR FOTO! todo o screenshot meu pujat face
 | [Ghastly - Ghoul Eyes Texture](https://www.nexusmods.com/fallout4/mods/5013) | todo | Not needed. |
 | [Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton](https://www.nexusmods.com/fallout4/mods/9568) | todo. | Not needed. |
 
-# Needed by some presets / characters
-
-| [Kirs freckles.](https://www.nexusmods.com/fallout4/mods/9556) | Some freckles. | Not needed. |
 
 # Companions
 
