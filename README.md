@@ -381,6 +381,7 @@ Looksmenu presets for character customization do not count towards this limit as
 | [Sara The Survivor - Looksmenu Preset.](https://www.nexusmods.com/fallout4/mods/30688) | Cool preset by PokaPefk. | todo |
 | [Lilian - Character Preset.](https://www.nexusmods.com/fallout4/mods/23032) | Cool preset by Akarsil. | Not needed. |
 | [Sam Winchester Character Preset.](https://www.nexusmods.com/fallout4/mods/26930) | A preset of Sam from the TV show Supernatural. | Not needed. |
+| [Aesthetic Presets for Player (LooksMenu).](https://www.nexusmods.com/fallout4/mods/37195) | Interesting preset. | Not needed. |
 | [Ravishing Roxy LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/15276) | Interesting preset. | Not needed. |
 | [Nate - A Male Preset.](https://www.nexusmods.com/fallout4/mods/37848) | Adds a male preset to LooksMenu | Not needed. |
 | [Freja Birkin LooksMenu Preset.](https://www.nexusmods.com/fallout4/mods/33920) | Interesting preset. | Not needed. |
