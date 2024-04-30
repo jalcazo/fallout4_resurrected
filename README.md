@@ -65,7 +65,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Heckler und Koch - G36 Complex.](https://www.nexusmods.com/fallout4/mods/64108) | This mod adds a G36 into Fallout 4. It features custom animations, sounds, and a quest. | ``` TODO. TO BE DONE 🚧 ``` |
 | [More Uniques - Unique Weapons Expansion.](https://www.nexusmods.com/fallout4/mods/18357) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [All Weapons HD (A.W.H.D.).](https://www.nexusmods.com/fallout4/mods/8556) | 4K upscale of every weapon in the game 0.o Yup you heard right, Every single one! | ``` TODO. TO BE DONE 🚧 ``` |
 | [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
