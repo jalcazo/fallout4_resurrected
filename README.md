@@ -143,7 +143,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Interior NavCut Fix](https://www.nexusmods.com/fallout4/mods/72904) | Fixes disappearing buildings at random times. | todo |
 | [Water LOD Fix](https://www.nexusmods.com/fallout4/mods/33815) | Makes water look prettier from the distance. | todo |
 | [Elevator Buttons Fix (Contraptions)](https://www.nexusmods.com/fallout4/mods/20664) | A fix in the buttons of a certain elevator. | todo |
-| [NPC Drinking Fix](https://www.nexusmods.com/fallout4/mods/53980) | ``` TODO. TO BE DONE 🚧 ``` | todo |
+| [NPC Drinking Fix](https://www.nexusmods.com/fallout4/mods/53980) | Vanilla NPC drinking animations are missing sounds and facial animations. This MOD fixes this. | Not needed. |
 | [Fixed Alpha Maps](https://www.nexusmods.com/fallout4/mods/28974) | Fixes some vanilla not working transparencies. | todo |
 | [High Res DLC Black Face Fix](https://www.nexusmods.com/fallout4/mods/21907) | Fixes an annoying bug where some pale character has the dark face but not the body, after loading a game. Happens in Skyrim too. | todo |
 | [Diamond City Auto Close Gate](https://www.nexusmods.com/fallout4/mods/12928) | Fixes lore/consistency bug. | todo |
