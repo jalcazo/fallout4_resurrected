@@ -149,7 +149,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Diamond City Auto Close Gate](https://www.nexusmods.com/fallout4/mods/12928) | Fixes lore/consistency bug. | todo |
 | [Long Loading Times Fix](https://www.nexusmods.com/fallout4/mods/73469?tab=files) | ``` TODO. TO BE DONE 🚧 ``` | todo |
 | [Remove Helmet In Dialog](https://www.nexusmods.com/fallout4/mods/24480/) | I want to see my characters face when talking! Not his/her helmet! This automatically fixes it. | todo |
-| [Vault 88 Crash Fix - Remove Molerats and Radscorps](https://www.nexusmods.com/fallout4/mods/73601) | ``` TODO. TO BE DONE 🚧 ``` | todo |
+| [Vault 88 Crash Fix - Remove Molerats and Radscorps](https://www.nexusmods.com/fallout4/mods/73601) | Removes the source of a common Vault 88 crash. | Not needed. |
 | [Shadow Boost FO4](https://www.nexusmods.com/fallout4/mods/63482) | (Sets the distance of the shadows dynamically with F4SE). [check out this review by JuiceHead](https://www.youtube.com/watch?v=RdIzlBABMSY). | todo |
 | [High FPS Physics Fix.](https://www.nexusmods.com/fallout4/mods/44798) | Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time. | todo |
 | [XDI - America Rising 2 (AR2) Patch](https://www.nexusmods.com/fallout4/mods/76204) | This patches America Rising 2 to work with Extended Dialogue Interface (XDI). | todo |
