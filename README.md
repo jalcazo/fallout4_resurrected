@@ -59,7 +59,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Immersive Vendors](https://www.nexusmods.com/fallout4/mods/10039) | ([Review here.](https://www.youtube.com/watch?v=hiXwhQ13Nm0)). |  [Immersive Vendors - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35759) |
 | [NPCs Travel.](https://www.nexusmods.com/fallout4/mods/16987) | Adds over 300 NPC's who traveling around. | [NPCs Travel (plus Fixes) - Spanish.](https://www.nexusmods.com/fallout4/mods/55602) |
 | [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521) | Makes wooden doors breakable with a custom explosion and debris effect. | Not needed. |
-| [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447) | ``` TODO. TO BE DONE 🚧 ``` | [Backpacks of the Commonwealth - ES.](https://www.nexusmods.com/fallout4/mods/64851) |
 | [KCI - Kellogg's Cybernetic Implants.](https://www.nexusmods.com/fallout4/mods/48812) | :tv: [Reviewed here (amongst other mods) by MxR.](https://www.youtube.com/watch?v=1JqPQvw_8xA) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Player Curses During Lockpicking and Hacking. ESL.](https://www.nexusmods.com/fallout4/mods/48771) **PICK THE ESL VERSION!**| When you break a Bobby Pin, choose the wrong password during hacking, or just get locked out of a Terminal you may mutter some "indecent" words... Well.. this mod makes them audible in the Game too. | todo with xVaSynth2? |
 | [Notes of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/44532) | Adds a variety of lore-friendly notes to various locations in the game. Some funny, mundane, sad, scary, and lots more. | ``` TODO. TO BE DONE 🚧 ``` |
@@ -87,7 +87,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
 | [America Rising 2 - Legacy of the Enclave](https://www.nexusmods.com/fallout4/mods/75767) | Remaster of the 1. Review by JuiceHead. | todo |
-| [Outcasts and Remnants - Quest Mod Plus](https://www.nexusmods.com/fallout4/mods/21469) | DLC-sized quest mod. 20 hours of gameplay with new factions, locations, player bases, and fully-voiced custom companions. | todo |
+| [Outcasts and Remnants - Quest Mod Plus](https://www.nexusmods.com/fallout4/mods/21469) | DLC-sized quest mod. 20 hours of gameplay with new factions, locations, player bases, and fully-voiced custom companions. | [Outcasts and Remnants - Quest Mod Plus SPANISH.](https://www.nexusmods.com/fallout4/mods/42017) |
 | [Depravity](https://www.nexusmods.com/fallout4/mods/35513) | Large quest/companion mod with evil RPG options for the vanilla main story. 40 quests, 13 companions, and around 20 hours of content. Requires Outcasts and Remnants. | todo |
 | [The Machine And Her.](https://www.nexusmods.com/fallout4/mods/30488) | DLC-sized quest featuring 4-5 hours of gameplay, fully voiced companion with custom affinity, new radio station, and a story that reacts to your choices! September 2019 Mod Of The Month! | todo |
 | [Fallout 4 Northern Springs DLC.](https://www.nexusmods.com/fallout4/mods/32911) | Northern Springs is a massive DLC that adds a new location larger than Nuka World and Far Harbor. It is an enormous land to explore with new quests, new weapons, new armor, settlements, and much more to find. A true DLC that naturally expands & adds beyond the Commonwealth further to the North. | todo |
@@ -637,19 +637,9 @@ PUT ALTERNATIVES LESS SPICY
 
 # Spanish translations, in case you want one
   
-  
-  - [Respawnable Legendary Bosses and Hard Legendary Giant Creatures SPANISH.](https://www.nexusmods.com/fallout4/mods/13503)
-
   - [NPCs Travel (plus Fixes) - Spanish](https://www.nexusmods.com/fallout4/mods/55602)
-  - [Backpacks of the Commonwealth - ES.](https://www.nexusmods.com/fallout4/mods/64851)
-  - [Outcasts and Remnants - Quest Mod Plus SPANISH.](https://www.nexusmods.com/fallout4/mods/42017)
+  
   - [Eli's Armour Compendium (Spanish Translation).](https://www.nexusmods.com/fallout4/mods/24882)
-
-# I plan to translate to spanish:
-  - Cartographers Map Markers.
-  - Church of Atom Overhaul
-  - Far Harbor Shack. (Elianora)
-  - Chestnut Lodge - Player Home.
 
 # Presets
 
