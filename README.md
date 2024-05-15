@@ -503,6 +503,7 @@ posar fotos
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
+| [Landwer Interiors Project.](https://www.nexusmods.com/fallout4/mods/52889)] | Adds 9 interiors to the Commonwealth. | todo |
 | [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [moreXplore](https://www.nexusmods.com/fallout4/mods/28733) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
@@ -540,7 +541,7 @@ Discarded mods:
   - [Williams Plaza.](https://www.nexusmods.com/fallout4/mods/59566/?tab=files)
   - [Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
   
-  - [Landwer Interiors Project.](https://www.nexusmods.com/fallout4/mods/52889?tab=files)
+  
   - [Commonwealth Improvements - Fort Strong.](https://www.nexusmods.com/fallout4/mods/22287/?tab=files)
   - [Egret's Secret.](https://www.nexusmods.com/fallout4/mods/22031/?tab=files)
   - [Welcome to Fallon's.](https://www.nexusmods.com/fallout4/mods/25629)
