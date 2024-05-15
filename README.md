@@ -31,6 +31,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Extended Dialogue Interface.](https://www.nexusmods.com/fallout4/mods/27216) | Easier conversation. | [Extended Dialogue Interface -Spanish-](https://www.nexusmods.com/fallout4/mods/49498) |
 | [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative starting. Not doing the same playthrough (and initial long cutscene) every time. | [Start Me Up Redux Spanish 7.3](https://www.nexusmods.com/fallout4/mods/68060) |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. | Not needed. |
+| [RobCo Patcher.](https://www.nexusmods.com/fallout4/mods/69798) | A patcher based on F4SE and CommonLibF4, which allows mod authors and users to modify game data without the use of plugins. | Not needed. |
 
 # Fix/fixes
 
@@ -39,6 +40,13 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Load Accelerator.](https://www.nexusmods.com/fallout4/mods/10283) | Reduce the loading time by controlling vsync(fps) and CPU affinity at loading screen. This is expected to shorten the loading time under the SSD environment. (Under an HDD environment does not seem to have much effect) | Not needed. |
 | [Long Loading Times Fix.](https://www.nexusmods.com/fallout4/mods/73469) | F4SE plugin to fix long loading times. Also some settings for loading screens. | todo (Russian translation is available). |
 | [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737) | Corrects for a longstanding bug that causes third-person mobility to be slower than first-person in almost all circumstances -- sometimes by more than half. | Not needed. |
+
+# Perks
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+| [LevelUpMenuEx.](https://www.nexusmods.com/fallout4/mods/28822) | Classic perks and skills menus. | [LevelUpMenuEx - Spanish.](https://www.nexusmods.com/fallout4/mods/55737) |
+| [Hot Diggity - Skills Perks - Redux.](https://www.nexusmods.com/fallout4/mods/74734) | Adds a dozen skills and dozens of perks to the game to diversify the builds and improve the replayability of Fallout 4. | todo |
 
 # Immersion
 
