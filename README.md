@@ -238,7 +238,7 @@ posar imatges github
 | [Nuka Gear.](https://www.nexusmods.com/fallout4/mods/11798/) (Elianora - Ellise - DDProductions83) | Mod adds Nuka-Cola-inspired equipment and weapons to the game. They're based on the Nuka-Cola posters found in the game. :tv: [Fallout 4 Mod Showcase: Nuka Gear by Elianora-Ellise-DDProductions83](https://www.youtube.com/watch?v=n8hVjCzmK9E) | todo |
 | Collectibles: [Teddies 76 - A Mr. Fuzzy mod.](https://www.nexusmods.com/fallout4/mods/57424) | Adds a huge amount of collectible teddybears into the game inspired by the Mr. Fuzzy mascot and toys. | todo |
 | [Far Harbor Shack. (Elianora)](https://www.nexusmods.com/fallout4/mods/25359) | todo | todo |
-| [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431) | ``` TODO. TO BE DONE 🚧 ``` | TODO |
+| [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431) | ``` TODO. TO BE DONE 🚧 ``` | [Eli's Armour Compendium (Spanish Translation).](https://www.nexusmods.com/fallout4/mods/24882) |
 
 <img src="armor/elis_compendium.jpg"/>
 
@@ -638,8 +638,6 @@ PUT ALTERNATIVES LESS SPICY
 # Spanish translations, in case you want one
   
   - [NPCs Travel (plus Fixes) - Spanish](https://www.nexusmods.com/fallout4/mods/55602)
-  
-  - [Eli's Armour Compendium (Spanish Translation).](https://www.nexusmods.com/fallout4/mods/24882)
 
 # Presets
 
