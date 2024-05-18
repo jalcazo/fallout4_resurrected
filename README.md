@@ -94,6 +94,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Project Zeta.](https://www.nexusmods.com/fallout4/mods/60267) | Project based on Mothership Zeta and Invaders from Beyond. Adds a load of new workshop constructibles, 3 New weapons (3 uniques as well), 1 new outfit, one new companion, two new enemy types as well as two new workshops. :tv: [Reviewed here](https://www.youtube.com/watch?v=L_z5WPr_wqs) | [Project Zeta VER. Spanish.](https://www.nexusmods.com/fallout4/mods/67137) |
 | [Project Zeta Fixes.](https://www.nexusmods.com/fallout4/mods/65166) | todo | todo |
 | [Project Zeta Expanded.](https://www.nexusmods.com/fallout4/mods/72133) | Makes Project Zeta feel less empty while fixing a couple of bugs. | todo |
+| [Fourville.](https://www.nexusmods.com/fallout4/mods/43979) | A substantial quest mod which adds a new town to the Commonwealth. Features 10 main & 36 side quests, a fully-voiced player, over 5.000 lines of new dialogue, new set of collectable bobbleheads with perks, and plenty to explore and discover. Approximately 8-10 hours of new gameplay. | [Fourville Spanish.](https://www.nexusmods.com/fallout4/mods/83040) |
 
 # Locations
 
