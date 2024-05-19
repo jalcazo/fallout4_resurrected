@@ -646,7 +646,8 @@ PUT ALTERNATIVES LESS SPICY
 | [Vault Girl Main Menu and Main Menu Sound Replacer.](https://www.nexusmods.com/fallout4/mods/76225) | Spicy new main menu & new music for it (not too much NSFW). |
 
 # Tested and discarded mods
-  - (Capital Wasteland Behemoths NO! Too much difficult! Although tested and they look and behave good they are too much difficult).
+  - Capital Wasteland Behemoths NO! Too much difficult! Although tested and they look and behave good they are too much difficult.
   | FlaconOil's Complete Retexture Project. | NO! Gives a lot of conflicts with other mods in the modlist and performance problems and a heavy drop of FPS in certain areas. 1
   - Immersive Facial Animations REMADE - IFAR. NO! Too exaggerated facial animations even in the lowest presets.
+  - Faction Housing Overhaul of Elianora: Prydwen house appears even if you not went there, plus there are purple textures in the safe when you really go there.
   - Too many other...
