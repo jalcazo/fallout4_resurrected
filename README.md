@@ -72,7 +72,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
 | [All Weapons HD (A.W.H.D.).](https://www.nexusmods.com/fallout4/mods/8556) | 4K upscale of every weapon in the game 0.o Yup you heard right, Every single one! | ``` TODO. TO BE DONE 🚧 ``` |
-| [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426) | Removes ammo from guns on corpses and adds it to the corpse's inventory. | Not needed. |
 | [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [Remote Explosives - C4 with Detonators and More.](https://www.nexusmods.com/fallout4/mods/22444) |Adds familiar C-4 and three other new explosive types with new meshes, and a working remote detonator with new animations, giving you you the ability to make explosives more tactical or blow up your enemy's pants from afar! | [Remote Explosives - C4 with Detonators and More - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/29315) |
 | [M84 FlashBang.](https://www.nexusmods.com/fallout4/mods/56981) | The FlashBang can blind and paralyze more than 20 creatures in the game. | ``` TODO. TO BE DONE 🚧 ``` |
