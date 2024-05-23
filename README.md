@@ -120,7 +120,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [The British Consulate General.](https://www.nexusmods.com/fallout4/mods/19486) | todo | todo |
 | [The Lost Building of Atlantic.](https://www.nexusmods.com/fallout4/mods/25401) | As you're wandering through the ruins of downtown Boston, you find a building that is heavily fortified by a camp of raiders. You're not about to let a bunch of raiders get in the way of your curiosity, so you blast through them and enter the building. Inside, you can learn the story of Allison Miller, the CEO of Atlantic Pharmaceuticals. | todo |
 | [Bioshock Infinite Lighthouse.](https://www.nexusmods.com/fallout4/mods/23881) | Bioshock Infinite Light House, right behind the Atom Cats Garage. Can be used as a player home | todo |
 | [Pipboy Games Store.](https://www.nexusmods.com/fallout4/mods/16895) | This place was the location people used to buy games for Pipboy Machine. | todo |
@@ -646,6 +645,7 @@ PUT ALTERNATIVES LESS SPICY
 | [Vault Girl Main Menu and Main Menu Sound Replacer.](https://www.nexusmods.com/fallout4/mods/76225) | Spicy new main menu & new music for it (not too much NSFW). |
 
 # Tested and discarded mods
+- The British Consulate General: gives a crash when following danse through the road, checked 23/5/2024.
   - Raider Gang Extended DLC Compatibility Update NO! crash around USS riptide wreck, with next gen update, 19/5/2024
   - Capital Wasteland Behemoths NO! Too much difficult! Although tested and they look and behave good they are too much difficult.
   | FlaconOil's Complete Retexture Project. | NO! Gives a lot of conflicts with other mods in the modlist and performance problems and a heavy drop of FPS in certain areas. 1
