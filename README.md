@@ -486,7 +486,7 @@ posar fotos
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Minuteman Watchtowers](https://www.nexusmods.com/fallout4/mods/67115) (pick the ESL). | todo | todo |
+| [Minuteman Watchtowers](https://www.nexusmods.com/fallout4/mods/67115) (pick the ESL). | 8 new watchtowers scatter the Commonwealth as remains of a bygone faction. | todo |
 | [The Waste Landfill.](https://www.nexusmods.com/fallout4/mods/35344) | todo | todo |
 | [Better UFO Crash Site.](https://www.nexusmods.com/fallout4/mods/13521) | todo | todo |
 | [Wildwood Cemetery Tombs ESL Flagged ESP.](https://www.nexusmods.com/fallout4/mods/51802) | todo | todo |
