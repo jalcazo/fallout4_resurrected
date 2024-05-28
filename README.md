@@ -433,10 +433,8 @@ Aesthetic presets:
 |----------|----------|----------|
 | [Misty Pines Overhaul.](https://www.nexusmods.com/fallout4/mods/28990) | [Review here.](https://www.youtube.com/watch?v=sCXpxXKXlLE) | Not needed. |
 | [True Storms.](https://www.nexusmods.com/fallout4/mods/4472) | todo | todo |
-| [Vivid Weathers.](https://www.nexusmods.com/fallout4/mods/15466) (don't enable "Vivid Waters" since we are using [Clean Water of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/16297?tab=files) (I like the tropical preset). | todo | todo |
 | [Better LOD.](https://www.nexusmods.com/fallout4/mods/40417) | todo | todo |
 | [Better Rubble.](https://www.nexusmods.com/fallout4/mods/36301) | todo | todo |
-| [True Grass.](https://www.nexusmods.com/fallout4/mods/23469) | todo | todo |
 
 # Collectibles
 
