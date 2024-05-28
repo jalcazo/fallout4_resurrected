@@ -24,8 +24,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147) | A LOT of mods require F4SE, it's essential. | Not needed. |
 | [Address Library for F4SE Plugins.](https://www.nexusmods.com/fallout4/mods/47327) | This is also required by many mods that use F4SE. | Not needed. |
 | [Mod Configuration Menu.](https://www.nexusmods.com/fallout4/mods/21497) | Lets you configure your mods via ESC menu. Very useful. | [Mod Configuration Menu - Spanish - V1.39](https://www.nexusmods.com/fallout4/mods/45519) |
-| [LooksMenu.](https://www.nexusmods.com/fallout4/mods/12631) | (Fallout Faces & HiPoly Faces REDUX require it). A lot of mods require it for improved characters. | [LooksMenu - Spanish.](https://www.nexusmods.com/fallout4/mods/53384) |
-| [Looks Menu Customization Compendium.](https://www.nexusmods.com/fallout4/mods/24830) | 'A mod that adds hundreds of new options to customize your character such as face paint, tattoos, scars, makeup, brows, hair colors, etc!' | [Looks Menu Customization Compendium v10 Spanish.](https://www.nexusmods.com/fallout4/mods/67982) |
 | [Unofficial Fallout 4 Patch - UFO4P.](https://www.nexusmods.com/fallout4/mods/4598) | 'A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.' | [Unofficial Fallout 4 Patch - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35417) |
 | [Extended Dialogue Interface.](https://www.nexusmods.com/fallout4/mods/27216) | Easier conversation. | [Extended Dialogue Interface -Spanish-](https://www.nexusmods.com/fallout4/mods/49498) |
 | [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative starting. Not doing the same playthrough (and initial long cutscene) every time. | [Start Me Up Redux Spanish 7.3](https://www.nexusmods.com/fallout4/mods/68060) |
@@ -371,7 +369,6 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 |----------|----------|----------|
 | [CBBE.](https://www.nexusmods.com/fallout4/mods/15) | todo | todo |
 | [Commonwealth Cuts - KS Hairdos - ApachiiSkyHair.](https://www.nexusmods.com/fallout4/mods/11402) | todo | todo |
-| [HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB)](https://www.nexusmods.com/fallout4/mods/58950) | todo | todo |
 | [Lots More Facial Hair.](https://www.nexusmods.com/fallout4/mods/10746/) | todo | todo |
 | [Femshepping and radbeetle's KS Hairdos Conversions.](https://www.nexusmods.com/fallout4/mods/45373) | todo | todo |
 | [Lots More Male Hairstyles.](https://www.nexusmods.com/fallout4/mods/10695) | todo | todo |
@@ -417,15 +414,6 @@ Aesthetic presets:
 | [Lucky Cricket's Caravan for CBBE - SHB.](https://www.nexusmods.com/fallout4/mods/20298) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [Immersive Wastelanders](https://www.nexusmods.com/fallout4/mods/19544) | I just hand-pick Piper, Magnolia, Cait, Tina deLuca & Glory, but you can pick whatever you like best. | Not needed. |
 | [Sexy Hancock](https://www.nexusmods.com/fallout4/mods/12029) | todo | Not needed. |
-| [Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton](https://www.nexusmods.com/fallout4/mods/9568) | todo. | Not needed. |
-| [Wasteland Heroines Replacer and Presets All in One.](https://www.nexusmods.com/fallout4/mods/29205) | a | todo |
-| [Fallout Faces (Male All-in-One and Female All-in-One](https://www.nexusmods.com/fallout4/mods/59064) | todo | todo |
-
-Fallout faces:
-
-<img src="npcs/fallout_faces1.jpg"/><img src="npcs/fallout_faces2.jpg"/><img src="npcs/fallout_faces3.jpg"/><img src="npcs/fallout_faces4.jpg"/><img src="npcs/fallout_faces5.jpg"/><img src="npcs/fallout_faces6.jpg"/><img src="npcs/fallout_faces7.jpg"/><img src="npcs/fallout_faces8.jpg"/>
-
-posar fotos
    
 # Companions / New companions
 
