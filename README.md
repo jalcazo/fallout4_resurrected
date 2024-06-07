@@ -195,6 +195,7 @@ PUT SCREENSHOTS
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
+| [Attack of the Lobotomites.](https://www.nexusmods.com/fallout4/mods/51787) | [Reviewed by Master Cheesey here](https://www.youtube.com/watch?v=asgMDiuqGjE) Adds a new quest, a new dungeon filled with new voice-acted hostile and non-hostile NPCs, new weapons, new armors, workshop stuff, other goodies. | not done yet |
 | [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) | Adds 12 new case files to Nick Valentine's detective office in Diamond City. | todo |
 | [You and what army 2.](https://www.nexusmods.com/fallout4/mods/78925) | [Reviewed here by JuiceHead](https://www.youtube.com/watch?v=cLGR6V3ZeaA) Expands the minutemen into a proper faction the player rebuilds by playing the game, complete with integration into the game's world. | [You And What Army 2 - Spanish.](https://www.nexusmods.com/fallout4/mods/80519) | 
 | [Atomic Radio and Tales from the Commonwealth.](https://www.nexusmods.com/fallout4/mods/8704) | Be sure to download **BOTH.** | todo |
