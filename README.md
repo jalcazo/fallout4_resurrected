@@ -81,7 +81,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [America Rising 2 - Legacy of the Enclave](https://www.nexusmods.com/fallout4/mods/75767) | Remaster of the 1. Review by JuiceHead. | todo |
+| [America Rising 2 - Legacy of the Enclave](https://www.nexusmods.com/fallout4/mods/75767) | [Reviewed by Master Cheesey here](https://www.youtube.com/watch?v=asgMDiuqGjE) Remaster of the 1. Review by JuiceHead. | [America Rising 2 - Legacy of the Enclave Spanish 1.1.1](https://www.nexusmods.com/fallout4/mods/75875) |
 | [Outcasts and Remnants - Quest Mod Plus](https://www.nexusmods.com/fallout4/mods/21469) | DLC-sized quest mod. 20 hours of gameplay with new factions, locations, player bases, and fully-voiced custom companions. | [Outcasts and Remnants - Quest Mod Plus SPANISH.](https://www.nexusmods.com/fallout4/mods/42017) |
 | [Depravity](https://www.nexusmods.com/fallout4/mods/35513) | Large quest/companion mod with evil RPG options for the vanilla main story. 40 quests, 13 companions, and around 20 hours of content. Requires Outcasts and Remnants. | todo |
 | [The Machine And Her.](https://www.nexusmods.com/fallout4/mods/30488) | [Reviewed by JuiceHead here.](https://www.youtube.com/watch?v=IjRHM6hPnew) DLC-sized quest featuring 4-5 hours of gameplay, fully voiced companion with custom affinity, new radio station, and a story that reacts to your choices! September 2019 Mod Of The Month! | todo |
