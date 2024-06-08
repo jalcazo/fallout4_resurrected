@@ -49,7 +49,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522) | The character has the gun downed when not firing. | Not needed. |
 | [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025) | 'Makes Vehicles in Commonwealth and outside (DLC) Lootable. Chance of finding a car with loot is partly based on Luck.' | ``` TODO. TO BE DONE 🚧 ``` |
 | [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840) | Turns the omnidirectional Pip-Boy light into a projectile beam. | Not needed. |
 | [Achievements Mods Enabler.](https://www.nexusmods.com/fallout4/mods/15639/) | Enables (Steam) achievements in Fallout 4 with mods. F4SE support. | Not needed. |
@@ -62,12 +61,13 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | [Shatter - Shardz and Spillz.](https://www.nexusmods.com/fallout4/mods/33280) | The files in this package make many glass, ceramic, and other things destructible! | Needed? Maybe rename some things as destructible Skyrim did. Jaume |
 | [More Realistic Fire Behavior.](https://www.nexusmods.com/fallout4/mods/30246) | This mod simply makes it so that when NPCs have 100% of their skin engulfed in flames they care a little. | Not needed. |
 | [Military MREs - Meal Ready to Eat - New Food.](https://www.nexusmods.com/fallout4/mods/25824) | Pre-war MREs in 14 flavors featuring brand-new meshes and textures. Supply caches at military bases, and injected into vendor lists. | todo (french translation already is done). |
-| [Merchants Sells Weapon Mods.](https://www.nexusmods.com/fallout4/mods/39065) | Adds weapon mods to weapon vendors inventories. | todo |
 
 # Weapons
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
+| [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522) | The character has the gun downed when not firing. | Not needed. |
+| [ITO Institute Technology Overhaul - Weapons.](https://www.nexusmods.com/fallout4/mods/70352) | [Reviewed here.](https://www.youtube.com/watch?v=KZBQNTcuai8) | todo |
 | [All Weapons HD (A.W.H.D.).](https://www.nexusmods.com/fallout4/mods/8556) | 4K upscale of every weapon in the game 0.o Yup you heard right, Every single one! | ``` TODO. TO BE DONE 🚧 ``` |
 | [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426) | Removes ammo from guns on corpses and adds it to the corpse's inventory. | Not needed. |
 | [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
