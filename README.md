@@ -624,7 +624,7 @@ PUT ALTERNATIVES LESS SPICY
 |----------|----------|----------|
 | [Extended Facial Sculpting - now with 90 percent less beta](https://www.nexusmods.com/fallout4/mods/25087) | a |
 
-# NSFW / adult content
+# Adults NSFW / adult content
 
 | Mod | Brief Summary | Spanish Translation |
 |----------|----------|----------|
