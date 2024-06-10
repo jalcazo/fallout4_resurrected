@@ -17,7 +17,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
     
   - [Commonwealth Improvements - Fort Strong.](https://www.nexusmods.com/fallout4/mods/22287/?tab=files)
-  - [Egret's Secret.](https://www.nexusmods.com/fallout4/mods/22031/?tab=files)
+  
   - [Welcome to Fallon's.](https://www.nexusmods.com/fallout4/mods/25629)
 
 
