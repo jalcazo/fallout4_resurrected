@@ -4,7 +4,7 @@
 
 My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
-# Mods to avoid
+# Mods to avoid --- DON'T INSTALL THIS EVER! ---
 
 Many of these taken from the Buffout 4 tutorial page
 
