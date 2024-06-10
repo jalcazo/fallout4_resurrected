@@ -6,7 +6,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Mods to avoid --- DON'T INSTALL THIS EVER! ---
 
-Many of these taken from the Buffout 4 tutorial page
+This suggestions are from the Buffout 4 tutorial page:
 
 | Mod | Problem/s that it gives |
 |----------|----------|
@@ -41,6 +41,19 @@ Many of these taken from the Buffout 4 tutorial page
 | Uneducated Shooter﻿ | Causes white screen glitch after character creation for most players. Simply save, exit to main menu and load again. |
 | XM2010 Enhanced Sniper Rifle﻿ | There have been reports that this weapon causes many random issues and heavy script lag (>30%). |
 | T6M's Perks Pack﻿ (& other perk mods) | Keep these mods last / at the end of your load order to avoid conflicts and ensure full functionality. |
+
+# Tested and discarded mods (tested by Jaume)
+
+| Mod | Problem/s |
+|----------|----------|
+| The British Consulate General | Gives a crash when following Paladin Danse through the road, checked 23/5/2024. |
+| Raider Gang Extended DLC Compatibility Update | NO! crash around USS riptide wreck (in the bridge to Diamon City), with next gen update, 19/5/2024 |
+| Capital Wasteland Behemoths NO! | Too much difficult! Although tested and they look and behave good they are too much difficult. |
+| FlaconOil's Complete Retexture Project. | NO! Gives a lot of conflicts with other mods in the modlist and performance problems and a heavy drop of FPS in certain areas. |
+| Immersive Facial Animations REMADE - IFAR. | NO! Too exaggerated facial animations even in the lowest presets. |
+| Faction Housing Overhaul of Elianora. | Prydwen house appears even if you haven't been there, plus there are purple textures in the safe when you really go there. |
+etc.
+| Welcome to Goodneighbor | Not recommended, not immersive. Quest with dialog lines blank. No voiced protagonist. |
 
 # Warnings / Remembers
 
@@ -545,10 +558,7 @@ Aesthetic presets:
 |----------|----------|----------|
 | [Atomic World.](https://www.nexusmods.com/fallout4/mods/28713) | ``` TODO. TO BE DONE 🚧 ``` | todo |
  
-Discarded mods:
-  - Welcome to Goodneighbor: not recommended, unimmersive. Quest with dialog lines blank. No voiced protagonist. Try this instead better, better lose the quest and add immersion:
-
-  
+ 
   - [Goodneighbor View](https://www.nexusmods.com/fallout4/mods/72021)
   - [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293)
   - [Phase 4 An Institute Expansion.](https://www.nexusmods.com/fallout4/mods/42647)
@@ -673,14 +683,3 @@ PUT ALTERNATIVES LESS SPICY
 |----------|----------|----------|
 | [Vault Girl Main Menu and Main Menu Sound Replacer.](https://www.nexusmods.com/fallout4/mods/76225) | Spicy new main menu & new music for it (not too much NSFW). |
 
-# Tested and discarded mods
-
-| Mod | Problem/s |
-|----------|----------|
-| The British Consulate General | Gives a crash when following Paladin Danse through the road, checked 23/5/2024. |
-| Raider Gang Extended DLC Compatibility Update | NO! crash around USS riptide wreck (in the bridge to Diamon City), with next gen update, 19/5/2024 |
-| Capital Wasteland Behemoths NO! | Too much difficult! Although tested and they look and behave good they are too much difficult. |
-| FlaconOil's Complete Retexture Project. | NO! Gives a lot of conflicts with other mods in the modlist and performance problems and a heavy drop of FPS in certain areas. |
-| Immersive Facial Animations REMADE - IFAR. | NO! Too exaggerated facial animations even in the lowest presets. |
-| Faction Housing Overhaul of Elianora. | Prydwen house appears even if you haven't been there, plus there are purple textures in the safe when you really go there. |
-etc.
