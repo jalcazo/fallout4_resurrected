@@ -23,22 +23,27 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 |----------|----------|----------|
 | [Fallout 4 Script Extender (F4SE).](https://www.nexusmods.com/fallout4/mods/42147) | A LOT of mods require F4SE, it's essential. | Not needed. |
 | [Address Library for F4SE Plugins.](https://www.nexusmods.com/fallout4/mods/47327) | This is also required by many mods that use F4SE. | Not needed. |
-| [Mod Configuration Menu.](https://www.nexusmods.com/fallout4/mods/21497) | Lets you configure your mods via ESC menu. Very useful. | [Mod Configuration Menu - Spanish - V1.39](https://www.nexusmods.com/fallout4/mods/45519) |
-| [Unofficial Fallout 4 Patch - UFO4P.](https://www.nexusmods.com/fallout4/mods/4598) | 'A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.' | [Unofficial Fallout 4 Patch - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35417) |
+
+# Important
+
 | [Extended Dialogue Interface.](https://www.nexusmods.com/fallout4/mods/27216) | Easier conversation. | [Extended Dialogue Interface -Spanish-](https://www.nexusmods.com/fallout4/mods/49498) |
 | [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative starting. Not doing the same playthrough (and initial long cutscene) every time. | [Start Me Up Redux Spanish 7.3](https://www.nexusmods.com/fallout4/mods/68060) |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. | Not needed. |
 | [RobCo Patcher.](https://www.nexusmods.com/fallout4/mods/69798) | A patcher based on F4SE and CommonLibF4, which allows mod authors and users to modify game data without the use of plugins. | Not needed. |
+| [Mod Configuration Menu.](https://www.nexusmods.com/fallout4/mods/21497) | Lets you configure your mods via ESC menu. Very useful. | [Mod Configuration Menu - Spanish - V1.39](https://www.nexusmods.com/fallout4/mods/45519) |
 
 # Fix/fixes
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
+| [Community Fixes Merged](https://www.nexusmods.com/fallout4/mods/74945) | A collection of fixes made by the community over the years, with open permissions. | [Community Fixes Merged - Spanish.](https://www.nexusmods.com/fallout4/mods/75033) |
+| [Community Tweaks Merged. (different from the other one)](https://www.nexusmods.com/fallout4/mods/83532) | Removes Annoyances; Implements Fixes and Immersive/Performance/Quolity of Life Tweaks. | todo |
 | [Load Accelerator.](https://www.nexusmods.com/fallout4/mods/10283) | Reduce the loading time by controlling vsync(fps) and CPU affinity at loading screen. This is expected to shorten the loading time under the SSD environment. (Under an HDD environment does not seem to have much effect) | Not needed. |
 | [Long Loading Times Fix.](https://www.nexusmods.com/fallout4/mods/73469) | F4SE plugin to fix long loading times. Also some settings for loading screens. | todo (Russian translation is available). |
 | [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737) | Corrects for a longstanding bug that causes third-person mobility to be slower than first-person in almost all circumstances -- sometimes by more than half. | Not needed. |
+| [Unofficial Fallout 4 Patch - UFO4P.](https://www.nexusmods.com/fallout4/mods/4598) | 'A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.' | [Unofficial Fallout 4 Patch - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35417) |
 
-# Perks
+# Perks / Level up menu/screen
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
