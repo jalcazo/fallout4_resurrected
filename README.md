@@ -4,6 +4,44 @@
 
 My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
+# Mods to avoid
+
+Many of these taken from the Buffout 4 tutorial page
+
+| Mod | Problem/s that it gives |
+|----------|----------|
+| Damage Threshold Framework | Can crash in combat on some occasions due to how damage calculations are done. |
+| Extreme Particles Overhaul (EPO) | Can cause particle crashes. |
+| Fallout Sakhalin﻿ | Breaks the precombine system all across Far Harbor DLC which is bound to randomly crash your game. |
+| Fatigues Extended﻿ | Seems to conflict with Looks Menu in some way, potentially breaks BoS NPCs and causes crashes. |
+| NCR Renegade Armor﻿ | Outfit has broken mesh that crashes the game in 3rd person or when NPCs wearing it are hit. |
+| Scrap Everything | Weird crashes and issues due to multiple unknown problems. |
+| Shade Girl Leather Outfits﻿ | Can crash the game while browsing the armor workbench or upon loading or starting a new game. |
+| Spring Cleaning﻿ | Abandoned and severely outdated mod that breaks precombines and could potentially even break your save file. |
+| True Nights | Has an invalid Image Space Adapter (IMAD) Record that will corrupt your save memory and has to be manually fixed. |
+| War Of The Commonwealth﻿ | Seems to cause consistent crashes with specific spawn points or randomly during settlement attacks. |
+| Flip a Coin﻿ | Has several incorrectly sized textures. |
+| S.T.A.L.K.E.R Texture Overhaul | Doesn't work due to incorrect folder structure. Has one corrupted texture. |
+| Armor And Weapon Keywords (AWKCR)﻿ | Possibly causing some "Player Character" crashes. |
+| Armorsmith Extended﻿ | Might crash the game on startup or when accessing workbenches as described by older reports. |
+| Combat Rifle Overhaul﻿ | Apparently a few custom magazines or ammo types from this mod can causes crashes for some. |
+| Endless Warfare﻿ | Some enemy spawn points could be bugged or crash the game, either due to scripts of pathfinding. |
+| Give Me That Bottle﻿ | Seems to be responsible for some Pip-Boy inventory crashes. Consider switching to Fill'em Up Again﻿. |
+| Immersive Hunting Overhaul﻿ (IHO) | Might be responsible for a couple of recent crashes during the game startup. |
+| NPC Level Scaling﻿ | Seems to cause crashes while fast traveling or approaching certain locations due to unknown reasons. |
+| Respawnable Legendary Bosses﻿ | Sometimes causes Deathclaw/Behmoth boulder projectile crashes for unknown reasons. |
+| Tactical Tablet﻿ | Can cause flickering with certain scopes, early reports mention occasional crashes while browsing workbenches. |
+| Fallout 4 High Resolution DLC | Yes, the official DLC. Linked to several weird problems and crashes. Always keep it disabled. |
+| Clean My Settlement﻿ | Edits pretty much every cell in the game, so unintended or random conflicts can be a problem. |
+| Fallout 3 Holotape | Known to conflict with and break mods with custom Pip Boy models, such as the Pip Boy 2000. |
+| Load Accelerator﻿ | Uses outdated / intrusive methods to increase loading screen framerates, stick to High FPS Physics Fix﻿ only. |
+| Lootable Stoves﻿﻿ | Breaks precombined data in several different cells which might result in major framerate drops at certain places. |
+| Locky Bastard﻿ | Can very rarely cause the game to freeze while melee attacking doors or when NPCs try to get through locked doors. |
+| Phase 4 Institute Expansion | Its plugin must be cleaned as it contains 1300 UDRs and 30 ITMs. See Additional Troubleshooting below. |
+| Uneducated Shooter﻿ | Causes white screen glitch after character creation for most players. Simply save, exit to main menu and load again. |
+| XM2010 Enhanced Sniper Rifle﻿ | There have been reports that this weapon causes many random issues and heavy script lag (>30%). |
+| T6M's Perks Pack﻿ (& other perk mods) | Keep these mods last / at the end of your load order to avoid conflicts and ensure full functionality. |
+
 # Warnings / Remembers
 
 | Problem | Solution |
