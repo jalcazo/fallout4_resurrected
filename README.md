@@ -621,6 +621,13 @@ Aesthetic presets:
 | [Fallout 4 - Point Lookout.](https://www.nexusmods.com/fallout4/mods/60330) | ``` TODO. TO BE DONE 🚧 ```, put :tv: youtube reviews | [Fallout 4 - Point Lookout traduccion español.](https://www.nexusmods.com/fallout4/mods/60413) |
 | [Fallout 4 Point Lookout - Voiced Player Lines Addon.](https://www.nexusmods.com/fallout4/mods/60387) | ``` TODO. TO BE DONE 🚧 ``` |
 
+# Sound
+
+| Mod | Brief summary | Spanish translation |
+|----------|----------|----------|
+
+
+
 # GUI
 
 | Mod | Brief Summary | Spanish Translation |
