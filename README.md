@@ -4,22 +4,15 @@
 
 My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
-
   - [Goodneighbor View](https://www.nexusmods.com/fallout4/mods/72021)
   - [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293)
     - [Immersive and Extended Nahant.](https://www.nexusmods.com/fallout4/mods/36636/)
   - [Immersive Hub City Auto Wreckers.](https://www.nexusmods.com/fallout4/mods/35882?tab=files)
-   
   - [Commonwealth Underground and Forgotten Spaces.](https://www.nexusmods.com/fallout4/mods/27584?tab=files)
   | [The Sewers.](https://www.nexusmods.com/fallout4/mods/45663?tab=files) | (ESM file). |
-  
   - [Williams Plaza.](https://www.nexusmods.com/fallout4/mods/59566/?tab=files)
   - [Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
-    
   - [Commonwealth Improvements - Fort Strong.](https://www.nexusmods.com/fallout4/mods/22287/?tab=files)
-  
-  - [Welcome to Fallon's.](https://www.nexusmods.com/fallout4/mods/25629)
-
 
 # Mods to avoid --- DON'T INSTALL THIS EVER! ---
 
