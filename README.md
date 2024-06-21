@@ -668,6 +668,10 @@ PUT ALTERNATIVES LESS SPICY
   
   - [NPCs Travel (plus Fixes) - Spanish](https://www.nexusmods.com/fallout4/mods/55602)
 
+# Sound
+
+Fallout 4 Resound - Guns | [review](https://www.youtube.com/watch?v=yKLzX8S3iVc) 
+
 # Presets
 
 | Mod | Brief Summary | Spanish Translation |
