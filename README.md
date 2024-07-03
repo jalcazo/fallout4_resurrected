@@ -147,6 +147,7 @@ etc.
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
+| [The Fens Sheriff's Department - Bleachers 2.](https://www.nexusmods.com/fallout4/mods/68276) | [ :tv: Reviewed by JuicedHead here](https://www.youtube.com/watch?v=B9lziKNAMZ4) | [The Fens Sheriff's Department - Bleachers 2 Spanish 2.7.1](https://www.nexusmods.com/fallout4/mods/68591) |
 | [America Rising 2 - Legacy of the Enclave](https://www.nexusmods.com/fallout4/mods/75767) | [Reviewed by Master Cheesey here](https://www.youtube.com/watch?v=asgMDiuqGjE) Remaster of the 1. Review by JuiceHead. | [America Rising 2 - Legacy of the Enclave Spanish 1.1.1](https://www.nexusmods.com/fallout4/mods/75875) |
 | [Outcasts and Remnants - Quest Mod Plus](https://www.nexusmods.com/fallout4/mods/21469) | DLC-sized quest mod. 20 hours of gameplay with new factions, locations, player bases, and fully-voiced custom companions. | [Outcasts and Remnants - Quest Mod Plus SPANISH.](https://www.nexusmods.com/fallout4/mods/42017) |
 | [Depravity](https://www.nexusmods.com/fallout4/mods/35513) | Large quest/companion mod with evil RPG options for the vanilla main story. 40 quests, 13 companions, and around 20 hours of content. Requires Outcasts and Remnants. | todo |
