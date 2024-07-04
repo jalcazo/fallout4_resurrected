@@ -4,8 +4,7 @@
 
 My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
-  - [Goodneighbor View](https://www.nexusmods.com/fallout4/mods/72021)
-  - [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293)
+    - [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293)
     - [Immersive and Extended Nahant.](https://www.nexusmods.com/fallout4/mods/36636/)
   - [Immersive Hub City Auto Wreckers.](https://www.nexusmods.com/fallout4/mods/35882?tab=files)
   - [Commonwealth Underground and Forgotten Spaces.](https://www.nexusmods.com/fallout4/mods/27584?tab=files)
