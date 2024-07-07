@@ -683,4 +683,6 @@ Fallout 4 Resound - Guns | [review](https://www.youtube.com/watch?v=yKLzX8S3iVc)
 | Mod | Brief Summary | Spanish Translation |
 |----------|----------|----------|
 | [Vault Girl Main Menu and Main Menu Sound Replacer.](https://www.nexusmods.com/fallout4/mods/76225) | Spicy new main menu & new music for it (not too much NSFW). |
+| [New Vault Girl Bobbleheads NSFW.](https://www.nexusmods.com/fallout4/mods/63047) | . | . |
+| [Bobble Girl - Skimpy Outfit Retexture UPDATED.](https://www.nexusmods.com/fallout4/mods/41859) | . | . |
 
