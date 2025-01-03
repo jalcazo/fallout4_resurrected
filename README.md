@@ -34,6 +34,14 @@ New Far Harbor Bobbleheads - ESL Flagged ESP
 South of the Sea - Atoms Storm
 HiPoly Faces REDUX - Seamless Kit (CBBE-TWB)
 GD45_DBD_Deathslinger
+DD_prelude_273
+Fusion City Rising v.1.0
+Commonwealth Underground and Forgotten Spaces
+Elevator Buttons Fix (Contraptions) - Latest Version
+CoA Overhaul
+Glowing Animals Emit Light - ALL DLC
+Immersive Beantown Brewery
+
 Diamond City Supplements
 Commonwealth Broadcasting Services
 The Fens Sheriff's Department - Main and Plugin
