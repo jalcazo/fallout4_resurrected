@@ -33,6 +33,37 @@ KARMA
 New Far Harbor Bobbleheads - ESL Flagged ESP
 South of the Sea - Atoms Storm
 HiPoly Faces REDUX - Seamless Kit (CBBE-TWB)
+Maxwell's World - Extended Dialogue Interface Patch
+SL Magazines
+Rusty Subway Textures
+Workbench Replacer - HIGH - DESATURATED
+exShinra's Better Road Textures - Better Roads v0.02
+Better Bed Mattress Textures - Grimy Mattress
+The Experiment
+Proper Flyers and Posters v2.1
+Immersive Power Armor Weapon Restrictions
+U.S. Covert Operations Manual Redux - Magazine Retexture - 1. Covert Ops Revised - Complete
+Ammo Retexture
+SavrenX Food and Foodware
+newripper
+HP Vanilla Weapons - Main
+America Rising 2 - Legacy of the Enclave
+Thompson SMG Replacer
+Fallout 4 - Point Lookout
+More Bobbleheads
+Historical Painting Replacer - ESP
+WattzLaserGunAnimationFixes
+Lima Outpost
+Frank's Fort Hagen crash work around - Complete Reunion and start Shadow of Steel - Fort Hagen Fix
+Fallout 4 Next Gen Matswap Bug Fix
+Novatron Torso Fix
+No Bethesda and S.P.E.C.I.A.L Intro
+The Sewers ESM New
+Machine Kit 4K HD Redux
+Ketaros Add-On - Terror Card Series
+Immersive Nahant
+Inside Jobs - Commonwealth Interiors Add-On - Inside Jobs
+
 GD45_DBD_Deathslinger
 DD_prelude_273
 Fusion City Rising v.1.0
