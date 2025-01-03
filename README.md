@@ -26,6 +26,53 @@ Burning Fusion Core Blue 1k
 Armor and Clothing HD Fixed - 4K 2K - Thaylar's Clothing - Armor 4k Repacked BA2
 NMCs Bundle HIGH
 Better Quarry Sites
+SRD Point Lookout Delay
+Modding for Charity - Shady Motives - with Wes Johnson - Shady Motives
+Attachment Pack
+KARMA
+New Far Harbor Bobbleheads - ESL Flagged ESP
+South of the Sea - Atoms Storm
+HiPoly Faces REDUX - Seamless Kit (CBBE-TWB)
+GD45_DBD_Deathslinger
+Diamond City Supplements
+Commonwealth Broadcasting Services
+The Fens Sheriff's Department - Main and Plugin
+SS2 XDI Compatibility Patch
+High Resolution Texture Pack 2K and 4K - Valius - Textures - Ultra 4K Version (BA2 Format)
+femshepping and radbeetle's KS Hairdos Conversions - Hat texture fix for version 9
+Wild Wasteland V4.5
+Stumble Upon Interiors
+Better Weapon Scrap - ESL-flagged
+Age of Steel - Cybermen in the Commonwealth
+Adult billboards and posters
+The Plasma Project - 4k
+Hazmat Suit UHD - 4k
+4k - bottles label overhaul v0.9.1
+Heather Casdin - A Unique Companion Experience by llamaRCA - llamaCompanionHeather v2.7
+gt_Misc Hairstyles by Atherisz - Textures 2K_v1.0
+RichSettlementMerchants_V_1_0
+Operation Wilkes Estate
+Automatron Expanded Weapons System
+Ice Cold Nuka Cherry Fix esp
+Capital Wasteland Raider Pack - CW Raiders
+WeaponDropStop
+Ultra Interior Lighting
+Diamond City Radio Extended
+fort Hagen Prydwen Flyover Fix
+MTs-255 Revolver Shotgun - 4K Textures
+MTs-255 First Person Animation Replacer
+FO4FI HD Series (HD Power Armor)
+Police Shotgun (Remington 870) - Commonwealth Weaponry Expansion - Police Shotgun
+Langleys HD Textures Workshop
+The Natural Bundle - Assorted Textures (2K - 4K) - Cave Set 4K
+The Natural Bundle - Assorted Textures (2K - 4K) - Bunker Set - 4K
+Fallout 4 Combat Shotgun and Rifle retexture - 4096 tex
+Immersive Lexington 1.8
+No Quest Autostart - Automatron
+Commonwealth Improvements - Fort Strong
+Atomic Radio and Tales from the Commonwealth - Atomic Radio v2.6
+better notes
+
 Gritty Subway Stations - 2K
 Synths Revamped
 HD Raider Armor Retex
