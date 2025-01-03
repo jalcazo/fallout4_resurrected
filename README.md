@@ -40,6 +40,17 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Atom's Glory Threads - CBBE
 - RLP_BellyBeast_v1.04
 - Holotape Visual Improvement - Full Replacer
+- RobCo Patcher
+- Base Object Swapper
+- Workshop Framework
+- NXGEN - Nice Bush
+- Leveled Item Fixes (LIF) - LIF
+- Sweet Roll 5000 - Xtreme Sweetroll Mesh and Texture Replacer - Sweetroll 5000 CLEAN
+- Drinking Water Retexture - Purified - Institute - Dirty - Drugged - Deezers - 1. DWR - Tape - BA2 - ESL
+- Children of Ug-Qualtoth Redux
+- Ketaros Treasures v6
+- Ketaros Treasures - DLC01 The Terror
+- Vanilla flag-textures reworked 2k with variations
 - Halffaces - Charming Halloween smile - 4K
 - Classic Brotherhood Outfits SPID
 - Armor and Weapon Keywords Community Resource v8.6.0
