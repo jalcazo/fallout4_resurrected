@@ -32,6 +32,54 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Immersive Vendors
 - Maxwells World
 - Minuteman Watchtowers (ESL)
+- Knife Anims
+- Lockpick Interface Retexture - 4k
+- Gauss Rifle Anims
+- Select Blaster ESP 1.0.2
+- 4k cap stash
+- A Cannibal In Concord
+- 50 Ways to Die at Dr. Nick&#39;s - v.0.99c
+- Better Doors v1.2
+- Classic Skill Books - New Magazines - Pugilism - Deans - Nikola Tesla - And More - Classic Skill Books - BA2
+-
+- Dauntless v1.64
+- Captain Kell's Colonel Coat
+- Beautiful Female Enemies V. 2.0
+- 10mm HD - 4k
+- 2287 - Billboards and Posters - Decadent version
+- Alex's Bobbleheads Tracking Markers
+-
+- Aloot's Home Plate
+-
+- Alexanders SCAV Magazine - Very Weathered
+-
+- Total Hack - Complete
+- Automatron workstation terminal with keyboard text - terminal rexture
+- Attack of The Lobotomites - High Quality Version
+- AtomicWorld 2.0
+- American 180 - Main - 4K Version
+- Army Bunker player home and settlement - Army Bunker
+- Classic Unarmed Pack
+- CombatZoneRestored
+- CSEP Commonwealth Killer
+- dp Classic VB 4k
+- Extended Fake Interior
+- Fill&#39;em Up Again (Dynamic Bottle Recyclation) - Loose Files
+- Fast Travel Background Load AI Detection Fix - ESL
+- Fourville
+- Diamond City Lights - ESL flagged ESP
+- DLC Robot delayed start ENG
+- FallEvil - Paleheads 1.2
+-
+- FAR - Faraway Area Reform - FAR - Default Resolution
+-
+- Glowing Deathclaw Eyes 1.0.1
+-
+- Halffaces - a little nicer Federalist Tables 4K
+- Gauss Rifle UHD - 4k
+- Assaultron HD - HIGH
+
+- Vault Dweller's Survival Guide - Complete
 - Maxwells World
 - Project Zeta Expanded
 - Project Zeta
