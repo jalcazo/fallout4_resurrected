@@ -50,9 +50,44 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Alex's Bobbleheads Tracking Markers
 -
 - Aloot's Home Plate
--
+- Better Boston Airport
+- Caves Of The Commonwealth 1.2
+- Chemfluence AI Combat Dynamics
+- Classic metal armor Main-4k
+- CHALLENGES
+- Capital Wasteland Gauss Rifle
+- Capital Wasteland Yao Guai
+- Cartographers Map Markers
+- Capital Wasteland Outfit Pack II
+- ConcordNPCOverhaul - Complete
+- dp 4k fire extinguishers
+- Early Game Armor Pack
+- ESL Flaged ESP Nuka Cola Girl Magazine
+- Fog Crawlers Of The Commonwealth
+- Improvised Terminal Keys with Text - new typewriter textures
+- Leafblower Junkjet - 4k esl
+- Maximus' Knight Under Armor Replacer (4K)
+- Nuka-World Plus 1.1
+- Railroad - Synthetic Facelift 2.0
+- Workshop Plus
+- Wattz Laser Gun - Unofficial Update
+- Wattz Laser Gun
+- Unowned Trash
+- Update 1.2 Aidan Watts's Fallout 3 Workshop Furniture - 4K Textures (ESL Tagged version)
+- Unused Map Markers - Cut Content Restored
+- Vault Dweller's Survival Guide - BA2
+- The Ballistic Series - 4k esl
+- Standalone Workbenches
+- Submarine Base Echo V6 FIX
+- Subway Runner Revival OE - NPC Addon
+- Robot Textures Redone BA2
+- Tales from the Commonwealth
+- The Zap Gun - a makeshift laser weapon - Zap Gun
+- Wasteland Imports - Goodies from all across the Wasteland... - Wasteland Imports (1.52)
+- You And What Army 2
+- You And What Army 2
+- XDI-AR2 patch
 - Alexanders SCAV Magazine - Very Weathered
--
 - Total Hack - Complete
 - Automatron workstation terminal with keyboard text - terminal rexture
 - Attack of The Lobotomites - High Quality Version
@@ -70,15 +105,11 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Diamond City Lights - ESL flagged ESP
 - DLC Robot delayed start ENG
 - FallEvil - Paleheads 1.2
--
 - FAR - Faraway Area Reform - FAR - Default Resolution
--
 - Glowing Deathclaw Eyes 1.0.1
--
 - Halffaces - a little nicer Federalist Tables 4K
 - Gauss Rifle UHD - 4k
 - Assaultron HD - HIGH
-
 - Vault Dweller's Survival Guide - Complete
 - Maxwells World
 - Project Zeta Expanded
@@ -162,15 +193,66 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Capital Wasteland Robot Pack Main Files
 - Nuka Project 4k esl
 - The Natural Bundle - Assorted Textures (2K - 4K) - Masonry Set 4K
+- Better Bed Mattress Textures - Grimy Mattress
+- Post-apocalyptic homemade weapons. Replacer - AVBPipeGunsReplaceENG
+- Project Zeta Fixes - Quarter Invasions
+- Prydwen 2K Textures v1.0
+- Raider Armors Retextured 4K
+- Random Encounter Framework
+- ProtoVaultSuit - Blue 1.2
+- Project LUNAR - Main File
+- Remove Ammo from Dropped Guns - AmmoRemover v1.2.2
+- RED - Roleplayer's Expanded Dialogue
+- Notes of The Commonwealth
+- Nuka World UI Mod Crash Fix
+- Old Time Religion
+- Nuka-World Scenery replacement
+- Nuka World Open Season Extend II ESL
+- Nordic Europa Research facility
+- People Live in - Unmarked Raider Camps Pack 2
+- Oni hair re-texture new color new alpha
+- Old World Radio - Boston v6.02
+- polariasystems.esp
+- Plenty 'o' Exploration - More Interiors and Exteriors - Discontinued - POE Files Update 1.8.2
+- Ransacked Relays and Shuddersome Subways
+- Really Red Rocket 4K - Worn
+- moreXplore-12.1
+- More XP from quests
+- More Natural Dogmeat Eyes - freashpairofeyes
+- More Cases For Valentine
+- MM JOURNALS
+- More Realistic Handmade Pipe Weapons - DARKER
+- Lowered Weapons 1.1
+- Looks Menu Customization Compendium
+- Looks Menu Compendium 2k Textures FIXED - Fix for Looks Menu 2k
+- LooksMenu Body Sliders Extended
+- Looking Stranger
+- LooksMenu v1-7-0-1
+- Laser Reanimation
+- Insignificant Object Remover
+- Halffaces - Globes All-in-One - 4K
+- FO4FI HD Series (HD Vanilla Clothes)
+- Extended Facial Sculpting - now with 90 percent less beta - Main File - AIO Installer
+- Doc Crocker's House - Player Home in Diamond City (Unsupported) - ESL
+- Details and Drug Paraphernalia
+- Contraptions Lights with Dynamic Shadows - light shadows
+- Clearable Fort Hagen Satellite Array
+- BOS Synthetic Facelift
+- Energy Weapon Replacer - Wattz Laser Gun
+
+
+- The Experiment
+- Proper Flyers and Posters v2.1
+- Immersive Power Armor Weapon Restrictions
+- U.S. Covert Operations Manual Redux - Magazine Retexture - 1. Covert Ops Revised - Complete
+- Ammo Retexture
+- SavrenX Food and Foodware
+- newripper
+- Start Me Up Redux (Normal-XDI Dialogue)
+- Salvage Robot Parts
+- Scarecrows - ESL flagged ESP
+- Rsiyo's Location Pack
 - 
-Better Bed Mattress Textures - Grimy Mattress
-The Experiment
-Proper Flyers and Posters v2.1
-Immersive Power Armor Weapon Restrictions
-U.S. Covert Operations Manual Redux - Magazine Retexture - 1. Covert Ops Revised - Complete
-Ammo Retexture
-SavrenX Food and Foodware
-newripper
 HP Vanilla Weapons - Main
 America Rising 2 - Legacy of the Enclave
 Thompson SMG Replacer
