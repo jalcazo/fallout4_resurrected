@@ -83,8 +83,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Tales from the Commonwealth
 - The Zap Gun - a makeshift laser weapon - Zap Gun
 - Wasteland Imports - Goodies from all across the Wasteland... - Wasteland Imports (1.52)
-- You And What Army 2
-- You And What Army 2
 - XDI-AR2 patch
 - Alexanders SCAV Magazine - Very Weathered
 - Total Hack - Complete
@@ -585,7 +583,7 @@ PUT SCREENSHOTS
 | YES | 1 | [Journey to Ipswich](https://www.nexusmods.com/fallout4/mods/16933) | Adds a spooky new marshland to explore and a small questline to complete. | todo | :tv: [Fallout 4 Quest Mods: Journey To Ipswich - Part 1)(https://www.youtube.com/watch?v=jVcSF7wsoy4) | 
 | YES | 2 | [Attack of the Lobotomites.](https://www.nexusmods.com/fallout4/mods/51787) | Adds a new quest, a new dungeon filled with new voice-acted hostile and non-hostile NPCs, new weapons, new armors, workshop stuff, other goodies. | [Attack of the Lobotomites Spanish traduccion](https://www.nexusmods.com/fallout4/mods/87807) | :tv: [Reviewed by Master Cheesey here](https://www.youtube.com/watch?v=asgMDiuqGjE) |
 | - | 3 | [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) | Adds 12 new case files to Nick Valentine's detective office in Diamond City. | todo | :tv: todo |
-| - | 4 | [You and what army 2.](https://www.nexusmods.com/fallout4/mods/78925) | [Reviewed here by JuiceHead](https://www.youtube.com/watch?v=cLGR6V3ZeaA) Expands the minutemen into a proper faction the player rebuilds by playing the game, complete with integration into the game's world. | [You And What Army 2 - Spanish.] (https://www.nexusmods.com/fallout4/mods/80519) | :tv: todo |
+| - | 4 | [You and what army 2.](https://www.nexusmods.com/fallout4/mods/78925) | Expands the minutemen into a proper faction the player rebuilds by playing the game, complete with integration into the game's world. | [You And What Army 2 - Spanish.] (https://www.nexusmods.com/fallout4/mods/80519) | :tv: [Reviewed here by JuiceHead](https://www.youtube.com/watch?v=cLGR6V3ZeaA) |
 | - | 5 | [Atomic Radio and Tales from the Commonwealth.](https://www.nexusmods.com/fallout4/mods/8704) | Be sure to download **BOTH.** | todo | :tv: todo |
 | - | 6 | [Mad Rock - Quest - Settlement](https://www.nexusmods.com/fallout4/mods/32146) | Brutal, near Billy the Boy in the fridge. | todo | :tv: todo |
 | - | 7 | [Maxwell's World.](https://www.nexusmods.com/fallout4/mods/18949) | A DLC-sized, haunted amusement park quest mod. Fully voiced acted, with new weapons like the heavy incinerator and fireworks cannon, monsters, multiple endings, new companions, and much much more! | :tv: [Maxwell's World reviewed by MxR here.](https://www.youtube.com/watch?v=ikcZwv6BUuw) |
