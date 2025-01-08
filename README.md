@@ -29,7 +29,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Industrial Retexture
 - Livewire Main File 1.4.2
 - Immersive Vendors
-- Maxwells World
 - Minuteman Watchtowers (ESL)
 - Knife Anims
 - Lockpick Interface Retexture - 4k
@@ -107,7 +106,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Gauss Rifle UHD - 4k
 - Assaultron HD - HIGH
 - Vault Dweller's Survival Guide - Complete
-- Maxwells World
 - Project Zeta Expanded
 - Project Zeta
 - More Outfit Variations v1.6 (Vanilla)
@@ -586,12 +584,12 @@ PUT SCREENSHOTS
 | - | 4 | [You and what army 2.](https://www.nexusmods.com/fallout4/mods/78925) | Expands the minutemen into a proper faction the player rebuilds by playing the game, complete with integration into the game's world. | [You And What Army 2 - Spanish.] (https://www.nexusmods.com/fallout4/mods/80519) | :tv: [Reviewed here by JuiceHead](https://www.youtube.com/watch?v=cLGR6V3ZeaA) |
 | - | 5 | [Atomic Radio and Tales from the Commonwealth.](https://www.nexusmods.com/fallout4/mods/8704) | Be sure to download **BOTH.** | todo | :tv: todo |
 | - | 6 | [Mad Rock - Quest - Settlement](https://www.nexusmods.com/fallout4/mods/32146) | Brutal, near Billy the Boy in the fridge. | todo | :tv: todo |
-| - | 7 | [Maxwell's World.](https://www.nexusmods.com/fallout4/mods/18949) | A DLC-sized, haunted amusement park quest mod. Fully voiced acted, with new weapons like the heavy incinerator and fireworks cannon, monsters, multiple endings, new companions, and much much more! | :tv: [Maxwell's World reviewed by MxR here.](https://www.youtube.com/watch?v=ikcZwv6BUuw) |
-| - | 8 | [CSEP Presents Commonwealth Killer - Quest Mod.](https://www.nexusmods.com/fallout4/mods/61305) | ``` TODO. TO BE DONE 🚧 ``` | todo | :tv: todo |
+| - | 7 | [Maxwell's World.](https://www.nexusmods.com/fallout4/mods/18949) | A DLC-sized, haunted amusement park quest mod. | :tv: [Maxwell's World reviewed by MxR here.](https://www.youtube.com/watch?v=ikcZwv6BUuw) |
+| - | 8 | [CSEP Presents Commonwealth Killer - Quest Mod.](https://www.nexusmods.com/fallout4/mods/61305) | todo | todo | :tv: todo |
 | - | 9 | [Submarine Base Echo Dungeon and Quest.](https://www.nexusmods.com/fallout4/mods/14471) | Quest about finding an item for Dr. Waters. A new Dungeon level 30a40 + with some loot at the end. | todo | :tv: todo |
 | - | 10 | [No Quest Autostart - Automatron.](https://www.nexusmods.com/fallout4/mods/31576) | Prevents the Automatron main quest from automatically starting until the player listens to the Caravan Distress Call. | todo | :tv: todo |
 | - | 11 | [The Kelly Manor Horror - Quest.](https://www.nexusmods.com/fallout4/mods/27657) | A spooky horror quest mod. | todo | :tv: todo |
-| - | 12 | [50 Ways to Die at Dr. Nick's - Quest Mod.](https://www.nexusmods.com/fallout4/mods/25564) | 10 Connected Quests, Unique Rewards, Custom Player Home,  Lore-Friendly Backstory, Lots of Explosions, and a Twist. | todo | :tv: todo |
+| - | 12 | [50 Ways to Die at Dr. Nick's - Quest Mod.](https://www.nexusmods.com/fallout4/mods/25564) | 10 Connected Quests, Unique Rewards, Custom Player Home,  Lore-Friendly Backstory, etc. | todo | :tv: todo |
 | - | 13 | [Main Quest Choices Extended.](https://www.nexusmods.com/fallout4/mods/19835) | A few changes that expand your options in the main story including keeping the Railroad alive. | todo | :tv: todo |
 | - | 14 | [Whose Quest Is It Anyway.](https://www.nexusmods.com/fallout4/mods/51979) | Swap the "quest items can't be removed" message with something a little more informative. | todo | :tv: todo |
 | - | 15 | [No Quest Autostart - Far Harbor.](https://www.nexusmods.com/fallout4/mods/31450) | Prevents "Far From Home" from starting without the player either listening to Ellie's radio message or visiting the Nakano residence." | todo | :tv: todo |
