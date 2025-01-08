@@ -12,7 +12,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
   - [Williams Plaza.](https://www.nexusmods.com/fallout4/mods/59566/?tab=files)
   - [Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
   - [Commonwealth Improvements - Fort Strong.](https://www.nexusmods.com/fallout4/mods/22287/?tab=files)
-
 - Retextured Chems v.1 - Ephla's Unique Chems - Ephla's Unique Chems - Vanilla Chem Retextures ONLY
 - Community Fixes Merged
 - Ephla&#39;s Unique First Aid Kits v2
@@ -231,8 +230,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Clearable Fort Hagen Satellite Array
 - BOS Synthetic Facelift
 - Energy Weapon Replacer - Wattz Laser Gun
-
-
 - The Experiment
 - Proper Flyers and Posters v2.1
 - Immersive Power Armor Weapon Restrictions
@@ -244,23 +241,20 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Salvage Robot Parts
 - Scarecrows - ESL flagged ESP
 - Rsiyo's Location Pack
-- 
-HP Vanilla Weapons - Main
-America Rising 2 - Legacy of the Enclave
-Thompson SMG Replacer
-Fallout 4 - Point Lookout
-More Bobbleheads
-Historical Painting Replacer - ESP
-WattzLaserGunAnimationFixes
-Lima Outpost
-Frank's Fort Hagen crash work around - Complete Reunion and start Shadow of Steel - Fort Hagen Fix
-Fallout 4 Next Gen Matswap Bug Fix
-Novatron Torso Fix
-No Bethesda and S.P.E.C.I.A.L Intro
-The Sewers ESM New
-Machine Kit 4K HD Redux
-Ketaros Add-On - Terror Card Series
-Immersive Nahant
+- HP Vanilla Weapons - Main
+- Thompson SMG Replacer
+- More Bobbleheads
+- Historical Painting Replacer - ESP
+- WattzLaserGunAnimationFixes
+- Lima Outpost
+- Frank's Fort Hagen crash work around - Complete Reunion and start Shadow of Steel - Fort Hagen Fix
+- Fallout 4 Next Gen Matswap Bug Fix
+- Novatron Torso Fix
+- No Bethesda and S.P.E.C.I.A.L Intro
+- The Sewers ESM New
+- Machine Kit 4K HD Redux
+- Ketaros Add-On - Terror Card Series
+- Immersive Nahant
 Inside Jobs - Commonwealth Interiors Add-On - Inside Jobs
 
 GD45_DBD_Deathslinger
@@ -473,6 +467,8 @@ etc.
 | [Project Zeta Fixes.](https://www.nexusmods.com/fallout4/mods/65166) | todo | todo |
 | [Project Zeta Expanded.](https://www.nexusmods.com/fallout4/mods/72133) | Makes Project Zeta feel less empty while fixing a couple of bugs. | todo |
 | [Fourville.](https://www.nexusmods.com/fallout4/mods/43979) | A substantial quest mod which adds a new town to the Commonwealth. Features 10 main & 36 side quests, a fully-voiced player, over 5.000 lines of new dialogue, new set of collectable bobbleheads with perks, and plenty to explore and discover. Approximately 8-10 hours of new gameplay. | [Fourville Spanish.](https://www.nexusmods.com/fallout4/mods/83040) |
+- America Rising 2 - Legacy of the Enclave
+- Fallout 4 - Point Lookout
 
 # Locations
 
