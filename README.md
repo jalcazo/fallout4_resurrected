@@ -8,8 +8,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
     - [Immersive and Extended Nahant.](https://www.nexusmods.com/fallout4/mods/36636/)
     - [Commonwealth Underground and Forgotten Spaces.](https://www.nexusmods.com/fallout4/mods/27584?tab=files)
   | [The Sewers.](https://www.nexusmods.com/fallout4/mods/45663?tab=files) | (ESM file). |
-  - [Williams Plaza.](https://www.nexusmods.com/fallout4/mods/59566/?tab=files)
-  - [Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
+    - [Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
   - [Commonwealth Improvements - Fort Strong.](https://www.nexusmods.com/fallout4/mods/22287/?tab=files)
 - Retextured Chems v.1 - Ephla's Unique Chems - Ephla's Unique Chems - Vanilla Chem Retextures ONLY
 - Community Fixes Merged
@@ -474,6 +473,7 @@ etc.
 | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|----------|
 | [Immersive Hub City Auto Wreckers.](https://www.nexusmods.com/fallout4/mods/35882?tab=files) | todo | Not needed | :tv: todo |
+| [Williams Plaza.](https://www.nexusmods.com/fallout4/mods/59566/?tab=files) | todo | todo | :tv: todo |
 | [Immersive Beantown Brewery.](https://www.nexusmods.com/fallout4/mods/31598) | Adds details and Enemies to the Beantown Brewery, making it a stronger and realistic location. | todo | :tv: todo |
 | [Immersive Drumlin Diner.](https://www.nexusmods.com/fallout4/mods/18995) | todo | todo | :tv: todo |
 | [Starlight Drive-In Overhaul.](https://www.nexusmods.com/fallout4/mods/12763) | A small mod to repair the Starlight Drive-In. The parking is repaired and the pond was moved. That's it really. | todo | :tv: todo |
