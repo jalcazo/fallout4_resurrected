@@ -595,7 +595,7 @@ PUT SCREENSHOTS
 | - | 13 | [Main Quest Choices Extended.](https://www.nexusmods.com/fallout4/mods/19835) | A few changes that expand your options in the main story including keeping the Railroad alive. | todo | :tv: todo |
 | - | 14 | [Whose Quest Is It Anyway.](https://www.nexusmods.com/fallout4/mods/51979) | Swap the "quest items can't be removed" message with something a little more informative. | todo | :tv: todo |
 | - | 15 | [No Quest Autostart - Far Harbor.](https://www.nexusmods.com/fallout4/mods/31450) | Prevents "Far From Home" from starting without the player either listening to Ellie's radio message or visiting the Nakano residence." | todo | :tv: todo |
-| - | 16 | [CHAOTIC SUN.](https://www.nexusmods.com/fallout4/mods/38808) 2.9GB!!!| "It starts with a Nameless Island and is an adventure focused on combat and exploration. The dungeon that accumulates a person's memory. powerful Temple Knights and their Synth Army. Stalkers seem to have gathered after hearing the rumor of treasure. You fight with the help of a 3D-printed spirit called Wraith, and the Android. Let's get started!" | todo | :tv: todo |
+| - | 16 | [CHAOTIC SUN.](https://www.nexusmods.com/fallout4/mods/38808) 2.9GB!!!| todo | todo | :tv: todo |
 | - | 17 | [Introducing - Radium-Inc.](https://www.nexusmods.com/fallout4/mods/32175) | A dungeon mod with a small questline, this mod takes the player through the headquarters of Radium-Inc., a company that made radium-infused products. | todo | :tv: todo |
 
 # Armor / Armors / Cloth / Clothes
