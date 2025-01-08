@@ -26,7 +26,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Armor and Clothing HD Fixed - 4K 2K - Thaylar's Clothing - Armor 4k Repacked BA2
 - NMCs Bundle HIGH
 - Ketaros Add-On - Board Games Collection
-- Journey to Ipswich
 - Industrial Retexture
 - Livewire Main File 1.4.2
 - Immersive Vendors
@@ -582,28 +581,25 @@ PUT SCREENSHOTS
 
 # Quests
 
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [Attack of the Lobotomites.](https://www.nexusmods.com/fallout4/mods/51787) | [Reviewed by Master Cheesey here](https://www.youtube.com/watch?v=asgMDiuqGjE) Adds a new quest, a new dungeon filled with new voice-acted hostile and non-hostile NPCs, new weapons, new armors, workshop stuff, other goodies. | not done yet |
-| [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) | Adds 12 new case files to Nick Valentine's detective office in Diamond City. | todo |
-| [You and what army 2.](https://www.nexusmods.com/fallout4/mods/78925) | [Reviewed here by JuiceHead](https://www.youtube.com/watch?v=cLGR6V3ZeaA) Expands the minutemen into a proper faction the player rebuilds by playing the game, complete with integration into the game's world. | [You And What Army 2 - Spanish.](https://www.nexusmods.com/fallout4/mods/80519) | 
-| [Atomic Radio and Tales from the Commonwealth.](https://www.nexusmods.com/fallout4/mods/8704) | Be sure to download **BOTH.** | todo |
-| [Mad Rock - Quest - Settlement](https://www.nexusmods.com/fallout4/mods/32146) | Brutal, near Billy the Boy in the fridge. | todo |
-| [Maxwell's World.](https://www.nexusmods.com/fallout4/mods/18949) | A DLC-sized, haunted amusement park quest mod. Fully voiced acted, with new weapons like the heavy incinerator and fireworks cannon, monsters, multiple endings, new companions, and much much more! | :tv: [Maxwell's World reviewed by MxR here.](https://www.youtube.com/watch?v=ikcZwv6BUuw) |
-| [CSEP Presents Commonwealth Killer - Quest Mod.](https://www.nexusmods.com/fallout4/mods/61305) | ``` TODO. TO BE DONE 🚧 ``` | todo |
-| [Submarine Base Echo Dungeon and Quest.](https://www.nexusmods.com/fallout4/mods/14471) | Quest about finding an item for Dr. Waters. A new Dungeon level 30a40 + with some loot at the end. | todo |
-| [No Quest Autostart - Automatron.](https://www.nexusmods.com/fallout4/mods/31576) | Prevents the Automatron main quest from automatically starting until the player listens to the Caravan Distress Call. | todo |
-| [The Kelly Manor Horror - Quest.](https://www.nexusmods.com/fallout4/mods/27657) | A spooky horror quest mod. | todo |
-| [50 Ways to Die at Dr. Nick's - Quest Mod.](https://www.nexusmods.com/fallout4/mods/25564) | 10 Connected Quests, Unique Rewards, Custom Player Home, Lore-Friendly Backstory, Lots of Explosions, and a Twist. | todo |
-| [Main Quest Choices Extended.](https://www.nexusmods.com/fallout4/mods/19835) | A few changes that expand your options in the main story including keeping the Railroad alive. | todo |
-| [Whose Quest Is It Anyway.](https://www.nexusmods.com/fallout4/mods/51979) | Swap the "quest items can't be removed" message with something a little more informative. | todo |
-| [No Quest Autostart - Far Harbor.](https://www.nexusmods.com/fallout4/mods/31450) | Prevents "Far From Home" from starting without the player either listening to Ellie's radio message or visiting the Nakano residence." | todo |
-| [CHAOTIC SUN.](https://www.nexusmods.com/fallout4/mods/38808) 2.9GB!!!| "It starts with a Nameless Island and is an adventure focused on combat and exploration. The dungeon that accumulates a person's memory. powerful Temple Knights and their Synth Army. Stalkers seem to have gathered after hearing the rumor of treasure. You fight with the help of a 3D-printed spirit called Wraith, and the Android. Let's get started!" | todo |
-| [Enter The Brotherhood.](https://www.nexusmods.com/fallout4/mods/28006) | Fixes the BoS quest line so that in order to get them in the Commonwealth, you have to help Danse and his team. | todo |
-| [Introducing - Radium-Inc.](https://www.nexusmods.com/fallout4/mods/32175) | A dungeon mod with a small questline, this mod takes the player through the headquarters of Radium-Inc., a company that made radium-infused products. | todo |
-| [String Theory.](https://www.nexusmods.com/fallout4/mods/33148) | What begins as a normal morning by Commonwealth standards soon unravels into strangeness when you stop by your local Sanctuary Diner. A young man needs a favour, a young girl has a one of a kind key and an important story needs to be told. This mod contains three new locations and two quests. **Note - This mod doesn't have voice acting.** | todo |
-
-posar imatges github
+| Installed? | Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|----------|
+| YES | 1 | [Journey to Ipswich](https://www.nexusmods.com/fallout4/mods/16933) | Adds a spooky new marshland to explore and a small questline to complete. | :tv: todo | 
+| - | 2 | [Attack of the Lobotomites.](https://www.nexusmods.com/fallout4/mods/51787) | [Reviewed by Master Cheesey here](https://www.youtube.com/watch?v=asgMDiuqGjE) Adds a new quest, a new dungeon filled with new voice-acted hostile and non-hostile NPCs, new weapons, new armors, workshop stuff, other goodies. | not done yet | :tv: todo |
+| - | 3 | [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) | Adds 12 new case files to Nick Valentine's detective office in Diamond City. | todo | :tv: todo |
+| - | 4 | [You and what army 2.](https://www.nexusmods.com/fallout4/mods/78925) | [Reviewed here by JuiceHead](https://www.youtube.com/watch?v=cLGR6V3ZeaA) Expands the minutemen into a proper faction the player rebuilds by playing the game, complete with integration into the game's world. | [You And What Army 2 - Spanish.] (https://www.nexusmods.com/fallout4/mods/80519) | :tv: todo |
+| - | 5 | [Atomic Radio and Tales from the Commonwealth.](https://www.nexusmods.com/fallout4/mods/8704) | Be sure to download **BOTH.** | todo | :tv: todo |
+| - | 6 | [Mad Rock - Quest - Settlement](https://www.nexusmods.com/fallout4/mods/32146) | Brutal, near Billy the Boy in the fridge. | todo | :tv: todo |
+| - | 7 | [Maxwell's World.](https://www.nexusmods.com/fallout4/mods/18949) | A DLC-sized, haunted amusement park quest mod. Fully voiced acted, with new weapons like the heavy incinerator and fireworks cannon, monsters, multiple endings, new companions, and much much more! | :tv: [Maxwell's World reviewed by MxR here.](https://www.youtube.com/watch?v=ikcZwv6BUuw) |
+| - | 8 | [CSEP Presents Commonwealth Killer - Quest Mod.](https://www.nexusmods.com/fallout4/mods/61305) | ``` TODO. TO BE DONE 🚧 ``` | todo | :tv: todo |
+| - | 9 | [Submarine Base Echo Dungeon and Quest.](https://www.nexusmods.com/fallout4/mods/14471) | Quest about finding an item for Dr. Waters. A new Dungeon level 30a40 + with some loot at the end. | todo | :tv: todo |
+| - | 10 | [No Quest Autostart - Automatron.](https://www.nexusmods.com/fallout4/mods/31576) | Prevents the Automatron main quest from automatically starting until the player listens to the Caravan Distress Call. | todo | :tv: todo |
+| - | 11 | [The Kelly Manor Horror - Quest.](https://www.nexusmods.com/fallout4/mods/27657) | A spooky horror quest mod. | todo | :tv: todo |
+| - | 12 | [50 Ways to Die at Dr. Nick's - Quest Mod.](https://www.nexusmods.com/fallout4/mods/25564) | 10 Connected Quests, Unique Rewards, Custom Player Home,  Lore-Friendly Backstory, Lots of Explosions, and a Twist. | todo | :tv: todo |
+| - | 13 | [Main Quest Choices Extended.](https://www.nexusmods.com/fallout4/mods/19835) | A few changes that expand your options in the main story including keeping the Railroad alive. | todo | :tv: todo |
+| - | 14 | [Whose Quest Is It Anyway.](https://www.nexusmods.com/fallout4/mods/51979) | Swap the "quest items can't be removed" message with something a little more informative. | todo | :tv: todo |
+| - | 15 | [No Quest Autostart - Far Harbor.](https://www.nexusmods.com/fallout4/mods/31450) | Prevents "Far From Home" from starting without the player either listening to Ellie's radio message or visiting the Nakano residence." | todo | :tv: todo |
+| - | 16 | [CHAOTIC SUN.](https://www.nexusmods.com/fallout4/mods/38808) 2.9GB!!!| "It starts with a Nameless Island and is an adventure focused on combat and exploration. The dungeon that accumulates a person's memory. powerful Temple Knights and their Synth Army. Stalkers seem to have gathered after hearing the rumor of treasure. You fight with the help of a 3D-printed spirit called Wraith, and the Android. Let's get started!" | todo | :tv: todo |
+| - | 17 | [Introducing - Radium-Inc.](https://www.nexusmods.com/fallout4/mods/32175) | A dungeon mod with a small questline, this mod takes the player through the headquarters of Radium-Inc., a company that made radium-infused products. | todo | :tv: todo |
 
 # Armor / Armors / Cloth / Clothes
 
