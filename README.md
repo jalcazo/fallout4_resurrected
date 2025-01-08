@@ -172,8 +172,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Workbench Replacer - HIGH - DESATURATED
 - exShinra's Better Road Textures - Better Roads v0.02
 - The Lost Building of Atlantic - Atlantic Offices
-- Millennium Clutter - Base Object Swapper
-- Millennium Clutter ESL flagged ESP
 - BN Laundry Detergent (Ba2)
 - The Hunting Rifle Set - 4k esl
 - Fallout Brotherhood - A Storyteller Quest Mod
@@ -412,7 +410,6 @@ etc.
 
 # Important
 
-| [Extended Dialogue Interface.](https://www.nexusmods.com/fallout4/mods/27216) | Easier conversation. | [Extended Dialogue Interface -Spanish-](https://www.nexusmods.com/fallout4/mods/49498) |
 | [Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul.](https://www.nexusmods.com/fallout4/mods/56984). | Alternative starting. Not doing the same playthrough (and initial long cutscene) every time. | [Start Me Up Redux Spanish 7.3](https://www.nexusmods.com/fallout4/mods/68060) |
 | [Lighthouse Papyrus Extender.](https://www.nexusmods.com/fallout4/mods/71420) | Required by some mods. | Not needed. |
 | [RobCo Patcher.](https://www.nexusmods.com/fallout4/mods/69798) | A patcher based on F4SE and CommonLibF4, which allows mod authors and users to modify game data without the use of plugins. | Not needed. |
@@ -693,7 +690,6 @@ ADD MORE IMAGES
 |----------|----------|----------|
 | [Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/67528) | F4SE plugin for swapping objects for others in creative and cool ways. | todo |
 | [Baka Framework.](https://www.nexusmods.com/fallout4/mods/43627) | "Baka Framework is required for Base Object Swapper to function". | todo |
-| [Millennium Clutter - Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/68073) | Replaces vanilla misc items in the world with the Millennium Clutter counterparts, requires [Millennium Clutter ESL flagged ESP.](https://www.nexusmods.com/fallout4/mods/67929) (128 new items placed all over the world. Mugs, Fans, Telephones, Skates, Basketballs, Batteries, etc.) | todo |
 | [Book Collector - Philosophy for the Wasteland - Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/72665) | "There is a 10% chance for each burnt book to swap" ... "Replaces "BookBurnt" in the world with books from Book Collector - Philosophy for the Wasteland Using Base Object Swapper." | todo |
 | [Capital Wasteland Workshop Pack - Base Object Swapper.](https://www.nexusmods.com/fallout4/mods/69298) | "- Furniture has a 60% chance to swap with no re-roll." ... "Replaces vanilla furniture in the world with the Capital Wasteland Workshop Pack counterparts Using Base Object Swapper." (Capital Wasteland Workshop Pack - Required, Capital Wasteland Workshop Pack II - Optional) | todo |
 | [Capital Wasteland Workshop Pack.](https://www.nexusmods.com/fallout4/mods/43068) | "This is a full new workshop pack containing tons of new furniture, workshop items and two brand new building kits. The pack contains around 200 new placeable items!" | todo |
@@ -945,12 +941,11 @@ Aesthetic presets:
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
 
-
-
 # GUI
 
-| Mod | Brief Summary | Spanish Translation |
-|----------|----------|----------|
+| Installed now? | Number | Mod | Brief Summary | Spanish Translation |
+|----------|----------|----------|----------|----------|
+| YES | [Extended Dialogue Interface.](https://www.nexusmods.com/fallout4/mods/27216) | Easier conversation. | [Extended Dialogue Interface -Spanish-](https://www.nexusmods.com/fallout4/mods/49498) |
 | [HUDFramework.](https://www.nexusmods.com/fallout4/mods/20309) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [FallUI - HUD.](https://www.nexusmods.com/fallout4/mods/51813) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 | [FallUI - Icon Library.](https://www.nexusmods.com/fallout4/mods/60579) | todo | todo |
