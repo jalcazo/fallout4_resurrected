@@ -147,7 +147,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Capital Wasteland Behemoths
 - Emirals The Machine and Her Revival
 - Flourishing Salem ESL
-- Williams Plaza
 - The Fens Sheriff's Department - Textures
 - Ellen - the cartographer - Ellen - Final version
 - Immersive Hub City Auto Wreckers
