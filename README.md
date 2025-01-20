@@ -4,13 +4,11 @@
 
 My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
-
-    - [Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
-  
-- Ephla&#39;s Unique First Aid Kits v2
-- 2k precious metal loose new
-- Power Armors Redone - 2K - Loose Version
-- SavrenX HD Junk and Props DLC
+[Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
+Ephla&#39;s Unique First Aid Kits v2
+2k precious metal loose new
+Power Armors Redone - 2K - Loose Version
+SavrenX HD Junk and Props DLC
 - HD prewar money weathered 4k
 - SavrenX Landscape Interior Building DLC
 - Real Troughs - New Brahmin Feeders
@@ -917,11 +915,12 @@ Avoid:
   
 # Audio, music, SFX
 
-| Mod | Brief summary | Spanish translation |
+| Number | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|
 | 1 | [Aggressive synth voice overhaul.](https://www.nexusmods.com/fallout4/mods/2105) | More menacing-sounding synths. Very cool and immersive. | todo | :tv: todo |
 | 2 | [More Where That Came From - Diamond City Radio Edition.](https://www.nexusmods.com/fallout4/mods/637) | More classical tunes on the radio. | todo | :tv: todo |
 | 3 | [Radiant Birds](https://www.nexusmods.com/fallout4/mods/2397) | Adds Real Sounds and Fixes for Birds. | Not needed. | [RadiantBirds v.05](https://www.youtube.com/watch?v=bVjQfyv3pLw) |
+| 4 | [Lush Ambience - A Green Soundscape](https://www.nexusmods.com/fallout4/mods/38609) | Birds, creaking trees, rustling leaves... | Not needed. | [Fallout 4 - Lush Ambience: Sanctuary Hills](https://www.youtube.com/watch?v=ZJuNz3sU6QQ) |
 
 # Gore / blood / violence
 
