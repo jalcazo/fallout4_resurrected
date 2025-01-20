@@ -5,12 +5,10 @@
 My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
 
-    - [Immersive and Extended Nahant.](https://www.nexusmods.com/fallout4/mods/36636/)
     - [Commonwealth Underground and Forgotten Spaces.](https://www.nexusmods.com/fallout4/mods/27584?tab=files)
   | [The Sewers.](https://www.nexusmods.com/fallout4/mods/45663?tab=files) | (ESM file). |
     - [Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
-  - [Commonwealth Improvements - Fort Strong.](https://www.nexusmods.com/fallout4/mods/22287/?tab=files)
-- Retextured Chems v.1 - Ephla's Unique Chems - Ephla's Unique Chems - Vanilla Chem Retextures ONLY
+  - Retextured Chems v.1 - Ephla's Unique Chems - Ephla's Unique Chems - Vanilla Chem Retextures ONLY
 - Community Fixes Merged
 - Ephla&#39;s Unique First Aid Kits v2
 - 2k precious metal loose new
@@ -251,7 +249,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Machine Kit 4K HD Redux
 - Ketaros Add-On - Terror Card Series
 - Immersive Nahant
-Inside Jobs - Commonwealth Interiors Add-On - Inside Jobs
 
 GD45_DBD_Deathslinger
 DD_prelude_273
@@ -269,7 +266,6 @@ SS2 XDI Compatibility Patch
 High Resolution Texture Pack 2K and 4K - Valius - Textures - Ultra 4K Version (BA2 Format)
 femshepping and radbeetle's KS Hairdos Conversions - Hat texture fix for version 9
 Wild Wasteland V4.5
-Stumble Upon Interiors
 Better Weapon Scrap - ESL-flagged
 Age of Steel - Cybermen in the Commonwealth
 Adult billboards and posters
@@ -660,12 +656,13 @@ ADD MORE IMAGES
 
 # Towns
 
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [Salem Expanded](https://www.nexusmods.com/fallout4/mods/27420) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
-| [Diamond City Expansion.](https://www.nexusmods.com/fallout4/mods/21853) | :tv: [Reviewed here by MxR](https://www.youtube.com/watch?v=yQNNo4eu2F8) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Concord EXPANDED](https://www.nexusmods.com/fallout4/mods/27333) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
-| [Fort Hagen EXPANDED (More Loot Buildings and Enemies)](https://www.nexusmods.com/fallout4/mods/27607) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Immersive and Extended Nahant.](https://www.nexusmods.com/fallout4/mods/36636/) | Overhauls Nahant, making it feel more like a major town in the game, not just another empty location. | Not needed. | :tv: todo |
+| 2 | [Salem Expanded](https://www.nexusmods.com/fallout4/mods/27420) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| 3 | [Diamond City Expansion.](https://www.nexusmods.com/fallout4/mods/21853) | :tv: [Reviewed here by MxR](https://www.youtube.com/watch?v=yQNNo4eu2F8) | ``` TODO. TO BE DONE 🚧 ``` |
+| 4 | [Concord EXPANDED](https://www.nexusmods.com/fallout4/mods/27333) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
+| 5 | [Fort Hagen EXPANDED (More Loot Buildings and Enemies)](https://www.nexusmods.com/fallout4/mods/27607) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
 
 # Base Object Swapper
 
@@ -864,6 +861,10 @@ Aesthetic presets:
 | 6 | [Rsiyo's Location Pack](https://www.nexusmods.com/fallout4/mods/38501) | todo | todo | :tv: todo |
 | 7 | [Overboss HQ Overhaul.](https://www.nexusmods.com/fallout4/mods/29968) | Overhauls the Overboss place over in Nuka World. | todo | todo | :tv: todo |
 | 8 | [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293) | todo | todo | :tv: todo |
+| 9 | [Commonwealth Improvements - Fort Strong.](https://www.nexusmods.com/fallout4/mods/22287) | todo | todo | :tv: todo |
+| 10 | [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539) | This mod adds 11 new, atmospheric interiors to the Commonwealth; from failed businesses to rundown bars, long abandoned homes, and even a dark crypt or two. | [Stumble Upon Interiors Spanish traduccion](https://www.nexusmods.com/fallout4/mods/88567) | :tv: todo |
+| 11 | [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320) | Adds more unmarked interior locations to the game. | [Inside Jobs - Commonwealth Interiors Add-On Spanish Traduccion](https://www.nexusmods.com/fallout4/mods/89416) | :tv: todo |
+
 
 Avoid:
 
