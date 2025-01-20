@@ -4,7 +4,7 @@
 
 My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
-    - [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293)
+
     - [Immersive and Extended Nahant.](https://www.nexusmods.com/fallout4/mods/36636/)
     - [Commonwealth Underground and Forgotten Spaces.](https://www.nexusmods.com/fallout4/mods/27584?tab=files)
   | [The Sewers.](https://www.nexusmods.com/fallout4/mods/45663?tab=files) | (ESM file). |
@@ -138,7 +138,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Attachment Pack
 - The Laser Series - 4k esl
 - Commonwealth Canvases Blackened Brass 4k
-- Jurttu's Interiors 1.3
+
 - Boon Island
 - Manly Mason Eyes of Beauty Eyes
 - HD LOD Textures
@@ -201,7 +201,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Oni hair re-texture new color new alpha
 - Old World Radio - Boston v6.02
 - polariasystems.esp
-- Plenty 'o' Exploration - More Interiors and Exteriors - Discontinued - POE Files Update 1.8.2
 - Ransacked Relays and Shuddersome Subways
 - Really Red Rocket 4K - Worn
 - moreXplore-12.1
@@ -854,15 +853,21 @@ Aesthetic presets:
 
 # Interiors
 
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [Landwer Interiors Project.](https://www.nexusmods.com/fallout4/mods/52889)] | Adds 9 interiors to the Commonwealth. | todo |
-| [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
-| [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
-| [moreXplore](https://www.nexusmods.com/fallout4/mods/28733) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
-| [Rsiyo's Location Pack](https://www.nexusmods.com/fallout4/mods/38501) | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
-| [Overboss HQ Overhaul.](https://www.nexusmods.com/fallout4/mods/29968) | Overhauls the Overboss place over in Nuka World. | ``` TODO. TO BE DONE 🚧 ``` | ``` TODO. TO BE DONE 🚧 ``` |
-| [Better The Third Rail](https://www.nexusmods.com/fallout4/mods/15388) | todo | todo |
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Plenty 'o' Exploration - More Interiors and Exteriors - Discontinued](https://www.nexusmods.com/fallout4/mods/14735) | Additional Concord interiors. | todo | :tv: todo |
+- Jurttu's Interiors 1.3
+| 2 | [Landwer Interiors Project.](https://www.nexusmods.com/fallout4/mods/52889)] | Adds 9 interiors to the Commonwealth. | todo | :tv: todo  |
+| 3 | [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539) | todo | todo | :tv: todo |
+| 4 | [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320) | todo | todo | :tv: todo |
+| 5 | [moreXplore](https://www.nexusmods.com/fallout4/mods/28733) | todo | todo | :tv: todo |
+| 6 | [Rsiyo's Location Pack](https://www.nexusmods.com/fallout4/mods/38501) | todo | todo | :tv: todo |
+| 7 | [Overboss HQ Overhaul.](https://www.nexusmods.com/fallout4/mods/29968) | Overhauls the Overboss place over in Nuka World. | todo | todo | :tv: todo |
+| 8 | [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293) | todo | todo | :tv: todo |
+
+Avoid:
+
+- Better The Third Rail: It's very nice but some objects flicker in and out of existence. Jaume 20/1/2025.
 
 # Homes / Houses
 
