@@ -995,19 +995,16 @@ PUT ALTERNATIVES LESS SPICY
 
 # Sound
 
+| Number | Mod | Brief Summary | Spanish Translation |
+|----------|----------|----------|----------|
+
 Fallout 4 Resound - Guns | [review](https://www.youtube.com/watch?v=yKLzX8S3iVc) 
-
-# Presets
-
-| Mod | Brief Summary | Spanish Translation |
-|----------|----------|----------|
-| [Extended Facial Sculpting - now with 90 percent less beta](https://www.nexusmods.com/fallout4/mods/25087) | a |
 
 # Adults NSFW / adult content
 
-| Mod | Brief Summary | Spanish Translation |
-|----------|----------|----------|
-| [Vault Girl Main Menu and Main Menu Sound Replacer.](https://www.nexusmods.com/fallout4/mods/76225) | Spicy new main menu & new music for it (not too much NSFW). |
-| [New Vault Girl Bobbleheads NSFW.](https://www.nexusmods.com/fallout4/mods/63047) | . | . |
-| [Bobble Girl - Skimpy Outfit Retexture UPDATED.](https://www.nexusmods.com/fallout4/mods/41859) | . | . |
-
+| Number | Mod | Brief Summary | Spanish Translation |
+|----------|----------|----------|----------|
+| 1 | [Vault Girl Main Menu and Main Menu Sound Replacer.](https://www.nexusmods.com/fallout4/mods/76225) | Spicy new main menu & new music for it (not too much NSFW). |
+| 2 | [New Vault Girl Bobbleheads NSFW.](https://www.nexusmods.com/fallout4/mods/63047) | . | . |
+| 3 | [Bobble Girl - Skimpy Outfit Retexture UPDATED.](https://www.nexusmods.com/fallout4/mods/41859) | . | . |
+| 4 | [I read it for the articles I swear - Fallout 2 Cat's Paw Magazine's in Fallout 4](https://www.nexusmods.com/fallout4/mods/90849) | . | . |
