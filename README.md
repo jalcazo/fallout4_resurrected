@@ -240,7 +240,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Fallout 4 Next Gen Matswap Bug Fix
 - Novatron Torso Fix
 - No Bethesda and S.P.E.C.I.A.L Intro
-- The Sewers ESM New
 - Machine Kit 4K HD Redux
 - Ketaros Add-On - Terror Card Series
 - Immersive Nahant
@@ -580,18 +579,20 @@ PUT SCREENSHOTS
 
 | Number | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
-| 1 | [Polaria Systems (Dungeon)](https://www.nexusmods.com/fallout4/mods/84454) | Polaria systems is a large pre-war underground facility overtaken by Gunners. The facility features countless machines and experiments, one of which being an unlockable weapon; The Gravity Grenade. As the player explores the ruins of Polaria Systems they find remnants of its history and accomplishments. | todo | :tv: todo |
-| 2 | [Commonwealth Underground and Forgotten Spaces](https://www.nexusmods.com/fallout4/mods/27584) | 20 new underground interior spaces added to the general Commonwealth. | :tv: todo |
-| 3 | [The Sewers](https://www.nexusmods.com/fallout4/mods/45663) | todo | todo | :tv: todo |
-| 4 | [The Mannequin Cult](https://www.nexusmods.com/fallout4/mods/44195) | Adds a new dungeon inhabited by a mannequin-obsessed cult. | todo | :tv: todo |
-| 5 | [The Depths Below.](https://www.nexusmods.com/fallout4/mods/19301) | Settlers at Hangman's Alley are being attacked, and it's up to you to put a stop to it. But things are not what they appear to be! Discover the mysterious train station, and unravel the mystery of The Depths Below. | todo | :tv: todo |
-| 6 | [Attack of the Lobotomites.](https://www.nexusmods.com/fallout4/mods/51787) | Adds a new quest, a new dungeon filled with new voice-acted hostile and non-hostile NPCs, new weapons, new armors, workshop stuff, other goodies. | | [Attack of the Lobotomites Spanish traduccion](https://www.nexusmods.com/fallout4/mods/87807) | :tv: [Reviewed by Master Cheesey here](https://www.youtube.com/watch?v=asgMDiuqGjE) |
-| 7 | [Submarine Base Echo Dungeon and Quest.](https://www.nexusmods.com/fallout4/mods/14471) | Quest about finding an item for Dr. Waters. A new Dungeon level 30a40 + with some loot at the end. | todo | :tv: todo |
-| 8 | [Wildwood Cemetery Tombs - A Dungeon Below](https://www.nexusmods.com/fallout4/mods/51802) | Explore the maze of the Wildwood Cemetery Tombs. And get some neat items. | todo | :tv: todo |
-| 9 | [Remnants Bunker](https://www.nexusmods.com/fallout4/mods/42323) | Adds a new location, An Enclave remnants bunker to the commonwealth. FO3 inspired Raven Rock Building set. Lot's of custom assets. Also with the custom Assets is the workshop mode for building. | todo | :tv: todo |
-| 10 | [Introducing - Radium-Inc.](https://www.nexusmods.com/fallout4/mods/32175) | A dungeon mod with a small questline, this mod takes the player through the headquarters of Radium-Inc., a company that made radium-infused products. | todo | :tv: todo |
-| 11 | [The Lost Building of Atlantic](https://www.nexusmods.com/fallout4/mods/25401) | As you're wandering through the ruins of downtown Boston, you find a building which is heavily fortified by a camp of raiders. You're not about to let a bunch of raiders get in the way of your curiosity, so you blast through them and enter the building. Inside, you can learn the story of Allison Miller, the CEO of Atlantic Pharmaceuticals. | todo | :tv: todo |
-| 12 | [Vault 201 - Black Site Epiales](https://www.nexusmods.com/fallout4/mods/32717) | A broken smokestack leads down into the depths of humanity's own hell on earth; a black site, a pre-war army medical facility charged with work so morally disgusting you'll just need to discover it for yourself. | todo | :tv: todo |
+| 1 | [Caves Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/75647) | todo | :tv: todo |
+| 2 | [Polaria Systems (Dungeon)](https://www.nexusmods.com/fallout4/mods/84454) | Polaria systems is a large pre-war underground facility overtaken by Gunners. The facility features countless machines and experiments, one of which being an unlockable weapon; The Gravity Grenade. As the player explores the ruins of Polaria Systems they find remnants of its history and accomplishments. | todo | :tv: todo |
+| 3 | [Commonwealth Underground and Forgotten Spaces](https://www.nexusmods.com/fallout4/mods/27584) | 20 new underground interior spaces added to the general Commonwealth. | :tv: todo |
+| 4 | [The Sewers](https://www.nexusmods.com/fallout4/mods/45663) | todo | todo | :tv: todo |
+| 5 | [The Mannequin Cult](https://www.nexusmods.com/fallout4/mods/44195) | Adds a new dungeon inhabited by a mannequin-obsessed cult. | todo | :tv: todo |
+| 6 | [The Depths Below.](https://www.nexusmods.com/fallout4/mods/19301) | Settlers at Hangman's Alley are being attacked, and it's up to you to put a stop to it. But things are not what they appear to be! Discover the mysterious train station, and unravel the mystery of The Depths Below. | todo | :tv: todo |
+| 7 | [Attack of the Lobotomites.](https://www.nexusmods.com/fallout4/mods/51787) | Adds a new quest, a new dungeon filled with new voice-acted hostile and non-hostile NPCs, new weapons, new armors, workshop stuff, other goodies. | | [Attack of the Lobotomites Spanish traduccion](https://www.nexusmods.com/fallout4/mods/87807) | :tv: [Reviewed by Master Cheesey here](https://www.youtube.com/watch?v=asgMDiuqGjE) |
+| 8 | [Submarine Base Echo Dungeon and Quest.](https://www.nexusmods.com/fallout4/mods/14471) | Quest about finding an item for Dr. Waters. A new Dungeon level 30a40 + with some loot at the end. | todo | :tv: todo |
+| 9 | [Wildwood Cemetery Tombs - A Dungeon Below](https://www.nexusmods.com/fallout4/mods/51802) | Explore the maze of the Wildwood Cemetery Tombs. And get some neat items. | todo | :tv: todo |
+| 10 | [Remnants Bunker](https://www.nexusmods.com/fallout4/mods/42323) | Adds a new location, An Enclave remnants bunker to the commonwealth. FO3 inspired Raven Rock Building set. Lot's of custom assets. Also with the custom Assets is the workshop mode for building. | todo | :tv: todo |
+| 11 | [Introducing - Radium-Inc.](https://www.nexusmods.com/fallout4/mods/32175) | A dungeon mod with a small questline, this mod takes the player through the headquarters of Radium-Inc., a company that made radium-infused products. | todo | :tv: todo |
+| 12 | [The Lost Building of Atlantic](https://www.nexusmods.com/fallout4/mods/25401) | As you're wandering through the ruins of downtown Boston, you find a building which is heavily fortified by a camp of raiders. You're not about to let a bunch of raiders get in the way of your curiosity, so you blast through them and enter the building. Inside, you can learn the story of Allison Miller, the CEO of Atlantic Pharmaceuticals. | todo | :tv: todo |
+| 13 | [Vault 201 - Black Site Epiales](https://www.nexusmods.com/fallout4/mods/32717) | A broken smokestack leads down into the depths of humanity's own hell on earth; a black site, a pre-war army medical facility charged with work so morally disgusting you'll just need to discover it for yourself. | todo | :tv: todo |
+| 14 | [The Sewers](https://www.nexusmods.com/fallout4/mods/45663) | Step down into the sewers and see where the journey takes you. | todo | :tv: review |
 
 # Armor / Armors / Cloth / Clothes
 
@@ -603,7 +604,6 @@ PUT SCREENSHOTS
 | 4 | [CROSS_InstituteExpeditionarySuit.](https://www.nexusmods.com/fallout4/mods/30857) | The outfit is not added to any leveled lists, it can only be found in hand-placed locations or crafted. | todo | :tv: todo |
 | 5 | [The Pip-Boy Glove.](https://www.nexusmods.com/fallout4/mods/80480) | 'Adds the Pip-Boy Glove from Fallout 3 and Fallout New Vegas! Craftable, Upgradeable, and comes in 3 colors.' | [The Pip-Boy Glove - Spanish.](https://www.nexusmods.com/fallout4/mods/80559) | :tv: todo |
 | 6 | [Nuka Gear.](https://www.nexusmods.com/fallout4/mods/11798/) (Elianora - Ellise - DDProductions83) | Mod adds Nuka-Cola-inspired equipment and weapons to the game. They're based on the Nuka-Cola posters found in the game. :tv: [Fallout 4 Mod Showcase: Nuka Gear by Elianora-Ellise-DDProductions83](https://www.youtube.com/watch?v=n8hVjCzmK9E) | todo | :tv: todo |
-| 7 | Collectibles: [Teddies 76 - A Mr. Fuzzy mod.](https://www.nexusmods.com/fallout4/mods/57424) | Adds a huge amount of collectible teddybears into the game inspired by the Mr. Fuzzy mascot and toys. | todo | :tv: todo |
 | 8 | [Far Harbor Shack. (Elianora)](https://www.nexusmods.com/fallout4/mods/25359) | todo | todo | :tv: todo |
 | 9 | [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431) | todo | [Eli's Armour Compendium (Spanish Translation).](https://www.nexusmods.com/fallout4/mods/24882) | :tv: todo |
 
@@ -820,10 +820,13 @@ Aesthetic presets:
 
 # Collectibles
 
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) | This treasure hunt adds 40 classic works of western philosophy. ESP marked as ESL. | todo
-    
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Book Collector - Philosophy for the Wasteland.](https://www.nexusmods.com/fallout4/mods/72568) | This treasure hunt adds 40 classic works of western philosophy. ESP marked as ESL. | todo | :tv: todo |
+| 2 | [Teddies 76 - A Mr. Fuzzy mod.](https://www.nexusmods.com/fallout4/mods/57424) | Adds a huge amount of collectible teddybears into the game inspired by the Mr. Fuzzy mascot and toys. | todo | :tv: todo |
+| 3 | [Radlings Commemorative Baseballs](https://www.nexusmods.com/fallout4/mods/18549) | Radlings, the maker of fine baseballs, brings you 120 commemorative baseballs to collect. | todo | :tv: todo |
+| 4 | [Civil Defense Index - New Magazines](https://www.nexusmods.com/fallout4/mods/89093) | Adds the Civil Defense Index to the Commonwealth! A new collectible magazine series with 6 entries, a custom perk, unique visuals, and thoughtful world distribution. | todo | :tv: todo |
+
 <img src="collectibles/philosophy_books.jpg"/>
     
 # Ketaros Collectibles
@@ -911,12 +914,13 @@ Avoid:
 | [Total Hack - Magazine Retexture.](https://www.nexusmods.com/fallout4/mods/50253) | todo | todo |
 | [MM JOURNALS.](https://www.nexusmods.com/fallout4/mods/57092) | todo | todo |
   
-# Audio
+# Audio, music, SFX
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Aggressive synth voice overhaul.](https://www.nexusmods.com/fallout4/mods/2105) | More menacing-sounding synths. Very cool and immersive. | todo |
-| [More Where That Came From - Diamond City Radio Edition.](https://www.nexusmods.com/fallout4/mods/637) | More classical tunes on the radio. | todo |
+| 1 | [Aggressive synth voice overhaul.](https://www.nexusmods.com/fallout4/mods/2105) | More menacing-sounding synths. Very cool and immersive. | todo | :tv: todo |
+| 2 | [More Where That Came From - Diamond City Radio Edition.](https://www.nexusmods.com/fallout4/mods/637) | More classical tunes on the radio. | todo | :tv: todo |
+| 3 | [Radiant Birds](https://www.nexusmods.com/fallout4/mods/2397) | Adds Real Sounds and Fixes for Birds. | Not needed. | [RadiantBirds v.05](https://www.youtube.com/watch?v=bVjQfyv3pLw) |
 
 # Gore / blood / violence
 
@@ -936,7 +940,6 @@ Avoid:
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Caves Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/75647) | todo |
 | [Fallout 4 - Point Lookout.](https://www.nexusmods.com/fallout4/mods/60330) | [:tv: Reviewed here](https://www.youtube.com/watch?v=AcabOwh95B0) | [Fallout 4 - Point Lookout traduccion español.](https://www.nexusmods.com/fallout4/mods/60413) |
 | [Fallout 4 Point Lookout - Voiced Player Lines Addon.](https://www.nexusmods.com/fallout4/mods/60387) | todo |
 
@@ -997,8 +1000,7 @@ PUT ALTERNATIVES LESS SPICY
 
 | Number | Mod | Brief Summary | Spanish Translation |
 |----------|----------|----------|----------|
-
-Fallout 4 Resound - Guns | [review](https://www.youtube.com/watch?v=yKLzX8S3iVc) 
+| 1 | [Fallout 4 Resound Project - Guns](https://www.nexusmods.com/fallout4/mods/83453) | The vanilla gun sound overhaul you didn't know you needed. Includes rechambers, barrels changes, reloads, equips, player, and NPC Sounds. | todo | [review](https://www.youtube.com/watch?v=yKLzX8S3iVc) 
 
 # Adults NSFW / adult content
 
