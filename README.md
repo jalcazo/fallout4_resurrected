@@ -458,14 +458,13 @@ etc.
 
 # Locations
 
-| Mod | Brief summary | Spanish translation | Video review |
-|----------|----------|----------|----------|
-| [Immersive Hub City Auto Wreckers.](https://www.nexusmods.com/fallout4/mods/35882?tab=files) | todo | Not needed | :tv: todo |
-| [Williams Plaza.](https://www.nexusmods.com/fallout4/mods/59566/?tab=files) | todo | todo | :tv: todo |
-| [Immersive Beantown Brewery.](https://www.nexusmods.com/fallout4/mods/31598) | Adds details and Enemies to the Beantown Brewery, making it a stronger and realistic location. | todo | :tv: todo |
-| [Immersive Drumlin Diner.](https://www.nexusmods.com/fallout4/mods/18995) | todo | todo | :tv: todo |
-| [Starlight Drive-In Overhaul.](https://www.nexusmods.com/fallout4/mods/12763) | A small mod to repair the Starlight Drive-In. The parking is repaired and the pond was moved. That's it really. | todo | :tv: todo |
-| [The Depths Below.](https://www.nexusmods.com/fallout4/mods/19301) | Settlers at Hangman's Alley are being attacked, and it's up to you to put a stop to it. But things are not what they appear to be! Discover the mysterious train station, and unravel the mystery of The Depths Below. | todo | :tv: todo |
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Immersive Hub City Auto Wreckers.](https://www.nexusmods.com/fallout4/mods/35882?tab=files) | todo | Not needed | :tv: todo |
+| 2 | [Williams Plaza.](https://www.nexusmods.com/fallout4/mods/59566/?tab=files) | todo | todo | :tv: todo |
+| 3 | [Immersive Beantown Brewery.](https://www.nexusmods.com/fallout4/mods/31598) | Adds details and Enemies to the Beantown Brewery, making it a stronger and realistic location. | todo | :tv: todo |
+| 4 | [Immersive Drumlin Diner.](https://www.nexusmods.com/fallout4/mods/18995) | todo | todo | :tv: todo |
+| 5 | [Starlight Drive-In Overhaul.](https://www.nexusmods.com/fallout4/mods/12763) | A small mod to repair the Starlight Drive-In. The parking is repaired and the pond was moved. That's it really. | todo | :tv: todo |
 
 # Animations
 
@@ -587,6 +586,7 @@ PUT SCREENSHOTS
 | 1 | [Commonwealth Underground and Forgotten Spaces](https://www.nexusmods.com/fallout4/mods/27584) | 20 new underground interior spaces added to the general Commonwealth. | :tv: todo |
 | 2 | [The Sewers](https://www.nexusmods.com/fallout4/mods/45663) | todo | todo | :tv: todo |
 | 3 | [The Mannequin Cult](https://www.nexusmods.com/fallout4/mods/44195) | Adds a new dungeon inhabited by a mannequin-obsessed cult. | todo | :tv: todo |
+| 4 | [The Depths Below.](https://www.nexusmods.com/fallout4/mods/19301) | Settlers at Hangman's Alley are being attacked, and it's up to you to put a stop to it. But things are not what they appear to be! Discover the mysterious train station, and unravel the mystery of The Depths Below. | todo | :tv: todo |
 
 # Armor / Armors / Cloth / Clothes
 
