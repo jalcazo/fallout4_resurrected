@@ -560,32 +560,33 @@ PUT SCREENSHOTS
 
 # Quests
 
-| Installed? | Number | Mod | Brief summary | Spanish translation | Video review |
-|----------|----------|----------|----------|----------|----------|
-| YES | 1 | [Journey to Ipswich](https://www.nexusmods.com/fallout4/mods/16933) | Adds a spooky new marshland to explore and a small questline to complete. | todo | :tv: [Fallout 4 Quest Mods: Journey To Ipswich - Part 1)(https://www.youtube.com/watch?v=jVcSF7wsoy4) | 
-| YES | 2 | [Attack of the Lobotomites.](https://www.nexusmods.com/fallout4/mods/51787) | Adds a new quest, a new dungeon filled with new voice-acted hostile and non-hostile NPCs, new weapons, new armors, workshop stuff, other goodies. | [Attack of the Lobotomites Spanish traduccion](https://www.nexusmods.com/fallout4/mods/87807) | :tv: [Reviewed by Master Cheesey here](https://www.youtube.com/watch?v=asgMDiuqGjE) |
-| - | 3 | [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) | Adds 12 new case files to Nick Valentine's detective office in Diamond City. | todo | :tv: todo |
-| - | 4 | [You and what army 2.](https://www.nexusmods.com/fallout4/mods/78925) | Expands the minutemen into a proper faction the player rebuilds by playing the game, complete with integration into the game's world. | [You And What Army 2 - Spanish.] (https://www.nexusmods.com/fallout4/mods/80519) | :tv: [Reviewed here by JuiceHead](https://www.youtube.com/watch?v=cLGR6V3ZeaA) |
-| - | 5 | [Atomic Radio and Tales from the Commonwealth.](https://www.nexusmods.com/fallout4/mods/8704) | Be sure to download **BOTH.** | todo | :tv: todo |
-| - | 6 | [Mad Rock - Quest - Settlement](https://www.nexusmods.com/fallout4/mods/32146) | Brutal, near Billy the Boy in the fridge. | todo | :tv: todo |
-| - | 7 | [Maxwell's World.](https://www.nexusmods.com/fallout4/mods/18949) | A DLC-sized, haunted amusement park quest mod. | :tv: [Maxwell's World reviewed by MxR here.](https://www.youtube.com/watch?v=ikcZwv6BUuw) |
-| - | 8 | [CSEP Presents Commonwealth Killer - Quest Mod.](https://www.nexusmods.com/fallout4/mods/61305) | todo | todo | :tv: todo |
-| - | 9 | [Submarine Base Echo Dungeon and Quest.](https://www.nexusmods.com/fallout4/mods/14471) | Quest about finding an item for Dr. Waters. A new Dungeon level 30a40 + with some loot at the end. | todo | :tv: todo |
-| - | 10 | [No Quest Autostart - Automatron.](https://www.nexusmods.com/fallout4/mods/31576) | Prevents the Automatron main quest from automatically starting until the player listens to the Caravan Distress Call. | todo | :tv: todo |
-| - | 11 | [The Kelly Manor Horror - Quest.](https://www.nexusmods.com/fallout4/mods/27657) | A spooky horror quest mod. | todo | :tv: todo |
-| - | 12 | [50 Ways to Die at Dr. Nick's - Quest Mod.](https://www.nexusmods.com/fallout4/mods/25564) | 10 Connected Quests, Unique Rewards, Custom Player Home,  Lore-Friendly Backstory, etc. | todo | :tv: todo |
-| - | 13 | [Main Quest Choices Extended.](https://www.nexusmods.com/fallout4/mods/19835) | A few changes that expand your options in the main story including keeping the Railroad alive. | todo | :tv: todo |
-| - | 14 | [Whose Quest Is It Anyway.](https://www.nexusmods.com/fallout4/mods/51979) | Swap the "quest items can't be removed" message with something a little more informative. | todo | :tv: todo |
-| - | 15 | [No Quest Autostart - Far Harbor.](https://www.nexusmods.com/fallout4/mods/31450) | Prevents "Far From Home" from starting without the player either listening to Ellie's radio message or visiting the Nakano residence." | todo | :tv: todo |
-| - | 16 | [CHAOTIC SUN.](https://www.nexusmods.com/fallout4/mods/38808) 2.9GB!!!| todo | todo | :tv: todo |
-| - | 17 | [Introducing - Radium-Inc.](https://www.nexusmods.com/fallout4/mods/32175) | A dungeon mod with a small questline, this mod takes the player through the headquarters of Radium-Inc., a company that made radium-infused products. | todo | :tv: todo |
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Journey to Ipswich](https://www.nexusmods.com/fallout4/mods/16933) | Adds a spooky new marshland to explore and a small questline to complete. | todo | :tv: [Fallout 4 Quest Mods: Journey To Ipswich - Part 1)(https://www.youtube.com/watch?v=jVcSF7wsoy4) | 
+| 2 | [Attack of the Lobotomites.](https://www.nexusmods.com/fallout4/mods/51787) | Adds a new quest, a new dungeon filled with new voice-acted hostile and non-hostile NPCs, new weapons, new armors, workshop stuff, other goodies. | [Attack of the Lobotomites Spanish traduccion](https://www.nexusmods.com/fallout4/mods/87807) | :tv: [Reviewed by Master Cheesey here](https://www.youtube.com/watch?v=asgMDiuqGjE) |
+| 3 | [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) | Adds 12 new case files to Nick Valentine's detective office in Diamond City. | todo | :tv: todo |
+| 4 | [You and what army 2.](https://www.nexusmods.com/fallout4/mods/78925) | Expands the minutemen into a proper faction the player rebuilds by playing the game, complete with integration into the game's world. | [You And What Army 2 - Spanish.] (https://www.nexusmods.com/fallout4/mods/80519) | :tv: [Reviewed here by JuiceHead](https://www.youtube.com/watch?v=cLGR6V3ZeaA) |
+| 5 | [Atomic Radio and Tales from the Commonwealth.](https://www.nexusmods.com/fallout4/mods/8704) | Be sure to download **BOTH.** | todo | :tv: todo |
+| 6 | [Mad Rock - Quest - Settlement](https://www.nexusmods.com/fallout4/mods/32146) | Brutal, near Billy the Boy in the fridge. | todo | :tv: todo |
+| 7 | [Maxwell's World.](https://www.nexusmods.com/fallout4/mods/18949) | A DLC-sized, haunted amusement park quest mod. | :tv: [Maxwell's World reviewed by MxR here.](https://www.youtube.com/watch?v=ikcZwv6BUuw) |
+| 8 | [CSEP Presents Commonwealth Killer - Quest Mod.](https://www.nexusmods.com/fallout4/mods/61305) | todo | todo | :tv: todo |
+| 9 | [Submarine Base Echo Dungeon and Quest.](https://www.nexusmods.com/fallout4/mods/14471) | Quest about finding an item for Dr. Waters. A new Dungeon level 30a40 + with some loot at the end. | todo | :tv: todo |
+| 10 | [No Quest Autostart - Automatron.](https://www.nexusmods.com/fallout4/mods/31576) | Prevents the Automatron main quest from automatically starting until the player listens to the Caravan Distress Call. | todo | :tv: todo |
+| 11 | [The Kelly Manor Horror - Quest.](https://www.nexusmods.com/fallout4/mods/27657) | A spooky horror quest mod. | todo | :tv: todo |
+| 12 | [50 Ways to Die at Dr. Nick's - Quest Mod.](https://www.nexusmods.com/fallout4/mods/25564) | 10 Connected Quests, Unique Rewards, Custom Player Home,  Lore-Friendly Backstory, etc. | todo | :tv: todo |
+| 13 | [Main Quest Choices Extended.](https://www.nexusmods.com/fallout4/mods/19835) | A few changes that expand your options in the main story including keeping the Railroad alive. | todo | :tv: todo |
+| 14 | [Whose Quest Is It Anyway.](https://www.nexusmods.com/fallout4/mods/51979) | Swap the "quest items can't be removed" message with something a little more informative. | todo | :tv: todo |
+| 15 | [No Quest Autostart - Far Harbor.](https://www.nexusmods.com/fallout4/mods/31450) | Prevents "Far From Home" from starting without the player either listening to Ellie's radio message or visiting the Nakano residence." | todo | :tv: todo |
+| 16 | [CHAOTIC SUN.](https://www.nexusmods.com/fallout4/mods/38808) 2.9GB!!!| todo | todo | :tv: todo |
+| 17 | [Introducing - Radium-Inc.](https://www.nexusmods.com/fallout4/mods/32175) | A dungeon mod with a small questline, this mod takes the player through the headquarters of Radium-Inc., a company that made radium-infused products. | todo | :tv: todo |
 
 # Dungeons
 
 | Number | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
-| 1 | [Commonwealth Underground and Forgotten Spaces.](https://www.nexusmods.com/fallout4/mods/27584) | 20 new underground interior spaces added to the general Commonwealth. | :tv: todo |
-| 2 | [The Sewers.](https://www.nexusmods.com/fallout4/mods/45663) | todo | todo | :tv: todo |
+| 1 | [Commonwealth Underground and Forgotten Spaces](https://www.nexusmods.com/fallout4/mods/27584) | 20 new underground interior spaces added to the general Commonwealth. | :tv: todo |
+| 2 | [The Sewers](https://www.nexusmods.com/fallout4/mods/45663) | todo | todo | :tv: todo |
+| 3 | [The Mannequin Cult](https://www.nexusmods.com/fallout4/mods/44195) | Adds a new dungeon inhabited by a mannequin-obsessed cult. | todo | :tv: todo |
 
 # Armor / Armors / Cloth / Clothes
 
