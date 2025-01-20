@@ -5,11 +5,11 @@
 My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
 
-    - [Commonwealth Underground and Forgotten Spaces.](https://www.nexusmods.com/fallout4/mods/27584?tab=files)
+   
   | [The Sewers.](https://www.nexusmods.com/fallout4/mods/45663?tab=files) | (ESM file). |
     - [Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
   - Retextured Chems v.1 - Ephla's Unique Chems - Ephla's Unique Chems - Vanilla Chem Retextures ONLY
-- Community Fixes Merged
+
 - Ephla&#39;s Unique First Aid Kits v2
 - 2k precious metal loose new
 - Power Armors Redone - 2K - Loose Version
@@ -397,14 +397,15 @@ etc.
 
 # Fix/fixes
 
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [Community Fixes Merged](https://www.nexusmods.com/fallout4/mods/74945) | A collection of fixes made by the community over the years, with open permissions. | [Community Fixes Merged - Spanish.](https://www.nexusmods.com/fallout4/mods/75033) |
-| [Community Tweaks Merged. (different from the other one)](https://www.nexusmods.com/fallout4/mods/83532) | Removes Annoyances; Implements Fixes and Immersive/Performance/Quolity of Life Tweaks. | todo |
-| [Load Accelerator.](https://www.nexusmods.com/fallout4/mods/10283) | Reduce the loading time by controlling vsync(fps) and CPU affinity at loading screen. This is expected to shorten the loading time under the SSD environment. (Under an HDD environment does not seem to have much effect) | Not needed. |
-| [Long Loading Times Fix.](https://www.nexusmods.com/fallout4/mods/73469) | F4SE plugin to fix long loading times. Also some settings for loading screens. | todo (Russian translation is available). |
-| [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737) | Corrects for a longstanding bug that causes third-person mobility to be slower than first-person in almost all circumstances -- sometimes by more than half. | Not needed. |
-| [Unofficial Fallout 4 Patch - UFO4P.](https://www.nexusmods.com/fallout4/mods/4598) | 'A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.' | [Unofficial Fallout 4 Patch - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35417) |
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Community Fixes Merged](https://www.nexusmods.com/fallout4/mods/74945) | A collection of fixes made by the community over the years, with open permissions. | [Community Fixes Merged - Spanish.](https://www.nexusmods.com/fallout4/mods/75033) | :tv: todo |
+| 2 | [Community Tweaks Merged. (different from the other one)](https://www.nexusmods.com/fallout4/mods/83532) | Removes Annoyances; Implements Fixes and Immersive/Performance/Quolity of Life Tweaks. | todo | :tv: todo |
+| 3 | [Community Fixes Merged](https://www.nexusmods.com/fallout4/mods/74945) | A collection of fixes made by the community over the years, with open permissions. | [Community Fixes Merged - Spanish](https://www.nexusmods.com/fallout4/mods/75033) | :tv: todo |
+| 4 | [Load Accelerator.](https://www.nexusmods.com/fallout4/mods/10283) | Reduce the loading time by controlling vsync(fps) and CPU affinity at loading screen. This is expected to shorten the loading time under the SSD environment. (Under an HDD environment does not seem to have much effect) | Not needed. | :tv: todo |
+| 5 | [Long Loading Times Fix.](https://www.nexusmods.com/fallout4/mods/73469) | F4SE plugin to fix long loading times. Also some settings for loading screens. | todo (Russian translation is available). |
+| 6 | [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737) | Corrects for a longstanding bug that causes third-person mobility to be slower than first-person in almost all circumstances -- sometimes by more than half. | Not needed. | :tv: todo |
+| 7 | [Unofficial Fallout 4 Patch - UFO4P.](https://www.nexusmods.com/fallout4/mods/4598) | 'A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.' | [Unofficial Fallout 4 Patch - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35417) | :tv: todo |
 
 # Perks / Level up menu/screen
 
@@ -586,20 +587,25 @@ PUT SCREENSHOTS
 | - | 16 | [CHAOTIC SUN.](https://www.nexusmods.com/fallout4/mods/38808) 2.9GB!!!| todo | todo | :tv: todo |
 | - | 17 | [Introducing - Radium-Inc.](https://www.nexusmods.com/fallout4/mods/32175) | A dungeon mod with a small questline, this mod takes the player through the headquarters of Radium-Inc., a company that made radium-infused products. | todo | :tv: todo |
 
+# Dungeons
+
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Commonwealth Underground and Forgotten Spaces.](https://www.nexusmods.com/fallout4/mods/27584) | 20 new underground interior spaces added to the general Commonwealth. | :tv: todo |
+
 # Armor / Armors / Cloth / Clothes
 
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187) | ``` TODO. TO BE DONE 🚧 ``` | todo |
-| [Chinese Stealth Suit.](https://www.nexusmods.com/fallout4/mods/20959) | :tv: [Reviewed here by MxR.](https://www.youtube.com/watch?v=9tdoqLwnqCM) | todo |
-| [NCR Outfit Pack.](https://www.nexusmods.com/fallout4/mods/58182) | Adds in loads of new NCR outfits from Fallout New Vegas and its DLCs, these can be found at vendors like Fallon's basement. You can buy both the armours and plans to craft them a the chemistry workbench. | todo |
-| [CROSS_InstituteExpeditionarySuit.](https://www.nexusmods.com/fallout4/mods/30857) | The outfit is not added to any leveled lists, it can only be found in hand-placed locations or crafted. | todo |
-| [The Pip-Boy Glove.](https://www.nexusmods.com/fallout4/mods/80480) | 'Adds the Pip-Boy Glove from Fallout 3 and Fallout New Vegas! Craftable, Upgradeable, and comes in 3 colors.' | [The Pip-Boy Glove - Spanish.](https://www.nexusmods.com/fallout4/mods/80559) |
-
-| [Nuka Gear.](https://www.nexusmods.com/fallout4/mods/11798/) (Elianora - Ellise - DDProductions83) | Mod adds Nuka-Cola-inspired equipment and weapons to the game. They're based on the Nuka-Cola posters found in the game. :tv: [Fallout 4 Mod Showcase: Nuka Gear by Elianora-Ellise-DDProductions83](https://www.youtube.com/watch?v=n8hVjCzmK9E) | todo |
-| Collectibles: [Teddies 76 - A Mr. Fuzzy mod.](https://www.nexusmods.com/fallout4/mods/57424) | Adds a huge amount of collectible teddybears into the game inspired by the Mr. Fuzzy mascot and toys. | todo |
-| [Far Harbor Shack. (Elianora)](https://www.nexusmods.com/fallout4/mods/25359) | todo | todo |
-| [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431) | ``` TODO. TO BE DONE 🚧 ``` | [Eli's Armour Compendium (Spanish Translation).](https://www.nexusmods.com/fallout4/mods/24882) |
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187) | todo | todo | :tv: todo |
+| 2 | [Chinese Stealth Suit.](https://www.nexusmods.com/fallout4/mods/20959) | todo | todo | :tv: todo |
+| 3 | [NCR Outfit Pack.](https://www.nexusmods.com/fallout4/mods/58182) | Adds in loads of new NCR outfits from Fallout New Vegas and its DLCs, these can be found at vendors like Fallon's basement. You can buy both the armours and plans to craft them a the chemistry workbench. | todo | :tv: todo |
+| 4 | [CROSS_InstituteExpeditionarySuit.](https://www.nexusmods.com/fallout4/mods/30857) | The outfit is not added to any leveled lists, it can only be found in hand-placed locations or crafted. | todo | :tv: todo |
+| 5 | [The Pip-Boy Glove.](https://www.nexusmods.com/fallout4/mods/80480) | 'Adds the Pip-Boy Glove from Fallout 3 and Fallout New Vegas! Craftable, Upgradeable, and comes in 3 colors.' | [The Pip-Boy Glove - Spanish.](https://www.nexusmods.com/fallout4/mods/80559) | :tv: todo |
+| 6 | [Nuka Gear.](https://www.nexusmods.com/fallout4/mods/11798/) (Elianora - Ellise - DDProductions83) | Mod adds Nuka-Cola-inspired equipment and weapons to the game. They're based on the Nuka-Cola posters found in the game. :tv: [Fallout 4 Mod Showcase: Nuka Gear by Elianora-Ellise-DDProductions83](https://www.youtube.com/watch?v=n8hVjCzmK9E) | todo | :tv: todo |
+| 7 | Collectibles: [Teddies 76 - A Mr. Fuzzy mod.](https://www.nexusmods.com/fallout4/mods/57424) | Adds a huge amount of collectible teddybears into the game inspired by the Mr. Fuzzy mascot and toys. | todo | :tv: todo |
+| 8 | [Far Harbor Shack. (Elianora)](https://www.nexusmods.com/fallout4/mods/25359) | todo | todo | :tv: todo |
+| 9 | [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431) | todo | [Eli's Armour Compendium (Spanish Translation).](https://www.nexusmods.com/fallout4/mods/24882) | :tv: todo |
 
 <img src="armor/elis_compendium.jpg"/>
 
