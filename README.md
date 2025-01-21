@@ -75,8 +75,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Gauss Rifle UHD - 4k
 - Assaultron HD - HIGH
 - Vault Dweller's Survival Guide - Complete
-- Project Zeta Expanded
-- Project Zeta
 - More Outfit Variations v1.6 (Vanilla)
 - Unique Uniques - Unique Weapons Redone - Version 1.01
 - Atom's Glory Threads - CBBE
@@ -149,7 +147,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Capital Wasteland Robot Pack Main Files
 - Nuka Project 4k esl
 - Post-apocalyptic homemade weapons. Replacer - AVBPipeGunsReplaceENG
-- Project Zeta Fixes - Quarter Invasions
 - Raider Armors Retextured 4K
 - Random Encounter Framework
 - ProtoVaultSuit - Blue 1.2
@@ -436,7 +433,7 @@ This seems to not work in downgraded F4, jaume 21/1/2025:
 | 4 | [Depravity](https://www.nexusmods.com/fallout4/mods/35513) | Large quest/companion mod with evil RPG options for the vanilla main story. 40 quests, 13 companions, and around 20 hours of content. Requires Outcasts and Remnants. | todo | :tv: todo |
 | 5 | [The Machine And Her.](https://www.nexusmods.com/fallout4/mods/30488) | [Reviewed by JuiceHead here.](https://www.youtube.com/watch?v=IjRHM6hPnew) DLC-sized quest featuring 4-5 hours of gameplay, fully voiced companion with custom affinity, new radio station, and a story that reacts to your choices! September 2019 Mod Of The Month! | todo | :tv: todo |
 | 6 | [Fallout 4 Northern Springs DLC.](https://www.nexusmods.com/fallout4/mods/32911) | Northern Springs is a massive DLC that adds a new location larger than Nuka World and Far Harbor. It is an enormous land to explore with new quests, new weapons, new armor, settlements, and much more to find. A true DLC that naturally expands & adds beyond the Commonwealth further to the North. | todo | :tv: todo |
-| 7 | [Project Zeta.](https://www.nexusmods.com/fallout4/mods/60267) | Project based on Mothership Zeta and Invaders from Beyond. Adds a load of new workshop constructibles, 3 New weapons (3 uniques as well), 1 new outfit, one new companion, two new enemy types as well as two new workshops. :tv: [Reviewed here](https://www.youtube.com/watch?v=L_z5WPr_wqs) | [Project Zeta VER. Spanish.](https://www.nexusmods.com/fallout4/mods/67137) | :tv: todo |
+| 7 | [Project Zeta.](https://www.nexusmods.com/fallout4/mods/60267) | Project based on Mothership Zeta and Invaders from Beyond. Adds a load of new workshop constructibles, 3 New weapons (3 uniques as well), 1 new outfit, one new companion, two new enemy types as well as two new workshops. :tv: [Reviewed here](https://www.youtube.com/watch?v=L_z5WPr_wqs) and [here by JuiceHead](https://www.youtube.com/watch?v=OGSGUSi7d7s) | [Project Zeta VER. Spanish.](https://www.nexusmods.com/fallout4/mods/67137) | :tv: todo |
 | 8 | [Project Zeta Fixes.](https://www.nexusmods.com/fallout4/mods/65166) | todo | todo | :tv: todo |
 | 9 | [Project Zeta Expanded.](https://www.nexusmods.com/fallout4/mods/72133) | Makes Project Zeta feel less empty while fixing a couple of bugs. | todo | :tv: todo |
 | 10 | [Fourville.](https://www.nexusmods.com/fallout4/mods/43979) | A substantial quest mod which adds a new town to the Commonwealth. Features 10 main & 36 side quests, a fully-voiced player, over 5.000 lines of new dialogue, new set of collectable bobbleheads with perks, and plenty to explore and discover. Approximately 8-10 hours of new gameplay. | [Fourville Spanish.](https://www.nexusmods.com/fallout4/mods/83040) | :tv: todo |
