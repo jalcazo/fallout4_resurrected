@@ -382,9 +382,12 @@ etc.
 
 # Perks / Level up menu/screen
 
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [LevelUpMenuEx.](https://www.nexusmods.com/fallout4/mods/28822) | Classic perks and skills menus. | [LevelUpMenuEx - Spanish.](https://www.nexusmods.com/fallout4/mods/55737) |
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [LevelUpMenuEx.](https://www.nexusmods.com/fallout4/mods/28822) | Classic perks and skills menus. | [LevelUpMenuEx - Spanish.](https://www.nexusmods.com/fallout4/mods/55737) | :tv: todo |
+
+This seems to not work in downgraded F4, jaume 21/1/2025:
+
 | [Hot Diggity - Skills Perks - Redux.](https://www.nexusmods.com/fallout4/mods/74734) | Adds a dozen skills and dozens of perks to the game to diversify the builds and improve the replayability of Fallout 4. | todo |
 
 # Immersion
