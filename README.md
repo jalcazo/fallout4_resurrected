@@ -4,19 +4,14 @@
 
 My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
-[Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827?tab=files)
 Ephla&#39;s Unique First Aid Kits v2
 2k precious metal loose new
 Power Armors Redone - 2K - Loose Version
 SavrenX HD Junk and Props DLC
 - HD prewar money weathered 4k
 - SavrenX Landscape Interior Building DLC
-- Real Troughs - New Brahmin Feeders
 - Burning Fusion Core Blue 1k
 - Armor and Clothing HD Fixed - 4K 2K - Thaylar's Clothing - Armor 4k Repacked BA2
-- NMCs Bundle HIGH
-- Ketaros Add-On - Board Games Collection
-- Industrial Retexture
 - Livewire Main File 1.4.2
 - Immersive Vendors
 - Minuteman Watchtowers (ESL)
@@ -51,7 +46,6 @@ SavrenX HD Junk and Props DLC
 - Early Game Armor Pack
 - ESL Flaged ESP Nuka Cola Girl Magazine
 - Fog Crawlers Of The Commonwealth
-- Improvised Terminal Keys with Text - new typewriter textures
 - Leafblower Junkjet - 4k esl
 - Maximus' Knight Under Armor Replacer (4K)
 - Nuka-World Plus 1.1
@@ -331,7 +325,7 @@ This suggestions are from the Buffout 4 tutorial page:
 | Endless Warfare﻿ | Some enemy spawn points could be bugged or crash the game, either due to scripts of pathfinding. |
 | Give Me That Bottle﻿ | Seems to be responsible for some Pip-Boy inventory crashes. Consider switching to Fill'em Up Again﻿. |
 | Immersive Hunting Overhaul﻿ (IHO) | Might be responsible for a couple of recent crashes during the game startup. |
-| NPC Level Scaling﻿ | Seems to cause crashes while fast traveling or approaching certain locations due to unknown reasons. |
+| NPC Level Scaling﻿ | Seems to cause crashes while fast traveling or approaching certain places due to unknown reasons. |
 | Respawnable Legendary Bosses﻿ | Sometimes causes Deathclaw/Behmoth boulder projectile crashes for unknown reasons. |
 | Tactical Tablet﻿ | Can cause flickering with certain scopes, early reports mention occasional crashes while browsing workbenches. |
 | Fallout 4 High Resolution DLC | Yes, the official DLC. Linked to several weird problems and crashes. Always keep it disabled. |
@@ -397,6 +391,18 @@ etc.
 | 6 | [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737) | Corrects for a longstanding bug that causes third-person mobility to be slower than first-person in almost all circumstances -- sometimes by more than half. | Not needed. | :tv: todo |
 | 7 | [Unofficial Fallout 4 Patch - UFO4P.](https://www.nexusmods.com/fallout4/mods/4598) | 'A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.' | [Unofficial Fallout 4 Patch - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35417) | :tv: todo |
 
+
+# Locations
+
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Immersive Hub City Auto Wreckers.](https://www.nexusmods.com/fallout4/mods/35882?tab=files) | todo | Not needed | :tv: todo |
+| 2 | [Williams Plaza.](https://www.nexusmods.com/fallout4/mods/59566/?tab=files) | todo | todo | :tv: todo |
+| 3 | [Immersive Beantown Brewery.](https://www.nexusmods.com/fallout4/mods/31598) | Adds details and Enemies to the Beantown Brewery, making it a stronger and realistic location. | todo | :tv: todo |
+| 4 | [Immersive Drumlin Diner.](https://www.nexusmods.com/fallout4/mods/18995) | todo | todo | :tv: todo |
+| 5 | [Starlight Drive-In Overhaul.](https://www.nexusmods.com/fallout4/mods/12763) | A small mod to repair the Starlight Drive-In. The parking is repaired and the pond was moved. That's it really. | todo | :tv: todo |
+| 6 | [Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827) | todo | todo | :tv: todo |
+
 # Perks / Level up menu/screen
 
 | Mod | Brief summary | Spanish translation |
@@ -421,47 +427,39 @@ etc.
 | [More Realistic Fire Behavior.](https://www.nexusmods.com/fallout4/mods/30246) | This mod simply makes it so that when NPCs have 100% of their skin engulfed in flames they care a little. | Not needed. |
 | [Military MREs - Meal Ready to Eat - New Food.](https://www.nexusmods.com/fallout4/mods/25824) | Pre-war MREs in 14 flavors featuring brand-new meshes and textures. Supply caches at military bases, and injected into vendor lists. | todo (french translation already is done). |
 
-# Weapons
-
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522) | The character has the gun downed when not firing. | Not needed. |
-| [ITO Institute Technology Overhaul - Weapons.](https://www.nexusmods.com/fallout4/mods/70352) | [Reviewed here.](https://www.youtube.com/watch?v=KZBQNTcuai8) | todo |
-| [All Weapons HD (A.W.H.D.).](https://www.nexusmods.com/fallout4/mods/8556) | 4K upscale of every weapon in the game 0.o Yup you heard right, Every single one! | todo |
-| [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426) | Removes ammo from guns on corpses and adds it to the corpse's inventory. | Not needed. |
-| [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087) | todo | todo |
-| [Remote Explosives - C4 with Detonators and More.](https://www.nexusmods.com/fallout4/mods/22444) |Adds familiar C-4 and three other new explosive types with new meshes, and a working remote detonator with new animations, giving you you the ability to make explosives more tactical or blow up your enemy's pants from afar! | [Remote Explosives - C4 with Detonators and More - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/29315) |
-| [M84 FlashBang.](https://www.nexusmods.com/fallout4/mods/56981) | The FlashBang can blind and paralyze more than 20 creatures in the game. | todo |
-| [Bullpup Bozar.](https://www.nexusmods.com/fallout4/mods/28478) | This mod will add Bozar - a legendary sniper LMG from Fallout 2 and Fallout New Vegas GRA DLC, with new bullpup design, custom assets and animations. | todo |
-| [MW2023 - Katt-AMR.](https://www.nexusmods.com/fallout4/mods/76201) | Adds the Katt-AMR from MW3 (2023) into Fallout 4. Requires "See Through Scopes, see below". | todo |
-| [See Through Scopes.](https://www.nexusmods.com/fallout4/mods/9476) | Adds see-through (so no scope overlay) Combat Scopes to various weapons. | [See Through Scopes -Spanish-](https://www.nexusmods.com/fallout4/mods/53858) |
-
-# DLC sized expansions
-
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [The Fens Sheriff's Department - Bleachers 2.](https://www.nexusmods.com/fallout4/mods/68276) | [ :tv: Reviewed by JuicedHead here](https://www.youtube.com/watch?v=B9lziKNAMZ4) | [The Fens Sheriff's Department - Bleachers 2 Spanish 2.7.1](https://www.nexusmods.com/fallout4/mods/68591) |
-| [America Rising 2 - Legacy of the Enclave](https://www.nexusmods.com/fallout4/mods/75767) | [Reviewed by Master Cheesey here](https://www.youtube.com/watch?v=asgMDiuqGjE) Remaster of the 1. Review by JuiceHead. | [America Rising 2 - Legacy of the Enclave Spanish 1.1.1](https://www.nexusmods.com/fallout4/mods/75875) |
-| [Outcasts and Remnants - Quest Mod Plus](https://www.nexusmods.com/fallout4/mods/21469) | DLC-sized quest mod. 20 hours of gameplay with new factions, locations, player bases, and fully-voiced custom companions. | [Outcasts and Remnants - Quest Mod Plus SPANISH.](https://www.nexusmods.com/fallout4/mods/42017) |
-| [Depravity](https://www.nexusmods.com/fallout4/mods/35513) | Large quest/companion mod with evil RPG options for the vanilla main story. 40 quests, 13 companions, and around 20 hours of content. Requires Outcasts and Remnants. | todo |
-| [The Machine And Her.](https://www.nexusmods.com/fallout4/mods/30488) | [Reviewed by JuiceHead here.](https://www.youtube.com/watch?v=IjRHM6hPnew) DLC-sized quest featuring 4-5 hours of gameplay, fully voiced companion with custom affinity, new radio station, and a story that reacts to your choices! September 2019 Mod Of The Month! | todo |
-| [Fallout 4 Northern Springs DLC.](https://www.nexusmods.com/fallout4/mods/32911) | Northern Springs is a massive DLC that adds a new location larger than Nuka World and Far Harbor. It is an enormous land to explore with new quests, new weapons, new armor, settlements, and much more to find. A true DLC that naturally expands & adds beyond the Commonwealth further to the North. | todo |
-| [Project Zeta.](https://www.nexusmods.com/fallout4/mods/60267) | Project based on Mothership Zeta and Invaders from Beyond. Adds a load of new workshop constructibles, 3 New weapons (3 uniques as well), 1 new outfit, one new companion, two new enemy types as well as two new workshops. :tv: [Reviewed here](https://www.youtube.com/watch?v=L_z5WPr_wqs) | [Project Zeta VER. Spanish.](https://www.nexusmods.com/fallout4/mods/67137) |
-| [Project Zeta Fixes.](https://www.nexusmods.com/fallout4/mods/65166) | todo | todo |
-| [Project Zeta Expanded.](https://www.nexusmods.com/fallout4/mods/72133) | Makes Project Zeta feel less empty while fixing a couple of bugs. | todo |
-| [Fourville.](https://www.nexusmods.com/fallout4/mods/43979) | A substantial quest mod which adds a new town to the Commonwealth. Features 10 main & 36 side quests, a fully-voiced player, over 5.000 lines of new dialogue, new set of collectable bobbleheads with perks, and plenty to explore and discover. Approximately 8-10 hours of new gameplay. | [Fourville Spanish.](https://www.nexusmods.com/fallout4/mods/83040) |
-- America Rising 2 - Legacy of the Enclave
-- Fallout 4 - Point Lookout
-
-# Locations
+# Meshes
 
 | Number | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
-| 1 | [Immersive Hub City Auto Wreckers.](https://www.nexusmods.com/fallout4/mods/35882?tab=files) | todo | Not needed | :tv: todo |
-| 2 | [Williams Plaza.](https://www.nexusmods.com/fallout4/mods/59566/?tab=files) | todo | todo | :tv: todo |
-| 3 | [Immersive Beantown Brewery.](https://www.nexusmods.com/fallout4/mods/31598) | Adds details and Enemies to the Beantown Brewery, making it a stronger and realistic location. | todo | :tv: todo |
-| 4 | [Immersive Drumlin Diner.](https://www.nexusmods.com/fallout4/mods/18995) | todo | todo | :tv: todo |
-| 5 | [Starlight Drive-In Overhaul.](https://www.nexusmods.com/fallout4/mods/12763) | A small mod to repair the Starlight Drive-In. The parking is repaired and the pond was moved. That's it really. | todo | :tv: todo |
+| 1 | [Real Troughs - New Brahmin Feeders (standalone)](https://www.nexusmods.com/fallout4/mods/12945) | Tired of feeding your Brahmin from a bathtub? Me too, so I made some new meshes/textures from scratch. Standalone meshes for both feeder and trader outpost. Filled with delicious (ew) Brahmin feed. | todo | :tv: todo |
+
+# Weapons
+
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522) | The character has the gun downed when not firing. | Not needed. | :tv: todo |
+| 2 | [ITO Institute Technology Overhaul - Weapons.](https://www.nexusmods.com/fallout4/mods/70352) | [Reviewed here.](https://www.youtube.com/watch?v=KZBQNTcuai8) | todo | :tv: todo |
+| 3 | [All Weapons HD (A.W.H.D.).](https://www.nexusmods.com/fallout4/mods/8556) | 4K upscale of every weapon in the game 0.o Yup you heard right, Every single one! | todo | :tv: todo |
+| 4 | [Remove Ammo from Dropped Guns.](https://www.nexusmods.com/fallout4/mods/64426) | Removes ammo from guns on corpses and adds it to the corpse's inventory. | Not needed. | :tv: todo |
+| 5 | [Better Ammo Boxes.](https://www.nexusmods.com/fallout4/mods/8087) | todo | todo | :tv: todo |
+| 6 | [M84 FlashBang.](https://www.nexusmods.com/fallout4/mods/56981) | The FlashBang can blind and paralyze more than 20 creatures in the game. | todo | :tv: todo |
+| 7 | [See Through Scopes.](https://www.nexusmods.com/fallout4/mods/9476) | Adds see-through (so no scope overlay) Combat Scopes to various weapons. | [See Through Scopes -Spanish-](https://www.nexusmods.com/fallout4/mods/53858) | :tv: todo |
+
+# DLC sized expansions
+
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [The Fens Sheriff's Department - Bleachers 2.](https://www.nexusmods.com/fallout4/mods/68276) | [ :tv: Reviewed by JuicedHead here](https://www.youtube.com/watch?v=B9lziKNAMZ4) | [The Fens Sheriff's Department - Bleachers 2 Spanish 2.7.1](https://www.nexusmods.com/fallout4/mods/68591) | :tv: todo |
+| 2 | [America Rising 2 - Legacy of the Enclave](https://www.nexusmods.com/fallout4/mods/75767) | [Reviewed by Master Cheesey here](https://www.youtube.com/watch?v=asgMDiuqGjE) Remaster of the 1. Review by JuiceHead. | [America Rising 2 - Legacy of the Enclave Spanish 1.1.1](https://www.nexusmods.com/fallout4/mods/75875) | :tv: todo |
+| 3 | [Outcasts and Remnants - Quest Mod Plus](https://www.nexusmods.com/fallout4/mods/21469) | DLC-sized quest mod. 20 hours of gameplay with new factions, locations, player bases, and fully-voiced custom companions. | [Outcasts and Remnants - Quest Mod Plus SPANISH.](https://www.nexusmods.com/fallout4/mods/42017) | :tv: todo |
+| 4 | [Depravity](https://www.nexusmods.com/fallout4/mods/35513) | Large quest/companion mod with evil RPG options for the vanilla main story. 40 quests, 13 companions, and around 20 hours of content. Requires Outcasts and Remnants. | todo | :tv: todo |
+| 5 | [The Machine And Her.](https://www.nexusmods.com/fallout4/mods/30488) | [Reviewed by JuiceHead here.](https://www.youtube.com/watch?v=IjRHM6hPnew) DLC-sized quest featuring 4-5 hours of gameplay, fully voiced companion with custom affinity, new radio station, and a story that reacts to your choices! September 2019 Mod Of The Month! | todo | :tv: todo |
+| 6 | [Fallout 4 Northern Springs DLC.](https://www.nexusmods.com/fallout4/mods/32911) | Northern Springs is a massive DLC that adds a new location larger than Nuka World and Far Harbor. It is an enormous land to explore with new quests, new weapons, new armor, settlements, and much more to find. A true DLC that naturally expands & adds beyond the Commonwealth further to the North. | todo | :tv: todo |
+| 7 | [Project Zeta.](https://www.nexusmods.com/fallout4/mods/60267) | Project based on Mothership Zeta and Invaders from Beyond. Adds a load of new workshop constructibles, 3 New weapons (3 uniques as well), 1 new outfit, one new companion, two new enemy types as well as two new workshops. :tv: [Reviewed here](https://www.youtube.com/watch?v=L_z5WPr_wqs) | [Project Zeta VER. Spanish.](https://www.nexusmods.com/fallout4/mods/67137) | :tv: todo |
+| 8 | [Project Zeta Fixes.](https://www.nexusmods.com/fallout4/mods/65166) | todo | todo | :tv: todo |
+| 9 | [Project Zeta Expanded.](https://www.nexusmods.com/fallout4/mods/72133) | Makes Project Zeta feel less empty while fixing a couple of bugs. | todo | :tv: todo |
+| 10 | [Fourville.](https://www.nexusmods.com/fallout4/mods/43979) | A substantial quest mod which adds a new town to the Commonwealth. Features 10 main & 36 side quests, a fully-voiced player, over 5.000 lines of new dialogue, new set of collectable bobbleheads with perks, and plenty to explore and discover. Approximately 8-10 hours of new gameplay. | [Fourville Spanish.](https://www.nexusmods.com/fallout4/mods/83040) | :tv: todo |
+| 11 | [Fallout 4 - Point Lookout](https://www.nexusmods.com/fallout4/mods/60330) | Fallout 4: Point Lookout is a fan recreation of Fallout 3's Point Lookout DLC, fully realized in Fallout 4, including all quests and NPCs. | [Fallout 4 - Point Lookout traduccion espanol](https://www.nexusmods.com/fallout4/mods/60413) | :tv: [Reviewed here by JuiceHead](https://www.youtube.com/watch?v=AtYbeDSOIi0) |
 
 # Animations
 
@@ -640,6 +638,8 @@ PUT SCREENSHOTS
 | 11 | Retextured Chems v.1 - Ephla's Unique Chems - Ephla's Unique Chems - Vanilla Chem Retextures ONLY | todo | todo | :tv: todo |
 | 12 | FO4FI HD Series (HD Power Armor)
 | 13 | Langleys HD Textures Workshop
+| 14 | [Improvised Terminal Keys with Text - new typewriter textures](https://www.nexusmods.com/fallout4/mods/20619) | todo | todo | :tv: todo |
+| 15 | [Industrial Objects Retexture](https://www.nexusmods.com/fallout4/mods/8511/) | todo | todo | :tv: todo |
 
 <img src="textures/terminals.jpg"/>
 
