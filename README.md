@@ -4,14 +4,8 @@
 
 My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
-Ephla&#39;s Unique First Aid Kits v2
-2k precious metal loose new
-Power Armors Redone - 2K - Loose Version
-SavrenX HD Junk and Props DLC
-- HD prewar money weathered 4k
+- Power Armors Redone - 2K - Loose Version
 - SavrenX Landscape Interior Building DLC
-- Burning Fusion Core Blue 1k
-- Armor and Clothing HD Fixed - 4K 2K - Thaylar's Clothing - Armor 4k Repacked BA2
 - Livewire Main File 1.4.2
 - Immersive Vendors
 - Minuteman Watchtowers (ESL)
@@ -53,8 +47,6 @@ SavrenX HD Junk and Props DLC
 - Workshop Plus
 - Wattz Laser Gun - Unofficial Update
 - Wattz Laser Gun
-- Unowned Trash
-- Update 1.2 Aidan Watts's Fallout 3 Workshop Furniture - 4K Textures (ESL Tagged version)
 - Unused Map Markers - Cut Content Restored
 - Vault Dweller's Survival Guide - BA2
 - The Ballistic Series - 4k esl
@@ -105,8 +97,6 @@ SavrenX HD Junk and Props DLC
 - Children of Ug-Qualtoth Redux
 - Ketaros Treasures v6
 - Ketaros Treasures - DLC01 The Terror
-- Vanilla flag-textures reworked 2k with variations
-- Halffaces - Charming Halloween smile - 4K
 - Classic Brotherhood Outfits SPID
 - Armor and Weapon Keywords Community Resource v8.6.0
 - Ultimate Window Overhaul (Main Version)
@@ -143,8 +133,6 @@ SavrenX HD Junk and Props DLC
 - HiPoly Faces REDUX - Seamless Kit (CBBE-TWB)
 - Maxwell's World - Extended Dialogue Interface Patch
 - SL Magazines
-- Rusty Subway Textures
-- Workbench Replacer - HIGH - DESATURATED
 - exShinra's Better Road Textures - Better Roads v0.02
 - The Lost Building of Atlantic - Atlantic Offices
 - BN Laundry Detergent (Ba2)
@@ -165,11 +153,8 @@ SavrenX HD Junk and Props DLC
 - Retextured Chems 2 - Ephla&#39;s Unique Chems
 - Capital Wasteland Robot Pack Main Files
 - Nuka Project 4k esl
-- The Natural Bundle - Assorted Textures (2K - 4K) - Masonry Set 4K
-- Better Bed Mattress Textures - Grimy Mattress
 - Post-apocalyptic homemade weapons. Replacer - AVBPipeGunsReplaceENG
 - Project Zeta Fixes - Quarter Invasions
-- Prydwen 2K Textures v1.0
 - Raider Armors Retextured 4K
 - Random Encounter Framework
 - ProtoVaultSuit - Blue 1.2
@@ -195,9 +180,6 @@ SavrenX HD Junk and Props DLC
 - MM JOURNALS
 - More Realistic Handmade Pipe Weapons - DARKER
 - Lowered Weapons 1.1
-- Looks Menu Customization Compendium
-- Looks Menu Compendium 2k Textures FIXED - Fix for Looks Menu 2k
-- LooksMenu Body Sliders Extended
 - Looking Stranger
 - LooksMenu v1-7-0-1
 - Laser Reanimation
@@ -317,7 +299,7 @@ This suggestions are from the Buffout 4 tutorial page:
 | Spring Cleaning﻿ | Abandoned and severely outdated mod that breaks precombines and could potentially even break your save file. |
 | True Nights | Has an invalid Image Space Adapter (IMAD) Record that will corrupt your save memory and has to be manually fixed. |
 | War Of The Commonwealth﻿ | Seems to cause consistent crashes with specific spawn points or randomly during settlement attacks. |
-| Flip a Coin﻿ | Has several incorrectly sized textures. |
+| Flip a Coin﻿ | Uses several incorrectly sized images. |
 | S.T.A.L.K.E.R Texture Overhaul | Doesn't work due to incorrect folder structure. Has one corrupted texture. |
 | Armor And Weapon Keywords (AWKCR)﻿ | Possibly causing some "Player Character" crashes. |
 | Armorsmith Extended﻿ | Might crash the game on startup or when accessing workbenches as described by older reports. |
@@ -348,7 +330,7 @@ This suggestions are from the Buffout 4 tutorial page:
 | Capital Wasteland Behemoths NO! | Too much difficult! Although tested and they look and behave good they are too much difficult. |
 | FlaconOil's Complete Retexture Project. | NO! Gives a lot of conflicts with other mods in the modlist and performance problems and a heavy drop of FPS in certain areas. |
 | Immersive Facial Animations REMADE - IFAR. | NO! Too exaggerated facial animations even in the lowest presets. |
-| Faction Housing Overhaul of Elianora. | Prydwen house appears even if you haven't been there, plus there are purple textures in the safe when you really go there. |
+| Faction Housing Overhaul of Elianora. | Prydwen house appears even if you haven't been there, plus there are purple meshes in the safe when you really go there. |
 etc.
 | Welcome to Goodneighbor | Not recommended, not immersive. Quest with dialog lines blank. No voiced protagonist. |
 
@@ -425,13 +407,14 @@ etc.
 | [Notes of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/44532) | Adds a variety of lore-friendly notes to various locations in the game. Some funny, mundane, sad, scary, and lots more. | todo |
 | [Shatter - Shardz and Spillz.](https://www.nexusmods.com/fallout4/mods/33280) | The files in this package make many glass, ceramic, and other things destructible! | Needed? Maybe rename some things as destructible Skyrim did. Jaume |
 | [More Realistic Fire Behavior.](https://www.nexusmods.com/fallout4/mods/30246) | This mod simply makes it so that when NPCs have 100% of their skin engulfed in flames they care a little. | Not needed. |
-| [Military MREs - Meal Ready to Eat - New Food.](https://www.nexusmods.com/fallout4/mods/25824) | Pre-war MREs in 14 flavors featuring brand-new meshes and textures. Supply caches at military bases, and injected into vendor lists. | todo (french translation already is done). |
 
 # Meshes
 
 | Number | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
 | 1 | [Real Troughs - New Brahmin Feeders (standalone)](https://www.nexusmods.com/fallout4/mods/12945) | Tired of feeding your Brahmin from a bathtub? Me too, so I made some new meshes/textures from scratch. Standalone meshes for both feeder and trader outpost. Filled with delicious (ew) Brahmin feed. | todo | :tv: todo |
+| 2 | [HD Prewar Money](https://www.nexusmods.com/fallout4/mods/59016) | A new model and textures for prewar money, to give it a more authentic feel. | Not needed. | :tv: todo |
+| 3 | [Precious Metal Bars](https://www.nexusmods.com/fallout4/mods/57088) | New models and textures for the metal ingots featured in vanilla Fallout 4. | Not needed. | :tv: todo |
 
 # Weapons
 
@@ -640,7 +623,15 @@ PUT SCREENSHOTS
 | 13 | Langleys HD Textures Workshop
 | 14 | [Improvised Terminal Keys with Text - new typewriter textures](https://www.nexusmods.com/fallout4/mods/20619) | todo | todo | :tv: todo |
 | 15 | [Industrial Objects Retexture](https://www.nexusmods.com/fallout4/mods/8511/) | todo | todo | :tv: todo |
+| 16 | [Workbench Replacer - HIGH - DESATURATED](https://www.nexusmods.com/fallout4/mods/64518) | Replaces the Workshop Workbench with a higher quality model. | Not needed. | :tv: todo |
+| 17 | [Rusty Subway Textures](https://www.nexusmods.com/fallout4/mods/78798) | The mod reworks the subway textures to be more rusty, dirty and mossy. | Not needed. | :tv: todo |
+| 18 | [Vanilla flag-textures reworked 2k with variations](https://www.nexusmods.com/fallout4/mods/10720) | Keeps vanilla style with better resolution, keeping it simple, but enhances the looks. | Not needed. | :tv: todo |
+| 19 | [SavrenX HD Junk and Props DLC](https://www.nexusmods.com/fallout4/mods/40423) | Enhance almost all junk and props DLC to highest quality with smallest size. | Not needed. | :tv: todo |
+| 20 | [Prydwen 2K Textures](https://www.nexusmods.com/fallout4/mods/4141) | New Prydwen (Brotherhood of Steel Airship) textures. | Not needed. | :tv: todo |
+| 21 | [The Natural Bundle - Assorted Textures (2K - 4K)](https://www.nexusmods.com/fallout4/mods/51438) | The Natural Bundle is a texture pack of assorted texture sets that either aren't big enough to release on their own, or only have a handful of textures covered within a set. | Not needed. | :tv: todo |
 
+- Better Bed Mattress Textures - Grimy Mattress
+- Retextured First Aid Kits - Ephla's Unique First Aid
 <img src="textures/terminals.jpg"/>
 
 Not recommended:
@@ -746,22 +737,17 @@ he comprat algunes coses del CC, especialment el Nuka-Cola Collector i Arcade Wo
 
 # Stuff required by presets, NPC's and companions
 
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [CBBE.](https://www.nexusmods.com/fallout4/mods/15) | todo | todo |
-| [Commonwealth Cuts - KS Hairdos - ApachiiSkyHair.](https://www.nexusmods.com/fallout4/mods/11402) | todo | todo |
-| [Lots More Facial Hair.](https://www.nexusmods.com/fallout4/mods/10746/) | todo | todo |
-| [Femshepping and radbeetle's KS Hairdos Conversions.](https://www.nexusmods.com/fallout4/mods/45373) | todo | todo |
-| [Lots More Male Hairstyles.](https://www.nexusmods.com/fallout4/mods/10695) | todo | todo |
-| [Lots More Female Hairstyles.](https://www.nexusmods.com/fallout4/mods/10543) | todo | todo |
-| [Kirs freckles.](https://www.nexusmods.com/fallout4/mods/9556) | Some freckles. | Not needed. |
-| [Ponytail Hairstyles by Azar v2.5a](https://www.nexusmods.com/fallout4/mods/8126) | todo | todo |
-| [deLuxe Makeup.](https://www.nexusmods.com/fallout4/mods/4398) | todo | todo |
-| [Appealing Moles.](https://www.nexusmods.com/fallout4/mods/3802) | todo | todo |
-| [Eye Normal Map Fix Fallout 4 Edition.](https://www.nexusmods.com/fallout4/mods/819) | todo | todo |
-| [Ghastly - Ghoul Eyes Texture.](https://www.nexusmods.com/fallout4/mods/5013) | todo | Not needed. |
-| [Valkyr Female Face and Body Textures.](https://www.nexusmods.com/fallout4/mods/3841) | todo | todo |
-| [Female Neck Tweaks.](https://www.nexusmods.com/fallout4/mods/21331) | todo | todo |
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [CBBE.](https://www.nexusmods.com/fallout4/mods/15) | todo | todo | :tv: todo |
+| 2 | [Commonwealth Cuts - KS Hairdos - ApachiiSkyHair.](https://www.nexusmods.com/fallout4/mods/11402) | todo | todo | :tv: todo |
+| 3 | [Lots More Facial Hair.](https://www.nexusmods.com/fallout4/mods/10746/) | todo | todo | :tv: todo |
+| 4 | [Femshepping and radbeetle's KS Hairdos Conversions.](https://www.nexusmods.com/fallout4/mods/45373) | todo | todo | :tv: todo |
+| 5 | [Lots More Male Hairstyles.](https://www.nexusmods.com/fallout4/mods/10695) | todo | todo | :tv: todo |
+| 6 | [Lots More Female Hairstyles.](https://www.nexusmods.com/fallout4/mods/10543) | todo | todo | :tv: todo |
+| 7 | [Kirs freckles.](https://www.nexusmods.com/fallout4/mods/9556) | Some freckles. | Not needed. | :tv: todo |
+| 8 | [Ponytail Hairstyles by Azar v2.5a](https://www.nexusmods.com/fallout4/mods/8126) | todo | todo | :tv: todo |
+| 9 | [deLuxe Makeup.](https://www.nexusmods.com/fallout4/mods/4398) | todo | todo | :tv: todo |
 
 # Presets / Character creation
 
