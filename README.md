@@ -17,17 +17,13 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - 50 Ways to Die at Dr. Nick&#39;s - v.0.99c
 - Better Doors v1.2
 - Classic Skill Books - New Magazines - Pugilism - Deans - Nikola Tesla - And More - Classic Skill Books - BA2
--
 - Dauntless v1.64
 - Captain Kell's Colonel Coat
 - Beautiful Female Enemies V. 2.0
 - 10mm HD - 4k
 - 2287 - Billboards and Posters - Decadent version
 - Alex's Bobbleheads Tracking Markers
--
 - Aloot's Home Plate
-- Better Boston Airport
-- Caves Of The Commonwealth 1.2
 - Chemfluence AI Combat Dynamics
 - Classic metal armor Main-4k
 - CHALLENGES
@@ -65,7 +61,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Army Bunker player home and settlement - Army Bunker
 - Classic Unarmed Pack
 - CombatZoneRestored
-- CSEP Commonwealth Killer
 - dp Classic VB 4k
 - Extended Fake Interior
 - Fill&#39;em Up Again (Dynamic Bottle Recyclation) - Loose Files
@@ -174,7 +169,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Ransacked Relays and Shuddersome Subways
 - Really Red Rocket 4K - Worn
 - moreXplore-12.1
-- More XP from quests
 - More Natural Dogmeat Eyes - freashpairofeyes
 - More Cases For Valentine
 - MM JOURNALS
@@ -373,17 +367,18 @@ etc.
 | 6 | [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737) | Corrects for a longstanding bug that causes third-person mobility to be slower than first-person in almost all circumstances -- sometimes by more than half. | Not needed. | :tv: todo |
 | 7 | [Unofficial Fallout 4 Patch - UFO4P.](https://www.nexusmods.com/fallout4/mods/4598) | 'A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.' | [Unofficial Fallout 4 Patch - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35417) | :tv: todo |
 
-
 # Locations
 
 | Number | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
-| 1 | [Immersive Hub City Auto Wreckers.](https://www.nexusmods.com/fallout4/mods/35882?tab=files) | todo | Not needed | :tv: todo |
-| 2 | [Williams Plaza.](https://www.nexusmods.com/fallout4/mods/59566/?tab=files) | todo | todo | :tv: todo |
-| 3 | [Immersive Beantown Brewery.](https://www.nexusmods.com/fallout4/mods/31598) | Adds details and Enemies to the Beantown Brewery, making it a stronger and realistic location. | todo | :tv: todo |
-| 4 | [Immersive Drumlin Diner.](https://www.nexusmods.com/fallout4/mods/18995) | todo | todo | :tv: todo |
-| 5 | [Starlight Drive-In Overhaul.](https://www.nexusmods.com/fallout4/mods/12763) | A small mod to repair the Starlight Drive-In. The parking is repaired and the pond was moved. That's it really. | todo | :tv: todo |
-| 6 | [Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827) | todo | todo | :tv: todo |
+| 1 | [Hunter's Abyss](https://www.nexusmods.com/fallout4/mods/90797) | Hunter's Abyss adds a new land in the southern part of the Glowing Sea, called the Abyss. A fracture in the land where radiation pours down and creatures are larger and more violent. Complete with new weapons, armour, magazines, player home, and settlement area. | todo | :tv: todo |
+| 2 | [Immersive Hub City Auto Wreckers.](https://www.nexusmods.com/fallout4/mods/35882?tab=files) | todo | Not needed | :tv: todo |
+| 3 | [Williams Plaza.](https://www.nexusmods.com/fallout4/mods/59566/?tab=files) | todo | todo | :tv: todo |
+| 4 | [Immersive Beantown Brewery.](https://www.nexusmods.com/fallout4/mods/31598) | Adds details and Enemies to the Beantown Brewery, making it a stronger and realistic location. | todo | :tv: todo |
+| 5 | [Immersive Drumlin Diner.](https://www.nexusmods.com/fallout4/mods/18995) | todo | todo | :tv: todo |
+| 6 | [Starlight Drive-In Overhaul.](https://www.nexusmods.com/fallout4/mods/12763) | A small mod to repair the Starlight Drive-In. The parking is repaired and the pond was moved. That's it really. | todo | :tv: todo |
+| 7 | [Better Skylanes Flight 1981 Crash-site.](https://www.nexusmods.com/fallout4/mods/12827) | todo | todo | :tv: todo |
+| 8 | [Better Boston Airport](https://www.nexusmods.com/fallout4/mods/13958) | Boston Airport now looks a little bit different. I draw inspiration from the concept art to create something more interesting to explore. | todo | :tv: todo |
 
 # Perks / Level up menu/screen
 
@@ -553,6 +548,7 @@ PUT SCREENSHOTS
 | 12 | [Whose Quest Is It Anyway.](https://www.nexusmods.com/fallout4/mods/51979) | Swap the "quest items can't be removed" message with something a little more informative. | todo | :tv: todo |
 | 13 | [No Quest Autostart - Far Harbor.](https://www.nexusmods.com/fallout4/mods/31450) | Prevents "Far From Home" from starting without the player either listening to Ellie's radio message or visiting the Nakano residence." | todo | :tv: todo |
 | 14 | [CHAOTIC SUN.](https://www.nexusmods.com/fallout4/mods/38808) 2.9GB!!!| todo | todo | :tv: todo |
+| 15 | [CSEP Presents Commonwealth Killer - Quest Mod](https://www.nexusmods.com/fallout4/mods/61305) | There's a bounty office in Forest Grove Marsh, and he's hiring. | [CSEP Commonwealth Killer 1.2 Spanish](https://www.nexusmods.com/fallout4/mods/67513) | :tv: todo |
 
 # Dungeons, underground spaces and vaults
 
