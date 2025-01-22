@@ -181,7 +181,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Energy Weapon Replacer - Wattz Laser Gun
 - The Experiment
 - Proper Flyers and Posters v2.1
-- Immersive Power Armor Weapon Restrictions
 - U.S. Covert Operations Manual Redux - Magazine Retexture - 1. Covert Ops Revised - Complete
 - Ammo Retexture
 - SavrenX Food and Foodware
@@ -562,7 +561,7 @@ PUT SCREENSHOTS
 | 14 | [The Sewers](https://www.nexusmods.com/fallout4/mods/45663) | Step down into the sewers and see where the journey takes you. | todo | :tv: todo |
 | 15 | [Nordic Europa Research Facility (Dungeon)](https://www.nexusmods.com/fallout4/mods/70207) | A large underground facility ridden with feral ghouls, providing a challenge for all players. | [Nordic Europa Research Facility (Dungeon) - Spanish Translation](https://www.nexusmods.com/fallout4/mods/81040) | :tv: todo |
 
-# Armor / Armors / Cloth / Clothes
+# Armor / Armors / Cloth / Clothes / Clothing
 
 | Number | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
@@ -574,28 +573,28 @@ PUT SCREENSHOTS
 | 6 | [Nuka Gear.](https://www.nexusmods.com/fallout4/mods/11798/) (Elianora - Ellise - DDProductions83) | Mod adds Nuka-Cola-inspired equipment and weapons to the game. They're based on the Nuka-Cola posters found in the game. :tv: [Fallout 4 Mod Showcase: Nuka Gear by Elianora-Ellise-DDProductions83](https://www.youtube.com/watch?v=n8hVjCzmK9E) | todo | :tv: todo |
 | 8 | [Far Harbor Shack. (Elianora)](https://www.nexusmods.com/fallout4/mods/25359) | todo | todo | :tv: todo |
 | 9 | [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431) | todo | [Eli's Armour Compendium (Spanish Translation).](https://www.nexusmods.com/fallout4/mods/24882) | :tv: todo |
-HD Raider Armor Retex
-SavrenX HD Vanilla Armor
-- Raider Armors Retextured 4K
-- - Classic metal armor Main-4k
-- - Power Armors Redone - 2K - Loose Version
+| 10 | [HD Raider Armor](https://www.nexusmods.com/fallout4/mods/15510) | HD retexture for the raider mod armor, sack hood, sack hood with hoses, and sack hood with straps. | Not needed. | :tv: todo |
+| 11 | [SavrenX HD Vanilla Armor](https://www.nexusmods.com/fallout4/mods/40218) | Enhance all Vanilla Armor to highest quality with smallest size. | Not needed. | :tv: todo |
+| 12 | [Raider Armors Retextured](https://www.nexusmods.com/fallout4/mods/42933) | todo | Not needed. | :tv: todo |
+| 13 | [SavrenX HD Vanilla Clothes](https://www.nexusmods.com/fallout4/mods/40203) | Enhance all Vanilla clothes to highest quality with smallest size. | Not needed. | :tv: todo |
+| 14 | [Fallout 4 Capital Wasteland Classic Metal Armor](https://www.nexusmods.com/fallout4/mods/39857) | Adds the classic metal armor from Fallout 3 and Fallout NV to the Commonwealth. | Not needed. | :tv: todo |
 
 <img src="armor/elis_compendium.jpg"/>
 
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [Chestnut Lodge - Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/25033) | todo | todo |
-| [The Crib - Raider Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/46236) | todo | todo |
-| [Army Bunker player home and settlement. (Elianora)](https://www.nexusmods.com/fallout4/mods/62209) | todo | todo |
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Chestnut Lodge - Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/25033) | todo | todo | :tv: todo |
+| 2 | [The Crib - Raider Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/46236) | todo | todo | :tv: todo |
+| 3 | [Army Bunker player home and settlement. (Elianora)](https://www.nexusmods.com/fallout4/mods/62209) | todo | todo | :tv: todo |
     
 <img src="homes/elianora_army_bunker.jpg"/>
 
 # Cut content
 
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [Combat Zone Restored.](https://www.nexusmods.com/fallout4/mods/21498) | :tv: [Working arena, reviewed here by MxR.](https://www.youtube.com/watch?v=9tdoqLwnqCM) | todo |
-| [Cut Content - Eddie Lipkis.](https://www.nexusmods.com/fallout4/mods/76207) | NPC cut restored. | todo |
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Combat Zone Restored.](https://www.nexusmods.com/fallout4/mods/21498) | :tv: [Working arena, reviewed here by MxR.](https://www.youtube.com/watch?v=9tdoqLwnqCM) | todo | :tv: todo |
+| 2 | [Cut Content - Eddie Lipkis.](https://www.nexusmods.com/fallout4/mods/76207) | NPC cut restored. | todo | :tv: todo |
 
 # Textures
 
