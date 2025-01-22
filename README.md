@@ -4,7 +4,6 @@
 
 My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
-- Power Armors Redone - 2K - Loose Version
 - SavrenX Landscape Interior Building DLC
 - Livewire Main File 1.4.2
 - Immersive Vendors
@@ -25,7 +24,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Alex's Bobbleheads Tracking Markers
 - Aloot's Home Plate
 - Chemfluence AI Combat Dynamics
-- Classic metal armor Main-4k
+
 - CHALLENGES
 - Capital Wasteland Gauss Rifle
 - Capital Wasteland Yao Guai
@@ -33,11 +32,9 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Capital Wasteland Outfit Pack II
 - ConcordNPCOverhaul - Complete
 - dp 4k fire extinguishers
-- Early Game Armor Pack
 - ESL Flaged ESP Nuka Cola Girl Magazine
 - Fog Crawlers Of The Commonwealth
 - Leafblower Junkjet - 4k esl
-- Maximus' Knight Under Armor Replacer (4K)
 - Nuka-World Plus 1.1
 - Railroad - Synthetic Facelift 2.0
 - Workshop Plus
@@ -91,7 +88,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Ketaros Treasures v6
 - Ketaros Treasures - DLC01 The Terror
 - Classic Brotherhood Outfits SPID
-- Armor and Weapon Keywords Community Resource v8.6.0
 - Ultimate Window Overhaul (Main Version)
 - Stealth Pack Munitions Version
 - Place Everywhere - Place (Fallout4 1.10.984 - latest release)
@@ -147,7 +143,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Capital Wasteland Robot Pack Main Files
 - Nuka Project 4k esl
 - Post-apocalyptic homemade weapons. Replacer - AVBPipeGunsReplaceENG
-- Raider Armors Retextured 4K
 - Random Encounter Framework
 - ProtoVaultSuit - Blue 1.2
 - Project LUNAR - Main File
@@ -253,11 +248,8 @@ No Quest Autostart - Automatron
 Commonwealth Improvements - Fort Strong
 Atomic Radio and Tales from the Commonwealth - Atomic Radio v2.6
 better notes
-
 Gritty Subway Stations - 2K
 Synths Revamped
-HD Raider Armor Retex
-SavrenX HD Vanilla Armor
 Protectron HD 4K
 Wasteland Heroines Replacer All in One
 CSEP Presents All Americans 2.0 DELUXE EXPANDED EDITION - Quest Mod - CSEP All Americans
@@ -582,6 +574,11 @@ PUT SCREENSHOTS
 | 6 | [Nuka Gear.](https://www.nexusmods.com/fallout4/mods/11798/) (Elianora - Ellise - DDProductions83) | Mod adds Nuka-Cola-inspired equipment and weapons to the game. They're based on the Nuka-Cola posters found in the game. :tv: [Fallout 4 Mod Showcase: Nuka Gear by Elianora-Ellise-DDProductions83](https://www.youtube.com/watch?v=n8hVjCzmK9E) | todo | :tv: todo |
 | 8 | [Far Harbor Shack. (Elianora)](https://www.nexusmods.com/fallout4/mods/25359) | todo | todo | :tv: todo |
 | 9 | [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431) | todo | [Eli's Armour Compendium (Spanish Translation).](https://www.nexusmods.com/fallout4/mods/24882) | :tv: todo |
+HD Raider Armor Retex
+SavrenX HD Vanilla Armor
+- Raider Armors Retextured 4K
+- - Classic metal armor Main-4k
+- - Power Armors Redone - 2K - Loose Version
 
 <img src="armor/elis_compendium.jpg"/>
 
