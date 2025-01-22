@@ -307,7 +307,7 @@ This suggestions are from the Buffout 4 tutorial page:
 
 | Mod | Problem/s |
 |----------|----------|
-| The British Consulate General | Gives a crash when following Paladin Danse through the road, checked 23/5/2024. |
+| The British Consulate General | Gives a crash when following Paladin Danse through the road, checked 23/5/2024. Also gives crashes in workbench or selling around Goodneighbour related to CombatArmor_palette_d.DDS |
 | Raider Gang Extended DLC Compatibility Update | NO! crash around USS riptide wreck (in the bridge to Diamon City), with next gen update, 19/5/2024 |
 | Capital Wasteland Behemoths NO! | Too much difficult! Although tested and they look and behave good they are too much difficult. |
 | FlaconOil's Complete Retexture Project. | NO! Gives a lot of conflicts with other mods in the modlist and performance problems and a heavy drop of FPS in certain areas. |
