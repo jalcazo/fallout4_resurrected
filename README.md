@@ -16,7 +16,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Better Doors v1.2
 - Classic Skill Books - New Magazines - Pugilism - Deans - Nikola Tesla - And More - Classic Skill Books - BA2
 - Dauntless v1.64
-- Captain Kell's Colonel Coat
 - Beautiful Female Enemies V. 2.0
 - 10mm HD - 4k
 - 2287 - Billboards and Posters - Decadent version
@@ -762,9 +761,10 @@ Aesthetic presets:
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
-| [Lucky Cricket's Caravan for CBBE - SHB.](https://www.nexusmods.com/fallout4/mods/20298) | todo | todo |
-| [Immersive Wastelanders](https://www.nexusmods.com/fallout4/mods/19544) | I just hand-pick Piper, Magnolia, Cait, Tina deLuca & Glory, but you can pick whatever you like best. | Not needed. |
-| [Sexy Hancock](https://www.nexusmods.com/fallout4/mods/12029) | todo | Not needed. |
+| 1 | [Captain Kells Colonel Coat](https://www.nexusmods.com/fallout4/mods/83789) | Gives (Lancer) Captain Kells the Enclave Colonel's Coat from the Remnants "DLC". | todo | :tv: todo |
+| 2 | [Sexy Hancock](https://www.nexusmods.com/fallout4/mods/12029) | todo | Not needed. | :tv: todo |
+| 3 |  [Lucky Cricket's Caravan for CBBE - SHB.](https://www.nexusmods.com/fallout4/mods/20298) | todo | todo | :tv: todo |
+| 4 | [Immersive Wastelanders](https://www.nexusmods.com/fallout4/mods/19544) | I just hand-pick Piper, Magnolia, Cait, Tina deLuca & Glory, but you can pick whatever you like best. | Not needed. | :tv: todo |
    
 # Companions / New companions
 
