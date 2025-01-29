@@ -24,7 +24,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Chemfluence AI Combat Dynamics
 - CHALLENGES
 - Capital Wasteland Gauss Rifle
-- Capital Wasteland Yao Guai
 - Cartographers Map Markers
 - Capital Wasteland Outfit Pack II
 - ConcordNPCOverhaul - Complete
@@ -53,13 +52,11 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - AtomicWorld 2.0
 - American 180 - Main - 4K Version
 - Army Bunker player home and settlement - Army Bunker
-- Classic Unarmed Pack
 - CombatZoneRestored
 - dp Classic VB 4k
 - Extended Fake Interior
 - Fill&#39;em Up Again (Dynamic Bottle Recyclation) - Loose Files
 - Fast Travel Background Load AI Detection Fix - ESL
-- Fourville
 - Diamond City Lights - ESL flagged ESP
 - DLC Robot delayed start ENG
 - FallEvil - Paleheads 1.2
@@ -486,15 +483,11 @@ This seems to not work in downgraded F4, jaume 21/1/2025:
 
 # Creatures / Monsters / Enemies
 
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [Fog Crawlers Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/55698) | todo | todo |
-| [Institute Centaurs.](https://www.nexusmods.com/fallout4/mods/41476) | todo screenshot | todo |
-| [Respawnable Legendary Bosses and Hard Legendary Giant Creatures](https://www.nexusmods.com/fallout4/mods/10124) | todo | todo |
-| [Mirelurk Queen Variants.](https://www.nexusmods.com/fallout4/mods/13333) | todo | todo |
-| [Super Mutant Redux.](https://www.nexusmods.com/fallout4/mods/11853) | 'Reworks the super mutant faction including Behemoths, FEV Hounds, and of course, Super Mutants.' | [Super Mutant Redux_Spanish.](https://www.nexusmods.com/fallout4/mods/50713) |
-
-PUT SCREENSHOTS
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Capital Wasteland Yao Guai](https://www.nexusmods.com/fallout4/mods/58290) | This mod adds in the classic look of the Yao Guai from Fallout 3 alongside the Fallout 4 Yao Guai. This includes a standard, glowing and albino variant that will spawn in the world where Fallout 4 ones do. There is also a companion you can get which is east Wildwood Cemetery called Winnie, they are also a lot faster just like in Fallout 3. | [Capital Wasteland Yao Guai - Spanish](https://www.nexusmods.com/fallout4/mods/58304) | :tv: todo |
+| 2 | [Fog Crawlers Of The Commonwealth.](https://www.nexusmods.com/fallout4/mods/55698) | todo | todo | :tv: todo |
+| 3 | [Super Mutant Redux.](https://www.nexusmods.com/fallout4/mods/11853) | 'Reworks the super mutant faction including Behemoths, FEV Hounds, and of course, Super Mutants.' | [Super Mutant Redux_Spanish.](https://www.nexusmods.com/fallout4/mods/50713) | :tv: todo |
 
 # Settlements
 
@@ -844,18 +837,19 @@ Aesthetic presets:
 | Number | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
 | 1 | [Bradberton Interiors](https://www.nexusmods.com/fallout4/mods/69131) | 7 new interior locations and a Quest that ties them all together, located in the town of Bradberton, Nuka-World. Aimed to fit right into vanilla with balanced loot and a lore friendly backstory. Roughly 1-2 hours of gameplay. Requires Nuka-World DLC. | todo | :tv: todo |
-| 2 | [Landwer Interiors Project.](https://www.nexusmods.com/fallout4/mods/52889)] | Adds 9 interiors to the Commonwealth. | todo | :tv: todo  |
-| 3 | [Rsiyo's Location Pack](https://www.nexusmods.com/fallout4/mods/38501) | todo | todo | :tv: todo |
-| 4 | [Plenty 'o' Exploration - More Interiors and Exteriors - Discontinued](https://www.nexusmods.com/fallout4/mods/14735) | Additional Concord interiors. | todo | :tv: todo |
+| 2 | [A Cannibal In Concord](https://www.nexusmods.com/fallout4/mods/14320) | A new location in Concord that offers some disturbing lore hidden within the house itself. | [A cannibal in Concord spanish](https://www.nexusmods.com/fallout4/mods/40888) | :tv: todo |
+| 3 | [Landwer Interiors Project.](https://www.nexusmods.com/fallout4/mods/52889)] | Adds 9 interiors to the Commonwealth. | todo | :tv: todo  |
+| 4 | [Rsiyo's Location Pack](https://www.nexusmods.com/fallout4/mods/38501) | todo | todo | :tv: todo |
+| 5 | [Plenty 'o' Exploration - More Interiors and Exteriors - Discontinued](https://www.nexusmods.com/fallout4/mods/14735) | Additional Concord interiors. | todo | :tv: todo |
 - Jurttu's Interiors 1.3
-| 5 | [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539) | todo | todo | :tv: todo |
-| 6 | [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320) | todo | todo | :tv: todo |
-| 7 | [moreXplore](https://www.nexusmods.com/fallout4/mods/28733) | todo | todo | :tv: todo |
-| 8 | [Overboss HQ Overhaul.](https://www.nexusmods.com/fallout4/mods/29968) | Overhauls the Overboss place over in Nuka World. | todo | todo | :tv: todo |
-| 9 | [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293) | todo | todo | :tv: todo |
-| 10 | [Commonwealth Improvements - Fort Strong.](https://www.nexusmods.com/fallout4/mods/22287) | todo | todo | :tv: todo |
-| 11 | [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539) | This mod adds 11 new, atmospheric interiors to the Commonwealth; from failed businesses to rundown bars, long abandoned homes, and even a dark crypt or two. | [Stumble Upon Interiors Spanish traduccion](https://www.nexusmods.com/fallout4/mods/88567) | :tv: todo |
-| 12 | [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320) | Adds more unmarked interior locations to the game. | [Inside Jobs - Commonwealth Interiors Add-On Spanish Traduccion](https://www.nexusmods.com/fallout4/mods/89416) | :tv: todo |
+| 6 | [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539) | todo | todo | :tv: todo |
+| 7 | [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320) | todo | todo | :tv: todo |
+| 8 | [moreXplore](https://www.nexusmods.com/fallout4/mods/28733) | todo | todo | :tv: todo |
+| 9 | [Overboss HQ Overhaul.](https://www.nexusmods.com/fallout4/mods/29968) | Overhauls the Overboss place over in Nuka World. | todo | todo | :tv: todo |
+| 10 | [Diamond City Plus](https://www.nexusmods.com/fallout4/mods/19293) | todo | todo | :tv: todo |
+| 11 | [Commonwealth Improvements - Fort Strong.](https://www.nexusmods.com/fallout4/mods/22287) | todo | todo | :tv: todo |
+| 12 | [Stumble Upon Interiors](https://www.nexusmods.com/fallout4/mods/15539) | This mod adds 11 new, atmospheric interiors to the Commonwealth; from failed businesses to rundown bars, long abandoned homes, and even a dark crypt or two. | [Stumble Upon Interiors Spanish traduccion](https://www.nexusmods.com/fallout4/mods/88567) | :tv: todo |
+| 13 | [Inside Jobs - Commonwealth Interiors Add-On](https://www.nexusmods.com/fallout4/mods/27320) | Adds more unmarked interior locations to the game. | [Inside Jobs - Commonwealth Interiors Add-On Spanish Traduccion](https://www.nexusmods.com/fallout4/mods/89416) | :tv: todo |
 
 Avoid:
 
