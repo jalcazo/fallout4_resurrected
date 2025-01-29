@@ -86,7 +86,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Stealth Pack Munitions Version
 - Place Everywhere - Place (Fallout4 1.10.984 - latest release)
 - Piper&#39;s Coat HR
-- Grungy Vault Locker
 - Lucky Crickets Caravan
 - Mad Rock - Quest - Settlement - Mad Rock
 - newdeliverer
@@ -613,6 +612,7 @@ Avoid:
 | 19 | [SavrenX HD Junk and Props DLC](https://www.nexusmods.com/fallout4/mods/40423) | Enhance almost all junk and props DLC to highest quality with smallest size. | Not needed. | :tv: todo |
 | 20 | [Prydwen 2K Textures](https://www.nexusmods.com/fallout4/mods/4141) | New Prydwen (Brotherhood of Steel Airship) textures. | Not needed. | :tv: todo |
 | 21 | [The Natural Bundle - Assorted Textures (2K - 4K)](https://www.nexusmods.com/fallout4/mods/51438) | The Natural Bundle is a texture pack of assorted texture sets that either aren't big enough to release on their own, or only have a handful of textures covered within a set. | Not needed. | :tv: todo |
+| 22 | [Grungy Vault Locker](https://www.nexusmods.com/fallout4/mods/83881) | Just a quick edit in PhotoShop to make the vault lockers a little bit more grungy. It will also replace the textures in Do It Yourshelf. | Not needed. | :tv: todo |
 
 - Better Bed Mattress Textures - Grimy Mattress
 - Retextured First Aid Kits - Ephla's Unique First Aid
