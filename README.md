@@ -15,8 +15,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - 50 Ways to Die at Dr. Nick&#39;s - v.0.99c
 - Better Doors v1.2
 - Classic Skill Books - New Magazines - Pugilism - Deans - Nikola Tesla - And More - Classic Skill Books - BA2
-- Dauntless v1.64
-- Beautiful Female Enemies V. 2.0
 - 10mm HD - 4k
 - 2287 - Billboards and Posters - Decadent version
 - Alex's Bobbleheads Tracking Markers
@@ -28,7 +26,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - ConcordNPCOverhaul - Complete
 - dp 4k fire extinguishers
 - ESL Flaged ESP Nuka Cola Girl Magazine
-- Fog Crawlers Of The Commonwealth
 - Leafblower Junkjet - 4k esl
 - Nuka-World Plus 1.1
 - Railroad - Synthetic Facelift 2.0
@@ -56,7 +53,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Extended Fake Interior
 - Fill&#39;em Up Again (Dynamic Bottle Recyclation) - Loose Files
 - Fast Travel Background Load AI Detection Fix - ESL
-- Diamond City Lights - ESL flagged ESP
 - DLC Robot delayed start ENG
 - FallEvil - Paleheads 1.2
 - FAR - Faraway Area Reform - FAR - Default Resolution
@@ -165,7 +161,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Halffaces - Globes All-in-One - 4K
 - FO4FI HD Series (HD Vanilla Clothes)
 - Extended Facial Sculpting - now with 90 percent less beta - Main File - AIO Installer
-- Doc Crocker's House - Player Home in Diamond City (Unsupported) - ESL
 - Details and Drug Paraphernalia
 - Contraptions Lights with Dynamic Shadows - light shadows
 - Clearable Fort Hagen Satellite Array
@@ -203,7 +198,6 @@ Elevator Buttons Fix (Contraptions) - Latest Version
 CoA Overhaul
 Glowing Animals Emit Light - ALL DLC
 Immersive Beantown Brewery
-
 Diamond City Supplements
 Commonwealth Broadcasting Services
 The Fens Sheriff's Department - Main and Plugin
@@ -644,9 +638,10 @@ ADD MORE IMAGES
 |----------|----------|----------|----------|----------|
 | 1 | [Immersive and Extended Nahant.](https://www.nexusmods.com/fallout4/mods/36636/) | Overhauls Nahant, making it feel more like a major town in the game, not just another empty location. | Not needed. | :tv: todo |
 | 2 | [Salem Expanded](https://www.nexusmods.com/fallout4/mods/27420) | todo | todo |
-| 3 | [Diamond City Expansion.](https://www.nexusmods.com/fallout4/mods/21853) | :tv: [Reviewed here by MxR](https://www.youtube.com/watch?v=yQNNo4eu2F8) | todo |
-| 4 | [Concord EXPANDED](https://www.nexusmods.com/fallout4/mods/27333) | todo | todo |
-| 5 | [Fort Hagen EXPANDED (More Loot Buildings and Enemies)](https://www.nexusmods.com/fallout4/mods/27607) | todo | todo |
+| 3 | [Concord EXPANDED](https://www.nexusmods.com/fallout4/mods/27333) | todo | todo |
+| 4 | [Fort Hagen EXPANDED (More Loot Buildings and Enemies)](https://www.nexusmods.com/fallout4/mods/27607) | todo | todo |
+| 5 | [Diamond City Lights](https://www.nexusmods.com/fallout4/mods/85081) | Adds animated searchlights around Diamond City's perimeter. | Not needed. | :tv: todo |
+| 6 | [Diamond City Supplements](https://www.nexusmods.com/fallout4/mods/75054) | Fleshes out Diamond City's empty stadium seats with new buildings and shacks. Performance friendly without broken precombines. | 
 
 # Base Object Swapper
 
