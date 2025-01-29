@@ -12,7 +12,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 - Gauss Rifle Anims
 - Select Blaster ESP 1.0.2
 - 4k cap stash
-- A Cannibal In Concord
 - 50 Ways to Die at Dr. Nick&#39;s - v.0.99c
 - Better Doors v1.2
 - Classic Skill Books - New Magazines - Pugilism - Deans - Nikola Tesla - And More - Classic Skill Books - BA2
@@ -251,9 +250,6 @@ Protectron HD 4K
 Wasteland Heroines Replacer All in One
 CSEP Presents All Americans 2.0 DELUXE EXPANDED EDITION - Quest Mod - CSEP All Americans
 New Equipment Overhaul (NEO) - Armour And Clothing Tweaks - NEO
-Sim Settlements 2 - All Chapters Pack
-Sim Settlements 2: Chapter 3 All Chapter Pack
-New Equipment Overhaul (NEO) - Armour And Clothing Tweaks - NEO
 Hit Those Explosives
 TWH_ConcordHideout
 Garden of Eden Papyrus Script Extender - Next-Gen
@@ -419,15 +415,16 @@ This seems to not work in downgraded F4, jaume 21/1/2025:
 |----------|----------|----------|----------|----------|
 | 1 | [The Fens Sheriff's Department - Bleachers 2.](https://www.nexusmods.com/fallout4/mods/68276) | [ :tv: Reviewed by JuicedHead here](https://www.youtube.com/watch?v=B9lziKNAMZ4) | [The Fens Sheriff's Department - Bleachers 2 Spanish 2.7.1](https://www.nexusmods.com/fallout4/mods/68591) | :tv: todo |
 | 2 | [America Rising 2 - Legacy of the Enclave](https://www.nexusmods.com/fallout4/mods/75767) | [Reviewed by Master Cheesey here](https://www.youtube.com/watch?v=asgMDiuqGjE) Remaster of the 1. Review by JuiceHead. | [America Rising 2 - Legacy of the Enclave Spanish 1.1.1](https://www.nexusmods.com/fallout4/mods/75875) | :tv: todo |
-| 3 | [Outcasts and Remnants - Quest Mod Plus](https://www.nexusmods.com/fallout4/mods/21469) | DLC-sized quest mod. 20 hours of gameplay with new factions, locations, player bases, and fully-voiced custom companions. | [Outcasts and Remnants - Quest Mod Plus SPANISH.](https://www.nexusmods.com/fallout4/mods/42017) | :tv: todo |
-| 4 | [Depravity](https://www.nexusmods.com/fallout4/mods/35513) | Large quest/companion mod with evil RPG options for the vanilla main story. 40 quests, 13 companions, and around 20 hours of content. Requires Outcasts and Remnants. | todo | :tv: todo |
-| 5 | [The Machine And Her.](https://www.nexusmods.com/fallout4/mods/30488) | [Reviewed by JuiceHead here.](https://www.youtube.com/watch?v=IjRHM6hPnew) DLC-sized quest featuring 4-5 hours of gameplay, fully voiced companion with custom affinity, new radio station, and a story that reacts to your choices! September 2019 Mod Of The Month! | todo | :tv: todo |
-| 6 | [Fallout 4 Northern Springs DLC.](https://www.nexusmods.com/fallout4/mods/32911) | Northern Springs is a massive DLC that adds a new location larger than Nuka World and Far Harbor. It is an enormous land to explore with new quests, new weapons, new armor, settlements, and much more to find. A true DLC that naturally expands & adds beyond the Commonwealth further to the North. | todo | :tv: todo |
-| 7 | [Project Zeta.](https://www.nexusmods.com/fallout4/mods/60267) | Project based on Mothership Zeta and Invaders from Beyond. Adds a load of new workshop constructibles, 3 New weapons (3 uniques as well), 1 new outfit, one new companion, two new enemy types as well as two new workshops. :tv: [Reviewed here](https://www.youtube.com/watch?v=L_z5WPr_wqs) and [here by JuiceHead](https://www.youtube.com/watch?v=OGSGUSi7d7s) | [Project Zeta VER. Spanish.](https://www.nexusmods.com/fallout4/mods/67137) | :tv: todo |
-| 8 | [Project Zeta Fixes.](https://www.nexusmods.com/fallout4/mods/65166) | todo | todo | :tv: todo |
-| 9 | [Project Zeta Expanded.](https://www.nexusmods.com/fallout4/mods/72133) | Makes Project Zeta feel less empty while fixing a couple of bugs. | todo | :tv: todo |
-| 10 | [Fourville.](https://www.nexusmods.com/fallout4/mods/43979) | A substantial quest mod which adds a new town to the Commonwealth. Features 10 main & 36 side quests, a fully-voiced player, over 5.000 lines of new dialogue, new set of collectable bobbleheads with perks, and plenty to explore and discover. Approximately 8-10 hours of new gameplay. | [Fourville Spanish.](https://www.nexusmods.com/fallout4/mods/83040) | :tv: todo |
-| 11 | [Fallout 4 - Point Lookout](https://www.nexusmods.com/fallout4/mods/60330) | Fallout 4: Point Lookout is a fan recreation of Fallout 3's Point Lookout DLC, fully realized in Fallout 4, including all quests and NPCs. | [Fallout 4 - Point Lookout traduccion espanol](https://www.nexusmods.com/fallout4/mods/60413) | :tv: [Reviewed here by JuiceHead](https://www.youtube.com/watch?v=AtYbeDSOIi0) |
+| 3 | [Sim Settlements 2 - Chapter 3](https://www.nexusmods.com/fallout4/mods/73394) | Includes previous chapters. | [SS2 Chapter 3 Spanish 3.4.3](https://www.nexusmods.com/fallout4/mods/75104) | :tv: [Reviewed by JuiceHead here](https://www.youtube.com/watch?v=O04xFAhq6uA) |
+| 4 | [Outcasts and Remnants - Quest Mod Plus](https://www.nexusmods.com/fallout4/mods/21469) | DLC-sized quest mod. 20 hours of gameplay with new factions, locations, player bases, and fully-voiced custom companions. | [Outcasts and Remnants - Quest Mod Plus SPANISH.](https://www.nexusmods.com/fallout4/mods/42017) | :tv: todo |
+| 5 | [Depravity](https://www.nexusmods.com/fallout4/mods/35513) | Large quest/companion mod with evil RPG options for the vanilla main story. 40 quests, 13 companions, and around 20 hours of content. Requires Outcasts and Remnants. | todo | :tv: todo |
+| 6 | [The Machine And Her.](https://www.nexusmods.com/fallout4/mods/30488) | [Reviewed by JuiceHead here.](https://www.youtube.com/watch?v=IjRHM6hPnew) DLC-sized quest featuring 4-5 hours of gameplay, fully voiced companion with custom affinity, new radio station, and a story that reacts to your choices! September 2019 Mod Of The Month! | todo | :tv: todo |
+| 7 | [Fallout 4 Northern Springs DLC.](https://www.nexusmods.com/fallout4/mods/32911) | Northern Springs is a massive DLC that adds a new location larger than Nuka World and Far Harbor. It is an enormous land to explore with new quests, new weapons, new armor, settlements, and much more to find. A true DLC that naturally expands & adds beyond the Commonwealth further to the North. | todo | :tv: todo |
+| 8 | [Project Zeta.](https://www.nexusmods.com/fallout4/mods/60267) | Project based on Mothership Zeta and Invaders from Beyond. Adds a load of new workshop constructibles, 3 New weapons (3 uniques as well), 1 new outfit, one new companion, two new enemy types as well as two new workshops. :tv: [Reviewed here](https://www.youtube.com/watch?v=L_z5WPr_wqs) and [here by JuiceHead](https://www.youtube.com/watch?v=OGSGUSi7d7s) | [Project Zeta VER. Spanish.](https://www.nexusmods.com/fallout4/mods/67137) | :tv: todo |
+| 9 | [Project Zeta Fixes.](https://www.nexusmods.com/fallout4/mods/65166) | todo | todo | :tv: todo |
+| 10 | [Project Zeta Expanded.](https://www.nexusmods.com/fallout4/mods/72133) | Makes Project Zeta feel less empty while fixing a couple of bugs. | todo | :tv: todo |
+| 11 | [Fourville.](https://www.nexusmods.com/fallout4/mods/43979) | A substantial quest mod which adds a new town to the Commonwealth. Features 10 main & 36 side quests, a fully-voiced player, over 5.000 lines of new dialogue, new set of collectable bobbleheads with perks, and plenty to explore and discover. Approximately 8-10 hours of new gameplay. | [Fourville Spanish.](https://www.nexusmods.com/fallout4/mods/83040) | :tv: todo |
+| 12 | [Fallout 4 - Point Lookout](https://www.nexusmods.com/fallout4/mods/60330) | Fallout 4: Point Lookout is a fan recreation of Fallout 3's Point Lookout DLC, fully realized in Fallout 4, including all quests and NPCs. | [Fallout 4 - Point Lookout traduccion espanol](https://www.nexusmods.com/fallout4/mods/60413) | :tv: [Reviewed here by JuiceHead](https://www.youtube.com/watch?v=AtYbeDSOIi0) |
 
 # Animations
 
@@ -527,7 +524,7 @@ PUT SCREENSHOTS
 | 1 | [Journey to Ipswich](https://www.nexusmods.com/fallout4/mods/16933) | Adds a spooky new marshland to explore and a small questline to complete. | todo | :tv: [Fallout 4 Quest Mods: Journey To Ipswich - Part 1)(https://www.youtube.com/watch?v=jVcSF7wsoy4) | 
 | 2 | [No Case Unsolved - More Valentine Case Files.](https://www.nexusmods.com/fallout4/mods/58654) | Adds 12 new case files to Nick Valentine's detective office in Diamond City. | todo | :tv: todo |
 | 3 | [You and what army 2.](https://www.nexusmods.com/fallout4/mods/78925) | Expands the minutemen into a proper faction the player rebuilds by playing the game, complete with integration into the game's world. | [You And What Army 2 - Spanish.] (https://www.nexusmods.com/fallout4/mods/80519) | :tv: [Reviewed here by JuiceHead](https://www.youtube.com/watch?v=cLGR6V3ZeaA) |
-| 4 | [Atomic Radio and Tales from the Commonwealth.](https://www.nexusmods.com/fallout4/mods/8704) | Be sure to download **BOTH.** | todo | :tv: todo |
+| 4 | [Atomic Radio and Tales from the Commonwealth.](https://www.nexusmods.com/fallout4/mods/8704) | todo | todo | :tv: todo |
 | 5 | [Mad Rock - Quest - Settlement](https://www.nexusmods.com/fallout4/mods/32146) | Brutal, near Billy the Boy in the fridge. | todo | :tv: todo |
 | 6 | [Maxwell's World.](https://www.nexusmods.com/fallout4/mods/18949) | A DLC-sized, haunted amusement park quest mod. | :tv: [Maxwell's World reviewed by MxR here.](https://www.youtube.com/watch?v=ikcZwv6BUuw) |
 | 7 | [CSEP Presents Commonwealth Killer - Quest Mod.](https://www.nexusmods.com/fallout4/mods/61305) | todo | todo | :tv: todo |
@@ -537,8 +534,11 @@ PUT SCREENSHOTS
 | 11 | [Main Quest Choices Extended.](https://www.nexusmods.com/fallout4/mods/19835) | A few changes that expand your options in the main story including keeping the Railroad alive. | todo | :tv: todo |
 | 12 | [Whose Quest Is It Anyway.](https://www.nexusmods.com/fallout4/mods/51979) | Swap the "quest items can't be removed" message with something a little more informative. | todo | :tv: todo |
 | 13 | [No Quest Autostart - Far Harbor.](https://www.nexusmods.com/fallout4/mods/31450) | Prevents "Far From Home" from starting without the player either listening to Ellie's radio message or visiting the Nakano residence." | todo | :tv: todo |
-| 14 | [CHAOTIC SUN.](https://www.nexusmods.com/fallout4/mods/38808) 2.9GB!!!| todo | todo | :tv: todo |
-| 15 | [CSEP Presents Commonwealth Killer - Quest Mod](https://www.nexusmods.com/fallout4/mods/61305) | There's a bounty office in Forest Grove Marsh, and he's hiring. | [CSEP Commonwealth Killer 1.2 Spanish](https://www.nexusmods.com/fallout4/mods/67513) | :tv: todo |
+| 14 | [CSEP Presents Commonwealth Killer - Quest Mod](https://www.nexusmods.com/fallout4/mods/61305) | There's a bounty office in Forest Grove Marsh, and he's hiring. | [CSEP Commonwealth Killer 1.2 Spanish](https://www.nexusmods.com/fallout4/mods/67513) | :tv: todo |
+
+Avoid:
+
+- Chaotic Sun: adds strange wraiths with no explanation to the player in the lift exiting Fort Hagen after killing Kellogg in the main quest. Jaume 29/1/2025.
 
 # Dungeons, underground spaces and vaults
 
